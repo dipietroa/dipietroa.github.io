@@ -1,12 +1,17 @@
 {
-  "lastUpdate": "2017-10-20T16:45:09.831Z",
+  "lastUpdate": "2017-10-20T19:43:22.099Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2086,
+  "totalPR": 2088,
   "lastPR": {
-    "username": "AdrienC"
+    "username": "candrews"
   },
   "userPRInfos": {
+    "candrews": {
+      "total": 15,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/194713?v=4"
+    },
     "AdrienC": {
       "total": 1,
       "merged": 0,
@@ -306,11 +311,6 @@
       "total": 2,
       "merged": 0,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/183534?v=4"
-    },
-    "candrews": {
-      "total": 13,
-      "merged": 0,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/194713?v=4"
     },
     "mraible": {
       "total": 1,
@@ -3325,7 +3325,7 @@
   },
   "datePRInfos": {
     "Octobre-2017": {
-      "total": 54,
+      "total": 56,
       "merged": 1
     },
     "Septembre-2017": {
