@@ -1,21 +1,36 @@
 {
-  "lastUpdate": "2017-10-18T20:42:20.987Z",
+  "lastUpdate": "2017-10-20T11:50:27.852Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2082,
+  "totalPR": 2086,
   "lastPR": {
-    "username": "michael-simons"
+    "username": "AdrienC"
   },
   "userPRInfos": {
+    "AdrienC": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/520984?v=4"
+    },
+    "donhuvy": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/1328316?v=4"
+    },
+    "alibk0rd": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/32830630?v=4"
+    },
+    "izeye": {
+      "total": 275,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/1059363?v=4"
+    },
     "michael-simons": {
       "total": 14,
       "merged": 0,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/526383?v=4"
-    },
-    "izeye": {
-      "total": 274,
-      "merged": 0,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/1059363?v=4"
     },
     "thiagohirata": {
       "total": 2,
@@ -3310,7 +3325,7 @@
   },
   "datePRInfos": {
     "Octobre-2017": {
-      "total": 50,
+      "total": 54,
       "merged": 1
     },
     "Septembre-2017": {
@@ -3350,11 +3365,11 @@
       "merged": 0
     },
     "Décembre-2016": {
-      "total": 54,
+      "total": 53,
       "merged": 2
     },
     "Novembre-2016": {
-      "total": 65,
+      "total": 66,
       "merged": 0
     },
     "Octobre-2016": {
@@ -3418,11 +3433,11 @@
       "merged": 0
     },
     "Juillet-2015": {
-      "total": 74,
+      "total": 73,
       "merged": 0
     },
     "Juin-2015": {
-      "total": 72,
+      "total": 73,
       "merged": 0
     },
     "Mai-2015": {
