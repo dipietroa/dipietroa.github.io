@@ -1,12 +1,22 @@
 {
-  "lastUpdate": "2017-10-21T00:57:17.072Z",
+  "lastUpdate": "2017-10-21T01:16:58.343Z",
   "cowner": "OpenGenus",
   "crepo": "cosmos",
-  "totalPR": 1877,
+  "totalPR": 1879,
   "lastPR": {
-    "username": "Tikam02"
+    "username": "CrisMen"
   },
   "userPRInfos": {
+    "CrisMen": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/7849552?v=4"
+    },
+    "eukaryote31": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/10374151?v=4"
+    },
     "Tikam02": {
       "total": 3,
       "merged": 0,
@@ -3635,7 +3645,7 @@
   },
   "datePRInfos": {
     "Octobre-2017": {
-      "total": 1877,
+      "total": 1879,
       "merged": 1544
     }
   }
