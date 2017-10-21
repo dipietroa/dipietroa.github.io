@@ -1,14 +1,54 @@
 {
-  "lastUpdate": "2017-10-21T03:25:43.566Z",
+  "lastUpdate": "2017-10-21T06:20:46.125Z",
   "cowner": "OpenGenus",
   "crepo": "cosmos",
-  "totalPR": 1885,
+  "totalPR": 1894,
   "lastPR": {
-    "username": "IvanFon"
+    "username": "warlockz"
   },
   "userPRInfos": {
+    "warlockz": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/4724181?v=4"
+    },
+    "jarrodconnolly": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/392577?v=4"
+    },
+    "claudiocastello": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/20146215?v=4"
+    },
+    "CornChowder": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/17036635?v=4"
+    },
+    "pranjal4697": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/32531750?v=4"
+    },
+    "Poojaverma13": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/29005379?v=4"
+    },
+    "mohamedkhaledyousef": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/14186989?v=4"
+    },
+    "PianoBin": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/14877120?v=4"
+    },
     "IvanFon": {
-      "total": 10,
+      "total": 11,
       "merged": 7,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/1174413?v=4"
     },
@@ -39,12 +79,12 @@
     },
     "Tikam02": {
       "total": 3,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/10548085?v=4"
     },
     "lucascco": {
       "total": 1,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/6581094?v=4"
     },
     "paul0vinicius": {
@@ -54,12 +94,12 @@
     },
     "jasonu": {
       "total": 3,
-      "merged": 0,
+      "merged": 2,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/4706991?v=4"
     },
     "akashrajr1": {
       "total": 1,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/21059924?v=4"
     },
     "FedericoPonzi": {
@@ -69,17 +109,17 @@
     },
     "the-saif-ahmad": {
       "total": 8,
-      "merged": 5,
+      "merged": 6,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/14811383?v=4"
     },
     "ishikasoni": {
       "total": 4,
-      "merged": 1,
+      "merged": 4,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/19912682?v=4"
     },
     "SrGrace": {
       "total": 2,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/16613596?v=4"
     },
     "13thThief": {
@@ -89,12 +129,12 @@
     },
     "arnavb": {
       "total": 30,
-      "merged": 28,
+      "merged": 29,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/30810402?v=4"
     },
     "mleko": {
       "total": 1,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/2631527?v=4"
     },
     "vaibhavdaren": {
@@ -104,7 +144,7 @@
     },
     "IAmMyself": {
       "total": 1,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/14168457?v=4"
     },
     "JSewell-Git": {
@@ -3650,8 +3690,8 @@
   },
   "datePRInfos": {
     "Octobre-2017": {
-      "total": 1885,
-      "merged": 1544
+      "total": 1894,
+      "merged": 1557
     }
   }
 }
