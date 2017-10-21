@@ -1,10 +1,26 @@
 {
-  "lastUpdate": "2017-10-21T12:06:20.410Z",
+  "lastUpdate": "2017-10-21T19:23:01.350Z",
   "cowner": "SoftEng-HEIGVD",
   "crepo": "Teaching-HEIGVD-RES-2017-Labo-01",
   "totalPR": 121,
   "lastPR": {
+    "createdAt": "2017-03-12T21:00:34Z",
     "username": "dbnsky"
+  },
+  "bestPR": {
+    "user": "ltouroumov",
+    "nbPR": 0,
+    "image": "https://avatars2.githubusercontent.com/u/771888?v=4"
+  },
+  "bestMerged": {
+    "user": "nobody",
+    "nbPR": 0,
+    "image": ""
+  },
+  "bestRatio": {
+    "user": "nobody",
+    "ratio": 0,
+    "image": ""
   },
   "userPRInfos": {
     "dbnsky": {
