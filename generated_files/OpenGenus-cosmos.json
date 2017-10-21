@@ -1,12 +1,32 @@
 {
-  "lastUpdate": "2017-10-21T02:00:11.137Z",
+  "lastUpdate": "2017-10-21T03:25:43.566Z",
   "cowner": "OpenGenus",
   "crepo": "cosmos",
-  "totalPR": 1879,
+  "totalPR": 1885,
   "lastPR": {
-    "username": "CrisMen"
+    "username": "IvanFon"
   },
   "userPRInfos": {
+    "IvanFon": {
+      "total": 10,
+      "merged": 7,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/1174413?v=4"
+    },
+    "ashishlakhani04": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/23120623?v=4"
+    },
+    "sidmishraw": {
+      "total": 4,
+      "merged": 3,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/16849827?v=4"
+    },
+    "Robiathin": {
+      "total": 2,
+      "merged": 1,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/2483456?v=4"
+    },
     "CrisMen": {
       "total": 1,
       "merged": 0,
@@ -262,11 +282,6 @@
       "merged": 30,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/10634210?v=4"
     },
-    "sidmishraw": {
-      "total": 3,
-      "merged": 3,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/16849827?v=4"
-    },
     "ckylee": {
       "total": 2,
       "merged": 1,
@@ -316,11 +331,6 @@
       "total": 1,
       "merged": 1,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/30420886?v=4"
-    },
-    "Robiathin": {
-      "total": 1,
-      "merged": 1,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/2483456?v=4"
     },
     "debeltranc": {
       "total": 1,
@@ -536,11 +546,6 @@
       "total": 1,
       "merged": 1,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/23414817?v=4"
-    },
-    "IvanFon": {
-      "total": 7,
-      "merged": 7,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/1174413?v=4"
     },
     "blockloop": {
       "total": 1,
@@ -3645,7 +3650,7 @@
   },
   "datePRInfos": {
     "Octobre-2017": {
-      "total": 1879,
+      "total": 1885,
       "merged": 1544
     }
   }
