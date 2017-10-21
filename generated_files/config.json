@@ -2,21 +2,26 @@
   {
     "owner": "spring-projects",
     "repo": "spring-boot",
-		"date": "2017-10-18T14:43:14.166Z"
+    "date": "2017-10-18T14:43:14.166Z"
   },
   {
     "owner": "SoftEng-HEIGVD",
     "repo": "Teaching-HEIGVD-RES-2017-Labo-01",
-		"date": "2017-10-20T18:09:10.166Z"
+    "date": "2017-10-20T18:09:10.166Z"
   },
   {
     "owner": "SoftEng-HEIGVD",
     "repo": "Teaching-HEIGVD-RES-2017-Labo-02",
-		"date": "2017-10-21T15:52:14.166Z"
+    "date": "2017-10-21T15:52:14.166Z"
   },
   {
     "owner": "dipietroa",
     "repo": "PCO-Labo5",
     "date": "2017-10-21T18:13:20.166Z"
+  },
+  {
+    "owner": "TheAlgorithms",
+    "repo": "Java",
+    "date": "2017-10-21T20:44:22.347Z"
   }
 ]
