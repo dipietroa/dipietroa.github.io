@@ -63,9 +63,10 @@ function displayCharts() {
 			const maxArray = Math.max.apply(Math, dtotal);
 			const hours = ("0" + dlu.getHours()).slice(-2);
 			const minutes = ("0" + dlu.getMinutes()).slice(-2);
+			document.getElementById('infoPan').innerHTML = `<div class="alert alert-info"><h6 style="font-size:10px"><strong style="font-size:10px">Total PR: </strong>${json.totalPR}<strong style="font-size:10px"><br/>Last PR by: </strong>${json.lastPR.username}</h6></div>`
+
 			
-			
-			document.getElementById("areaChartDescription").innerHTML = `<b>Owner:</b> ${json.cowner} <b>Repository:</b> ${json.crepo} - PR (not merged and merged) in time`;
+			document.getElementById("infos").innerHTML = `<b>Owner:</b> ${json.cowner} <b>Repository:</b> ${json.crepo}`;
 			document.getElementById("areaChartLastUpdate").innerHTML = `Last update: ${dlu.getDate()}/${dlu.getMonth() + 1}/${dlu.getFullYear()} at ${hours}:${minutes}`;
 			document.getElementById("pieChartLastUpdate").innerHTML = `Last update: ${dlu.getDate()}/${dlu.getMonth() + 1}/${dlu.getFullYear()} at ${hours}:${minutes}`;
 			document.getElementById("pieChartLastUpdate2").innerHTML = `Last update: ${dlu.getDate()}/${dlu.getMonth() + 1}/${dlu.getFullYear()} at ${hours}:${minutes}`;
@@ -152,12 +153,14 @@ function displayCharts() {
 			const imagePath = [];
 			const userTotal = [];
 			const userMerged = [];
+			const userMergedAll = [];
 			const colors = [];
 			
 			Object.keys(json.userPRInfos).forEach((key, index) => {
 				usernames.push(key);
 				imagePath.push(json.userPRInfos[key].avatarUrl);
 				userTotal.push(json.userPRInfos[key].total);
+				userMergedAll.push(json.userPRInfos[key].merged);
 				if (json.userPRInfos[key].merged != 0) {
 					userMerged.push(json.userPRInfos[key].merged);
 					contribUsernames.push(key);
@@ -188,6 +191,9 @@ function displayCharts() {
 							}
 					}    
 			});
+		} else if (request.status !== 200 && request.status !== 0) {
+			document.getElementById('infoPan').innerHTML = '<div class="alert alert-danger"><h6 style="font-size:10px"><strong>Error:</strong> The analysis of the repository is not yet available. Please wait for our agent to process all new requests</h6></div>';
+			document.getElementById("infos").innerHTML = '';
 		}
 	}
 }

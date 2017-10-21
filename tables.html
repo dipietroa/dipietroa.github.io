@@ -53,7 +53,8 @@
           <i class="fa fa-table"></i> Add a repository to analyze
 				</div>
         <div class="card-body">
-					<div class="col-xl-5 col-sm-6 mb-3">
+				<div class ="row">
+					<div class="col-xl-6 col-sm-6 mb-3">
 						<div class="form-group">
 						<label for="usr">Owner:</label>
 						<input id="txtOwner" type="text" class="form-control"></input>
@@ -62,10 +63,11 @@
 						<label for="usr">Repository:</label>
 						<input id="txtRepo" type="text" class="form-control"></input>
 						</div>
-					</div>
-					<div class="col-xl-1 col-sm-6 mb-3">
 						<button id="myButton" type="button" class="btn btn-success" onclick="processRequest()" data-toggle="tooltip" data-placement="bottom" title="The owner and repository will appear in the table below whitin 1 minute after the request has been processed">Send request</button>
 					</div>
+					<div id="infoPan" class="col-xl-6 col-sm-6 mb-3 panel panel-warning">
+					</div>
+				</div>
 				</div>
 			</div>
       <!-- Example DataTables Card-->
@@ -73,7 +75,7 @@
         <div class="card-header">
           <i class="fa fa-table"></i> Available repositories </div>
         <div class="card-body">
-          <div class="table-responsive">
+          <div id="myTable" class="table-responsive">
             <table class="table table-bordered" id="dataTable" width="100%" cellspacing="0">
               <thead>
                 <tr>
@@ -87,7 +89,7 @@
                   <th>Repository</th>
                 </tr>
               </tfoot>
-              <tbody id="myTable">
+              <tbody>
               </tbody>
             </table>
           </div>
@@ -114,14 +116,15 @@
     <script src="vendor/bootstrap/js/bootstrap.min.js"></script>
     <!-- Core plugin JavaScript-->
     <script src="vendor/jquery-easing/jquery.easing.min.js"></script>
-    <!-- Page level plugin JavaScript-->
-    <script src="vendor/datatables/jquery.dataTables.js"></script>
-    <script src="vendor/datatables/dataTables.bootstrap4.js"></script>
+    
     <!-- Custom scripts for all pages-->
     <script src="js/sb-admin.min.js"></script>
     <!-- Custom scripts for this page-->
     <script src="js/sb-admin-datatables.min.js"></script>
 		<script src="js/addpr.js"></script>
+		<!-- Page level plugin JavaScript-->
+    <script src="vendor/datatables/jquery.dataTables.js"></script>
+    <script src="vendor/datatables/dataTables.bootstrap4.js"></script>
   </div>
 </body>
 
