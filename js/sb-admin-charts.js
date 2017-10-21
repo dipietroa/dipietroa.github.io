@@ -2,10 +2,38 @@
 // -- Set new default font family and font color to mimic Bootstrap's default styling
 Chart.defaults.global.defaultFontFamily = '-apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif';
 Chart.defaults.global.defaultFontColor = '#292b2c';
+
+document.getElementById('mySelect2').disabled = true;
+document.getElementById('txtOwner').disabled = true;
+const request = new XMLHttpRequest();
+request.open('GET', 'generated_files/config.json', true);
+request.send(null);
+request.onreadystatechange = () => {
+	if ( request.readyState === 4 && request.status === 200 ) {
+		const json = JSON.parse(request.responseText);
+		let htmlstruct = '';
+		document.getElementById('txtOwner').value = json[0].owner
+		for (let i = 0; i < json.length; i += 1) {
+			htmlstruct += `<option>${json[i].repo}</option>`;
+		}
+		document.getElementById('mySelect2').innerHTML = htmlstruct;
+		document.getElementById('mySelect2').disabled = false;
+	}
+}
+
+function listChange() {
+	const json = JSON.parse(request.responseText);
+	for (let i = 0; i < json.length; i += 1) {
+		if (document.getElementById('mySelect2').value === json[i].repo) {
+			document.getElementById('txtOwner').value = json[i].owner;
+		}
+	}
+}
+
 // -- Area Chart Example
 function displayCharts() {
 	let theowner = document.getElementById("txtOwner").value;
-	let therepo = document.getElementById("txtRepo").value;
+	let therepo = document.getElementById("mySelect2").value;
 	if (theowner == '' || therepo == '') {
 		theowner = 'spring-projects';
 		therepo = 'spring-boot';

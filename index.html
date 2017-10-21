@@ -45,32 +45,38 @@
     <div class="container-fluid">
       <!-- Breadcrumbs-->
       <ol class="breadcrumb">
-        <li class="breadcrumb-item active">Search in GITANALYTICS?</li>
+        <li class="breadcrumb-item active">Search in GITANALYTICS</li>
       </ol>
       <!-- Icon Cards-->
       <div class="row">
-        <div class="col-xl-6 col-sm-6 mb-3">
+        
+			<div class="col-xl-6 col-sm-6 mb-3">
+          <div class="card text-white bg-primary o-hidden h-100">
+            <div class="card-body">
+              <div class="card-body-icon">
+                <i class="fa fa-fw fa-list"></i>
+              </div>
+              <div class="mr-5">Repository 
+								<select id="mySelect2" class="form-control" onClick="listChange()" id="sel1">
+								</select>
+							</div>
+            </div>
+          </div>
+        </div>
+				<div class="col-xl-6 col-sm-6 mb-3">
           <div class="card text-white bg-danger o-hidden h-100">
             <div class="card-body">
               <div class="card-body-icon">
                 <i class="fa fa-fw fa-support"></i>
               </div>
-              <div class="mr-5">Type owner : <input id="txtOwner" type="text" class="form-control"></input></div>
-            </div>
-          </div>
-        </div>
-		<div class="col-xl-6 col-sm-6 mb-3">
-          <div class="card text-white bg-warning o-hidden h-100">
-            <div class="card-body">
-              <div class="card-body-icon">
-                <i class="fa fa-fw fa-list"></i>
-              </div>
-              <div class="mr-5">Type repo : <input id="txtRepo" type="text" class="form-control"></input></div>
+              <div class="mr-5">Owner
+								<input id="txtOwner" type="text" class="form-control"></input>
+							</div>
             </div>
           </div>
         </div>
 				<div class="col-xl-1 col-sm-6 mb-3">
-				<button type="button" class="btn btn-success" onclick="displayCharts()" data-toggle="tooltip" data-placement="top" title="if the repository or the owner doesn't exists, nothing will appear in the boxes used for charts. In case of empty fields, a default repository is shown">Show me</button>&nbsp;
+				<button type="button" class="btn btn-success" onclick="displayCharts()">Show me</button>
 				</div>
 				<div class="col-xl-5 col-sm-6 mb-3"  style="text-align:justify">
 				</div>
@@ -133,7 +139,7 @@
     <footer class="sticky-footer">
       <div class="container">
         <div class="text-center">
-          <small>Copyright © Your Website 2017</small>
+          <small>Copyright 2017 © GITANALYTICS</small>
         </div>
       </div>
     </footer>
@@ -141,24 +147,6 @@
     <a class="scroll-to-top rounded" href="#page-top">
       <i class="fa fa-angle-up"></i>
     </a>
-    <!-- Logout Modal-->
-    <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-      <div class="modal-dialog" role="document">
-        <div class="modal-content">
-          <div class="modal-header">
-            <h5 class="modal-title" id="exampleModalLabel">Ready to Leave?</h5>
-            <button class="close" type="button" data-dismiss="modal" aria-label="Close">
-              <span aria-hidden="true">×</span>
-            </button>
-          </div>
-          <div class="modal-body">Select "Logout" below if you are ready to end your current session.</div>
-          <div class="modal-footer">
-            <button class="btn btn-secondary" type="button" data-dismiss="modal">Cancel</button>
-            <a class="btn btn-primary" href="login.html">Logout</a>
-          </div>
-        </div>
-      </div>
-    </div>
     <!-- Bootstrap core JavaScript-->
     <script src="vendor/jquery/jquery.min.js"></script>
     <script src="vendor/popper/popper.min.js"></script>
