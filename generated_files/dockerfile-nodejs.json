@@ -1,0 +1,79 @@
+{
+  "lastUpdate": "2017-10-21T22:30:16.220Z",
+  "cowner": "dockerfile",
+  "crepo": "nodejs",
+  "totalPR": 6,
+  "lastPR": {
+    "createdAt": "2017-07-10T07:26:38Z",
+    "username": "Nithya25Mari"
+  },
+  "bestPR": {
+    "user": "Nithya25Mari",
+    "nbPR": 1,
+    "image": "https://avatars3.githubusercontent.com/u/26431700?v=4"
+  },
+  "bestMerged": {
+    "user": "adam-beck",
+    "nbPR": 1,
+    "image": "https://avatars2.githubusercontent.com/u/6046654?v=4"
+  },
+  "bestRatio": {
+    "user": "adam-beck",
+    "ratio": 1,
+    "image": "https://avatars2.githubusercontent.com/u/6046654?v=4"
+  },
+  "userPRInfos": {
+    "Nithya25Mari": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/26431700?v=4"
+    },
+    "gakaki": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/5296?v=4"
+    },
+    "kmike": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/107893?v=4"
+    },
+    "nomadster": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/1690795?v=4"
+    },
+    "adam-beck": {
+      "total": 1,
+      "merged": 1,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/6046654?v=4"
+    },
+    "brownman": {
+      "total": 1,
+      "merged": 1,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/314539?v=4"
+    }
+  },
+  "datePRInfos": {
+    "Juillet-2017": {
+      "total": 1,
+      "merged": 0
+    },
+    "Août-2015": {
+      "total": 1,
+      "merged": 0
+    },
+    "Juillet-2015": {
+      "total": 1,
+      "merged": 0
+    },
+    "Janvier-2015": {
+      "total": 2,
+      "merged": 1
+    },
+    "Décembre-2014": {
+      "total": 1,
+      "merged": 1
+    }
+  }
+}
