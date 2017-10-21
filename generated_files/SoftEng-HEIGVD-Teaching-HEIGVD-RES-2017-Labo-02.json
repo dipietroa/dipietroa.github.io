@@ -1,10 +1,26 @@
 {
-  "lastUpdate": "2017-10-21T12:06:21.285Z",
+  "lastUpdate": "2017-10-21T19:23:03.923Z",
   "cowner": "SoftEng-HEIGVD",
   "crepo": "Teaching-HEIGVD-RES-2017-Labo-02",
   "totalPR": 197,
   "lastPR": {
+    "createdAt": "2017-04-03T20:51:49Z",
     "username": "quentingigon"
+  },
+  "bestPR": {
+    "user": "AlphaHydrae",
+    "nbPR": 1,
+    "image": "https://avatars0.githubusercontent.com/u/766476?v=4"
+  },
+  "bestMerged": {
+    "user": "AlphaHydrae",
+    "nbPR": 1,
+    "image": "https://avatars0.githubusercontent.com/u/766476?v=4"
+  },
+  "bestRatio": {
+    "user": "dbnsky",
+    "ratio": 1,
+    "image": "https://avatars3.githubusercontent.com/u/22363869?v=4"
   },
   "userPRInfos": {
     "quentingigon": {
