@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2017-10-21T19:24:20.034Z",
+  "lastUpdate": "2017-10-21T19:43:15.259Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
   "totalPR": 2091,
@@ -8,14 +8,14 @@
     "username": "vadeg"
   },
   "bestPR": {
-    "user": "jotomo",
-    "nbPR": 1,
-    "image": "https://avatars3.githubusercontent.com/u/1732305?v=4"
+    "user": "izeye",
+    "nbPR": 275,
+    "image": "https://avatars3.githubusercontent.com/u/1059363?v=4"
   },
   "bestMerged": {
-    "user": "jotomo",
-    "nbPR": 1,
-    "image": "https://avatars3.githubusercontent.com/u/1732305?v=4"
+    "user": "olivergierke",
+    "nbPR": 3,
+    "image": "https://avatars1.githubusercontent.com/u/128577?v=4"
   },
   "bestRatio": {
     "user": "danielfernandez",
