@@ -4,9 +4,15 @@ request.send(null);
 request.onreadystatechange = () => {
 	if ( request.readyState === 4 && request.status === 200 ) {
 		const json = JSON.parse(request.responseText);
-		let htmlstruct = '<table class="table table-bordered" id="dataTable" width="100%" cellspacing="0"><thead><tr><th>Owner</th><th>Repository</th></tr></thead><tfoot><tr><th>Owner</th><th>Repository</th></tr></tfoot><tbody>';
+		let htmlstruct = '<table class="table table-bordered" id="dataTable" width="100%" cellspacing="0"><thead><tr><th>Owner</th><th>Repository</th><th>Added on</th></tr></thead><tfoot><tr><th>Owner</th><th>Repository</th><th>Date of request</th></tr></tfoot><tbody>';
+		let date;
+		let hours;
+		let minutes;
 		for (let i = 0; i < json.length; i += 1) {
-			htmlstruct += `<tr><td>${json[i].owner}</td><td>${json[i].repo}</td></tr>`;
+			date = new Date(json[i].date);
+			hours = ("0" + date.getHours()).slice(-2);
+			minutes = ("0" + date.getMinutes()).slice(-2);
+			htmlstruct += `<tr><td>${json[i].owner}</td><td>${json[i].repo}</td><td>${date.getDate()}/${date.getMonth() + 1}/${date.getFullYear()} at ${hours}:${minutes}</td></tr>`;
 		}
 		htmlstruct += '</tbody></table>';
 		document.getElementById('myTable').innerHTML = htmlstruct;
