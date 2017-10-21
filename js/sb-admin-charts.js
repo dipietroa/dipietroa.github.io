@@ -4,8 +4,19 @@ Chart.defaults.global.defaultFontFamily = '-apple-system,system-ui,BlinkMacSyste
 Chart.defaults.global.defaultFontColor = '#292b2c';
 // -- Area Chart Example
 function displayCharts() {
+	let theowner = document.getElementById("txtOwner").value;
+	let therepo = document.getElementById("txtRepo").value;
+	if (theowner == '' || therepo == '') {
+		theowner = 'spring-projects';
+		therepo = 'spring-boot';
+	}
+	
+	document.getElementById('areaRelease').innerHTML = '<canvas id="myAreaChart" width="100%" height="30"></canvas>';
+	document.getElementById('pieRelease').innerHTML = '<canvas id="myBarChart" width="100" height="50"></canvas>';
+	document.getElementById('pieRelease2').innerHTML = '<canvas id="myPieChart" width="100%" height="100"></canvas>';
+	
 	const request = new XMLHttpRequest();
-	request.open("GET", "generated_files/spring-projects-spring-boot.json", true);
+	request.open('GET', `generated_files/${theowner}-${therepo}.json`, true);
 	request.send(null);
 	request.onreadystatechange = () => {
 		if ( request.readyState === 4 && request.status === 200 ) {
@@ -128,7 +139,7 @@ function displayCharts() {
 			
 			// -- Bar Chart Example
 			ctx = document.getElementById("myBarChart");
-			var myLineChart2 = new Chart(ctx, {
+			const myLineChart2 = new Chart(ctx, {
 					type: 'doughnut',
 					data: {
 							labels: contribUsernames,
