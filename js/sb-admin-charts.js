@@ -61,11 +61,14 @@ function displayCharts() {
 			});
 			
 			const maxArray = Math.max.apply(Math, dtotal);
+			const hours = ("0" + dlu.getHours()).slice(-2);
+			const minutes = ("0" + dlu.getMinutes()).slice(-2);
+			
 			
 			document.getElementById("areaChartDescription").innerHTML = `<b>Owner:</b> ${json.cowner} <b>Repository:</b> ${json.crepo} - PR (not merged and merged) in time`;
-			document.getElementById("areaChartLastUpdate").innerHTML = `Update: ${dlu.getDate()}/${dlu.getMonth() + 1}/${dlu.getFullYear()} at ${dlu.getHours()}:${dlu.getMinutes()}`;
-			document.getElementById("pieChartLastUpdate").innerHTML = `Update: ${dlu.getDate()}/${dlu.getMonth() + 1}/${dlu.getFullYear()} at ${dlu.getHours()}:${dlu.getMinutes()}`;
-			document.getElementById("pieChartLastUpdate2").innerHTML = `Update: ${dlu.getDate()}/${dlu.getMonth() + 1}/${dlu.getFullYear()} at ${dlu.getHours()}:${dlu.getMinutes()}`;
+			document.getElementById("areaChartLastUpdate").innerHTML = `Last update: ${dlu.getDate()}/${dlu.getMonth() + 1}/${dlu.getFullYear()} at ${hours}:${minutes}`;
+			document.getElementById("pieChartLastUpdate").innerHTML = `Last update: ${dlu.getDate()}/${dlu.getMonth() + 1}/${dlu.getFullYear()} at ${hours}:${minutes}`;
+			document.getElementById("pieChartLastUpdate2").innerHTML = `Last update: ${dlu.getDate()}/${dlu.getMonth() + 1}/${dlu.getFullYear()} at ${hours}:${minutes}`;
 			let ctx = document.getElementById("myAreaChart");
 			const myLineChart = new Chart(ctx, {
 				type: 'line',
@@ -136,9 +139,9 @@ function displayCharts() {
 			const myPieChart = new Chart(ctx, {
 				type: 'pie',
 				data: {
-					labels: ['Merged PR', 'Not merged PR'],
+					labels: ['% Merged PR', '% Not merged PR'],
 					datasets: [{
-						data: [percentMerged, percentNotMerged],
+						data: [percentMerged.toFixed(2), percentNotMerged.toFixed(2)],
 						backgroundColor: ['#007bff', '#dc3545'],
 					}],
 				},
