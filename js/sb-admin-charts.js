@@ -53,19 +53,26 @@ function displayCharts() {
 			const dtotal = [];
 			const dmerged = [];
 			const dlu = new Date(json.lastUpdate);
+			const dlp = new Date(json.lastPR.createdAt);
+			console.log(json.lastPR.createdAt);
 			
-			Object.keys(json.datePRInfos).forEach((key, index) => {
+			document.getElementById('brat').innerHTML = `<img src="${json.bestRatio.image}" width="25px" height="25px"></img><br/> ${json.bestRatio.user}</br><h6>(${json.bestRatio.ratio * 100} %)</h6>`
+			document.getElementById('hm').innerHTML = `<img src="${json.bestMerged.image}" width="25px" height="25px"></img><br/> ${json.bestMerged.user}</br><h6>(${json.bestMerged.nbPR} Merged)</h6>`
+			document.getElementById('hpr').innerHTML = `<img src="${json.bestPR.image}" width="25px" height="25px"></img><br/> ${json.bestPR.user}</br><h6>(${json.bestPR.nbPR} PR)</h6>`
+			
+			Object.keys(json.datePRInfos).forEach((key) => {
 				dlabels.unshift(key);
 				dtotal.unshift(json.datePRInfos[key].total);
 				dmerged.unshift(json.datePRInfos[key].merged);
 			});
 			
 			const maxArray = Math.max.apply(Math, dtotal);
-			const hours = ("0" + dlu.getHours()).slice(-2);
-			const minutes = ("0" + dlu.getMinutes()).slice(-2);
-			document.getElementById('infoPan').innerHTML = `<div class="alert alert-info"><h6 style="font-size:10px"><strong style="font-size:10px">Total PR: </strong>${json.totalPR}<strong style="font-size:10px"><br/>Last PR by: </strong>${json.lastPR.username}</h6></div>`
-
+			let hours = ("0" + dlp.getHours()).slice(-2);
+			let minutes = ("0" + dlp.getMinutes()).slice(-2);
+			document.getElementById('infoPan').innerHTML = `<div class="alert alert-info"><h6 style="font-size:10px"><strong style="font-size:10px">Total PR: </strong>${json.totalPR}<strong style="font-size:10px"><br/>Last PR by: </strong>${json.lastPR.username}<br/><strong>Last PR date:</strong> ${dlp.getDate()}/${dlp.getMonth() + 1}/${dlp.getFullYear()} at ${hours}:${minutes} </h6></div>`
 			
+			hours = ("0" + dlu.getHours()).slice(-2);
+			minutes = ("0" + dlu.getMinutes()).slice(-2);
 			document.getElementById("infos").innerHTML = `<b>Owner:</b> ${json.cowner} <b>Repository:</b> ${json.crepo}`;
 			document.getElementById("areaChartLastUpdate").innerHTML = `Last update: ${dlu.getDate()}/${dlu.getMonth() + 1}/${dlu.getFullYear()} at ${hours}:${minutes}`;
 			document.getElementById("pieChartLastUpdate").innerHTML = `Last update: ${dlu.getDate()}/${dlu.getMonth() + 1}/${dlu.getFullYear()} at ${hours}:${minutes}`;

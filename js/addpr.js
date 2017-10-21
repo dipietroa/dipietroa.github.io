@@ -23,8 +23,8 @@ function processRequest() {
 	document.getElementById('myButton').disabled = true;
 	document.getElementById('infoPan').innerHTML = '<div class="alert alert-info"><h6 style="font-size:10px"><strong>Info:</strong> Sending request...</h6></div>'
 	const xhr = new XMLHttpRequest();
-	//const url = 'https://apirest-gitanalytics.herokuapp.com/addpr';
-	const url = 'http://localhost:3000/addpr';
+	const url = 'https://apirest-gitanalytics.herokuapp.com/addpr';
+	//const url = 'http://localhost:3000/addpr';
 	xhr.open("POST", url, true);
 	xhr.setRequestHeader("Content-Type", "application/json;charset=UTF-8");
 	xhr.onreadystatechange = function () {
