@@ -23,5 +23,10 @@
     "owner": "dockerfile",
     "repo": "rabbitmq",
     "date": "2017-10-21T20:52:56.170Z"
+  },
+  {
+    "owner": "dockerfile",
+    "repo": "nodejs",
+    "date": "2017-10-21T22:09:51.808Z"
   }
 ]
