@@ -1,12 +1,17 @@
 {
-  "lastUpdate": "2017-10-21T01:17:07.247Z",
+  "lastUpdate": "2017-10-21T12:06:50.234Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2088,
+  "totalPR": 2089,
   "lastPR": {
-    "username": "candrews"
+    "username": "tristanchanson"
   },
   "userPRInfos": {
+    "tristanchanson": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/3622377?v=4"
+    },
     "candrews": {
       "total": 15,
       "merged": 0,
@@ -3325,7 +3330,7 @@
   },
   "datePRInfos": {
     "Octobre-2017": {
-      "total": 56,
+      "total": 57,
       "merged": 1
     },
     "Septembre-2017": {
