@@ -34,7 +34,7 @@ function processRequest() {
 				document.getElementById('infoPan').innerHTML += `<div class="alert alert-danger"><h6 style="font-size:10px"><strong>Error:</strong> ${json.message}</h6></div>`
 			} else {
 				document.getElementById('infoPan').innerHTML += `<div class="alert alert-success"><h6 style="font-size:10px"><strong>Success:</strong> ${json.message}</h6></div>`
-				document.getElementById('infoPan').innerHTML += '<div class="alert alert-warning"><h6 style="font-size:10px"><strong>Warning:</strong> access to a freshly updated file is not instant on github. Wait for the repo to appear in the table below ~ 1 minute </h6></div>'				
+				document.getElementById('infoPan').innerHTML += '<div class="alert alert-warning"><h6 style="font-size:10px"><strong>Warning:</strong> access to a freshly updated file is not instant on github. Wait for the repo to appear in the table below (by refreshing the current page) ~ 1 minute </h6></div>'				
 			}
 		} else if(xhr.status != 0 && xhr.status != 200) {
 			document.getElementById('infoPan').innerHTML += '<div class="alert alert-danger"><h6 style="font-size:10px"><strong>Error:</strong> Our API rest server is not running!</h6></div>'
