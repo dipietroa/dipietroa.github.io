@@ -201,6 +201,12 @@ function displayCharts() {
 		} else if (request.status !== 200 && request.status !== 0) {
 			document.getElementById('infoPan').innerHTML = '<div class="alert alert-danger"><h6 style="font-size:10px"><strong>Error:</strong> The analysis of the repository is not yet available. Please wait for our agent to process all new requests</h6></div>';
 			document.getElementById("infos").innerHTML = '';
+			document.getElementById('brat').innerHTML = '';
+			document.getElementById('hm').innerHTML = '';
+			document.getElementById('hpr').innerHTML = '';
+			document.getElementById("areaChartLastUpdate").innerHTML = '';
+			document.getElementById("pieChartLastUpdate").innerHTML = '';
+			document.getElementById("pieChartLastUpdate2").innerHTML = '';
 		}
 	}
 }
