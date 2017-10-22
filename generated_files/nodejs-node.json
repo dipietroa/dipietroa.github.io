@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-10-22T16:43:33.461Z",
+  "lastUpdate": "2017-10-22T17:43:57.704Z",
   "cowner": "nodejs",
   "crepo": "node",
-  "totalPR": 9964,
+  "totalPR": 9965,
   "lastPR": {
-    "createdAt": "2017-10-22T15:56:49Z",
-    "username": "watilde"
+    "createdAt": "2017-10-22T16:53:29Z",
+    "username": "maclover7"
   },
   "bestPR": {
     "user": "Trott",
@@ -23,15 +23,15 @@
     "image": "https://avatars2.githubusercontent.com/u/7208251?v=4"
   },
   "userPRInfos": {
+    "maclover7": {
+      "total": 25,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/3020626?v=4"
+    },
     "watilde": {
       "total": 41,
       "merged": 0,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/1716463?v=4"
-    },
-    "maclover7": {
-      "total": 24,
-      "merged": 0,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/3020626?v=4"
     },
     "danbev": {
       "total": 187,
@@ -8616,7 +8616,7 @@
   },
   "datePRInfos": {
     "Octobre-2017": {
-      "total": 549,
+      "total": 550,
       "merged": 9
     },
     "Septembre-2017": {
