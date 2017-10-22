@@ -1,0 +1,79 @@
+{
+  "lastUpdate": "2017-10-22T17:44:12.682Z",
+  "cowner": "nuclio",
+  "crepo": "nuclio",
+  "totalPR": 185,
+  "lastPR": {
+    "createdAt": "2017-10-22T17:11:24Z",
+    "username": "pavius"
+  },
+  "bestPR": {
+    "user": "pavius",
+    "nbPR": 120,
+    "image": "https://avatars2.githubusercontent.com/u/423987?v=4"
+  },
+  "bestMerged": {
+    "user": "pavius",
+    "nbPR": 119,
+    "image": "https://avatars2.githubusercontent.com/u/423987?v=4"
+  },
+  "bestRatio": {
+    "user": "Sharon-iguazio",
+    "ratio": 1,
+    "image": "https://avatars0.githubusercontent.com/u/27913885?v=4"
+  },
+  "userPRInfos": {
+    "pavius": {
+      "total": 120,
+      "merged": 119,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/423987?v=4"
+    },
+    "eran-nussbaum": {
+      "total": 4,
+      "merged": 3,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/13918850?v=4"
+    },
+    "tebeka": {
+      "total": 46,
+      "merged": 27,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/87697?v=4"
+    },
+    "dvrkps": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/4771727?v=4"
+    },
+    "bivas": {
+      "total": 12,
+      "merged": 10,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/530883?v=4"
+    },
+    "Sharon-iguazio": {
+      "total": 2,
+      "merged": 2,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/27913885?v=4"
+    }
+  },
+  "datePRInfos": {
+    "Octobre-2017": {
+      "total": 32,
+      "merged": 22
+    },
+    "Septembre-2017": {
+      "total": 71,
+      "merged": 66
+    },
+    "Août-2017": {
+      "total": 36,
+      "merged": 31
+    },
+    "Juillet-2017": {
+      "total": 34,
+      "merged": 32
+    },
+    "Juin-2017": {
+      "total": 12,
+      "merged": 10
+    }
+  }
+}
