@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-10-22T18:41:27.378Z",
+  "lastUpdate": "2017-10-22T19:23:25.286Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
-  "totalPR": 236,
+  "totalPR": 237,
   "lastPR": {
-    "createdAt": "2017-10-22T17:23:14Z",
-    "username": "sanghaisubham"
+    "createdAt": "2017-10-22T19:19:36Z",
+    "username": "dadobt"
   },
   "bestPR": {
     "user": "theycallmemac",
@@ -23,6 +23,11 @@
     "image": "https://avatars0.githubusercontent.com/u/21992243?v=4"
   },
   "userPRInfos": {
+    "dadobt": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/5913204?v=4"
+    },
     "sanghaisubham": {
       "total": 6,
       "merged": 0,
@@ -626,7 +631,7 @@
   },
   "datePRInfos": {
     "Octobre-2017": {
-      "total": 133,
+      "total": 134,
       "merged": 27
     },
     "Septembre-2017": {
