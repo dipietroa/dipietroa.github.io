@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2017-10-22T15:40:14.136Z",
+  "lastUpdate": "2017-10-22T15:46:46.560Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
   "totalPR": 2663,
@@ -4817,12 +4817,12 @@
       "merged": 6
     },
     "Juin-2017": {
-      "total": 65,
-      "merged": 10
+      "total": 64,
+      "merged": 9
     },
     "Mai-2017": {
-      "total": 45,
-      "merged": 2
+      "total": 46,
+      "merged": 3
     },
     "Avril-2017": {
       "total": 104,
@@ -4841,11 +4841,11 @@
       "merged": 0
     },
     "Décembre-2016": {
-      "total": 56,
+      "total": 55,
       "merged": 3
     },
     "Novembre-2016": {
-      "total": 70,
+      "total": 71,
       "merged": 4
     },
     "Octobre-2016": {
@@ -4909,11 +4909,11 @@
       "merged": 0
     },
     "Juillet-2015": {
-      "total": 75,
+      "total": 74,
       "merged": 0
     },
     "Juin-2015": {
-      "total": 72,
+      "total": 73,
       "merged": 0
     },
     "Mai-2015": {
