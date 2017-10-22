@@ -1,0 +1,271 @@
+{
+  "lastUpdate": "2017-10-22T17:44:15.773Z",
+  "cowner": "fastify",
+  "crepo": "fastify",
+  "totalPR": 209,
+  "lastPR": {
+    "createdAt": "2017-10-21T17:32:24Z",
+    "username": "allevo"
+  },
+  "bestPR": {
+    "user": "delvedor",
+    "nbPR": 54,
+    "image": "https://avatars0.githubusercontent.com/u/4865608?v=4"
+  },
+  "bestMerged": {
+    "user": "delvedor",
+    "nbPR": 53,
+    "image": "https://avatars0.githubusercontent.com/u/4865608?v=4"
+  },
+  "bestRatio": {
+    "user": "hankandre",
+    "ratio": 1,
+    "image": "https://avatars1.githubusercontent.com/u/14790223?v=4"
+  },
+  "userPRInfos": {
+    "allevo": {
+      "total": 25,
+      "merged": 23,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/1054125?v=4"
+    },
+    "hankandre": {
+      "total": 2,
+      "merged": 2,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/14790223?v=4"
+    },
+    "BigMurry": {
+      "total": 3,
+      "merged": 2,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/12495406?v=4"
+    },
+    "gj": {
+      "total": 2,
+      "merged": 2,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/17556281?v=4"
+    },
+    "StarpTech": {
+      "total": 8,
+      "merged": 7,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/1764424?v=4"
+    },
+    "felixonmars": {
+      "total": 1,
+      "merged": 1,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/1006477?v=4"
+    },
+    "ermi-ltd": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/32077482?v=4"
+    },
+    "mcollina": {
+      "total": 35,
+      "merged": 33,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/52195?v=4"
+    },
+    "greenkeeper[bot]": {
+      "total": 26,
+      "merged": 15,
+      "avatarUrl": "https://avatars3.githubusercontent.com/in/505?v=4"
+    },
+    "paolochiodi": {
+      "total": 1,
+      "merged": 1,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/81542?v=4"
+    },
+    "jsumners": {
+      "total": 11,
+      "merged": 10,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/321201?v=4"
+    },
+    "cagataycali": {
+      "total": 3,
+      "merged": 2,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/9213230?v=4"
+    },
+    "lmammino": {
+      "total": 4,
+      "merged": 3,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/205629?v=4"
+    },
+    "delvedor": {
+      "total": 54,
+      "merged": 53,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/4865608?v=4"
+    },
+    "Ethan-Arrowood": {
+      "total": 1,
+      "merged": 1,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/16144158?v=4"
+    },
+    "kuritkaj": {
+      "total": 2,
+      "merged": 2,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/3704147?v=4"
+    },
+    "adriantoine": {
+      "total": 1,
+      "merged": 1,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/976570?v=4"
+    },
+    "lucamaraschi": {
+      "total": 2,
+      "merged": 1,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/332968?v=4"
+    },
+    "benderTheCrime": {
+      "total": 1,
+      "merged": 1,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/7144031?v=4"
+    },
+    "mahmed8003": {
+      "total": 2,
+      "merged": 2,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/1140343?v=4"
+    },
+    "ahomu": {
+      "total": 2,
+      "merged": 2,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/404356?v=4"
+    },
+    "sberryman": {
+      "total": 1,
+      "merged": 1,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/324437?v=4"
+    },
+    "alexhultman": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/3397140?v=4"
+    },
+    "poppinlp": {
+      "total": 1,
+      "merged": 1,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/1970625?v=4"
+    },
+    "nileshmali": {
+      "total": 1,
+      "merged": 1,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/1692410?v=4"
+    },
+    "lolo32": {
+      "total": 3,
+      "merged": 1,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/1652044?v=4"
+    },
+    "abenhamdine": {
+      "total": 1,
+      "merged": 1,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/7466144?v=4"
+    },
+    "gillesdemey": {
+      "total": 1,
+      "merged": 1,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/868844?v=4"
+    },
+    "Pitu": {
+      "total": 1,
+      "merged": 1,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/7425261?v=4"
+    },
+    "evanshortiss": {
+      "total": 1,
+      "merged": 1,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/1303687?v=4"
+    },
+    "sigkell": {
+      "total": 1,
+      "merged": 1,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/773673?v=4"
+    },
+    "coopnd": {
+      "total": 2,
+      "merged": 2,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/17221261?v=4"
+    },
+    "NickNaso": {
+      "total": 2,
+      "merged": 2,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/387506?v=4"
+    },
+    "marvinhagemeister": {
+      "total": 1,
+      "merged": 1,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/1062408?v=4"
+    },
+    "alexprut": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/1648497?v=4"
+    },
+    "brwnll": {
+      "total": 2,
+      "merged": 1,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/445190?v=4"
+    },
+    "davidmarkclements": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/1190716?v=4"
+    },
+    "stearm": {
+      "total": 1,
+      "merged": 1,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/14802795?v=4"
+    }
+  },
+  "datePRInfos": {
+    "Octobre-2017": {
+      "total": 32,
+      "merged": 24
+    },
+    "Septembre-2017": {
+      "total": 71,
+      "merged": 62
+    },
+    "Août-2017": {
+      "total": 12,
+      "merged": 12
+    },
+    "Juillet-2017": {
+      "total": 21,
+      "merged": 17
+    },
+    "Juin-2017": {
+      "total": 12,
+      "merged": 10
+    },
+    "Mai-2017": {
+      "total": 12,
+      "merged": 11
+    },
+    "Avril-2017": {
+      "total": 12,
+      "merged": 11
+    },
+    "Mars-2017": {
+      "total": 11,
+      "merged": 10
+    },
+    "Février-2017": {
+      "total": 2,
+      "merged": 2
+    },
+    "Janvier-2017": {
+      "total": 4,
+      "merged": 3
+    },
+    "Décembre-2016": {
+      "total": 3,
+      "merged": 1
+    },
+    "Novembre-2016": {
+      "total": 2,
+      "merged": 2
+    },
+    "Octobre-2016": {
+      "total": 15,
+      "merged": 15
+    }
+  }
+}
