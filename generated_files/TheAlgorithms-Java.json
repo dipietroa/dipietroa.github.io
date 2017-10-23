@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-10-23T15:42:10.484Z",
+  "lastUpdate": "2017-10-23T16:41:56.879Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
-  "totalPR": 239,
+  "totalPR": 240,
   "lastPR": {
-    "createdAt": "2017-10-23T11:07:19Z",
-    "username": "MSSIDDIQUE"
+    "createdAt": "2017-10-23T16:36:20Z",
+    "username": "I-Smith"
   },
   "bestPR": {
     "user": "theycallmemac",
@@ -23,6 +23,11 @@
     "image": "https://avatars0.githubusercontent.com/u/21992243?v=4"
   },
   "userPRInfos": {
+    "I-Smith": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/23102836?v=4"
+    },
     "MSSIDDIQUE": {
       "total": 1,
       "merged": 0,
@@ -641,7 +646,7 @@
   },
   "datePRInfos": {
     "Octobre-2017": {
-      "total": 136,
+      "total": 137,
       "merged": 27
     },
     "Septembre-2017": {
