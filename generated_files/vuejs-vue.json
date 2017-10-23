@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-10-23T12:41:47.543Z",
+  "lastUpdate": "2017-10-23T13:41:52.757Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 918,
+  "totalPR": 919,
   "lastPR": {
-    "createdAt": "2017-10-21T16:46:05Z",
-    "username": "cosimochellini"
+    "createdAt": "2017-10-23T12:55:41Z",
+    "username": "imyzf"
   },
   "bestPR": {
     "user": "kazupon",
@@ -27,6 +27,11 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/28888508?v=4"
+    },
+    "imyzf": {
+      "total": 2,
+      "merged": 1,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/8298849?v=4"
     },
     "cosimochellini": {
       "total": 1,
@@ -1168,11 +1173,6 @@
       "merged": 1,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/7565692?v=4"
     },
-    "imyzf": {
-      "total": 1,
-      "merged": 1,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/8298849?v=4"
-    },
     "bopjesvla": {
       "total": 2,
       "merged": 0,
@@ -1996,7 +1996,7 @@
   },
   "datePRInfos": {
     "Octobre-2017": {
-      "total": 31,
+      "total": 32,
       "merged": 17
     },
     "Septembre-2017": {
