@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-10-23T20:41:20.921Z",
+  "lastUpdate": "2017-10-23T21:41:42.220Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
-  "totalPR": 240,
+  "totalPR": 241,
   "lastPR": {
-    "createdAt": "2017-10-23T16:36:20Z",
-    "username": "I-Smith"
+    "createdAt": "2017-10-23T21:39:36Z",
+    "username": "MattBizzo"
   },
   "bestPR": {
     "user": "theycallmemac",
@@ -23,6 +23,11 @@
     "image": "https://avatars0.githubusercontent.com/u/21992243?v=4"
   },
   "userPRInfos": {
+    "MattBizzo": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/6115449?v=4"
+    },
     "I-Smith": {
       "total": 1,
       "merged": 0,
@@ -646,7 +651,7 @@
   },
   "datePRInfos": {
     "Octobre-2017": {
-      "total": 137,
+      "total": 138,
       "merged": 27
     },
     "Septembre-2017": {
