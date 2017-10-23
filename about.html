@@ -7,7 +7,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <meta name="description" content="">
   <meta name="author" content="">
-  <title>GitAnalytics - Add repository</title>
+  <title>GitAnalytics - About</title>
   <!-- Bootstrap core CSS-->
   <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
   <!-- Custom fonts for this template-->
@@ -49,59 +49,36 @@
   </nav>
   <div class="content-wrapper">
     <div class="container-fluid">
-		<!-- Breadcrumbs-->
+      <!-- Breadcrumbs-->
       <ol class="breadcrumb">
-        <li class="breadcrumb-item active">Add repository</li>
+        <li class="breadcrumb-item active">Search in GITANALYTICS</li>
       </ol>
-      <!-- Example DataTables Card-->
-      <div class="card mb-3">
+      <!-- Icon Cards-->
+      <div class="row">
+        
+			<div class="col-xl-12 col-sm-6 mb-3">
+        </div>
+      </div>
+			<div class="card mb-3">
         <div class="card-header">
-          <i class="fa fa-table"></i> Add a repository to analyze
+					<table>
+						<tr>
+							<td width="27px" valign="middle"><i class="fa fa-beer"></i></td>
+							<td id="infos" valign="baseline"> What is GITANALYTICS?</td>
+						</tr>
+					</table>
 				</div>
         <div class="card-body">
-				<div class ="row">
-					<div class="col-xl-6 col-sm-6 mb-3">
-						<div class="form-group">
-						<label for="usr">Owner:</label>
-						<input id="txtOwner" type="text" class="form-control"></input>
-						</div>
-						<div class="form-group">
-						<label for="usr">Repository:</label>
-						<input id="txtRepo" type="text" class="form-control"></input>
-						</div>
-						<button id="myButton" type="button" class="btn btn-success" onclick="processRequest()" data-toggle="tooltip" data-placement="bottom" title="The owner and repository will appear in the table below whitin 1 minute after the request has been processed">Send request</button>
+					<div id="infoPan" class="col-xl-12 col-sm-6 mb-3">
+						<h3>GitAnalytics is a website that provides some analyses of pull requests in GitHub</h3><br/>
+						<div class="alert alert-info"><h5>The project must be public and have at leat one pull request</h5></div>
+						<div class="alert alert-success"><h5>You can show the analyse for a incresable list of repositories (Sidebar > Analysis)</h5></div>
+						<div class="alert alert-success"><h5>You can add a repository to analyse (Sidebar > Add repository)</h5></div>
+						<div class="alert alert-warning"><h5>Our agent fetch data from GitHub API every hour (XXh40)</h5></div>
+						<div class="alert alert-danger"><h5>When you add a new repository to fetch, please wait for your request to appear on the board below</h5></div>
 					</div>
-					<div id="infoPan" class="col-xl-6 col-sm-6 mb-3 panel panel-warning">
-					</div>
-				</div>
 				</div>
 			</div>
-      <!-- Example DataTables Card-->
-      <div class="card mb-3">
-        <div class="card-header">
-          <i class="fa fa-table"></i> Available repositories </div>
-        <div class="card-body">
-          <div id="myTable" class="table-responsive">
-            <table class="table table-bordered" id="dataTable" width="100%" cellspacing="0">
-              <thead>
-                <tr>
-                  <th>Owner</th>
-                  <th>Repository</th>
-                </tr>
-              </thead>
-              <tfoot>
-                <tr>
-                  <th>Owner</th>
-                  <th>Repository</th>
-                </tr>
-              </tfoot>
-              <tbody>
-              </tbody>
-            </table>
-          </div>
-        </div>
-        <div class="card-footer small text-muted"></div>
-      </div>
     </div>
     <!-- /.container-fluid-->
     <!-- /.content-wrapper-->
@@ -116,22 +93,18 @@
     <a class="scroll-to-top rounded" href="#page-top">
       <i class="fa fa-angle-up"></i>
     </a>
-    <!-- Bootstrap core JavaScript-->
+  </div>
+	</div>
+	<!-- Bootstrap core JavaScript-->
     <script src="vendor/jquery/jquery.min.js"></script>
     <script src="vendor/popper/popper.min.js"></script>
     <script src="vendor/bootstrap/js/bootstrap.min.js"></script>
     <!-- Core plugin JavaScript-->
     <script src="vendor/jquery-easing/jquery.easing.min.js"></script>
-    
+    <!-- Page level plugin JavaScript-->
+    <script src="vendor/chart.js/Chart.min.js"></script>
     <!-- Custom scripts for all pages-->
     <script src="js/sb-admin.min.js"></script>
-    <!-- Custom scripts for this page-->
-    <script src="js/sb-admin-datatables.min.js"></script>
-		<script src="js/addpr.js"></script>
-		<!-- Page level plugin JavaScript-->
-    <script src="vendor/datatables/jquery.dataTables.js"></script>
-    <script src="vendor/datatables/dataTables.bootstrap4.js"></script>
-  </div>
 </body>
 
 </html>
