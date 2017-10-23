@@ -29,11 +29,11 @@ After downloading you have to edit some files to make it work "locally" (the age
 
 In the API rest (runs on port 3000 locally):
 - ./routes/routes.js at line 65 : Change the location of the config.json file (it has to be in a generated_files folder located at the root of your website folder)
-- ./github-crendentials.json : Add your username and a valid github token (generate it from GitHub Website)
+- ./github-crendentials.json : Add your GitHub username and a valid GitHub token (generate it from GitHub Website)
 
 In the Agent:
 - ./src/agent.js at line 29 : Change the destination repository, is the repository of your website.
-- ./github-crendentials.json : Add your username and a valid github token (generate it from GitHub Website)
+- ./github-crendentials.json : Add your GitHub username and a valid GitHub token (generate it from GitHub Website)
 
 In the UI (WebSite):
 - ./js/addpr.js at line 26 : The URL to contact your API rest. Let the /addpr at the end of the URL
