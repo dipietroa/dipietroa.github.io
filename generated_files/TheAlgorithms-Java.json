@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-10-22T17:56:57.826Z",
+  "lastUpdate": "2017-10-23T14:41:48.171Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
-  "totalPR": 236,
+  "totalPR": 239,
   "lastPR": {
-    "createdAt": "2017-10-22T17:23:14Z",
-    "username": "sanghaisubham"
+    "createdAt": "2017-10-23T11:07:19Z",
+    "username": "MSSIDDIQUE"
   },
   "bestPR": {
     "user": "theycallmemac",
@@ -23,6 +23,21 @@
     "image": "https://avatars0.githubusercontent.com/u/21992243?v=4"
   },
   "userPRInfos": {
+    "MSSIDDIQUE": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/24757345?v=4"
+    },
+    "Goel-Ayush": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/22699401?v=4"
+    },
+    "dadobt": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/5913204?v=4"
+    },
     "sanghaisubham": {
       "total": 6,
       "merged": 0,
@@ -626,7 +641,7 @@
   },
   "datePRInfos": {
     "Octobre-2017": {
-      "total": 133,
+      "total": 136,
       "merged": 27
     },
     "Septembre-2017": {
