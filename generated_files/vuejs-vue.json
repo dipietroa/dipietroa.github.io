@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2017-10-23T11:52:12.680Z",
+  "lastUpdate": "2017-10-23T12:41:47.543Z",
   "cowner": "vuejs",
   "crepo": "vue",
   "totalPR": 918,
@@ -2132,12 +2132,12 @@
       "merged": 1
     },
     "Décembre-2014": {
-      "total": 2,
-      "merged": 1
+      "total": 1,
+      "merged": 0
     },
     "Novembre-2014": {
-      "total": 7,
-      "merged": 2
+      "total": 8,
+      "merged": 3
     },
     "Octobre-2014": {
       "total": 3,
