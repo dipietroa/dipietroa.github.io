@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-10-23T23:08:35.941Z",
+  "lastUpdate": "2017-10-23T23:41:37.674Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
-  "totalPR": 241,
+  "totalPR": 242,
   "lastPR": {
-    "createdAt": "2017-10-23T21:39:36Z",
-    "username": "MattBizzo"
+    "createdAt": "2017-10-23T23:14:35Z",
+    "username": "daacaceressa"
   },
   "bestPR": {
     "user": "theycallmemac",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/6115449?v=4"
   },
   "userPRInfos": {
+    "daacaceressa": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/15721988?v=4"
+    },
     "MattBizzo": {
       "total": 1,
       "merged": 1,
@@ -651,7 +656,7 @@
   },
   "datePRInfos": {
     "Octobre-2017": {
-      "total": 138,
+      "total": 139,
       "merged": 28
     },
     "Septembre-2017": {
