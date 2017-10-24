@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-10-24T07:42:01.939Z",
+  "lastUpdate": "2017-10-24T08:42:05.417Z",
   "cowner": "fastify",
   "crepo": "fastify",
-  "totalPR": 212,
+  "totalPR": 213,
   "lastPR": {
-    "createdAt": "2017-10-24T01:53:20Z",
-    "username": "gj"
+    "createdAt": "2017-10-24T07:45:54Z",
+    "username": "themre"
   },
   "bestPR": {
     "user": "delvedor",
@@ -18,11 +18,16 @@
     "image": "https://avatars0.githubusercontent.com/u/4865608?v=4"
   },
   "bestRatio": {
-    "user": "hankandre",
+    "user": "themre",
     "ratio": 1,
-    "image": "https://avatars1.githubusercontent.com/u/14790223?v=4"
+    "image": "https://avatars0.githubusercontent.com/u/10845050?v=4"
   },
   "userPRInfos": {
+    "themre": {
+      "total": 1,
+      "merged": 1,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/10845050?v=4"
+    },
     "gj": {
       "total": 3,
       "merged": 2,
@@ -216,8 +221,8 @@
   },
   "datePRInfos": {
     "Octobre-2017": {
-      "total": 35,
-      "merged": 26
+      "total": 36,
+      "merged": 27
     },
     "Septembre-2017": {
       "total": 71,
