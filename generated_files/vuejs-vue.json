@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-10-24T11:41:58.677Z",
+  "lastUpdate": "2017-10-24T12:41:50.858Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 922,
+  "totalPR": 923,
   "lastPR": {
-    "createdAt": "2017-10-23T17:50:38Z",
-    "username": "Hanks10100"
+    "createdAt": "2017-10-24T12:33:59Z",
+    "username": "cuteyumiko"
   },
   "bestPR": {
     "user": "kazupon",
@@ -27,6 +27,11 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/28888508?v=4"
+    },
+    "cuteyumiko": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/11626560?v=4"
     },
     "Hanks10100": {
       "total": 18,
@@ -2001,7 +2006,7 @@
   },
   "datePRInfos": {
     "Octobre-2017": {
-      "total": 35,
+      "total": 36,
       "merged": 17
     },
     "Septembre-2017": {
