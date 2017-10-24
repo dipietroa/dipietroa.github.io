@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-10-24T05:41:23.926Z",
+  "lastUpdate": "2017-10-24T06:41:39.280Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
-  "totalPR": 242,
+  "totalPR": 243,
   "lastPR": {
-    "createdAt": "2017-10-23T23:14:35Z",
-    "username": "daacaceressa"
+    "createdAt": "2017-10-24T06:09:14Z",
+    "username": "TechStrix"
   },
   "bestPR": {
     "user": "theycallmemac",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/6115449?v=4"
   },
   "userPRInfos": {
+    "TechStrix": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/3200471?v=4"
+    },
     "daacaceressa": {
       "total": 1,
       "merged": 0,
@@ -656,7 +661,7 @@
   },
   "datePRInfos": {
     "Octobre-2017": {
-      "total": 139,
+      "total": 140,
       "merged": 28
     },
     "Septembre-2017": {
