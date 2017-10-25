@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-10-24T23:41:52.298Z",
+  "lastUpdate": "2017-10-25T00:41:27.503Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
-  "totalPR": 244,
+  "totalPR": 245,
   "lastPR": {
-    "createdAt": "2017-10-24T12:40:01Z",
-    "username": "green-leaves"
+    "createdAt": "2017-10-25T00:20:43Z",
+    "username": "kSinghParth"
   },
   "bestPR": {
     "user": "theycallmemac",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/6115449?v=4"
   },
   "userPRInfos": {
+    "kSinghParth": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/22472304?v=4"
+    },
     "green-leaves": {
       "total": 1,
       "merged": 0,
@@ -666,7 +671,7 @@
   },
   "datePRInfos": {
     "Octobre-2017": {
-      "total": 141,
+      "total": 142,
       "merged": 28
     },
     "Septembre-2017": {
