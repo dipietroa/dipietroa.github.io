@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-10-25T17:41:25.612Z",
+  "lastUpdate": "2017-10-25T18:41:28.315Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
-  "totalPR": 249,
+  "totalPR": 250,
   "lastPR": {
-    "createdAt": "2017-10-25T17:01:01Z",
-    "username": "PAPERPANKS"
+    "createdAt": "2017-10-25T17:43:32Z",
+    "username": "YJDave"
   },
   "bestPR": {
     "user": "theycallmemac",
@@ -23,6 +23,11 @@
     "image": "https://avatars0.githubusercontent.com/u/9281319?v=4"
   },
   "userPRInfos": {
+    "YJDave": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/25907420?v=4"
+    },
     "PAPERPANKS": {
       "total": 2,
       "merged": 1,
@@ -686,7 +691,7 @@
   },
   "datePRInfos": {
     "Octobre-2017": {
-      "total": 146,
+      "total": 147,
       "merged": 32
     },
     "Septembre-2017": {
