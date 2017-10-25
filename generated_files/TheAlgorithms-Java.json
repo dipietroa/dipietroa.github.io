@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-10-25T04:41:02.203Z",
+  "lastUpdate": "2017-10-25T05:41:35.285Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
-  "totalPR": 245,
+  "totalPR": 246,
   "lastPR": {
-    "createdAt": "2017-10-25T00:20:43Z",
-    "username": "kSinghParth"
+    "createdAt": "2017-10-25T05:08:29Z",
+    "username": "rahulkhairwar"
   },
   "bestPR": {
     "user": "theycallmemac",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/6115449?v=4"
   },
   "userPRInfos": {
+    "rahulkhairwar": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/6687820?v=4"
+    },
     "kSinghParth": {
       "total": 1,
       "merged": 0,
@@ -671,7 +676,7 @@
   },
   "datePRInfos": {
     "Octobre-2017": {
-      "total": 142,
+      "total": 143,
       "merged": 28
     },
     "Septembre-2017": {
