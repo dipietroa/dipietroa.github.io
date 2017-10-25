@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2017-10-25T04:41:16.233Z",
+  "lastUpdate": "2017-10-25T05:41:48.985Z",
   "cowner": "vuejs",
   "crepo": "vue",
   "totalPR": 924,
@@ -18,9 +18,9 @@
     "image": "https://avatars1.githubusercontent.com/u/72989?v=4"
   },
   "bestRatio": {
-    "user": "raymondmuller",
+    "user": "HcySunYang",
     "ratio": 1,
-    "image": "https://avatars0.githubusercontent.com/u/3808818?v=4"
+    "image": "https://avatars2.githubusercontent.com/u/14146560?v=4"
   },
   "userPRInfos": {
     "957685677": {
@@ -30,7 +30,7 @@
     },
     "cuteyumiko": {
       "total": 2,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/11626560?v=4"
     },
     "Hanks10100": {
@@ -45,7 +45,7 @@
     },
     "HerringtonDarkholme": {
       "total": 21,
-      "merged": 17,
+      "merged": 18,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/2883231?v=4"
     },
     "imyzf": {
@@ -70,7 +70,7 @@
     },
     "HcySunYang": {
       "total": 2,
-      "merged": 1,
+      "merged": 2,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/14146560?v=4"
     },
     "Dafrok": {
@@ -2007,7 +2007,7 @@
   "datePRInfos": {
     "Octobre-2017": {
       "total": 37,
-      "merged": 17
+      "merged": 20
     },
     "Septembre-2017": {
       "total": 39,
