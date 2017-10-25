@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-10-25T05:41:55.319Z",
+  "lastUpdate": "2017-10-25T06:41:52.009Z",
   "cowner": "fastify",
   "crepo": "fastify",
-  "totalPR": 213,
+  "totalPR": 214,
   "lastPR": {
-    "createdAt": "2017-10-24T07:45:54Z",
-    "username": "themre"
+    "createdAt": "2017-10-25T05:44:55Z",
+    "username": "wong2"
   },
   "bestPR": {
     "user": "delvedor",
@@ -23,6 +23,11 @@
     "image": "https://avatars0.githubusercontent.com/u/10845050?v=4"
   },
   "userPRInfos": {
+    "wong2": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/321947?v=4"
+    },
     "themre": {
       "total": 1,
       "merged": 1,
@@ -221,7 +226,7 @@
   },
   "datePRInfos": {
     "Octobre-2017": {
-      "total": 36,
+      "total": 37,
       "merged": 27
     },
     "Septembre-2017": {
