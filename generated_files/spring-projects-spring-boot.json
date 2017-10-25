@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-10-25T09:27:47.523Z",
+  "lastUpdate": "2017-10-25T09:40:58.717Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2099,
+  "totalPR": 2100,
   "lastPR": {
-    "createdAt": "2017-10-25T08:13:55Z",
-    "username": "anchal0997"
+    "createdAt": "2017-10-25T09:36:29Z",
+    "username": "hengyunabc"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1492299?v=4"
   },
   "userPRInfos": {
+    "hengyunabc": {
+      "total": 7,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/1683936?v=4"
+    },
     "anchal0997": {
       "total": 1,
       "merged": 0,
@@ -47,11 +52,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/31508490?v=4"
-    },
-    "hengyunabc": {
-      "total": 6,
-      "merged": 0,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/1683936?v=4"
     },
     "vadeg": {
       "total": 1,
@@ -3376,7 +3376,7 @@
   },
   "datePRInfos": {
     "Octobre-2017": {
-      "total": 67,
+      "total": 68,
       "merged": 1
     },
     "Septembre-2017": {
