@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-10-25T19:41:32.514Z",
+  "lastUpdate": "2017-10-25T20:41:19.896Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
-  "totalPR": 251,
+  "totalPR": 252,
   "lastPR": {
-    "createdAt": "2017-10-25T18:47:48Z",
-    "username": "jaindharmesh52"
+    "createdAt": "2017-10-25T20:17:42Z",
+    "username": "silentlad1"
   },
   "bestPR": {
     "user": "theycallmemac",
@@ -23,6 +23,11 @@
     "image": "https://avatars0.githubusercontent.com/u/9281319?v=4"
   },
   "userPRInfos": {
+    "silentlad1": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/30868400?v=4"
+    },
     "jaindharmesh52": {
       "total": 1,
       "merged": 0,
@@ -696,7 +701,7 @@
   },
   "datePRInfos": {
     "Octobre-2017": {
-      "total": 148,
+      "total": 149,
       "merged": 32
     },
     "Septembre-2017": {
