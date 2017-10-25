@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-10-25T07:41:21.369Z",
+  "lastUpdate": "2017-10-25T08:41:03.629Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2098,
+  "totalPR": 2099,
   "lastPR": {
-    "createdAt": "2017-10-25T06:30:58Z",
-    "username": "thelmstedt"
+    "createdAt": "2017-10-25T08:13:55Z",
+    "username": "anchal0997"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1492299?v=4"
   },
   "userPRInfos": {
+    "anchal0997": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/21989049?v=4"
+    },
     "thelmstedt": {
       "total": 1,
       "merged": 0,
@@ -3371,7 +3376,7 @@
   },
   "datePRInfos": {
     "Octobre-2017": {
-      "total": 66,
+      "total": 67,
       "merged": 1
     },
     "Septembre-2017": {
