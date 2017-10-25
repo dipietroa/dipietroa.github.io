@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-10-25T16:41:38.683Z",
+  "lastUpdate": "2017-10-25T17:41:25.612Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
-  "totalPR": 248,
+  "totalPR": 249,
   "lastPR": {
-    "createdAt": "2017-10-25T13:23:34Z",
-    "username": "Kromzem"
+    "createdAt": "2017-10-25T17:01:01Z",
+    "username": "PAPERPANKS"
   },
   "bestPR": {
     "user": "theycallmemac",
@@ -23,6 +23,11 @@
     "image": "https://avatars0.githubusercontent.com/u/9281319?v=4"
   },
   "userPRInfos": {
+    "PAPERPANKS": {
+      "total": 2,
+      "merged": 1,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/13312568?v=4"
+    },
     "Kromzem": {
       "total": 1,
       "merged": 0,
@@ -403,11 +408,6 @@
       "merged": 1,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/30278676?v=4"
     },
-    "PAPERPANKS": {
-      "total": 1,
-      "merged": 1,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/13312568?v=4"
-    },
     "ribhav-pahuja": {
       "total": 1,
       "merged": 1,
@@ -686,7 +686,7 @@
   },
   "datePRInfos": {
     "Octobre-2017": {
-      "total": 145,
+      "total": 146,
       "merged": 32
     },
     "Septembre-2017": {
