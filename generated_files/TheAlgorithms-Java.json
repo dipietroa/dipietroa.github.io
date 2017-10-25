@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2017-10-25T10:41:31.085Z",
+  "lastUpdate": "2017-10-25T11:40:59.694Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
   "totalPR": 247,
@@ -18,9 +18,9 @@
     "image": "https://avatars1.githubusercontent.com/u/16108563?v=4"
   },
   "bestRatio": {
-    "user": "MattBizzo",
+    "user": "green-leaves",
     "ratio": 1,
-    "image": "https://avatars1.githubusercontent.com/u/6115449?v=4"
+    "image": "https://avatars0.githubusercontent.com/u/9281319?v=4"
   },
   "userPRInfos": {
     "ReturnHttp402": {
@@ -40,7 +40,7 @@
     },
     "green-leaves": {
       "total": 1,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/9281319?v=4"
     },
     "TechStrix": {
@@ -395,7 +395,7 @@
     },
     "achaJackson": {
       "total": 1,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/30278676?v=4"
     },
     "PAPERPANKS": {
@@ -405,7 +405,7 @@
     },
     "ribhav-pahuja": {
       "total": 1,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/28953852?v=4"
     },
     "tifa64": {
@@ -682,7 +682,7 @@
   "datePRInfos": {
     "Octobre-2017": {
       "total": 144,
-      "merged": 28
+      "merged": 31
     },
     "Septembre-2017": {
       "total": 21,
