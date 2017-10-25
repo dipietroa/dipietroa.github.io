@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-10-25T18:41:16.171Z",
+  "lastUpdate": "2017-10-25T19:41:21.975Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2100,
+  "totalPR": 2101,
   "lastPR": {
-    "createdAt": "2017-10-25T09:36:29Z",
-    "username": "hengyunabc"
+    "createdAt": "2017-10-25T19:34:38Z",
+    "username": "rweisleder"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1492299?v=4"
   },
   "userPRInfos": {
+    "rweisleder": {
+      "total": 2,
+      "merged": 0,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/1654369?v=4"
+    },
     "hengyunabc": {
       "total": 7,
       "merged": 0,
@@ -957,11 +962,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/6384857?v=4"
-    },
-    "rweisleder": {
-      "total": 1,
-      "merged": 0,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/1654369?v=4"
     },
     "marksailes": {
       "total": 1,
@@ -3376,7 +3376,7 @@
   },
   "datePRInfos": {
     "Octobre-2017": {
-      "total": 68,
+      "total": 69,
       "merged": 1
     },
     "Septembre-2017": {
