@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-10-25T13:41:49.405Z",
+  "lastUpdate": "2017-10-25T14:41:58.528Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 924,
+  "totalPR": 925,
   "lastPR": {
-    "createdAt": "2017-10-25T03:01:26Z",
-    "username": "cuteyumiko"
+    "createdAt": "2017-10-25T13:57:37Z",
+    "username": "gebilaoxiong"
   },
   "bestPR": {
     "user": "kazupon",
@@ -27,6 +27,11 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/28888508?v=4"
+    },
+    "gebilaoxiong": {
+      "total": 18,
+      "merged": 12,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/11804936?v=4"
     },
     "cuteyumiko": {
       "total": 2,
@@ -387,11 +392,6 @@
       "total": 2,
       "merged": 2,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/308262?v=4"
-    },
-    "gebilaoxiong": {
-      "total": 17,
-      "merged": 12,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/11804936?v=4"
     },
     "alfa-jpn": {
       "total": 1,
@@ -2006,7 +2006,7 @@
   },
   "datePRInfos": {
     "Octobre-2017": {
-      "total": 37,
+      "total": 38,
       "merged": 20
     },
     "Septembre-2017": {
