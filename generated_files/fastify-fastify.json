@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2017-10-26T14:42:07.343Z",
+  "lastUpdate": "2017-10-26T15:42:18.939Z",
   "cowner": "fastify",
   "crepo": "fastify",
   "totalPR": 217,
@@ -18,9 +18,9 @@
     "image": "https://avatars0.githubusercontent.com/u/4865608?v=4"
   },
   "bestRatio": {
-    "user": "wong2",
+    "user": "Cameron-C-Chapman",
     "ratio": 1,
-    "image": "https://avatars1.githubusercontent.com/u/321947?v=4"
+    "image": "https://avatars3.githubusercontent.com/u/1323581?v=4"
   },
   "userPRInfos": {
     "greenkeeper[bot]": {
@@ -30,12 +30,12 @@
     },
     "Cameron-C-Chapman": {
       "total": 1,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/1323581?v=4"
     },
     "evanshortiss": {
       "total": 2,
-      "merged": 1,
+      "merged": 2,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/1303687?v=4"
     },
     "wong2": {
@@ -232,7 +232,7 @@
   "datePRInfos": {
     "Octobre-2017": {
       "total": 40,
-      "merged": 29
+      "merged": 31
     },
     "Septembre-2017": {
       "total": 71,
