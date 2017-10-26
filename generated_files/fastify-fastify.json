@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-10-25T23:41:48.006Z",
+  "lastUpdate": "2017-10-26T00:41:37.335Z",
   "cowner": "fastify",
   "crepo": "fastify",
-  "totalPR": 214,
+  "totalPR": 215,
   "lastPR": {
-    "createdAt": "2017-10-25T05:44:55Z",
-    "username": "wong2"
+    "createdAt": "2017-10-25T23:43:32Z",
+    "username": "evanshortiss"
   },
   "bestPR": {
     "user": "delvedor",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/321947?v=4"
   },
   "userPRInfos": {
+    "evanshortiss": {
+      "total": 2,
+      "merged": 1,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/1303687?v=4"
+    },
     "wong2": {
       "total": 1,
       "merged": 1,
@@ -178,11 +183,6 @@
       "merged": 1,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/7425261?v=4"
     },
-    "evanshortiss": {
-      "total": 1,
-      "merged": 1,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/1303687?v=4"
-    },
     "sigkell": {
       "total": 1,
       "merged": 1,
@@ -226,7 +226,7 @@
   },
   "datePRInfos": {
     "Octobre-2017": {
-      "total": 37,
+      "total": 38,
       "merged": 28
     },
     "Septembre-2017": {
