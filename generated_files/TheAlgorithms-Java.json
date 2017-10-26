@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-10-26T15:41:47.148Z",
+  "lastUpdate": "2017-10-26T16:41:41.744Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
-  "totalPR": 256,
+  "totalPR": 257,
   "lastPR": {
-    "createdAt": "2017-10-26T03:18:44Z",
-    "username": "GeoffYart"
+    "createdAt": "2017-10-26T16:24:37Z",
+    "username": "justmeshishir"
   },
   "bestPR": {
     "user": "theycallmemac",
@@ -23,6 +23,11 @@
     "image": "https://avatars0.githubusercontent.com/u/9281319?v=4"
   },
   "userPRInfos": {
+    "justmeshishir": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/20252782?v=4"
+    },
     "GeoffYart": {
       "total": 2,
       "merged": 0,
@@ -716,7 +721,7 @@
   },
   "datePRInfos": {
     "Octobre-2017": {
-      "total": 153,
+      "total": 154,
       "merged": 32
     },
     "Septembre-2017": {
