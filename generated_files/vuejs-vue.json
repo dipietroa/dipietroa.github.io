@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-10-26T17:41:57.582Z",
+  "lastUpdate": "2017-10-26T19:41:53.895Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 928,
+  "totalPR": 929,
   "lastPR": {
-    "createdAt": "2017-10-26T10:06:31Z",
-    "username": "Hanks10100"
+    "createdAt": "2017-10-26T18:52:22Z",
+    "username": "fenduru"
   },
   "bestPR": {
     "user": "kazupon",
@@ -27,6 +27,11 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/28888508?v=4"
+    },
+    "fenduru": {
+      "total": 2,
+      "merged": 1,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/1354771?v=4"
     },
     "Hanks10100": {
       "total": 19,
@@ -312,11 +317,6 @@
       "total": 7,
       "merged": 7,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/457552?v=4"
-    },
-    "fenduru": {
-      "total": 1,
-      "merged": 1,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/1354771?v=4"
     },
     "cwang22": {
       "total": 1,
@@ -2016,7 +2016,7 @@
   },
   "datePRInfos": {
     "Octobre-2017": {
-      "total": 41,
+      "total": 42,
       "merged": 20
     },
     "Septembre-2017": {
