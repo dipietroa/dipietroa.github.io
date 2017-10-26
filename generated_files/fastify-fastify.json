@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-10-26T13:41:58.602Z",
+  "lastUpdate": "2017-10-26T14:42:07.343Z",
   "cowner": "fastify",
   "crepo": "fastify",
-  "totalPR": 216,
+  "totalPR": 217,
   "lastPR": {
-    "createdAt": "2017-10-26T01:59:53Z",
-    "username": "Cameron-C-Chapman"
+    "createdAt": "2017-10-26T13:49:27Z",
+    "username": "greenkeeper[bot]"
   },
   "bestPR": {
     "user": "delvedor",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/321947?v=4"
   },
   "userPRInfos": {
+    "greenkeeper[bot]": {
+      "total": 28,
+      "merged": 17,
+      "avatarUrl": "https://avatars3.githubusercontent.com/in/505?v=4"
+    },
     "Cameron-C-Chapman": {
       "total": 1,
       "merged": 0,
@@ -52,11 +57,6 @@
       "total": 3,
       "merged": 2,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/3704147?v=4"
-    },
-    "greenkeeper[bot]": {
-      "total": 27,
-      "merged": 16,
-      "avatarUrl": "https://avatars3.githubusercontent.com/in/505?v=4"
     },
     "allevo": {
       "total": 25,
@@ -231,8 +231,8 @@
   },
   "datePRInfos": {
     "Octobre-2017": {
-      "total": 39,
-      "merged": 28
+      "total": 40,
+      "merged": 29
     },
     "Septembre-2017": {
       "total": 71,
