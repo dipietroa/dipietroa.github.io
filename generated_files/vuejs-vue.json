@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-10-26T19:41:53.895Z",
+  "lastUpdate": "2017-10-26T20:41:41.078Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 929,
+  "totalPR": 930,
   "lastPR": {
-    "createdAt": "2017-10-26T18:52:22Z",
-    "username": "fenduru"
+    "createdAt": "2017-10-26T20:17:40Z",
+    "username": "eschalks"
   },
   "bestPR": {
     "user": "kazupon",
@@ -27,6 +27,11 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/28888508?v=4"
+    },
+    "eschalks": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/470429?v=4"
     },
     "fenduru": {
       "total": 2,
@@ -2016,7 +2021,7 @@
   },
   "datePRInfos": {
     "Octobre-2017": {
-      "total": 42,
+      "total": 43,
       "merged": 20
     },
     "Septembre-2017": {
