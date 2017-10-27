@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-10-26T23:41:18.610Z",
+  "lastUpdate": "2017-10-27T00:41:35.043Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
-  "totalPR": 258,
+  "totalPR": 259,
   "lastPR": {
-    "createdAt": "2017-10-26T20:53:27Z",
-    "username": "GeoffYart"
+    "createdAt": "2017-10-27T00:13:44Z",
+    "username": "KennethNero"
   },
   "bestPR": {
     "user": "theycallmemac",
@@ -23,6 +23,11 @@
     "image": "https://avatars0.githubusercontent.com/u/9281319?v=4"
   },
   "userPRInfos": {
+    "KennethNero": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/33138237?v=4"
+    },
     "GeoffYart": {
       "total": 3,
       "merged": 0,
@@ -721,7 +726,7 @@
   },
   "datePRInfos": {
     "Octobre-2017": {
-      "total": 155,
+      "total": 156,
       "merged": 32
     },
     "Septembre-2017": {
