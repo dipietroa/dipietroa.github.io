@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2017-10-27T00:41:49.781Z",
+  "lastUpdate": "2017-10-27T01:41:35.346Z",
   "cowner": "vuejs",
   "crepo": "vue",
   "totalPR": 930,
@@ -18,9 +18,9 @@
     "image": "https://avatars1.githubusercontent.com/u/72989?v=4"
   },
   "bestRatio": {
-    "user": "HcySunYang",
+    "user": "fenduru",
     "ratio": 1,
-    "image": "https://avatars2.githubusercontent.com/u/14146560?v=4"
+    "image": "https://avatars3.githubusercontent.com/u/1354771?v=4"
   },
   "userPRInfos": {
     "957685677": {
@@ -35,7 +35,7 @@
     },
     "fenduru": {
       "total": 2,
-      "merged": 1,
+      "merged": 2,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/1354771?v=4"
     },
     "Hanks10100": {
@@ -2022,7 +2022,7 @@
   "datePRInfos": {
     "Octobre-2017": {
       "total": 43,
-      "merged": 20
+      "merged": 21
     },
     "Septembre-2017": {
       "total": 39,
