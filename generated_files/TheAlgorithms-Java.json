@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2017-10-27T08:41:11.076Z",
+  "lastUpdate": "2017-10-27T09:41:40.140Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
   "totalPR": 259,
@@ -18,14 +18,14 @@
     "image": "https://avatars1.githubusercontent.com/u/16108563?v=4"
   },
   "bestRatio": {
-    "user": "green-leaves",
+    "user": "KennethNero",
     "ratio": 1,
-    "image": "https://avatars0.githubusercontent.com/u/9281319?v=4"
+    "image": "https://avatars0.githubusercontent.com/u/33138237?v=4"
   },
   "userPRInfos": {
     "KennethNero": {
       "total": 1,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/33138237?v=4"
     },
     "GeoffYart": {
@@ -415,7 +415,7 @@
     },
     "KyleScharnhorst": {
       "total": 3,
-      "merged": 1,
+      "merged": 3,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/9146614?v=4"
     },
     "freitzzz": {
@@ -435,12 +435,12 @@
     },
     "karimElmougi": {
       "total": 1,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/22304768?v=4"
     },
     "dpacmen": {
       "total": 5,
-      "merged": 4,
+      "merged": 5,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/24369575?v=4"
     },
     "achaJackson": {
@@ -455,7 +455,7 @@
     },
     "tifa64": {
       "total": 1,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/5209532?v=4"
     },
     "udayvig": {
@@ -465,7 +465,7 @@
     },
     "dhinske": {
       "total": 1,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/17208184?v=4"
     },
     "lvncnt": {
@@ -475,7 +475,7 @@
     },
     "WilliamTomOBrien": {
       "total": 1,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/29744773?v=4"
     },
     "manmeet-22": {
@@ -490,7 +490,7 @@
     },
     "dheeraj92": {
       "total": 2,
-      "merged": 1,
+      "merged": 2,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/4792832?v=4"
     },
     "daniel-mueller": {
@@ -727,7 +727,7 @@
   "datePRInfos": {
     "Octobre-2017": {
       "total": 156,
-      "merged": 32
+      "merged": 41
     },
     "Septembre-2017": {
       "total": 21,
