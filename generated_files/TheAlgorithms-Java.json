@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-10-27T10:41:24.279Z",
+  "lastUpdate": "2017-10-27T11:41:19.041Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
-  "totalPR": 259,
+  "totalPR": 260,
   "lastPR": {
-    "createdAt": "2017-10-27T00:13:44Z",
-    "username": "KennethNero"
+    "createdAt": "2017-10-27T11:05:53Z",
+    "username": "Kromzem"
   },
   "bestPR": {
     "user": "theycallmemac",
@@ -23,6 +23,11 @@
     "image": "https://avatars0.githubusercontent.com/u/33138237?v=4"
   },
   "userPRInfos": {
+    "Kromzem": {
+      "total": 2,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/6073096?v=4"
+    },
     "KennethNero": {
       "total": 1,
       "merged": 1,
@@ -67,11 +72,6 @@
       "total": 2,
       "merged": 1,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/13312568?v=4"
-    },
-    "Kromzem": {
-      "total": 1,
-      "merged": 0,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/6073096?v=4"
     },
     "ReturnHttp402": {
       "total": 1,
@@ -726,7 +726,7 @@
   },
   "datePRInfos": {
     "Octobre-2017": {
-      "total": 156,
+      "total": 157,
       "merged": 41
     },
     "Septembre-2017": {
