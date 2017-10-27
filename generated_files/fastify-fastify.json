@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-10-27T16:42:15.958Z",
+  "lastUpdate": "2017-10-27T17:42:21.374Z",
   "cowner": "fastify",
   "crepo": "fastify",
-  "totalPR": 219,
+  "totalPR": 220,
   "lastPR": {
-    "createdAt": "2017-10-26T17:23:29Z",
-    "username": "delvedor"
+    "createdAt": "2017-10-27T17:20:49Z",
+    "username": "SerayaEryn"
   },
   "bestPR": {
     "user": "delvedor",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1323581?v=4"
   },
   "userPRInfos": {
+    "SerayaEryn": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/22620443?v=4"
+    },
     "delvedor": {
       "total": 55,
       "merged": 54,
@@ -231,7 +236,7 @@
   },
   "datePRInfos": {
     "Octobre-2017": {
-      "total": 42,
+      "total": 43,
       "merged": 33
     },
     "Septembre-2017": {
