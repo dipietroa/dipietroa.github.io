@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-10-27T05:41:41.336Z",
+  "lastUpdate": "2017-10-27T06:41:26.594Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 930,
+  "totalPR": 931,
   "lastPR": {
-    "createdAt": "2017-10-26T20:17:40Z",
-    "username": "eschalks"
+    "createdAt": "2017-10-27T05:50:06Z",
+    "username": "lizhiyao"
   },
   "bestPR": {
     "user": "kazupon",
@@ -27,6 +27,11 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/28888508?v=4"
+    },
+    "lizhiyao": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/8143023?v=4"
     },
     "eschalks": {
       "total": 1,
@@ -2021,7 +2026,7 @@
   },
   "datePRInfos": {
     "Octobre-2017": {
-      "total": 43,
+      "total": 44,
       "merged": 21
     },
     "Septembre-2017": {
