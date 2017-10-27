@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-10-27T09:41:56.487Z",
+  "lastUpdate": "2017-10-27T10:41:38.728Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 931,
+  "totalPR": 933,
   "lastPR": {
-    "createdAt": "2017-10-27T05:50:06Z",
-    "username": "lizhiyao"
+    "createdAt": "2017-10-27T10:28:30Z",
+    "username": "javoski"
   },
   "bestPR": {
     "user": "kazupon",
@@ -27,6 +27,16 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/28888508?v=4"
+    },
+    "javoski": {
+      "total": 26,
+      "merged": 20,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/5391892?v=4"
+    },
+    "alexandru-paduraru": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/2517758?v=4"
     },
     "lizhiyao": {
       "total": 1,
@@ -202,11 +212,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/20450069?v=4"
-    },
-    "javoski": {
-      "total": 25,
-      "merged": 20,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/5391892?v=4"
     },
     "callumacrae": {
       "total": 1,
@@ -2026,7 +2031,7 @@
   },
   "datePRInfos": {
     "Octobre-2017": {
-      "total": 44,
+      "total": 46,
       "merged": 21
     },
     "Septembre-2017": {
