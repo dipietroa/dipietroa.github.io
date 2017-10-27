@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2017-10-27T11:41:40.497Z",
+  "lastUpdate": "2017-10-27T12:41:58.432Z",
   "cowner": "fastify",
   "crepo": "fastify",
   "totalPR": 219,
@@ -65,7 +65,7 @@
     },
     "kuritkaj": {
       "total": 3,
-      "merged": 2,
+      "merged": 3,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/3704147?v=4"
     },
     "hankandre": {
@@ -232,7 +232,7 @@
   "datePRInfos": {
     "Octobre-2017": {
       "total": 42,
-      "merged": 32
+      "merged": 33
     },
     "Septembre-2017": {
       "total": 71,
