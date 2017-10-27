@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-10-27T14:41:57.258Z",
+  "lastUpdate": "2017-10-27T15:41:40.336Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
-  "totalPR": 260,
+  "totalPR": 262,
   "lastPR": {
-    "createdAt": "2017-10-27T11:05:53Z",
-    "username": "Kromzem"
+    "createdAt": "2017-10-27T15:20:43Z",
+    "username": "teerapat1739"
   },
   "bestPR": {
     "user": "theycallmemac",
@@ -23,6 +23,11 @@
     "image": "https://avatars0.githubusercontent.com/u/33138237?v=4"
   },
   "userPRInfos": {
+    "teerapat1739": {
+      "total": 2,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/26427910?v=4"
+    },
     "Kromzem": {
       "total": 2,
       "merged": 0,
@@ -726,7 +731,7 @@
   },
   "datePRInfos": {
     "Octobre-2017": {
-      "total": 157,
+      "total": 159,
       "merged": 41
     },
     "Septembre-2017": {
