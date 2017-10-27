@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-10-27T17:41:50.718Z",
+  "lastUpdate": "2017-10-27T18:41:42.664Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
-  "totalPR": 263,
+  "totalPR": 266,
   "lastPR": {
-    "createdAt": "2017-10-27T15:50:56Z",
-    "username": "KennethNero"
+    "createdAt": "2017-10-27T18:20:06Z",
+    "username": "teerapat1739"
   },
   "bestPR": {
     "user": "theycallmemac",
@@ -18,20 +18,25 @@
     "image": "https://avatars1.githubusercontent.com/u/16108563?v=4"
   },
   "bestRatio": {
-    "user": "green-leaves",
+    "user": "sahilb2",
     "ratio": 1,
-    "image": "https://avatars0.githubusercontent.com/u/9281319?v=4"
+    "image": "https://avatars0.githubusercontent.com/u/21992243?v=4"
   },
   "userPRInfos": {
+    "teerapat1739": {
+      "total": 4,
+      "merged": 1,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/26427910?v=4"
+    },
+    "sahilb2": {
+      "total": 2,
+      "merged": 2,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/21992243?v=4"
+    },
     "KennethNero": {
       "total": 2,
       "merged": 1,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/33138237?v=4"
-    },
-    "teerapat1739": {
-      "total": 2,
-      "merged": 1,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/26427910?v=4"
     },
     "Kromzem": {
       "total": 2,
@@ -202,11 +207,6 @@
       "total": 2,
       "merged": 0,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/29367028?v=4"
-    },
-    "sahilb2": {
-      "total": 1,
-      "merged": 1,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/21992243?v=4"
     },
     "jobr97": {
       "total": 1,
@@ -731,8 +731,8 @@
   },
   "datePRInfos": {
     "Octobre-2017": {
-      "total": 160,
-      "merged": 42
+      "total": 163,
+      "merged": 43
     },
     "Septembre-2017": {
       "total": 21,
