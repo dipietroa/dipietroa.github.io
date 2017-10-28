@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-10-28T09:41:18.391Z",
+  "lastUpdate": "2017-10-28T10:41:02.076Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
-  "totalPR": 267,
+  "totalPR": 270,
   "lastPR": {
-    "createdAt": "2017-10-28T06:18:04Z",
-    "username": "honeycoder96"
+    "createdAt": "2017-10-28T10:33:48Z",
+    "username": "sandeeproy99"
   },
   "bestPR": {
     "user": "theycallmemac",
@@ -23,6 +23,11 @@
     "image": "https://avatars0.githubusercontent.com/u/21992243?v=4"
   },
   "userPRInfos": {
+    "sandeeproy99": {
+      "total": 3,
+      "merged": 0,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/33170898?v=4"
+    },
     "honeycoder96": {
       "total": 1,
       "merged": 0,
@@ -736,7 +741,7 @@
   },
   "datePRInfos": {
     "Octobre-2017": {
-      "total": 164,
+      "total": 167,
       "merged": 43
     },
     "Septembre-2017": {
