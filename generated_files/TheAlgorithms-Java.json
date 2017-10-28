@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2017-10-28T15:40:57.010Z",
+  "lastUpdate": "2017-10-28T16:41:08.906Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
   "totalPR": 271,
@@ -18,14 +18,14 @@
     "image": "https://avatars1.githubusercontent.com/u/16108563?v=4"
   },
   "bestRatio": {
-    "user": "sahilb2",
+    "user": "freitzzz",
     "ratio": 1,
-    "image": "https://avatars0.githubusercontent.com/u/21992243?v=4"
+    "image": "https://avatars1.githubusercontent.com/u/26190214?v=4"
   },
   "userPRInfos": {
     "freitzzz": {
       "total": 2,
-      "merged": 1,
+      "merged": 2,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/26190214?v=4"
     },
     "sandeeproy99": {
@@ -742,7 +742,7 @@
   "datePRInfos": {
     "Octobre-2017": {
       "total": 168,
-      "merged": 43
+      "merged": 44
     },
     "Septembre-2017": {
       "total": 21,
