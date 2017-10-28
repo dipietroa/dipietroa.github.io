@@ -1,15 +1,15 @@
 {
-  "lastUpdate": "2017-10-28T16:40:57.838Z",
+  "lastUpdate": "2017-10-28T17:35:38.127Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2103,
+  "totalPR": 2104,
   "lastPR": {
-    "createdAt": "2017-10-27T20:07:02Z",
-    "username": "Buzzardo"
+    "createdAt": "2017-10-28T16:53:38Z",
+    "username": "izeye"
   },
   "bestPR": {
     "user": "izeye",
-    "nbPR": 275,
+    "nbPR": 276,
     "image": "https://avatars3.githubusercontent.com/u/1059363?v=4"
   },
   "bestMerged": {
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1492299?v=4"
   },
   "userPRInfos": {
+    "izeye": {
+      "total": 276,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/1059363?v=4"
+    },
     "Buzzardo": {
       "total": 4,
       "merged": 0,
@@ -97,11 +102,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/32830630?v=4"
-    },
-    "izeye": {
-      "total": 275,
-      "merged": 0,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/1059363?v=4"
     },
     "michael-simons": {
       "total": 14,
@@ -3381,7 +3381,7 @@
   },
   "datePRInfos": {
     "Octobre-2017": {
-      "total": 71,
+      "total": 72,
       "merged": 1
     },
     "Septembre-2017": {
