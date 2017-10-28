@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-10-28T05:59:23.526Z",
+  "lastUpdate": "2017-10-28T06:41:20.297Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
-  "totalPR": 266,
+  "totalPR": 267,
   "lastPR": {
-    "createdAt": "2017-10-27T18:20:06Z",
-    "username": "teerapat1739"
+    "createdAt": "2017-10-28T06:18:04Z",
+    "username": "honeycoder96"
   },
   "bestPR": {
     "user": "theycallmemac",
@@ -23,6 +23,11 @@
     "image": "https://avatars0.githubusercontent.com/u/21992243?v=4"
   },
   "userPRInfos": {
+    "honeycoder96": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/23560854?v=4"
+    },
     "teerapat1739": {
       "total": 4,
       "merged": 1,
@@ -731,7 +736,7 @@
   },
   "datePRInfos": {
     "Octobre-2017": {
-      "total": 163,
+      "total": 164,
       "merged": 43
     },
     "Septembre-2017": {
