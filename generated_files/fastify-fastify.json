@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-10-28T13:41:25.442Z",
+  "lastUpdate": "2017-10-28T14:41:19.630Z",
   "cowner": "fastify",
   "crepo": "fastify",
-  "totalPR": 220,
+  "totalPR": 221,
   "lastPR": {
-    "createdAt": "2017-10-27T17:20:49Z",
-    "username": "SerayaEryn"
+    "createdAt": "2017-10-28T13:49:45Z",
+    "username": "mcollina"
   },
   "bestPR": {
     "user": "delvedor",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1323581?v=4"
   },
   "userPRInfos": {
+    "mcollina": {
+      "total": 36,
+      "merged": 33,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/52195?v=4"
+    },
     "SerayaEryn": {
       "total": 1,
       "merged": 0,
@@ -97,11 +102,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/32077482?v=4"
-    },
-    "mcollina": {
-      "total": 35,
-      "merged": 33,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/52195?v=4"
     },
     "paolochiodi": {
       "total": 1,
@@ -236,7 +236,7 @@
   },
   "datePRInfos": {
     "Octobre-2017": {
-      "total": 43,
+      "total": 44,
       "merged": 33
     },
     "Septembre-2017": {
