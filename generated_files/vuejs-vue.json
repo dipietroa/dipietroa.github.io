@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-10-28T14:41:13.111Z",
+  "lastUpdate": "2017-10-28T15:41:11.106Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 935,
+  "totalPR": 936,
   "lastPR": {
-    "createdAt": "2017-10-27T16:11:15Z",
-    "username": "Hanks10100"
+    "createdAt": "2017-10-28T15:17:37Z",
+    "username": "madskonradsen"
   },
   "bestPR": {
     "user": "kazupon",
@@ -27,6 +27,11 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/28888508?v=4"
+    },
+    "madskonradsen": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/1265787?v=4"
     },
     "Hanks10100": {
       "total": 20,
@@ -2031,7 +2036,7 @@
   },
   "datePRInfos": {
     "Octobre-2017": {
-      "total": 48,
+      "total": 49,
       "merged": 21
     },
     "Septembre-2017": {
