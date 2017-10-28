@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-10-28T18:41:26.413Z",
+  "lastUpdate": "2017-10-28T19:41:29.544Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
-  "totalPR": 271,
+  "totalPR": 272,
   "lastPR": {
-    "createdAt": "2017-10-28T12:10:43Z",
-    "username": "freitzzz"
+    "createdAt": "2017-10-28T18:56:30Z",
+    "username": "teerapat1739"
   },
   "bestPR": {
     "user": "theycallmemac",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/26190214?v=4"
   },
   "userPRInfos": {
+    "teerapat1739": {
+      "total": 5,
+      "merged": 1,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/26427910?v=4"
+    },
     "freitzzz": {
       "total": 2,
       "merged": 2,
@@ -37,11 +42,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/23560854?v=4"
-    },
-    "teerapat1739": {
-      "total": 4,
-      "merged": 1,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/26427910?v=4"
     },
     "sahilb2": {
       "total": 2,
@@ -741,7 +741,7 @@
   },
   "datePRInfos": {
     "Octobre-2017": {
-      "total": 168,
+      "total": 169,
       "merged": 44
     },
     "Septembre-2017": {
