@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-10-28T12:07:39.253Z",
+  "lastUpdate": "2017-10-28T12:41:13.462Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
-  "totalPR": 270,
+  "totalPR": 271,
   "lastPR": {
-    "createdAt": "2017-10-28T10:33:48Z",
-    "username": "sandeeproy99"
+    "createdAt": "2017-10-28T12:10:43Z",
+    "username": "freitzzz"
   },
   "bestPR": {
     "user": "theycallmemac",
@@ -23,6 +23,11 @@
     "image": "https://avatars0.githubusercontent.com/u/21992243?v=4"
   },
   "userPRInfos": {
+    "freitzzz": {
+      "total": 2,
+      "merged": 1,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/26190214?v=4"
+    },
     "sandeeproy99": {
       "total": 3,
       "merged": 0,
@@ -433,11 +438,6 @@
       "merged": 3,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/9146614?v=4"
     },
-    "freitzzz": {
-      "total": 1,
-      "merged": 1,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/26190214?v=4"
-    },
     "doomers": {
       "total": 1,
       "merged": 0,
@@ -741,7 +741,7 @@
   },
   "datePRInfos": {
     "Octobre-2017": {
-      "total": 167,
+      "total": 168,
       "merged": 43
     },
     "Septembre-2017": {
