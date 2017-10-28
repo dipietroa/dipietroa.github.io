@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-10-28T20:41:07.540Z",
+  "lastUpdate": "2017-10-28T21:40:59.080Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
-  "totalPR": 272,
+  "totalPR": 273,
   "lastPR": {
-    "createdAt": "2017-10-28T18:56:30Z",
-    "username": "teerapat1739"
+    "createdAt": "2017-10-28T21:11:26Z",
+    "username": "sahilb2"
   },
   "bestPR": {
     "user": "theycallmemac",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/26190214?v=4"
   },
   "userPRInfos": {
+    "sahilb2": {
+      "total": 3,
+      "merged": 2,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/21992243?v=4"
+    },
     "teerapat1739": {
       "total": 5,
       "merged": 1,
@@ -42,11 +47,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/23560854?v=4"
-    },
-    "sahilb2": {
-      "total": 2,
-      "merged": 2,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/21992243?v=4"
     },
     "KennethNero": {
       "total": 2,
@@ -741,7 +741,7 @@
   },
   "datePRInfos": {
     "Octobre-2017": {
-      "total": 169,
+      "total": 170,
       "merged": 44
     },
     "Septembre-2017": {
