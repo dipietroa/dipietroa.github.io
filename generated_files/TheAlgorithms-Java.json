@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2017-10-29T08:41:31.304Z",
+  "lastUpdate": "2017-10-29T09:41:07.509Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
   "totalPR": 274,
@@ -50,7 +50,7 @@
     },
     "honeycoder96": {
       "total": 1,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/23560854?v=4"
     },
     "KennethNero": {
@@ -747,7 +747,7 @@
   "datePRInfos": {
     "Octobre-2017": {
       "total": 171,
-      "merged": 44
+      "merged": 45
     },
     "Septembre-2017": {
       "total": 21,
