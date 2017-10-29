@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-10-29T14:41:06.146Z",
+  "lastUpdate": "2017-10-29T15:41:03.343Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2109,
+  "totalPR": 2110,
   "lastPR": {
-    "createdAt": "2017-10-29T13:28:39Z",
-    "username": "dreis2211"
+    "createdAt": "2017-10-29T14:53:52Z",
+    "username": "alexsderkach"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1492299?v=4"
   },
   "userPRInfos": {
+    "alexsderkach": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/7690479?v=4"
+    },
     "dreis2211": {
       "total": 27,
       "merged": 0,
@@ -3381,7 +3386,7 @@
   },
   "datePRInfos": {
     "Octobre-2017": {
-      "total": 77,
+      "total": 78,
       "merged": 1
     },
     "Septembre-2017": {
