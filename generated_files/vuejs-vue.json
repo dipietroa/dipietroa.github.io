@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-10-29T05:41:22.639Z",
+  "lastUpdate": "2017-10-29T06:41:30.911Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 936,
+  "totalPR": 937,
   "lastPR": {
-    "createdAt": "2017-10-28T15:17:37Z",
-    "username": "madskonradsen"
+    "createdAt": "2017-10-29T06:06:58Z",
+    "username": "gebilaoxiong"
   },
   "bestPR": {
     "user": "kazupon",
@@ -27,6 +27,11 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/28888508?v=4"
+    },
+    "gebilaoxiong": {
+      "total": 19,
+      "merged": 12,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/11804936?v=4"
     },
     "madskonradsen": {
       "total": 1,
@@ -77,11 +82,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/4555635?v=4"
-    },
-    "gebilaoxiong": {
-      "total": 18,
-      "merged": 12,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/11804936?v=4"
     },
     "shiweijie122": {
       "total": 1,
@@ -2036,7 +2036,7 @@
   },
   "datePRInfos": {
     "Octobre-2017": {
-      "total": 49,
+      "total": 50,
       "merged": 21
     },
     "Septembre-2017": {
