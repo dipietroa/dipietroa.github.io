@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-10-29T11:41:30.622Z",
+  "lastUpdate": "2017-10-29T12:41:23.227Z",
   "cowner": "fastify",
   "crepo": "fastify",
-  "totalPR": 222,
+  "totalPR": 223,
   "lastPR": {
-    "createdAt": "2017-10-29T09:29:37Z",
-    "username": "StarpTech"
+    "createdAt": "2017-10-29T12:14:48Z",
+    "username": "SerayaEryn"
   },
   "bestPR": {
     "user": "delvedor",
@@ -18,11 +18,16 @@
     "image": "https://avatars0.githubusercontent.com/u/4865608?v=4"
   },
   "bestRatio": {
-    "user": "SerayaEryn",
+    "user": "Cameron-C-Chapman",
     "ratio": 1,
-    "image": "https://avatars2.githubusercontent.com/u/22620443?v=4"
+    "image": "https://avatars3.githubusercontent.com/u/1323581?v=4"
   },
   "userPRInfos": {
+    "SerayaEryn": {
+      "total": 2,
+      "merged": 1,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/22620443?v=4"
+    },
     "StarpTech": {
       "total": 9,
       "merged": 8,
@@ -32,11 +37,6 @@
       "total": 36,
       "merged": 33,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/52195?v=4"
-    },
-    "SerayaEryn": {
-      "total": 1,
-      "merged": 1,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/22620443?v=4"
     },
     "delvedor": {
       "total": 55,
@@ -236,7 +236,7 @@
   },
   "datePRInfos": {
     "Octobre-2017": {
-      "total": 45,
+      "total": 46,
       "merged": 35
     },
     "Septembre-2017": {
