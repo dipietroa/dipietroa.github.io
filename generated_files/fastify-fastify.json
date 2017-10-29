@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2017-10-29T21:41:33.484Z",
+  "lastUpdate": "2017-10-29T22:41:46.960Z",
   "cowner": "fastify",
   "crepo": "fastify",
   "totalPR": 223,
@@ -135,7 +135,7 @@
     },
     "lucamaraschi": {
       "total": 2,
-      "merged": 1,
+      "merged": 2,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/332968?v=4"
     },
     "benderTheCrime": {
@@ -237,7 +237,7 @@
   "datePRInfos": {
     "Octobre-2017": {
       "total": 46,
-      "merged": 36
+      "merged": 37
     },
     "Septembre-2017": {
       "total": 71,
