@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-10-29T04:55:56.010Z",
+  "lastUpdate": "2017-10-29T05:41:08.331Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
-  "totalPR": 273,
+  "totalPR": 274,
   "lastPR": {
-    "createdAt": "2017-10-28T21:11:26Z",
-    "username": "sahilb2"
+    "createdAt": "2017-10-29T05:30:01Z",
+    "username": "ghn2650"
   },
   "bestPR": {
     "user": "theycallmemac",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/26190214?v=4"
   },
   "userPRInfos": {
+    "ghn2650": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/28135718?v=4"
+    },
     "sahilb2": {
       "total": 3,
       "merged": 2,
@@ -741,7 +746,7 @@
   },
   "datePRInfos": {
     "Octobre-2017": {
-      "total": 170,
+      "total": 171,
       "merged": 44
     },
     "Septembre-2017": {
