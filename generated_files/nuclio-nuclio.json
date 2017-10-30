@@ -1,15 +1,15 @@
 {
-  "lastUpdate": "2017-10-30T17:42:01.196Z",
+  "lastUpdate": "2017-10-30T18:41:43.999Z",
   "cowner": "nuclio",
   "crepo": "nuclio",
-  "totalPR": 194,
+  "totalPR": 195,
   "lastPR": {
-    "createdAt": "2017-10-30T17:00:35Z",
-    "username": "eran-nussbaum"
+    "createdAt": "2017-10-30T17:47:50Z",
+    "username": "pavius"
   },
   "bestPR": {
     "user": "pavius",
-    "nbPR": 124,
+    "nbPR": 125,
     "image": "https://avatars2.githubusercontent.com/u/423987?v=4"
   },
   "bestMerged": {
@@ -23,15 +23,15 @@
     "image": "https://avatars3.githubusercontent.com/u/10298151?v=4"
   },
   "userPRInfos": {
+    "pavius": {
+      "total": 125,
+      "merged": 123,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/423987?v=4"
+    },
     "eran-nussbaum": {
       "total": 5,
       "merged": 3,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/13918850?v=4"
-    },
-    "pavius": {
-      "total": 124,
-      "merged": 123,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/423987?v=4"
     },
     "omriharel": {
       "total": 3,
@@ -61,7 +61,7 @@
   },
   "datePRInfos": {
     "Octobre-2017": {
-      "total": 41,
+      "total": 42,
       "merged": 29
     },
     "Septembre-2017": {
