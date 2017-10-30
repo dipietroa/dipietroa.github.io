@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2017-10-30T08:41:28.103Z",
+  "lastUpdate": "2017-10-30T09:41:43.055Z",
   "cowner": "fastify",
   "crepo": "fastify",
   "totalPR": 223,
@@ -18,14 +18,14 @@
     "image": "https://avatars0.githubusercontent.com/u/4865608?v=4"
   },
   "bestRatio": {
-    "user": "Cameron-C-Chapman",
+    "user": "SerayaEryn",
     "ratio": 1,
-    "image": "https://avatars3.githubusercontent.com/u/1323581?v=4"
+    "image": "https://avatars2.githubusercontent.com/u/22620443?v=4"
   },
   "userPRInfos": {
     "SerayaEryn": {
       "total": 2,
-      "merged": 1,
+      "merged": 2,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/22620443?v=4"
     },
     "StarpTech": {
@@ -237,7 +237,7 @@
   "datePRInfos": {
     "Octobre-2017": {
       "total": 46,
-      "merged": 37
+      "merged": 38
     },
     "Septembre-2017": {
       "total": 71,
