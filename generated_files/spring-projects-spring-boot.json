@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "2017-10-30T20:41:04.051Z",
+  "lastUpdate": "2017-10-30T21:40:58.781Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2117,
+  "totalPR": 2118,
   "lastPR": {
-    "createdAt": "2017-10-30T20:26:13Z",
+    "createdAt": "2017-10-30T20:53:31Z",
     "username": "Buzzardo"
   },
   "bestPR": {
@@ -24,7 +24,7 @@
   },
   "userPRInfos": {
     "Buzzardo": {
-      "total": 7,
+      "total": 8,
       "merged": 0,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/5225162?v=4"
     },
@@ -3396,7 +3396,7 @@
   },
   "datePRInfos": {
     "Octobre-2017": {
-      "total": 85,
+      "total": 86,
       "merged": 1
     },
     "Septembre-2017": {
