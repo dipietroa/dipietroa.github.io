@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-10-30T02:41:41.342Z",
+  "lastUpdate": "2017-10-30T03:41:32.893Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 937,
+  "totalPR": 938,
   "lastPR": {
-    "createdAt": "2017-10-29T06:06:58Z",
-    "username": "gebilaoxiong"
+    "createdAt": "2017-10-30T03:27:00Z",
+    "username": "misoguy"
   },
   "bestPR": {
     "user": "kazupon",
@@ -27,6 +27,11 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/28888508?v=4"
+    },
+    "misoguy": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/12230408?v=4"
     },
     "gebilaoxiong": {
       "total": 19,
@@ -2036,7 +2041,7 @@
   },
   "datePRInfos": {
     "Octobre-2017": {
-      "total": 50,
+      "total": 51,
       "merged": 21
     },
     "Septembre-2017": {
