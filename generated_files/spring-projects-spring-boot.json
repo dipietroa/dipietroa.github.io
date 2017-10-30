@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-10-30T16:41:26.329Z",
+  "lastUpdate": "2017-10-30T17:41:26.468Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2114,
+  "totalPR": 2115,
   "lastPR": {
-    "createdAt": "2017-10-30T16:28:39Z",
-    "username": "Buzzardo"
+    "createdAt": "2017-10-30T16:54:40Z",
+    "username": "markhobson"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1492299?v=4"
   },
   "userPRInfos": {
+    "markhobson": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/178443?v=4"
+    },
     "Buzzardo": {
       "total": 5,
       "merged": 0,
@@ -3391,7 +3396,7 @@
   },
   "datePRInfos": {
     "Octobre-2017": {
-      "total": 82,
+      "total": 83,
       "merged": 1
     },
     "Septembre-2017": {
