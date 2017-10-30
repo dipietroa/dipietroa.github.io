@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-10-30T13:41:14.292Z",
+  "lastUpdate": "2017-10-30T14:41:26.171Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2111,
+  "totalPR": 2112,
   "lastPR": {
-    "createdAt": "2017-10-30T09:14:34Z",
-    "username": "vpavic"
+    "createdAt": "2017-10-30T14:36:55Z",
+    "username": "GreyTeardrop"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1492299?v=4"
   },
   "userPRInfos": {
+    "GreyTeardrop": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/61568?v=4"
+    },
     "vpavic": {
       "total": 115,
       "merged": 1,
@@ -3386,7 +3391,7 @@
   },
   "datePRInfos": {
     "Octobre-2017": {
-      "total": 79,
+      "total": 80,
       "merged": 1
     },
     "Septembre-2017": {
