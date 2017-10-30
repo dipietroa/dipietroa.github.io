@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-10-30T11:41:52.549Z",
+  "lastUpdate": "2017-10-30T12:41:25.623Z",
   "cowner": "fastify",
   "crepo": "fastify",
-  "totalPR": 224,
+  "totalPR": 225,
   "lastPR": {
-    "createdAt": "2017-10-30T10:59:42Z",
-    "username": "relvao"
+    "createdAt": "2017-10-30T11:49:30Z",
+    "username": "sebdeckers"
   },
   "bestPR": {
     "user": "delvedor",
@@ -23,6 +23,11 @@
     "image": "https://avatars2.githubusercontent.com/u/22620443?v=4"
   },
   "userPRInfos": {
+    "sebdeckers": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/78718?v=4"
+    },
     "relvao": {
       "total": 1,
       "merged": 0,
@@ -241,7 +246,7 @@
   },
   "datePRInfos": {
     "Octobre-2017": {
-      "total": 47,
+      "total": 48,
       "merged": 38
     },
     "Septembre-2017": {
