@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-10-30T08:40:53.962Z",
+  "lastUpdate": "2017-10-30T09:41:08.625Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2110,
+  "totalPR": 2111,
   "lastPR": {
-    "createdAt": "2017-10-29T14:53:52Z",
-    "username": "alexsderkach"
+    "createdAt": "2017-10-30T09:14:34Z",
+    "username": "vpavic"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1492299?v=4"
   },
   "userPRInfos": {
+    "vpavic": {
+      "total": 115,
+      "merged": 1,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/1149230?v=4"
+    },
     "alexsderkach": {
       "total": 1,
       "merged": 0,
@@ -72,11 +77,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/28255?v=4"
-    },
-    "vpavic": {
-      "total": 114,
-      "merged": 1,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/1149230?v=4"
     },
     "13567436138": {
       "total": 1,
@@ -3386,7 +3386,7 @@
   },
   "datePRInfos": {
     "Octobre-2017": {
-      "total": 78,
+      "total": 79,
       "merged": 1
     },
     "Septembre-2017": {
