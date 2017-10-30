@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-10-30T05:41:25.209Z",
+  "lastUpdate": "2017-10-30T06:41:47.978Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 938,
+  "totalPR": 939,
   "lastPR": {
-    "createdAt": "2017-10-30T03:27:00Z",
-    "username": "misoguy"
+    "createdAt": "2017-10-30T06:05:35Z",
+    "username": "PanJiaChen"
   },
   "bestPR": {
     "user": "kazupon",
@@ -27,6 +27,11 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/28888508?v=4"
+    },
+    "PanJiaChen": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/8121621?v=4"
     },
     "misoguy": {
       "total": 1,
@@ -2041,7 +2046,7 @@
   },
   "datePRInfos": {
     "Octobre-2017": {
-      "total": 51,
+      "total": 52,
       "merged": 21
     },
     "Septembre-2017": {
