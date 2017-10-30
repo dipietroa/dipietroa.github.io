@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-10-30T06:41:47.978Z",
+  "lastUpdate": "2017-10-30T07:41:35.455Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 939,
+  "totalPR": 940,
   "lastPR": {
-    "createdAt": "2017-10-30T06:05:35Z",
-    "username": "PanJiaChen"
+    "createdAt": "2017-10-30T07:37:58Z",
+    "username": "xdamman"
   },
   "bestPR": {
     "user": "kazupon",
@@ -27,6 +27,11 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/28888508?v=4"
+    },
+    "xdamman": {
+      "total": 2,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/74358?v=4"
     },
     "PanJiaChen": {
       "total": 1,
@@ -292,11 +297,6 @@
       "total": 1,
       "merged": 1,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/5304093?v=4"
-    },
-    "xdamman": {
-      "total": 1,
-      "merged": 0,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/74358?v=4"
     },
     "vuchl": {
       "total": 1,
@@ -2046,7 +2046,7 @@
   },
   "datePRInfos": {
     "Octobre-2017": {
-      "total": 52,
+      "total": 53,
       "merged": 21
     },
     "Septembre-2017": {
