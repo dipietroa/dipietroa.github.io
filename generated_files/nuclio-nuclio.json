@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-10-31T15:42:06.050Z",
+  "lastUpdate": "2017-10-31T16:41:55.599Z",
   "cowner": "nuclio",
   "crepo": "nuclio",
-  "totalPR": 199,
+  "totalPR": 200,
   "lastPR": {
-    "createdAt": "2017-10-31T12:10:57Z",
-    "username": "eran-nussbaum"
+    "createdAt": "2017-10-31T16:10:52Z",
+    "username": "yaronha"
   },
   "bestPR": {
     "user": "pavius",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/10298151?v=4"
   },
   "userPRInfos": {
+    "yaronha": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/6298833?v=4"
+    },
     "eran-nussbaum": {
       "total": 6,
       "merged": 4,
@@ -61,7 +66,7 @@
   },
   "datePRInfos": {
     "Octobre-2017": {
-      "total": 46,
+      "total": 47,
       "merged": 33
     },
     "Septembre-2017": {
