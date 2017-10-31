@@ -1,15 +1,15 @@
 {
-  "lastUpdate": "2017-10-31T16:41:21.735Z",
+  "lastUpdate": "2017-10-31T17:41:27.962Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2119,
+  "totalPR": 2120,
   "lastPR": {
-    "createdAt": "2017-10-31T08:31:20Z",
-    "username": "longstone"
+    "createdAt": "2017-10-31T17:04:03Z",
+    "username": "izeye"
   },
   "bestPR": {
     "user": "izeye",
-    "nbPR": 278,
+    "nbPR": 279,
     "image": "https://avatars3.githubusercontent.com/u/1059363?v=4"
   },
   "bestMerged": {
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1492299?v=4"
   },
   "userPRInfos": {
+    "izeye": {
+      "total": 279,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/1059363?v=4"
+    },
     "longstone": {
       "total": 1,
       "merged": 0,
@@ -62,11 +67,6 @@
       "total": 121,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/1810547?v=4"
-    },
-    "izeye": {
-      "total": 278,
-      "merged": 0,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/1059363?v=4"
     },
     "Domingo93": {
       "total": 1,
@@ -3401,7 +3401,7 @@
   },
   "datePRInfos": {
     "Octobre-2017": {
-      "total": 87,
+      "total": 88,
       "merged": 1
     },
     "Septembre-2017": {
