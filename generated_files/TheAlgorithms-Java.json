@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-10-31T22:41:25.757Z",
+  "lastUpdate": "2017-10-31T23:41:16.228Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
-  "totalPR": 282,
+  "totalPR": 283,
   "lastPR": {
-    "createdAt": "2017-10-31T20:43:59Z",
-    "username": "wesleyCCC"
+    "createdAt": "2017-10-31T22:59:16Z",
+    "username": "italo-batista"
   },
   "bestPR": {
     "user": "theycallmemac",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/26190214?v=4"
   },
   "userPRInfos": {
+    "italo-batista": {
+      "total": 3,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/13472668?v=4"
+    },
     "wesleyCCC": {
       "total": 1,
       "merged": 0,
@@ -42,11 +47,6 @@
       "total": 2,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/33244341?v=4"
-    },
-    "italo-batista": {
-      "total": 2,
-      "merged": 0,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/13472668?v=4"
     },
     "Piyush13y": {
       "total": 1,
@@ -771,7 +771,7 @@
   },
   "datePRInfos": {
     "Octobre-2017": {
-      "total": 179,
+      "total": 180,
       "merged": 45
     },
     "Septembre-2017": {
