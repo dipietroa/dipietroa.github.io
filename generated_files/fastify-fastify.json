@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-10-31T04:41:47.189Z",
+  "lastUpdate": "2017-10-31T14:42:09.304Z",
   "cowner": "fastify",
   "crepo": "fastify",
-  "totalPR": 229,
+  "totalPR": 233,
   "lastPR": {
-    "createdAt": "2017-10-31T00:23:11Z",
-    "username": "BigMurry"
+    "createdAt": "2017-10-31T12:51:36Z",
+    "username": "StarpTech"
   },
   "bestPR": {
     "user": "delvedor",
@@ -23,25 +23,30 @@
     "image": "https://avatars0.githubusercontent.com/u/78718?v=4"
   },
   "userPRInfos": {
-    "BigMurry": {
-      "total": 4,
-      "merged": 2,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/12495406?v=4"
-    },
     "StarpTech": {
-      "total": 10,
+      "total": 11,
       "merged": 8,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/1764424?v=4"
     },
+    "jsumners": {
+      "total": 12,
+      "merged": 11,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/321201?v=4"
+    },
     "sebdeckers": {
-      "total": 2,
-      "merged": 2,
+      "total": 3,
+      "merged": 3,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/78718?v=4"
     },
     "lyquocnam": {
-      "total": 1,
+      "total": 2,
       "merged": 1,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/8347826?v=4"
+    },
+    "BigMurry": {
+      "total": 4,
+      "merged": 4,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/12495406?v=4"
     },
     "relvao": {
       "total": 1,
@@ -55,7 +60,7 @@
     },
     "mcollina": {
       "total": 36,
-      "merged": 33,
+      "merged": 34,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/52195?v=4"
     },
     "delvedor": {
@@ -115,18 +120,13 @@
     },
     "ermi-ltd": {
       "total": 1,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/32077482?v=4"
     },
     "paolochiodi": {
       "total": 1,
       "merged": 1,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/81542?v=4"
-    },
-    "jsumners": {
-      "total": 11,
-      "merged": 10,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/321201?v=4"
     },
     "cagataycali": {
       "total": 3,
@@ -251,8 +251,8 @@
   },
   "datePRInfos": {
     "Octobre-2017": {
-      "total": 52,
-      "merged": 41
+      "total": 56,
+      "merged": 47
     },
     "Septembre-2017": {
       "total": 71,
