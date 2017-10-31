@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-10-31T03:41:07.374Z",
+  "lastUpdate": "2017-10-31T04:41:26.201Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
-  "totalPR": 277,
+  "totalPR": 279,
   "lastPR": {
-    "createdAt": "2017-10-31T03:29:15Z",
-    "username": "italo-batista"
+    "createdAt": "2017-10-31T04:39:08Z",
+    "username": "rohitbnag88"
   },
   "bestPR": {
     "user": "theycallmemac",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/26190214?v=4"
   },
   "userPRInfos": {
+    "rohitbnag88": {
+      "total": 2,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/33244341?v=4"
+    },
     "italo-batista": {
       "total": 2,
       "merged": 0,
@@ -756,7 +761,7 @@
   },
   "datePRInfos": {
     "Octobre-2017": {
-      "total": 174,
+      "total": 176,
       "merged": 45
     },
     "Septembre-2017": {
