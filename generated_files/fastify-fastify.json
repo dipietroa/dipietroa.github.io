@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2017-10-31T16:41:59.907Z",
+  "lastUpdate": "2017-10-31T17:42:10.434Z",
   "cowner": "fastify",
   "crepo": "fastify",
   "totalPR": 234,
@@ -14,7 +14,7 @@
   },
   "bestMerged": {
     "user": "delvedor",
-    "nbPR": 54,
+    "nbPR": 55,
     "image": "https://avatars0.githubusercontent.com/u/4865608?v=4"
   },
   "bestRatio": {
@@ -25,7 +25,7 @@
   "userPRInfos": {
     "delvedor": {
       "total": 56,
-      "merged": 54,
+      "merged": 55,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/4865608?v=4"
     },
     "StarpTech": {
@@ -252,7 +252,7 @@
   "datePRInfos": {
     "Octobre-2017": {
       "total": 57,
-      "merged": 47
+      "merged": 48
     },
     "Septembre-2017": {
       "total": 71,
