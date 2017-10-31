@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-10-31T04:41:26.201Z",
+  "lastUpdate": "2017-10-31T14:41:44.776Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
-  "totalPR": 279,
+  "totalPR": 280,
   "lastPR": {
-    "createdAt": "2017-10-31T04:39:08Z",
-    "username": "rohitbnag88"
+    "createdAt": "2017-10-31T06:20:57Z",
+    "username": "zhexuany"
   },
   "bestPR": {
     "user": "theycallmemac",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/26190214?v=4"
   },
   "userPRInfos": {
+    "zhexuany": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/13320708?v=4"
+    },
     "rohitbnag88": {
       "total": 2,
       "merged": 0,
@@ -761,7 +766,7 @@
   },
   "datePRInfos": {
     "Octobre-2017": {
-      "total": 176,
+      "total": 177,
       "merged": 45
     },
     "Septembre-2017": {
