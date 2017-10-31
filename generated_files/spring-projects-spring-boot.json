@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-10-31T04:41:16.105Z",
+  "lastUpdate": "2017-10-31T14:41:31.906Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2118,
+  "totalPR": 2119,
   "lastPR": {
-    "createdAt": "2017-10-30T20:53:31Z",
-    "username": "Buzzardo"
+    "createdAt": "2017-10-31T08:31:20Z",
+    "username": "longstone"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1492299?v=4"
   },
   "userPRInfos": {
+    "longstone": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/2110765?v=4"
+    },
     "Buzzardo": {
       "total": 8,
       "merged": 0,
@@ -3396,7 +3401,7 @@
   },
   "datePRInfos": {
     "Octobre-2017": {
-      "total": 86,
+      "total": 87,
       "merged": 1
     },
     "Septembre-2017": {
