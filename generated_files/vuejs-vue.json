@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-10-31T01:41:39.876Z",
+  "lastUpdate": "2017-10-31T02:41:13.276Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 940,
+  "totalPR": 941,
   "lastPR": {
-    "createdAt": "2017-10-30T07:37:58Z",
-    "username": "xdamman"
+    "createdAt": "2017-10-31T01:59:32Z",
+    "username": "kshitizrimal"
   },
   "bestPR": {
     "user": "kazupon",
@@ -27,6 +27,11 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/28888508?v=4"
+    },
+    "kshitizrimal": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/628161?v=4"
     },
     "xdamman": {
       "total": 2,
@@ -2046,7 +2051,7 @@
   },
   "datePRInfos": {
     "Octobre-2017": {
-      "total": 53,
+      "total": 54,
       "merged": 25
     },
     "Septembre-2017": {
