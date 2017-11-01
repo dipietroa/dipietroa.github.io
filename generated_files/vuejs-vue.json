@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-11-01T11:41:28.290Z",
+  "lastUpdate": "2017-11-01T12:41:46.957Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 941,
+  "totalPR": 942,
   "lastPR": {
-    "createdAt": "2017-10-31T01:59:32Z",
-    "username": "kshitizrimal"
+    "createdAt": "2017-11-01T12:29:33Z",
+    "username": "cuteyumiko"
   },
   "bestPR": {
     "user": "kazupon",
@@ -27,6 +27,11 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/28888508?v=4"
+    },
+    "cuteyumiko": {
+      "total": 4,
+      "merged": 1,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/11626560?v=4"
     },
     "kshitizrimal": {
       "total": 1,
@@ -62,11 +67,6 @@
       "total": 20,
       "merged": 18,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/8401776?v=4"
-    },
-    "cuteyumiko": {
-      "total": 3,
-      "merged": 1,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/11626560?v=4"
     },
     "javoski": {
       "total": 26,
@@ -2050,6 +2050,10 @@
     }
   },
   "datePRInfos": {
+    "Novembre-2017": {
+      "total": 1,
+      "merged": 0
+    },
     "Octobre-2017": {
       "total": 54,
       "merged": 25
