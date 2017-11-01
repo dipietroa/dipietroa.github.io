@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-11-01T00:41:31.818Z",
+  "lastUpdate": "2017-11-01T01:41:28.560Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
-  "totalPR": 283,
+  "totalPR": 284,
   "lastPR": {
-    "createdAt": "2017-10-31T22:59:16Z",
-    "username": "italo-batista"
+    "createdAt": "2017-11-01T01:01:24Z",
+    "username": "miguel3010"
   },
   "bestPR": {
     "user": "theycallmemac",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/26190214?v=4"
   },
   "userPRInfos": {
+    "miguel3010": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/7981296?v=4"
+    },
     "italo-batista": {
       "total": 3,
       "merged": 0,
@@ -770,6 +775,10 @@
     }
   },
   "datePRInfos": {
+    "Novembre-2017": {
+      "total": 1,
+      "merged": 0
+    },
     "Octobre-2017": {
       "total": 180,
       "merged": 45
