@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-11-02T21:41:56.739Z",
+  "lastUpdate": "2017-11-02T22:41:57.420Z",
   "cowner": "fastify",
   "crepo": "fastify",
-  "totalPR": 241,
+  "totalPR": 242,
   "lastPR": {
-    "createdAt": "2017-11-02T18:37:26Z",
-    "username": "oxsav"
+    "createdAt": "2017-11-02T22:21:07Z",
+    "username": "StarpTech"
   },
   "bestPR": {
     "user": "delvedor",
@@ -23,6 +23,11 @@
     "image": "https://avatars0.githubusercontent.com/u/78718?v=4"
   },
   "userPRInfos": {
+    "StarpTech": {
+      "total": 14,
+      "merged": 9,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/1764424?v=4"
+    },
     "oxsav": {
       "total": 1,
       "merged": 0,
@@ -42,11 +47,6 @@
       "total": 13,
       "merged": 11,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/321201?v=4"
-    },
-    "StarpTech": {
-      "total": 13,
-      "merged": 9,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/1764424?v=4"
     },
     "sebdeckers": {
       "total": 3,
@@ -256,7 +256,7 @@
   },
   "datePRInfos": {
     "Novembre-2017": {
-      "total": 7,
+      "total": 8,
       "merged": 3
     },
     "Octobre-2017": {
