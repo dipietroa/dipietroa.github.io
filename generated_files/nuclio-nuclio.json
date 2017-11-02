@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-11-02T00:41:51.290Z",
+  "lastUpdate": "2017-11-02T01:41:49.875Z",
   "cowner": "nuclio",
   "crepo": "nuclio",
-  "totalPR": 205,
+  "totalPR": 206,
   "lastPR": {
-    "createdAt": "2017-11-01T21:00:06Z",
-    "username": "pavius"
+    "createdAt": "2017-11-02T01:00:15Z",
+    "username": "sbkoth"
   },
   "bestPR": {
     "user": "pavius",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/10298151?v=4"
   },
   "userPRInfos": {
+    "sbkoth": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/18405855?v=4"
+    },
     "pavius": {
       "total": 129,
       "merged": 128,
@@ -71,7 +76,7 @@
   },
   "datePRInfos": {
     "Novembre-2017": {
-      "total": 4,
+      "total": 5,
       "merged": 2
     },
     "Octobre-2017": {
