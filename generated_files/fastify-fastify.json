@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-11-02T17:42:17.857Z",
+  "lastUpdate": "2017-11-02T18:42:10.453Z",
   "cowner": "fastify",
   "crepo": "fastify",
-  "totalPR": 240,
+  "totalPR": 241,
   "lastPR": {
-    "createdAt": "2017-11-02T11:18:48Z",
-    "username": "greenkeeper[bot]"
+    "createdAt": "2017-11-02T18:37:26Z",
+    "username": "oxsav"
   },
   "bestPR": {
     "user": "delvedor",
@@ -23,6 +23,11 @@
     "image": "https://avatars0.githubusercontent.com/u/78718?v=4"
   },
   "userPRInfos": {
+    "oxsav": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/2349816?v=4"
+    },
     "greenkeeper[bot]": {
       "total": 29,
       "merged": 18,
@@ -251,7 +256,7 @@
   },
   "datePRInfos": {
     "Novembre-2017": {
-      "total": 6,
+      "total": 7,
       "merged": 2
     },
     "Octobre-2017": {
