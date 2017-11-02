@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2017-11-02T20:42:02.201Z",
+  "lastUpdate": "2017-11-02T21:41:48.793Z",
   "cowner": "vuejs",
   "crepo": "vue",
   "totalPR": 943,
@@ -18,9 +18,9 @@
     "image": "https://avatars1.githubusercontent.com/u/72989?v=4"
   },
   "bestRatio": {
-    "user": "fenduru",
+    "user": "misoguy",
     "ratio": 1,
-    "image": "https://avatars3.githubusercontent.com/u/1354771?v=4"
+    "image": "https://avatars0.githubusercontent.com/u/12230408?v=4"
   },
   "userPRInfos": {
     "957685677": {
@@ -55,7 +55,7 @@
     },
     "misoguy": {
       "total": 1,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/12230408?v=4"
     },
     "gebilaoxiong": {
@@ -65,7 +65,7 @@
     },
     "madskonradsen": {
       "total": 1,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/1265787?v=4"
     },
     "javoski": {
@@ -75,7 +75,7 @@
     },
     "alexandru-paduraru": {
       "total": 1,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/2517758?v=4"
     },
     "lizhiyao": {
@@ -2056,7 +2056,7 @@
     },
     "Octobre-2017": {
       "total": 54,
-      "merged": 25
+      "merged": 28
     },
     "Septembre-2017": {
       "total": 39,
