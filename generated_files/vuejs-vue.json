@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-11-03T08:41:51.505Z",
+  "lastUpdate": "2017-11-03T09:42:56.030Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 944,
+  "totalPR": 945,
   "lastPR": {
-    "createdAt": "2017-11-03T04:12:40Z",
-    "username": "dsonet"
+    "createdAt": "2017-11-03T09:03:43Z",
+    "username": "gitWhatever"
   },
   "bestPR": {
     "user": "kazupon",
@@ -27,6 +27,11 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/28888508?v=4"
+    },
+    "gitWhatever": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/10512369?v=4"
     },
     "dsonet": {
       "total": 8,
@@ -2051,7 +2056,7 @@
   },
   "datePRInfos": {
     "Novembre-2017": {
-      "total": 3,
+      "total": 4,
       "merged": 0
     },
     "Octobre-2017": {
