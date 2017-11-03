@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2017-11-03T01:41:36.408Z",
+  "lastUpdate": "2017-11-03T02:41:50.641Z",
   "cowner": "vuejs",
   "crepo": "vue",
   "totalPR": 943,
@@ -60,7 +60,7 @@
     },
     "gebilaoxiong": {
       "total": 19,
-      "merged": 12,
+      "merged": 13,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/11804936?v=4"
     },
     "madskonradsen": {
@@ -2056,7 +2056,7 @@
     },
     "Octobre-2017": {
       "total": 54,
-      "merged": 28
+      "merged": 29
     },
     "Septembre-2017": {
       "total": 39,
