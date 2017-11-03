@@ -1,15 +1,15 @@
 {
-  "lastUpdate": "2017-11-03T19:41:16.517Z",
+  "lastUpdate": "2017-11-03T20:41:37.467Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2138,
+  "totalPR": 2139,
   "lastPR": {
-    "createdAt": "2017-11-03T15:54:50Z",
-    "username": "jkschneider"
+    "createdAt": "2017-11-03T20:39:53Z",
+    "username": "izeye"
   },
   "bestPR": {
     "user": "izeye",
-    "nbPR": 279,
+    "nbPR": 280,
     "image": "https://avatars3.githubusercontent.com/u/1059363?v=4"
   },
   "bestMerged": {
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1492299?v=4"
   },
   "userPRInfos": {
+    "izeye": {
+      "total": 280,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/1059363?v=4"
+    },
     "jkschneider": {
       "total": 5,
       "merged": 0,
@@ -52,11 +57,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/6012094?v=4"
-    },
-    "izeye": {
-      "total": 279,
-      "merged": 0,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/1059363?v=4"
     },
     "longstone": {
       "total": 1,
@@ -3406,7 +3406,7 @@
   },
   "datePRInfos": {
     "Novembre-2017": {
-      "total": 16,
+      "total": 17,
       "merged": 0
     },
     "Octobre-2017": {
