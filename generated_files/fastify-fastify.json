@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2017-11-03T11:41:51.053Z",
+  "lastUpdate": "2017-11-03T12:42:19.493Z",
   "cowner": "fastify",
   "crepo": "fastify",
   "totalPR": 242,
@@ -45,7 +45,7 @@
     },
     "jsumners": {
       "total": 13,
-      "merged": 11,
+      "merged": 12,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/321201?v=4"
     },
     "sebdeckers": {
@@ -257,7 +257,7 @@
   "datePRInfos": {
     "Novembre-2017": {
       "total": 8,
-      "merged": 3
+      "merged": 4
     },
     "Octobre-2017": {
       "total": 57,
