@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-11-03T15:41:31.656Z",
+  "lastUpdate": "2017-11-03T16:41:13.741Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2137,
+  "totalPR": 2138,
   "lastPR": {
-    "createdAt": "2017-11-03T03:39:41Z",
-    "username": "eddumelendez"
+    "createdAt": "2017-11-03T15:54:50Z",
+    "username": "jkschneider"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1492299?v=4"
   },
   "userPRInfos": {
+    "jkschneider": {
+      "total": 5,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/1697736?v=4"
+    },
     "eddumelendez": {
       "total": 122,
       "merged": 0,
@@ -232,11 +237,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/15029099?v=4"
-    },
-    "jkschneider": {
-      "total": 4,
-      "merged": 0,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/1697736?v=4"
     },
     "WilderPereira": {
       "total": 1,
@@ -3406,7 +3406,7 @@
   },
   "datePRInfos": {
     "Novembre-2017": {
-      "total": 15,
+      "total": 16,
       "merged": 0
     },
     "Octobre-2017": {
