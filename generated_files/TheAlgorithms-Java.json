@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-11-05T16:41:04.322Z",
+  "lastUpdate": "2017-11-05T17:41:24.200Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
-  "totalPR": 284,
+  "totalPR": 285,
   "lastPR": {
-    "createdAt": "2017-11-01T01:01:24Z",
-    "username": "miguel3010"
+    "createdAt": "2017-11-05T17:36:45Z",
+    "username": "varunu28"
   },
   "bestPR": {
     "user": "theycallmemac",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/26190214?v=4"
   },
   "userPRInfos": {
+    "varunu28": {
+      "total": 15,
+      "merged": 14,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/7676016?v=4"
+    },
     "miguel3010": {
       "total": 1,
       "merged": 0,
@@ -392,11 +397,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/8741314?v=4"
-    },
-    "varunu28": {
-      "total": 14,
-      "merged": 13,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/7676016?v=4"
     },
     "ayaanfaiz": {
       "total": 2,
@@ -776,8 +776,8 @@
   },
   "datePRInfos": {
     "Novembre-2017": {
-      "total": 1,
-      "merged": 0
+      "total": 2,
+      "merged": 1
     },
     "Octobre-2017": {
       "total": 180,
