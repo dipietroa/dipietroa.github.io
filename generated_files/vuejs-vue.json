@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-11-05T04:41:39.245Z",
+  "lastUpdate": "2017-11-05T05:41:23.531Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 945,
+  "totalPR": 946,
   "lastPR": {
-    "createdAt": "2017-11-03T09:03:43Z",
-    "username": "gitWhatever"
+    "createdAt": "2017-11-05T04:49:41Z",
+    "username": "ktsn"
   },
   "bestPR": {
     "user": "kazupon",
@@ -27,6 +27,11 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/28888508?v=4"
+    },
+    "ktsn": {
+      "total": 16,
+      "merged": 15,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/2194624?v=4"
     },
     "gitWhatever": {
       "total": 1,
@@ -332,11 +337,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/1530684?v=4"
-    },
-    "ktsn": {
-      "total": 15,
-      "merged": 15,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/2194624?v=4"
     },
     "palashmon": {
       "total": 1,
@@ -2056,7 +2056,7 @@
   },
   "datePRInfos": {
     "Novembre-2017": {
-      "total": 4,
+      "total": 5,
       "merged": 1
     },
     "Octobre-2017": {
