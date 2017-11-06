@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2017-11-06T20:41:18.752Z",
+  "lastUpdate": "2017-11-06T21:41:36.848Z",
   "cowner": "vuejs",
   "crepo": "vue",
   "totalPR": 946,
@@ -18,9 +18,9 @@
     "image": "https://avatars1.githubusercontent.com/u/72989?v=4"
   },
   "bestRatio": {
-    "user": "dsonet",
+    "user": "ktsn",
     "ratio": 1,
-    "image": "https://avatars3.githubusercontent.com/u/457552?v=4"
+    "image": "https://avatars0.githubusercontent.com/u/2194624?v=4"
   },
   "userPRInfos": {
     "957685677": {
@@ -30,7 +30,7 @@
     },
     "ktsn": {
       "total": 16,
-      "merged": 15,
+      "merged": 16,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/2194624?v=4"
     },
     "gitWhatever": {
@@ -2057,7 +2057,7 @@
   "datePRInfos": {
     "Novembre-2017": {
       "total": 5,
-      "merged": 1
+      "merged": 2
     },
     "Octobre-2017": {
       "total": 54,
