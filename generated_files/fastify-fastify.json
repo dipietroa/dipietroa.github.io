@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-11-07T15:42:12.924Z",
+  "lastUpdate": "2017-11-07T16:41:54.531Z",
   "cowner": "fastify",
   "crepo": "fastify",
-  "totalPR": 251,
+  "totalPR": 252,
   "lastPR": {
-    "createdAt": "2017-11-07T13:00:12Z",
-    "username": "jsumners"
+    "createdAt": "2017-11-07T15:43:31Z",
+    "username": "sebdeckers"
   },
   "bestPR": {
     "user": "delvedor",
@@ -18,11 +18,16 @@
     "image": "https://avatars0.githubusercontent.com/u/4865608?v=4"
   },
   "bestRatio": {
-    "user": "sebdeckers",
+    "user": "BigMurry",
     "ratio": 1,
-    "image": "https://avatars0.githubusercontent.com/u/78718?v=4"
+    "image": "https://avatars0.githubusercontent.com/u/12495406?v=4"
   },
   "userPRInfos": {
+    "sebdeckers": {
+      "total": 4,
+      "merged": 3,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/78718?v=4"
+    },
     "jsumners": {
       "total": 15,
       "merged": 14,
@@ -57,11 +62,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/2349816?v=4"
-    },
-    "sebdeckers": {
-      "total": 3,
-      "merged": 3,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/78718?v=4"
     },
     "lyquocnam": {
       "total": 2,
@@ -261,7 +261,7 @@
   },
   "datePRInfos": {
     "Novembre-2017": {
-      "total": 17,
+      "total": 18,
       "merged": 11
     },
     "Octobre-2017": {
