@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-11-07T09:41:13.865Z",
+  "lastUpdate": "2017-11-07T10:41:18.010Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
-  "totalPR": 285,
+  "totalPR": 286,
   "lastPR": {
-    "createdAt": "2017-11-05T17:36:45Z",
-    "username": "varunu28"
+    "createdAt": "2017-11-07T10:02:49Z",
+    "username": "newcoder171"
   },
   "bestPR": {
     "user": "theycallmemac",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/26190214?v=4"
   },
   "userPRInfos": {
+    "newcoder171": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/33447805?v=4"
+    },
     "varunu28": {
       "total": 15,
       "merged": 14,
@@ -776,7 +781,7 @@
   },
   "datePRInfos": {
     "Novembre-2017": {
-      "total": 2,
+      "total": 3,
       "merged": 1
     },
     "Octobre-2017": {
