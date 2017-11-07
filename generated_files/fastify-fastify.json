@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2017-11-07T14:42:05.605Z",
+  "lastUpdate": "2017-11-07T15:42:12.924Z",
   "cowner": "fastify",
   "crepo": "fastify",
   "totalPR": 251,
@@ -75,7 +75,7 @@
     },
     "relvao": {
       "total": 1,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/1629490?v=4"
     },
     "SerayaEryn": {
@@ -266,7 +266,7 @@
     },
     "Octobre-2017": {
       "total": 57,
-      "merged": 49
+      "merged": 50
     },
     "Septembre-2017": {
       "total": 71,
