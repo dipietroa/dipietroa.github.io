@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2017-11-08T14:41:43.120Z",
+  "lastUpdate": "2017-11-08T15:42:17.669Z",
   "cowner": "fastify",
   "crepo": "fastify",
   "totalPR": 255,
@@ -25,7 +25,7 @@
   "userPRInfos": {
     "lolo32": {
       "total": 4,
-      "merged": 1,
+      "merged": 2,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/1652044?v=4"
     },
     "evanshortiss": {
@@ -262,7 +262,7 @@
   "datePRInfos": {
     "Novembre-2017": {
       "total": 21,
-      "merged": 11
+      "merged": 12
     },
     "Octobre-2017": {
       "total": 57,
