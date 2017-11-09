@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-11-09T16:41:12.785Z",
+  "lastUpdate": "2017-11-09T17:41:32.791Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2143,
+  "totalPR": 2144,
   "lastPR": {
-    "createdAt": "2017-11-08T23:17:35Z",
-    "username": "dreis2211"
+    "createdAt": "2017-11-09T17:25:54Z",
+    "username": "zaynetro"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1492299?v=4"
   },
   "userPRInfos": {
+    "zaynetro": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/627197?v=4"
+    },
     "dreis2211": {
       "total": 29,
       "merged": 0,
@@ -3411,7 +3416,7 @@
   },
   "datePRInfos": {
     "Novembre-2017": {
-      "total": 21,
+      "total": 22,
       "merged": 0
     },
     "Octobre-2017": {
