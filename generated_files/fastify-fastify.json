@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2017-11-09T17:42:08.721Z",
+  "lastUpdate": "2017-11-09T18:41:56.884Z",
   "cowner": "fastify",
   "crepo": "fastify",
   "totalPR": 256,
@@ -18,9 +18,9 @@
     "image": "https://avatars0.githubusercontent.com/u/4865608?v=4"
   },
   "bestRatio": {
-    "user": "BigMurry",
+    "user": "jinwoo",
     "ratio": 1,
-    "image": "https://avatars0.githubusercontent.com/u/12495406?v=4"
+    "image": "https://avatars2.githubusercontent.com/u/1570213?v=4"
   },
   "userPRInfos": {
     "delvedor": {
@@ -55,7 +55,7 @@
     },
     "jinwoo": {
       "total": 1,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/1570213?v=4"
     },
     "allevo": {
@@ -262,7 +262,7 @@
   "datePRInfos": {
     "Novembre-2017": {
       "total": 22,
-      "merged": 12
+      "merged": 13
     },
     "Octobre-2017": {
       "total": 57,
