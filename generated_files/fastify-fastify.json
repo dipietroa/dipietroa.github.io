@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2017-11-10T12:41:28.367Z",
+  "lastUpdate": "2017-11-10T13:41:42.783Z",
   "cowner": "fastify",
   "crepo": "fastify",
   "totalPR": 257,
@@ -18,14 +18,14 @@
     "image": "https://avatars0.githubusercontent.com/u/4865608?v=4"
   },
   "bestRatio": {
-    "user": "jinwoo",
+    "user": "exequiel09",
     "ratio": 1,
-    "image": "https://avatars2.githubusercontent.com/u/1570213?v=4"
+    "image": "https://avatars2.githubusercontent.com/u/1289472?v=4"
   },
   "userPRInfos": {
     "exequiel09": {
       "total": 1,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/1289472?v=4"
     },
     "delvedor": {
@@ -267,7 +267,7 @@
   "datePRInfos": {
     "Novembre-2017": {
       "total": 23,
-      "merged": 13
+      "merged": 14
     },
     "Octobre-2017": {
       "total": 57,
