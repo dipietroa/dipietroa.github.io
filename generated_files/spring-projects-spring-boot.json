@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2017-11-10T13:41:08.007Z",
+  "lastUpdate": "2017-11-10T14:40:48.142Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
   "totalPR": 2146,
@@ -18,9 +18,9 @@
     "image": "https://avatars1.githubusercontent.com/u/128577?v=4"
   },
   "bestRatio": {
-    "user": "danielfernandez",
+    "user": "ryonday",
     "ratio": 1,
-    "image": "https://avatars3.githubusercontent.com/u/1492299?v=4"
+    "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
     "ArloL": {
@@ -45,7 +45,7 @@
     },
     "ryonday": {
       "total": 1,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/1652307?v=4"
     },
     "jkschneider": {
@@ -3417,7 +3417,7 @@
   "datePRInfos": {
     "Novembre-2017": {
       "total": 24,
-      "merged": 0
+      "merged": 1
     },
     "Octobre-2017": {
       "total": 90,
