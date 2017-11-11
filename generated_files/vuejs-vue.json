@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-11-11T15:41:23.615Z",
+  "lastUpdate": "2017-11-11T16:41:27.823Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 950,
+  "totalPR": 951,
   "lastPR": {
-    "createdAt": "2017-11-09T10:48:13Z",
-    "username": "pranayaryal"
+    "createdAt": "2017-11-11T15:48:15Z",
+    "username": "Hanks10100"
   },
   "bestPR": {
     "user": "kazupon",
@@ -28,15 +28,15 @@
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/28888508?v=4"
     },
+    "Hanks10100": {
+      "total": 23,
+      "merged": 18,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/8401776?v=4"
+    },
     "pranayaryal": {
       "total": 2,
       "merged": 0,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/7811719?v=4"
-    },
-    "Hanks10100": {
-      "total": 22,
-      "merged": 18,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/8401776?v=4"
     },
     "neelance": {
       "total": 1,
@@ -2066,7 +2066,7 @@
   },
   "datePRInfos": {
     "Novembre-2017": {
-      "total": 9,
+      "total": 10,
       "merged": 2
     },
     "Octobre-2017": {
