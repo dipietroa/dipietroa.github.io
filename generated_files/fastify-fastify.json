@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-11-11T01:41:31.674Z",
+  "lastUpdate": "2017-11-11T02:41:33.256Z",
   "cowner": "fastify",
   "crepo": "fastify",
-  "totalPR": 258,
+  "totalPR": 259,
   "lastPR": {
-    "createdAt": "2017-11-10T21:24:34Z",
-    "username": "tmorell"
+    "createdAt": "2017-11-11T02:10:47Z",
+    "username": "exequiel09"
   },
   "bestPR": {
     "user": "delvedor",
@@ -18,20 +18,20 @@
     "image": "https://avatars0.githubusercontent.com/u/4865608?v=4"
   },
   "bestRatio": {
-    "user": "exequiel09",
+    "user": "jinwoo",
     "ratio": 1,
-    "image": "https://avatars2.githubusercontent.com/u/1289472?v=4"
+    "image": "https://avatars2.githubusercontent.com/u/1570213?v=4"
   },
   "userPRInfos": {
+    "exequiel09": {
+      "total": 2,
+      "merged": 1,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/1289472?v=4"
+    },
     "tmorell": {
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/2086227?v=4"
-    },
-    "exequiel09": {
-      "total": 1,
-      "merged": 1,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/1289472?v=4"
     },
     "delvedor": {
       "total": 60,
@@ -271,7 +271,7 @@
   },
   "datePRInfos": {
     "Novembre-2017": {
-      "total": 24,
+      "total": 25,
       "merged": 14
     },
     "Octobre-2017": {
