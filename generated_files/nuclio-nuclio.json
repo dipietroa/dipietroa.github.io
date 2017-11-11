@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2017-11-11T08:41:29.511Z",
+  "lastUpdate": "2017-11-11T09:41:30.194Z",
   "cowner": "nuclio",
   "crepo": "nuclio",
   "totalPR": 219,
@@ -25,7 +25,7 @@
   "userPRInfos": {
     "yaronha": {
       "total": 2,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/6298833?v=4"
     },
     "pavius": {
@@ -77,7 +77,7 @@
   "datePRInfos": {
     "Novembre-2017": {
       "total": 18,
-      "merged": 14
+      "merged": 15
     },
     "Octobre-2017": {
       "total": 48,
