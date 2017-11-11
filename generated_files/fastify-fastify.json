@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-11-11T11:41:36.051Z",
+  "lastUpdate": "2017-11-11T12:41:53.957Z",
   "cowner": "fastify",
   "crepo": "fastify",
-  "totalPR": 260,
+  "totalPR": 261,
   "lastPR": {
-    "createdAt": "2017-11-11T10:21:15Z",
-    "username": "delvedor"
+    "createdAt": "2017-11-11T11:50:03Z",
+    "username": "SerayaEryn"
   },
   "bestPR": {
     "user": "delvedor",
@@ -14,7 +14,7 @@
   },
   "bestMerged": {
     "user": "delvedor",
-    "nbPR": 58,
+    "nbPR": 59,
     "image": "https://avatars0.githubusercontent.com/u/4865608?v=4"
   },
   "bestRatio": {
@@ -23,9 +23,14 @@
     "image": "https://avatars3.githubusercontent.com/u/2086227?v=4"
   },
   "userPRInfos": {
+    "SerayaEryn": {
+      "total": 4,
+      "merged": 2,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/22620443?v=4"
+    },
     "delvedor": {
       "total": 61,
-      "merged": 58,
+      "merged": 59,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/4865608?v=4"
     },
     "exequiel09": {
@@ -47,11 +52,6 @@
       "total": 3,
       "merged": 2,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/1303687?v=4"
-    },
-    "SerayaEryn": {
-      "total": 3,
-      "merged": 2,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/22620443?v=4"
     },
     "sebdeckers": {
       "total": 4,
@@ -271,8 +271,8 @@
   },
   "datePRInfos": {
     "Novembre-2017": {
-      "total": 26,
-      "merged": 15
+      "total": 27,
+      "merged": 16
     },
     "Octobre-2017": {
       "total": 57,
