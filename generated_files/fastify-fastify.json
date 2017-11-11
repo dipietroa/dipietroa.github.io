@@ -1,15 +1,15 @@
 {
-  "lastUpdate": "2017-11-11T09:41:34.154Z",
+  "lastUpdate": "2017-11-11T10:41:44.310Z",
   "cowner": "fastify",
   "crepo": "fastify",
-  "totalPR": 259,
+  "totalPR": 260,
   "lastPR": {
-    "createdAt": "2017-11-11T02:10:47Z",
-    "username": "exequiel09"
+    "createdAt": "2017-11-11T10:21:15Z",
+    "username": "delvedor"
   },
   "bestPR": {
     "user": "delvedor",
-    "nbPR": 60,
+    "nbPR": 61,
     "image": "https://avatars0.githubusercontent.com/u/4865608?v=4"
   },
   "bestMerged": {
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/2086227?v=4"
   },
   "userPRInfos": {
+    "delvedor": {
+      "total": 61,
+      "merged": 58,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/4865608?v=4"
+    },
     "exequiel09": {
       "total": 2,
       "merged": 1,
@@ -32,11 +37,6 @@
       "total": 1,
       "merged": 1,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/2086227?v=4"
-    },
-    "delvedor": {
-      "total": 60,
-      "merged": 58,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/4865608?v=4"
     },
     "lolo32": {
       "total": 4,
@@ -271,7 +271,7 @@
   },
   "datePRInfos": {
     "Novembre-2017": {
-      "total": 25,
+      "total": 26,
       "merged": 15
     },
     "Octobre-2017": {
