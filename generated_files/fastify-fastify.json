@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-11-12T18:41:34.286Z",
+  "lastUpdate": "2017-11-12T19:41:36.165Z",
   "cowner": "fastify",
   "crepo": "fastify",
-  "totalPR": 262,
+  "totalPR": 263,
   "lastPR": {
-    "createdAt": "2017-11-12T09:19:49Z",
-    "username": "delvedor"
+    "createdAt": "2017-11-12T18:45:12Z",
+    "username": "abenhamdine"
   },
   "bestPR": {
     "user": "delvedor",
@@ -23,6 +23,11 @@
     "image": "https://avatars2.githubusercontent.com/u/1289472?v=4"
   },
   "userPRInfos": {
+    "abenhamdine": {
+      "total": 2,
+      "merged": 1,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/7466144?v=4"
+    },
     "delvedor": {
       "total": 62,
       "merged": 59,
@@ -213,11 +218,6 @@
       "merged": 1,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/1692410?v=4"
     },
-    "abenhamdine": {
-      "total": 1,
-      "merged": 1,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/7466144?v=4"
-    },
     "gillesdemey": {
       "total": 1,
       "merged": 1,
@@ -271,7 +271,7 @@
   },
   "datePRInfos": {
     "Novembre-2017": {
-      "total": 28,
+      "total": 29,
       "merged": 17
     },
     "Octobre-2017": {
