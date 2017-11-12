@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-11-12T12:41:21.727Z",
+  "lastUpdate": "2017-11-12T13:41:11.148Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
-  "totalPR": 287,
+  "totalPR": 288,
   "lastPR": {
-    "createdAt": "2017-11-12T12:30:02Z",
-    "username": "LeeChungWan"
+    "createdAt": "2017-11-12T12:57:19Z",
+    "username": "JeonSeongBae"
   },
   "bestPR": {
     "user": "theycallmemac",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/26190214?v=4"
   },
   "userPRInfos": {
+    "JeonSeongBae": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/19682981?v=4"
+    },
     "LeeChungWan": {
       "total": 1,
       "merged": 0,
@@ -786,7 +791,7 @@
   },
   "datePRInfos": {
     "Novembre-2017": {
-      "total": 4,
+      "total": 5,
       "merged": 1
     },
     "Octobre-2017": {
