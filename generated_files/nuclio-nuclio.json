@@ -1,15 +1,15 @@
 {
-  "lastUpdate": "2017-11-12T14:41:31.125Z",
+  "lastUpdate": "2017-11-12T15:41:21.219Z",
   "cowner": "nuclio",
   "crepo": "nuclio",
-  "totalPR": 219,
+  "totalPR": 220,
   "lastPR": {
-    "createdAt": "2017-11-07T12:26:11Z",
-    "username": "yaronha"
+    "createdAt": "2017-11-12T15:14:46Z",
+    "username": "pavius"
   },
   "bestPR": {
     "user": "pavius",
-    "nbPR": 138,
+    "nbPR": 139,
     "image": "https://avatars2.githubusercontent.com/u/423987?v=4"
   },
   "bestMerged": {
@@ -23,15 +23,15 @@
     "image": "https://avatars0.githubusercontent.com/u/18405855?v=4"
   },
   "userPRInfos": {
+    "pavius": {
+      "total": 139,
+      "merged": 137,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/423987?v=4"
+    },
     "yaronha": {
       "total": 2,
       "merged": 1,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/6298833?v=4"
-    },
-    "pavius": {
-      "total": 138,
-      "merged": 137,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/423987?v=4"
     },
     "tebeka": {
       "total": 50,
@@ -76,7 +76,7 @@
   },
   "datePRInfos": {
     "Novembre-2017": {
-      "total": 18,
+      "total": 19,
       "merged": 15
     },
     "Octobre-2017": {
