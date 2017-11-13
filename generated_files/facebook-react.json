@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-11-13T17:43:34.305Z",
+  "lastUpdate": "2017-11-13T18:43:46.701Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6209,
+  "totalPR": 6210,
   "lastPR": {
-    "createdAt": "2017-11-13T16:50:28Z",
-    "username": "bvaughn"
+    "createdAt": "2017-11-13T18:10:11Z",
+    "username": "HardikModha"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -18,11 +18,16 @@
     "image": "https://avatars2.githubusercontent.com/u/6820?v=4"
   },
   "bestRatio": {
-    "user": "travi",
+    "user": "HardikModha",
     "ratio": 1,
-    "image": "https://avatars1.githubusercontent.com/u/126441?v=4"
+    "image": "https://avatars3.githubusercontent.com/u/22439276?v=4"
   },
   "userPRInfos": {
+    "HardikModha": {
+      "total": 1,
+      "merged": 1,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/22439276?v=4"
+    },
     "bvaughn": {
       "total": 146,
       "merged": 131,
@@ -9346,8 +9351,8 @@
   },
   "datePRInfos": {
     "Novembre-2017": {
-      "total": 68,
-      "merged": 46
+      "total": 69,
+      "merged": 47
     },
     "Octobre-2017": {
       "total": 212,
