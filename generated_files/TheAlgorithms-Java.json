@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2017-11-13T17:41:29.225Z",
+  "lastUpdate": "2017-11-13T18:41:36.613Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
   "totalPR": 293,
@@ -18,14 +18,14 @@
     "image": "https://avatars1.githubusercontent.com/u/16108563?v=4"
   },
   "bestRatio": {
-    "user": "freitzzz",
+    "user": "MaengMaeng",
     "ratio": 1,
-    "image": "https://avatars1.githubusercontent.com/u/26190214?v=4"
+    "image": "https://avatars3.githubusercontent.com/u/31842031?v=4"
   },
   "userPRInfos": {
     "MaengMaeng": {
       "total": 1,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/31842031?v=4"
     },
     "sangjun2": {
@@ -812,7 +812,7 @@
   "datePRInfos": {
     "Novembre-2017": {
       "total": 10,
-      "merged": 1
+      "merged": 2
     },
     "Octobre-2017": {
       "total": 180,
