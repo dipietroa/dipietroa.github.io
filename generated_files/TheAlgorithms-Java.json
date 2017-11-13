@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-11-13T14:41:45.333Z",
+  "lastUpdate": "2017-11-13T15:41:32.663Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
-  "totalPR": 291,
+  "totalPR": 293,
   "lastPR": {
-    "createdAt": "2017-11-13T06:20:41Z",
-    "username": "YooSeonjae"
+    "createdAt": "2017-11-13T14:49:54Z",
+    "username": "MaengMaeng"
   },
   "bestPR": {
     "user": "theycallmemac",
@@ -23,6 +23,16 @@
     "image": "https://avatars1.githubusercontent.com/u/26190214?v=4"
   },
   "userPRInfos": {
+    "MaengMaeng": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/31842031?v=4"
+    },
+    "sangjun2": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/17975428?v=4"
+    },
     "YooSeonjae": {
       "total": 2,
       "merged": 0,
@@ -801,7 +811,7 @@
   },
   "datePRInfos": {
     "Novembre-2017": {
-      "total": 8,
+      "total": 10,
       "merged": 1
     },
     "Octobre-2017": {
