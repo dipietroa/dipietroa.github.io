@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-11-13T16:44:20.917Z",
+  "lastUpdate": "2017-11-13T17:43:34.305Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6208,
+  "totalPR": 6209,
   "lastPR": {
-    "createdAt": "2017-11-13T15:01:54Z",
-    "username": "gaearon"
+    "createdAt": "2017-11-13T16:50:28Z",
+    "username": "bvaughn"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/126441?v=4"
   },
   "userPRInfos": {
+    "bvaughn": {
+      "total": 146,
+      "merged": 131,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/29597?v=4"
+    },
     "gaearon": {
       "total": 460,
       "merged": 397,
@@ -75,7 +80,7 @@
     },
     "sjy": {
       "total": 1,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/1523060?v=4"
     },
     "flarnie": {
@@ -97,11 +102,6 @@
       "total": 1,
       "merged": 1,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/1307267?v=4"
-    },
-    "bvaughn": {
-      "total": 145,
-      "merged": 131,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/29597?v=4"
     },
     "clemmy": {
       "total": 8,
@@ -9346,8 +9346,8 @@
   },
   "datePRInfos": {
     "Novembre-2017": {
-      "total": 67,
-      "merged": 45
+      "total": 68,
+      "merged": 46
     },
     "Octobre-2017": {
       "total": 212,
