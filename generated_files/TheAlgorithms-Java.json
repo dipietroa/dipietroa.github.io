@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-11-13T01:41:03.392Z",
+  "lastUpdate": "2017-11-13T02:41:17.494Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
-  "totalPR": 288,
+  "totalPR": 289,
   "lastPR": {
-    "createdAt": "2017-11-12T12:57:19Z",
-    "username": "JeonSeongBae"
+    "createdAt": "2017-11-13T02:21:13Z",
+    "username": "cnuhoya"
   },
   "bestPR": {
     "user": "theycallmemac",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/26190214?v=4"
   },
   "userPRInfos": {
+    "cnuhoya": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/19682978?v=4"
+    },
     "JeonSeongBae": {
       "total": 1,
       "merged": 0,
@@ -791,7 +796,7 @@
   },
   "datePRInfos": {
     "Novembre-2017": {
-      "total": 5,
+      "total": 6,
       "merged": 1
     },
     "Octobre-2017": {
