@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-11-13T05:41:21.633Z",
+  "lastUpdate": "2017-11-13T06:41:08.643Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2147,
+  "totalPR": 2148,
   "lastPR": {
-    "createdAt": "2017-11-13T03:57:51Z",
-    "username": "eddumelendez"
+    "createdAt": "2017-11-13T06:07:59Z",
+    "username": "hanyong"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "hanyong": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/250120?v=4"
+    },
     "eddumelendez": {
       "total": 123,
       "merged": 0,
@@ -3416,7 +3421,7 @@
   },
   "datePRInfos": {
     "Novembre-2017": {
-      "total": 25,
+      "total": 26,
       "merged": 1
     },
     "Octobre-2017": {
