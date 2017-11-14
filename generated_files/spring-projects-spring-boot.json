@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-11-14T09:41:00.232Z",
+  "lastUpdate": "2017-11-14T10:41:06.755Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2149,
+  "totalPR": 2150,
   "lastPR": {
-    "createdAt": "2017-11-14T09:34:51Z",
-    "username": "sdeleuze"
+    "createdAt": "2017-11-14T09:49:11Z",
+    "username": "kbecic"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "kbecic": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/10846702?v=4"
+    },
     "sdeleuze": {
       "total": 15,
       "merged": 1,
@@ -3421,7 +3426,7 @@
   },
   "datePRInfos": {
     "Novembre-2017": {
-      "total": 27,
+      "total": 28,
       "merged": 1
     },
     "Octobre-2017": {
