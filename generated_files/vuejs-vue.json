@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "2017-11-14T02:41:44.772Z",
+  "lastUpdate": "2017-11-14T03:41:17.268Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 951,
+  "totalPR": 952,
   "lastPR": {
-    "createdAt": "2017-11-11T15:48:15Z",
+    "createdAt": "2017-11-14T03:17:12Z",
     "username": "Hanks10100"
   },
   "bestPR": {
@@ -29,7 +29,7 @@
       "avatarUrl": "https://avatars1.githubusercontent.com/u/28888508?v=4"
     },
     "Hanks10100": {
-      "total": 23,
+      "total": 24,
       "merged": 21,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/8401776?v=4"
     },
@@ -2066,7 +2066,7 @@
   },
   "datePRInfos": {
     "Novembre-2017": {
-      "total": 10,
+      "total": 11,
       "merged": 6
     },
     "Octobre-2017": {
