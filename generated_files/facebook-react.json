@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-11-14T16:44:24.273Z",
+  "lastUpdate": "2017-11-14T17:43:19.665Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6212,
+  "totalPR": 6213,
   "lastPR": {
-    "createdAt": "2017-11-14T02:02:56Z",
-    "username": "nhunzaker"
+    "createdAt": "2017-11-14T17:20:13Z",
+    "username": "trueadm"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/22439276?v=4"
   },
   "userPRInfos": {
+    "trueadm": {
+      "total": 36,
+      "merged": 29,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/1519870?v=4"
+    },
     "nhunzaker": {
       "total": 73,
       "merged": 39,
@@ -482,11 +487,6 @@
       "total": 1,
       "merged": 1,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/439616?v=4"
-    },
-    "trueadm": {
-      "total": 35,
-      "merged": 29,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/1519870?v=4"
     },
     "john-d-pelingo": {
       "total": 1,
@@ -9351,7 +9351,7 @@
   },
   "datePRInfos": {
     "Novembre-2017": {
-      "total": 71,
+      "total": 72,
       "merged": 47
     },
     "Octobre-2017": {
