@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-11-14T00:41:46.556Z",
+  "lastUpdate": "2017-11-14T01:42:04.640Z",
   "cowner": "fastify",
   "crepo": "fastify",
-  "totalPR": 265,
+  "totalPR": 266,
   "lastPR": {
-    "createdAt": "2017-11-13T20:54:48Z",
-    "username": "jsumners"
+    "createdAt": "2017-11-14T01:26:11Z",
+    "username": "makeco"
   },
   "bestPR": {
     "user": "delvedor",
@@ -23,6 +23,11 @@
     "image": "https://avatars2.githubusercontent.com/u/1289472?v=4"
   },
   "userPRInfos": {
+    "makeco": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/16967069?v=4"
+    },
     "jsumners": {
       "total": 16,
       "merged": 15,
@@ -271,7 +276,7 @@
   },
   "datePRInfos": {
     "Novembre-2017": {
-      "total": 31,
+      "total": 32,
       "merged": 20
     },
     "Octobre-2017": {
