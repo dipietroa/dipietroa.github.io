@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-11-14T20:41:34.245Z",
+  "lastUpdate": "2017-11-14T21:41:49.020Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 953,
+  "totalPR": 954,
   "lastPR": {
-    "createdAt": "2017-11-14T12:54:47Z",
-    "username": "rpemberton"
+    "createdAt": "2017-11-14T21:00:21Z",
+    "username": "davidnuescheler"
   },
   "bestPR": {
     "user": "kazupon",
@@ -18,15 +18,20 @@
     "image": "https://avatars1.githubusercontent.com/u/72989?v=4"
   },
   "bestRatio": {
-    "user": "ktsn",
+    "user": "davidnuescheler",
     "ratio": 1,
-    "image": "https://avatars0.githubusercontent.com/u/2194624?v=4"
+    "image": "https://avatars0.githubusercontent.com/u/5289336?v=4"
   },
   "userPRInfos": {
     "957685677": {
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/28888508?v=4"
+    },
+    "davidnuescheler": {
+      "total": 1,
+      "merged": 1,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/5289336?v=4"
     },
     "rpemberton": {
       "total": 1,
@@ -2071,8 +2076,8 @@
   },
   "datePRInfos": {
     "Novembre-2017": {
-      "total": 12,
-      "merged": 7
+      "total": 13,
+      "merged": 8
     },
     "Octobre-2017": {
       "total": 54,
