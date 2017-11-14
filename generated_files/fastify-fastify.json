@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-11-14T11:41:56.414Z",
+  "lastUpdate": "2017-11-14T12:41:54.976Z",
   "cowner": "fastify",
   "crepo": "fastify",
-  "totalPR": 267,
+  "totalPR": 268,
   "lastPR": {
-    "createdAt": "2017-11-14T11:09:58Z",
-    "username": "delvedor"
+    "createdAt": "2017-11-14T12:19:12Z",
+    "username": "makeco"
   },
   "bestPR": {
     "user": "delvedor",
@@ -18,20 +18,20 @@
     "image": "https://avatars0.githubusercontent.com/u/4865608?v=4"
   },
   "bestRatio": {
-    "user": "makeco",
+    "user": "exequiel09",
     "ratio": 1,
-    "image": "https://avatars1.githubusercontent.com/u/16967069?v=4"
+    "image": "https://avatars2.githubusercontent.com/u/1289472?v=4"
   },
   "userPRInfos": {
+    "makeco": {
+      "total": 2,
+      "merged": 1,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/16967069?v=4"
+    },
     "delvedor": {
       "total": 64,
       "merged": 60,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/4865608?v=4"
-    },
-    "makeco": {
-      "total": 1,
-      "merged": 1,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/16967069?v=4"
     },
     "jsumners": {
       "total": 16,
@@ -276,7 +276,7 @@
   },
   "datePRInfos": {
     "Novembre-2017": {
-      "total": 33,
+      "total": 34,
       "merged": 21
     },
     "Octobre-2017": {
