@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2017-11-15T19:44:05.330Z",
+  "lastUpdate": "2017-11-15T20:43:39.613Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 6218,
@@ -25,7 +25,7 @@
   "userPRInfos": {
     "acdlite": {
       "total": 153,
-      "merged": 120,
+      "merged": 121,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/3624098?v=4"
     },
     "nhunzaker": {
@@ -9352,7 +9352,7 @@
   "datePRInfos": {
     "Novembre-2017": {
       "total": 77,
-      "merged": 49
+      "merged": 50
     },
     "Octobre-2017": {
       "total": 212,
