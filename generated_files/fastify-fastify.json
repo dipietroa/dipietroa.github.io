@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2017-11-15T13:42:02.478Z",
+  "lastUpdate": "2017-11-15T14:42:13.639Z",
   "cowner": "fastify",
   "crepo": "fastify",
   "totalPR": 269,
@@ -18,9 +18,9 @@
     "image": "https://avatars0.githubusercontent.com/u/4865608?v=4"
   },
   "bestRatio": {
-    "user": "SerayaEryn",
+    "user": "makeco",
     "ratio": 1,
-    "image": "https://avatars2.githubusercontent.com/u/22620443?v=4"
+    "image": "https://avatars1.githubusercontent.com/u/16967069?v=4"
   },
   "userPRInfos": {
     "lolo32": {
@@ -30,7 +30,7 @@
     },
     "makeco": {
       "total": 2,
-      "merged": 1,
+      "merged": 2,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/16967069?v=4"
     },
     "delvedor": {
@@ -277,7 +277,7 @@
   "datePRInfos": {
     "Novembre-2017": {
       "total": 35,
-      "merged": 25
+      "merged": 26
     },
     "Octobre-2017": {
       "total": 57,
