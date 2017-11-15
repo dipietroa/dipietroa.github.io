@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-11-14T23:43:35.840Z",
+  "lastUpdate": "2017-11-15T00:43:18.315Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6214,
+  "totalPR": 6215,
   "lastPR": {
-    "createdAt": "2017-11-14T22:14:55Z",
-    "username": "bvaughn"
+    "createdAt": "2017-11-15T00:39:32Z",
+    "username": "acdlite"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/22439276?v=4"
   },
   "userPRInfos": {
+    "acdlite": {
+      "total": 152,
+      "merged": 120,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/3624098?v=4"
+    },
     "bvaughn": {
       "total": 147,
       "merged": 131,
@@ -37,11 +42,6 @@
       "total": 73,
       "merged": 39,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/590904?v=4"
-    },
-    "acdlite": {
-      "total": 151,
-      "merged": 120,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/3624098?v=4"
     },
     "HardikModha": {
       "total": 1,
@@ -9351,7 +9351,7 @@
   },
   "datePRInfos": {
     "Novembre-2017": {
-      "total": 73,
+      "total": 74,
       "merged": 47
     },
     "Octobre-2017": {
