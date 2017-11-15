@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2017-11-15T10:41:41.325Z",
+  "lastUpdate": "2017-11-15T11:41:48.498Z",
   "cowner": "fastify",
   "crepo": "fastify",
   "totalPR": 269,
@@ -65,7 +65,7 @@
     },
     "evanshortiss": {
       "total": 3,
-      "merged": 2,
+      "merged": 3,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/1303687?v=4"
     },
     "sebdeckers": {
@@ -277,7 +277,7 @@
   "datePRInfos": {
     "Novembre-2017": {
       "total": 35,
-      "merged": 22
+      "merged": 23
     },
     "Octobre-2017": {
       "total": 57,
