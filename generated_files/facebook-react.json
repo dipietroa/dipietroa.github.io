@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-11-15T01:43:06.286Z",
+  "lastUpdate": "2017-11-15T02:43:26.236Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6215,
+  "totalPR": 6216,
   "lastPR": {
-    "createdAt": "2017-11-15T00:39:32Z",
-    "username": "acdlite"
+    "createdAt": "2017-11-15T01:52:06Z",
+    "username": "clemmy"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/22439276?v=4"
   },
   "userPRInfos": {
+    "clemmy": {
+      "total": 9,
+      "merged": 8,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/3696934?v=4"
+    },
     "acdlite": {
       "total": 152,
       "merged": 120,
@@ -113,11 +118,6 @@
       "merged": 1,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/1307267?v=4"
     },
-    "clemmy": {
-      "total": 8,
-      "merged": 8,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/3696934?v=4"
-    },
     "mitermayer": {
       "total": 5,
       "merged": 5,
@@ -145,7 +145,7 @@
     },
     "deanbrophy": {
       "total": 2,
-      "merged": 1,
+      "merged": 2,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/8238179?v=4"
     },
     "misoguy": {
@@ -9351,8 +9351,8 @@
   },
   "datePRInfos": {
     "Novembre-2017": {
-      "total": 74,
-      "merged": 47
+      "total": 75,
+      "merged": 48
     },
     "Octobre-2017": {
       "total": 212,
