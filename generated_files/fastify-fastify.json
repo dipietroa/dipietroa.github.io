@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2017-11-15T11:41:48.498Z",
+  "lastUpdate": "2017-11-15T12:42:03.924Z",
   "cowner": "fastify",
   "crepo": "fastify",
   "totalPR": 269,
@@ -18,9 +18,9 @@
     "image": "https://avatars0.githubusercontent.com/u/4865608?v=4"
   },
   "bestRatio": {
-    "user": "exequiel09",
+    "user": "SerayaEryn",
     "ratio": 1,
-    "image": "https://avatars2.githubusercontent.com/u/1289472?v=4"
+    "image": "https://avatars2.githubusercontent.com/u/22620443?v=4"
   },
   "userPRInfos": {
     "lolo32": {
@@ -50,7 +50,7 @@
     },
     "SerayaEryn": {
       "total": 4,
-      "merged": 3,
+      "merged": 4,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/22620443?v=4"
     },
     "exequiel09": {
@@ -70,7 +70,7 @@
     },
     "sebdeckers": {
       "total": 4,
-      "merged": 3,
+      "merged": 4,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/78718?v=4"
     },
     "jinwoo": {
@@ -277,7 +277,7 @@
   "datePRInfos": {
     "Novembre-2017": {
       "total": 35,
-      "merged": 23
+      "merged": 25
     },
     "Octobre-2017": {
       "total": 57,
