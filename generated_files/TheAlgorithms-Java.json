@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-11-16T20:41:22.096Z",
+  "lastUpdate": "2017-11-16T21:41:20.090Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
-  "totalPR": 295,
+  "totalPR": 296,
   "lastPR": {
-    "createdAt": "2017-11-15T07:49:16Z",
-    "username": "NISHITA97"
+    "createdAt": "2017-11-16T21:34:38Z",
+    "username": "babuipakhi007"
   },
   "bestPR": {
     "user": "theycallmemac",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/31842031?v=4"
   },
   "userPRInfos": {
+    "babuipakhi007": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/33679594?v=4"
+    },
     "NISHITA97": {
       "total": 3,
       "merged": 1,
@@ -811,7 +816,7 @@
   },
   "datePRInfos": {
     "Novembre-2017": {
-      "total": 12,
+      "total": 13,
       "merged": 3
     },
     "Octobre-2017": {
