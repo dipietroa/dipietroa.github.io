@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2017-11-16T13:41:53.940Z",
+  "lastUpdate": "2017-11-16T14:41:48.922Z",
   "cowner": "vuejs",
   "crepo": "vue",
   "totalPR": 955,
@@ -55,7 +55,7 @@
     },
     "neelance": {
       "total": 1,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/16184?v=4"
     },
     "ktsn": {
@@ -2082,7 +2082,7 @@
   "datePRInfos": {
     "Novembre-2017": {
       "total": 14,
-      "merged": 8
+      "merged": 9
     },
     "Octobre-2017": {
       "total": 54,
