@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-11-16T15:43:42.159Z",
+  "lastUpdate": "2017-11-16T16:43:49.349Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6219,
+  "totalPR": 6220,
   "lastPR": {
-    "createdAt": "2017-11-16T14:53:52Z",
-    "username": "jquense"
+    "createdAt": "2017-11-16T16:05:10Z",
+    "username": "nehasinghritu8"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/22439276?v=4"
   },
   "userPRInfos": {
+    "nehasinghritu8": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/26200582?v=4"
+    },
     "jquense": {
       "total": 31,
       "merged": 15,
@@ -9351,7 +9356,7 @@
   },
   "datePRInfos": {
     "Novembre-2017": {
-      "total": 78,
+      "total": 79,
       "merged": 51
     },
     "Octobre-2017": {
