@@ -1,20 +1,20 @@
 {
-  "lastUpdate": "2017-11-16T15:41:51.716Z",
+  "lastUpdate": "2017-11-16T16:41:45.612Z",
   "cowner": "nuclio",
   "crepo": "nuclio",
-  "totalPR": 225,
+  "totalPR": 226,
   "lastPR": {
-    "createdAt": "2017-11-16T14:21:51Z",
+    "createdAt": "2017-11-16T16:26:35Z",
     "username": "pavius"
   },
   "bestPR": {
     "user": "pavius",
-    "nbPR": 142,
+    "nbPR": 143,
     "image": "https://avatars2.githubusercontent.com/u/423987?v=4"
   },
   "bestMerged": {
     "user": "pavius",
-    "nbPR": 141,
+    "nbPR": 142,
     "image": "https://avatars2.githubusercontent.com/u/423987?v=4"
   },
   "bestRatio": {
@@ -24,8 +24,8 @@
   },
   "userPRInfos": {
     "pavius": {
-      "total": 142,
-      "merged": 141,
+      "total": 143,
+      "merged": 142,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/423987?v=4"
     },
     "Sharon-iguazio": {
@@ -81,8 +81,8 @@
   },
   "datePRInfos": {
     "Novembre-2017": {
-      "total": 24,
-      "merged": 20
+      "total": 25,
+      "merged": 21
     },
     "Octobre-2017": {
       "total": 48,
