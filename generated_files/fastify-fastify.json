@@ -1,15 +1,15 @@
 {
-  "lastUpdate": "2017-11-16T11:41:58.278Z",
+  "lastUpdate": "2017-11-16T12:41:57.006Z",
   "cowner": "fastify",
   "crepo": "fastify",
-  "totalPR": 269,
+  "totalPR": 270,
   "lastPR": {
-    "createdAt": "2017-11-14T13:36:46Z",
-    "username": "lolo32"
+    "createdAt": "2017-11-16T11:48:52Z",
+    "username": "delvedor"
   },
   "bestPR": {
     "user": "delvedor",
-    "nbPR": 64,
+    "nbPR": 65,
     "image": "https://avatars0.githubusercontent.com/u/4865608?v=4"
   },
   "bestMerged": {
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/16967069?v=4"
   },
   "userPRInfos": {
+    "delvedor": {
+      "total": 65,
+      "merged": 61,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/4865608?v=4"
+    },
     "lolo32": {
       "total": 5,
       "merged": 2,
@@ -32,11 +37,6 @@
       "total": 2,
       "merged": 2,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/16967069?v=4"
-    },
-    "delvedor": {
-      "total": 64,
-      "merged": 61,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/4865608?v=4"
     },
     "jsumners": {
       "total": 16,
@@ -276,7 +276,7 @@
   },
   "datePRInfos": {
     "Novembre-2017": {
-      "total": 35,
+      "total": 36,
       "merged": 26
     },
     "Octobre-2017": {
