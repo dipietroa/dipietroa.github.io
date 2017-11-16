@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-11-16T18:43:40.956Z",
+  "lastUpdate": "2017-11-16T19:43:23.101Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6220,
+  "totalPR": 6221,
   "lastPR": {
-    "createdAt": "2017-11-16T16:05:10Z",
-    "username": "nehasinghritu8"
+    "createdAt": "2017-11-16T19:24:12Z",
+    "username": "jquense"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,15 +23,15 @@
     "image": "https://avatars3.githubusercontent.com/u/22439276?v=4"
   },
   "userPRInfos": {
+    "jquense": {
+      "total": 32,
+      "merged": 15,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/339286?v=4"
+    },
     "nehasinghritu8": {
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/26200582?v=4"
-    },
-    "jquense": {
-      "total": 31,
-      "merged": 15,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/339286?v=4"
     },
     "acdlite": {
       "total": 153,
@@ -9356,7 +9356,7 @@
   },
   "datePRInfos": {
     "Novembre-2017": {
-      "total": 79,
+      "total": 80,
       "merged": 51
     },
     "Octobre-2017": {
