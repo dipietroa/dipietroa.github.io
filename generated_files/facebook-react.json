@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2017-11-17T00:43:23.889Z",
+  "lastUpdate": "2017-11-17T01:43:30.648Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 6224,
@@ -30,7 +30,7 @@
     },
     "acdlite": {
       "total": 154,
-      "merged": 122,
+      "merged": 124,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/3624098?v=4"
     },
     "skiritsis": {
@@ -9362,7 +9362,7 @@
   "datePRInfos": {
     "Novembre-2017": {
       "total": 83,
-      "merged": 52
+      "merged": 54
     },
     "Octobre-2017": {
       "total": 212,
