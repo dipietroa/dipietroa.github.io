@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-11-17T11:41:33.961Z",
+  "lastUpdate": "2017-11-17T12:41:37.939Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 957,
+  "totalPR": 958,
   "lastPR": {
-    "createdAt": "2017-11-17T08:56:35Z",
-    "username": "IsMrWu"
+    "createdAt": "2017-11-17T12:27:17Z",
+    "username": "neelance"
   },
   "bestPR": {
     "user": "kazupon",
@@ -27,6 +27,11 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/28888508?v=4"
+    },
+    "neelance": {
+      "total": 2,
+      "merged": 1,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/16184?v=4"
     },
     "IsMrWu": {
       "total": 1,
@@ -62,11 +67,6 @@
       "total": 2,
       "merged": 1,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/7811719?v=4"
-    },
-    "neelance": {
-      "total": 1,
-      "merged": 1,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/16184?v=4"
     },
     "ktsn": {
       "total": 16,
@@ -2091,7 +2091,7 @@
   },
   "datePRInfos": {
     "Novembre-2017": {
-      "total": 16,
+      "total": 17,
       "merged": 10
     },
     "Octobre-2017": {
