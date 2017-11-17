@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-11-17T14:41:13.473Z",
+  "lastUpdate": "2017-11-17T15:41:20.394Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2159,
+  "totalPR": 2160,
   "lastPR": {
-    "createdAt": "2017-11-17T13:47:08Z",
-    "username": "vpavic"
+    "createdAt": "2017-11-17T15:05:14Z",
+    "username": "alexandreBaronZnk"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "alexandreBaronZnk": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/2428584?v=4"
+    },
     "vpavic": {
       "total": 118,
       "merged": 1,
@@ -3431,7 +3436,7 @@
   },
   "datePRInfos": {
     "Novembre-2017": {
-      "total": 37,
+      "total": 38,
       "merged": 1
     },
     "Octobre-2017": {
