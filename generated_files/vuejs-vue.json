@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-11-17T04:41:37.302Z",
+  "lastUpdate": "2017-11-17T05:41:38.835Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 955,
+  "totalPR": 956,
   "lastPR": {
-    "createdAt": "2017-11-16T12:08:12Z",
-    "username": "st-sloth"
+    "createdAt": "2017-11-17T04:54:10Z",
+    "username": "kavanLi"
   },
   "bestPR": {
     "user": "kazupon",
@@ -27,6 +27,11 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/28888508?v=4"
+    },
+    "kavanLi": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/33696428?v=4"
     },
     "st-sloth": {
       "total": 1,
@@ -2081,7 +2086,7 @@
   },
   "datePRInfos": {
     "Novembre-2017": {
-      "total": 14,
+      "total": 15,
       "merged": 10
     },
     "Octobre-2017": {
