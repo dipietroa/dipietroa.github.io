@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "2017-11-17T16:43:22.551Z",
+  "lastUpdate": "2017-11-17T17:43:36.692Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6226,
+  "totalPR": 6227,
   "lastPR": {
-    "createdAt": "2017-11-17T02:36:53Z",
+    "createdAt": "2017-11-17T17:12:20Z",
     "username": "bvaughn"
   },
   "bestPR": {
@@ -24,7 +24,7 @@
   },
   "userPRInfos": {
     "bvaughn": {
-      "total": 149,
+      "total": 150,
       "merged": 134,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/29597?v=4"
     },
@@ -9361,7 +9361,7 @@
   },
   "datePRInfos": {
     "Novembre-2017": {
-      "total": 85,
+      "total": 86,
       "merged": 55
     },
     "Octobre-2017": {
