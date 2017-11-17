@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2017-11-17T14:41:50.181Z",
+  "lastUpdate": "2017-11-17T15:42:03.944Z",
   "cowner": "fastify",
   "crepo": "fastify",
   "totalPR": 272,
@@ -30,7 +30,7 @@
     },
     "mcollina": {
       "total": 37,
-      "merged": 34,
+      "merged": 35,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/52195?v=4"
     },
     "lolo32": {
@@ -277,7 +277,7 @@
   "datePRInfos": {
     "Novembre-2017": {
       "total": 38,
-      "merged": 28
+      "merged": 29
     },
     "Octobre-2017": {
       "total": 57,
