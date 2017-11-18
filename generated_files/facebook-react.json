@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-11-18T00:43:13.122Z",
+  "lastUpdate": "2017-11-18T01:43:06.176Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6227,
+  "totalPR": 6229,
   "lastPR": {
-    "createdAt": "2017-11-17T17:12:20Z",
-    "username": "bvaughn"
+    "createdAt": "2017-11-18T01:11:36Z",
+    "username": "misoguy"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,15 +23,20 @@
     "image": "https://avatars3.githubusercontent.com/u/22439276?v=4"
   },
   "userPRInfos": {
+    "misoguy": {
+      "total": 4,
+      "merged": 2,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/12230408?v=4"
+    },
+    "acdlite": {
+      "total": 156,
+      "merged": 124,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/3624098?v=4"
+    },
     "bvaughn": {
       "total": 150,
       "merged": 135,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/29597?v=4"
-    },
-    "acdlite": {
-      "total": 155,
-      "merged": 124,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/3624098?v=4"
     },
     "skiritsis": {
       "total": 1,
@@ -162,11 +167,6 @@
       "total": 2,
       "merged": 2,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/8238179?v=4"
-    },
-    "misoguy": {
-      "total": 3,
-      "merged": 2,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/12230408?v=4"
     },
     "sw-yx": {
       "total": 3,
@@ -9361,7 +9361,7 @@
   },
   "datePRInfos": {
     "Novembre-2017": {
-      "total": 86,
+      "total": 88,
       "merged": 56
     },
     "Octobre-2017": {
