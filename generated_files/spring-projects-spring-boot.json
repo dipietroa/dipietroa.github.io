@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-11-18T17:41:07.383Z",
+  "lastUpdate": "2017-11-18T18:40:56.335Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2165,
+  "totalPR": 2166,
   "lastPR": {
-    "createdAt": "2017-11-18T15:28:38Z",
-    "username": "nklmish"
+    "createdAt": "2017-11-18T18:21:26Z",
+    "username": "neiser"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "neiser": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/3863897?v=4"
+    },
     "nklmish": {
       "total": 1,
       "merged": 0,
@@ -3441,7 +3446,7 @@
   },
   "datePRInfos": {
     "Novembre-2017": {
-      "total": 43,
+      "total": 44,
       "merged": 1
     },
     "Octobre-2017": {
