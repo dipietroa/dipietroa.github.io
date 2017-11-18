@@ -1,15 +1,15 @@
 {
-  "lastUpdate": "2017-11-18T11:41:05.124Z",
+  "lastUpdate": "2017-11-18T12:41:10.541Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2163,
+  "totalPR": 2164,
   "lastPR": {
-    "createdAt": "2017-11-17T22:56:26Z",
-    "username": "dreis2211"
+    "createdAt": "2017-11-18T12:37:16Z",
+    "username": "izeye"
   },
   "bestPR": {
     "user": "izeye",
-    "nbPR": 287,
+    "nbPR": 288,
     "image": "https://avatars3.githubusercontent.com/u/1059363?v=4"
   },
   "bestMerged": {
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "izeye": {
+      "total": 288,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/1059363?v=4"
+    },
     "dreis2211": {
       "total": 31,
       "merged": 0,
@@ -32,11 +37,6 @@
       "total": 6,
       "merged": 0,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/1697736?v=4"
-    },
-    "izeye": {
-      "total": 287,
-      "merged": 0,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/1059363?v=4"
     },
     "alexandreBaronZnk": {
       "total": 1,
@@ -3436,7 +3436,7 @@
   },
   "datePRInfos": {
     "Novembre-2017": {
-      "total": 41,
+      "total": 42,
       "merged": 1
     },
     "Octobre-2017": {
