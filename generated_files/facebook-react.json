@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2017-11-18T13:42:56.549Z",
+  "lastUpdate": "2017-11-18T14:42:53.996Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 6229,
@@ -25,7 +25,7 @@
   "userPRInfos": {
     "misoguy": {
       "total": 4,
-      "merged": 2,
+      "merged": 3,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/12230408?v=4"
     },
     "acdlite": {
@@ -9362,7 +9362,7 @@
   "datePRInfos": {
     "Novembre-2017": {
       "total": 88,
-      "merged": 56
+      "merged": 57
     },
     "Octobre-2017": {
       "total": 212,
