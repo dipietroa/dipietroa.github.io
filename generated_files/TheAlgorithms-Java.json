@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "2017-11-18T23:41:16.801Z",
+  "lastUpdate": "2017-11-19T00:41:20.240Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
-  "totalPR": 299,
+  "totalPR": 300,
   "lastPR": {
-    "createdAt": "2017-11-18T21:15:10Z",
+    "createdAt": "2017-11-18T23:57:53Z",
     "username": "NISHITA97"
   },
   "bestPR": {
@@ -24,7 +24,7 @@
   },
   "userPRInfos": {
     "NISHITA97": {
-      "total": 4,
+      "total": 5,
       "merged": 1,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/22667364?v=4"
     },
@@ -826,7 +826,7 @@
   },
   "datePRInfos": {
     "Novembre-2017": {
-      "total": 16,
+      "total": 17,
       "merged": 3
     },
     "Octobre-2017": {
