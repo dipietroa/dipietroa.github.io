@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-11-18T23:43:04.557Z",
+  "lastUpdate": "2017-11-19T00:43:10.217Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6229,
+  "totalPR": 6230,
   "lastPR": {
-    "createdAt": "2017-11-18T01:11:36Z",
-    "username": "misoguy"
+    "createdAt": "2017-11-19T00:36:56Z",
+    "username": "cristidrg"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/22439276?v=4"
   },
   "userPRInfos": {
+    "cristidrg": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/13036803?v=4"
+    },
     "misoguy": {
       "total": 4,
       "merged": 3,
@@ -9361,7 +9366,7 @@
   },
   "datePRInfos": {
     "Novembre-2017": {
-      "total": 88,
+      "total": 89,
       "merged": 57
     },
     "Octobre-2017": {
