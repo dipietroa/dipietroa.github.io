@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-11-19T21:41:22.922Z",
+  "lastUpdate": "2017-11-19T22:41:40.671Z",
   "cowner": "fastify",
   "crepo": "fastify",
-  "totalPR": 273,
+  "totalPR": 274,
   "lastPR": {
-    "createdAt": "2017-11-18T13:50:35Z",
-    "username": "SerayaEryn"
+    "createdAt": "2017-11-19T21:49:17Z",
+    "username": "allevo"
   },
   "bestPR": {
     "user": "delvedor",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/16967069?v=4"
   },
   "userPRInfos": {
+    "allevo": {
+      "total": 29,
+      "merged": 25,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/1054125?v=4"
+    },
     "SerayaEryn": {
       "total": 5,
       "merged": 4,
@@ -82,11 +87,6 @@
       "total": 1,
       "merged": 1,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/1570213?v=4"
-    },
-    "allevo": {
-      "total": 28,
-      "merged": 25,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/1054125?v=4"
     },
     "StarpTech": {
       "total": 16,
@@ -276,7 +276,7 @@
   },
   "datePRInfos": {
     "Novembre-2017": {
-      "total": 39,
+      "total": 40,
       "merged": 29
     },
     "Octobre-2017": {
