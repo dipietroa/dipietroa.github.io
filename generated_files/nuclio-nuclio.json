@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-11-19T18:41:27.329Z",
+  "lastUpdate": "2017-11-19T19:41:20.606Z",
   "cowner": "nuclio",
   "crepo": "nuclio",
-  "totalPR": 232,
+  "totalPR": 234,
   "lastPR": {
-    "createdAt": "2017-11-19T11:33:13Z",
-    "username": "pavius"
+    "createdAt": "2017-11-19T19:26:38Z",
+    "username": "yaronha"
   },
   "bestPR": {
     "user": "pavius",
@@ -23,25 +23,25 @@
     "image": "https://avatars1.githubusercontent.com/u/5636945?v=4"
   },
   "userPRInfos": {
+    "yaronha": {
+      "total": 3,
+      "merged": 1,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/6298833?v=4"
+    },
+    "Sharon-iguazio": {
+      "total": 4,
+      "merged": 2,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/27913885?v=4"
+    },
     "pavius": {
       "total": 149,
       "merged": 148,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/423987?v=4"
     },
-    "Sharon-iguazio": {
-      "total": 3,
-      "merged": 2,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/27913885?v=4"
-    },
     "balster1123": {
       "total": 1,
       "merged": 1,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/5636945?v=4"
-    },
-    "yaronha": {
-      "total": 2,
-      "merged": 1,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/6298833?v=4"
     },
     "tebeka": {
       "total": 50,
@@ -81,7 +81,7 @@
   },
   "datePRInfos": {
     "Novembre-2017": {
-      "total": 31,
+      "total": 33,
       "merged": 27
     },
     "Octobre-2017": {
