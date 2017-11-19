@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2017-11-19T15:42:55.348Z",
+  "lastUpdate": "2017-11-19T16:42:49.668Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 6230,
@@ -355,7 +355,7 @@
     },
     "landvibe": {
       "total": 1,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/3401416?v=4"
     },
     "jportela": {
@@ -9371,7 +9371,7 @@
     },
     "Octobre-2017": {
       "total": 212,
-      "merged": 157
+      "merged": 158
     },
     "Septembre-2017": {
       "total": 236,
