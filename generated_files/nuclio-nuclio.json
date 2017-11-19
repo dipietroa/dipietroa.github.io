@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2017-11-19T20:41:23.136Z",
+  "lastUpdate": "2017-11-19T21:41:18.862Z",
   "cowner": "nuclio",
   "crepo": "nuclio",
   "totalPR": 234,
@@ -25,12 +25,12 @@
   "userPRInfos": {
     "yaronha": {
       "total": 3,
-      "merged": 1,
+      "merged": 2,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/6298833?v=4"
     },
     "Sharon-iguazio": {
       "total": 4,
-      "merged": 2,
+      "merged": 3,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/27913885?v=4"
     },
     "pavius": {
@@ -82,7 +82,7 @@
   "datePRInfos": {
     "Novembre-2017": {
       "total": 33,
-      "merged": 27
+      "merged": 29
     },
     "Octobre-2017": {
       "total": 48,
