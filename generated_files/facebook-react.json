@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2017-11-19T13:43:19.331Z",
+  "lastUpdate": "2017-11-19T14:43:15.702Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 6230,
@@ -18,9 +18,9 @@
     "image": "https://avatars2.githubusercontent.com/u/6820?v=4"
   },
   "bestRatio": {
-    "user": "HardikModha",
+    "user": "misoguy",
     "ratio": 1,
-    "image": "https://avatars3.githubusercontent.com/u/22439276?v=4"
+    "image": "https://avatars0.githubusercontent.com/u/12230408?v=4"
   },
   "userPRInfos": {
     "cristidrg": {
@@ -30,7 +30,7 @@
     },
     "misoguy": {
       "total": 4,
-      "merged": 3,
+      "merged": 4,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/12230408?v=4"
     },
     "acdlite": {
@@ -230,7 +230,7 @@
     },
     "GordyD": {
       "total": 1,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/966511?v=4"
     },
     "tobiasandersen": {
@@ -9367,11 +9367,11 @@
   "datePRInfos": {
     "Novembre-2017": {
       "total": 89,
-      "merged": 57
+      "merged": 58
     },
     "Octobre-2017": {
       "total": 212,
-      "merged": 156
+      "merged": 157
     },
     "Septembre-2017": {
       "total": 236,
