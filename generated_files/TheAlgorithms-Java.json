@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-11-20T06:41:11.746Z",
+  "lastUpdate": "2017-11-20T07:40:56.773Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
-  "totalPR": 301,
+  "totalPR": 303,
   "lastPR": {
-    "createdAt": "2017-11-20T00:42:10Z",
-    "username": "harshar11"
+    "createdAt": "2017-11-20T07:27:38Z",
+    "username": "MaengMaeng"
   },
   "bestPR": {
     "user": "theycallmemac",
@@ -23,6 +23,16 @@
     "image": "https://avatars0.githubusercontent.com/u/29345301?v=4"
   },
   "userPRInfos": {
+    "MaengMaeng": {
+      "total": 2,
+      "merged": 1,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/31842031?v=4"
+    },
+    "YooSeonjae": {
+      "total": 3,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/31612794?v=4"
+    },
     "harshar11": {
       "total": 1,
       "merged": 1,
@@ -53,20 +63,10 @@
       "merged": 0,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/19682981?v=4"
     },
-    "MaengMaeng": {
-      "total": 1,
-      "merged": 1,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/31842031?v=4"
-    },
     "sangjun2": {
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/17975428?v=4"
-    },
-    "YooSeonjae": {
-      "total": 2,
-      "merged": 0,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/31612794?v=4"
     },
     "cnuhoya": {
       "total": 1,
@@ -831,7 +831,7 @@
   },
   "datePRInfos": {
     "Novembre-2017": {
-      "total": 18,
+      "total": 20,
       "merged": 5
     },
     "Octobre-2017": {
