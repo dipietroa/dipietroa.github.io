@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-11-20T15:43:14.547Z",
+  "lastUpdate": "2017-11-20T16:43:34.296Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6230,
+  "totalPR": 6231,
   "lastPR": {
-    "createdAt": "2017-11-19T00:36:56Z",
-    "username": "cristidrg"
+    "createdAt": "2017-11-20T16:34:31Z",
+    "username": "andydavies92"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/13036803?v=4"
   },
   "userPRInfos": {
+    "andydavies92": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/17612522?v=4"
+    },
     "cristidrg": {
       "total": 1,
       "merged": 1,
@@ -9366,7 +9371,7 @@
   },
   "datePRInfos": {
     "Novembre-2017": {
-      "total": 89,
+      "total": 90,
       "merged": 61
     },
     "Octobre-2017": {
