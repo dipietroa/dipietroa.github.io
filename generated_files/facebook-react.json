@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-11-20T22:43:18.185Z",
+  "lastUpdate": "2017-11-20T23:43:06.572Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6233,
+  "totalPR": 6234,
   "lastPR": {
-    "createdAt": "2017-11-20T22:19:50Z",
-    "username": "thatsjet"
+    "createdAt": "2017-11-20T23:25:39Z",
+    "username": "raphamorim"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/17612522?v=4"
   },
   "userPRInfos": {
+    "raphamorim": {
+      "total": 4,
+      "merged": 2,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/3630346?v=4"
+    },
     "thatsjet": {
       "total": 1,
       "merged": 0,
@@ -97,11 +102,6 @@
       "total": 5,
       "merged": 2,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/5378891?v=4"
-    },
-    "raphamorim": {
-      "total": 3,
-      "merged": 2,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/3630346?v=4"
     },
     "f0rmat1k": {
       "total": 1,
@@ -9376,7 +9376,7 @@
   },
   "datePRInfos": {
     "Novembre-2017": {
-      "total": 92,
+      "total": 93,
       "merged": 64
     },
     "Octobre-2017": {
