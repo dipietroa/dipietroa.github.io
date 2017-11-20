@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-11-20T21:43:40.810Z",
+  "lastUpdate": "2017-11-20T22:43:18.185Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6232,
+  "totalPR": 6233,
   "lastPR": {
-    "createdAt": "2017-11-20T21:41:58Z",
-    "username": "bvaughn"
+    "createdAt": "2017-11-20T22:19:50Z",
+    "username": "thatsjet"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,9 +23,14 @@
     "image": "https://avatars1.githubusercontent.com/u/17612522?v=4"
   },
   "userPRInfos": {
+    "thatsjet": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/2159033?v=4"
+    },
     "bvaughn": {
       "total": 151,
-      "merged": 135,
+      "merged": 136,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/29597?v=4"
     },
     "andydavies92": {
@@ -125,7 +130,7 @@
     },
     "MatteoVH": {
       "total": 5,
-      "merged": 3,
+      "merged": 4,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/4573586?v=4"
     },
     "sjy": {
@@ -9371,8 +9376,8 @@
   },
   "datePRInfos": {
     "Novembre-2017": {
-      "total": 91,
-      "merged": 62
+      "total": 92,
+      "merged": 64
     },
     "Octobre-2017": {
       "total": 212,
