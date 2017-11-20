@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2017-11-20T11:43:12.526Z",
+  "lastUpdate": "2017-11-20T12:43:12.250Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 6230,
@@ -18,14 +18,14 @@
     "image": "https://avatars2.githubusercontent.com/u/6820?v=4"
   },
   "bestRatio": {
-    "user": "misoguy",
+    "user": "cristidrg",
     "ratio": 1,
-    "image": "https://avatars0.githubusercontent.com/u/12230408?v=4"
+    "image": "https://avatars3.githubusercontent.com/u/13036803?v=4"
   },
   "userPRInfos": {
     "cristidrg": {
       "total": 1,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/13036803?v=4"
     },
     "misoguy": {
@@ -9367,7 +9367,7 @@
   "datePRInfos": {
     "Novembre-2017": {
       "total": 89,
-      "merged": 59
+      "merged": 60
     },
     "Octobre-2017": {
       "total": 212,
