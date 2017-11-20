@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-11-20T11:41:09.656Z",
+  "lastUpdate": "2017-11-20T12:41:06.867Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
-  "totalPR": 303,
+  "totalPR": 304,
   "lastPR": {
-    "createdAt": "2017-11-20T07:27:38Z",
-    "username": "MaengMaeng"
+    "createdAt": "2017-11-20T12:10:31Z",
+    "username": "LeeChungWan"
   },
   "bestPR": {
     "user": "theycallmemac",
@@ -23,6 +23,11 @@
     "image": "https://avatars0.githubusercontent.com/u/29345301?v=4"
   },
   "userPRInfos": {
+    "LeeChungWan": {
+      "total": 2,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/26535056?v=4"
+    },
     "MaengMaeng": {
       "total": 2,
       "merged": 1,
@@ -72,11 +77,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/19682978?v=4"
-    },
-    "LeeChungWan": {
-      "total": 1,
-      "merged": 0,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/26535056?v=4"
     },
     "newcoder171": {
       "total": 1,
@@ -831,7 +831,7 @@
   },
   "datePRInfos": {
     "Novembre-2017": {
-      "total": 20,
+      "total": 21,
       "merged": 5
     },
     "Octobre-2017": {
