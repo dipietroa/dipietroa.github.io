@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2017-11-20T13:43:12.226Z",
+  "lastUpdate": "2017-11-20T14:43:21.167Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 6230,
@@ -105,7 +105,7 @@
     },
     "timjacobi": {
       "total": 2,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/2023165?v=4"
     },
     "M-ZubairAhmed": {
@@ -9367,7 +9367,7 @@
   "datePRInfos": {
     "Novembre-2017": {
       "total": 89,
-      "merged": 60
+      "merged": 61
     },
     "Octobre-2017": {
       "total": 212,
