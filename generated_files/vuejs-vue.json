@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2017-11-20T14:41:26.719Z",
+  "lastUpdate": "2017-11-20T15:41:25.219Z",
   "cowner": "vuejs",
   "crepo": "vue",
   "totalPR": 960,
@@ -18,9 +18,9 @@
     "image": "https://avatars1.githubusercontent.com/u/72989?v=4"
   },
   "bestRatio": {
-    "user": "davidnuescheler",
+    "user": "mniya",
     "ratio": 1,
-    "image": "https://avatars0.githubusercontent.com/u/5289336?v=4"
+    "image": "https://avatars1.githubusercontent.com/u/6391711?v=4"
   },
   "userPRInfos": {
     "957685677": {
@@ -30,7 +30,7 @@
     },
     "mniya": {
       "total": 1,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/6391711?v=4"
     },
     "nuoyz": {
@@ -40,7 +40,7 @@
     },
     "neelance": {
       "total": 2,
-      "merged": 1,
+      "merged": 2,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/16184?v=4"
     },
     "IsMrWu": {
@@ -2097,7 +2097,7 @@
   "datePRInfos": {
     "Novembre-2017": {
       "total": 19,
-      "merged": 10
+      "merged": 12
     },
     "Octobre-2017": {
       "total": 54,
