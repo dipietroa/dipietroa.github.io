@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-11-20T21:41:54.061Z",
+  "lastUpdate": "2017-11-20T22:41:29.011Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 960,
+  "totalPR": 961,
   "lastPR": {
-    "createdAt": "2017-11-20T09:49:33Z",
-    "username": "mniya"
+    "createdAt": "2017-11-20T22:40:48Z",
+    "username": "guieiras"
   },
   "bestPR": {
     "user": "kazupon",
@@ -27,6 +27,11 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/28888508?v=4"
+    },
+    "guieiras": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/16104013?v=4"
     },
     "mniya": {
       "total": 1,
@@ -2096,7 +2101,7 @@
   },
   "datePRInfos": {
     "Novembre-2017": {
-      "total": 19,
+      "total": 20,
       "merged": 12
     },
     "Octobre-2017": {
