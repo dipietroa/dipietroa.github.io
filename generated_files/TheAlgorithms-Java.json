@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-11-20T00:41:07.528Z",
+  "lastUpdate": "2017-11-20T01:41:08.934Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
-  "totalPR": 300,
+  "totalPR": 301,
   "lastPR": {
-    "createdAt": "2017-11-18T23:57:53Z",
-    "username": "NISHITA97"
+    "createdAt": "2017-11-20T00:42:10Z",
+    "username": "harshar11"
   },
   "bestPR": {
     "user": "theycallmemac",
@@ -18,11 +18,16 @@
     "image": "https://avatars1.githubusercontent.com/u/16108563?v=4"
   },
   "bestRatio": {
-    "user": "MaengMaeng",
+    "user": "harshar11",
     "ratio": 1,
-    "image": "https://avatars3.githubusercontent.com/u/31842031?v=4"
+    "image": "https://avatars0.githubusercontent.com/u/29345301?v=4"
   },
   "userPRInfos": {
+    "harshar11": {
+      "total": 1,
+      "merged": 1,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/29345301?v=4"
+    },
     "NISHITA97": {
       "total": 5,
       "merged": 2,
@@ -826,8 +831,8 @@
   },
   "datePRInfos": {
     "Novembre-2017": {
-      "total": 17,
-      "merged": 4
+      "total": 18,
+      "merged": 5
     },
     "Octobre-2017": {
       "total": 180,
