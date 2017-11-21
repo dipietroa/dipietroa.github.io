@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2017-11-21T02:43:21.856Z",
+  "lastUpdate": "2017-11-21T03:43:13.480Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 6235,
@@ -18,14 +18,14 @@
     "image": "https://avatars2.githubusercontent.com/u/6820?v=4"
   },
   "bestRatio": {
-    "user": "andydavies92",
+    "user": "BRKalow",
     "ratio": 1,
-    "image": "https://avatars1.githubusercontent.com/u/17612522?v=4"
+    "image": "https://avatars3.githubusercontent.com/u/1289701?v=4"
   },
   "userPRInfos": {
     "BRKalow": {
       "total": 1,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/1289701?v=4"
     },
     "raphamorim": {
@@ -9382,7 +9382,7 @@
   "datePRInfos": {
     "Novembre-2017": {
       "total": 94,
-      "merged": 64
+      "merged": 65
     },
     "Octobre-2017": {
       "total": 212,
