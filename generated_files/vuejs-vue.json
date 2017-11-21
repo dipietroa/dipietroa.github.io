@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-11-21T14:41:37.048Z",
+  "lastUpdate": "2017-11-21T16:41:42.991Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 962,
+  "totalPR": 963,
   "lastPR": {
-    "createdAt": "2017-11-21T12:16:33Z",
-    "username": "posva"
+    "createdAt": "2017-11-21T15:01:06Z",
+    "username": "sleewoo"
   },
   "bestPR": {
     "user": "kazupon",
@@ -18,15 +18,20 @@
     "image": "https://avatars1.githubusercontent.com/u/72989?v=4"
   },
   "bestRatio": {
-    "user": "mniya",
+    "user": "sleewoo",
     "ratio": 1,
-    "image": "https://avatars1.githubusercontent.com/u/6391711?v=4"
+    "image": "https://avatars1.githubusercontent.com/u/9264860?v=4"
   },
   "userPRInfos": {
     "957685677": {
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/28888508?v=4"
+    },
+    "sleewoo": {
+      "total": 1,
+      "merged": 1,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/9264860?v=4"
     },
     "posva": {
       "total": 28,
@@ -2101,8 +2106,8 @@
   },
   "datePRInfos": {
     "Novembre-2017": {
-      "total": 21,
-      "merged": 12
+      "total": 22,
+      "merged": 13
     },
     "Octobre-2017": {
       "total": 54,
