@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-11-21T18:44:16.287Z",
+  "lastUpdate": "2017-11-21T19:43:50.474Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6237,
+  "totalPR": 6238,
   "lastPR": {
-    "createdAt": "2017-11-21T16:25:44Z",
-    "username": "gaearon"
+    "createdAt": "2017-11-21T19:02:01Z",
+    "username": "kentcdodds"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1289701?v=4"
   },
   "userPRInfos": {
+    "kentcdodds": {
+      "total": 6,
+      "merged": 5,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/1500684?v=4"
+    },
     "gaearon": {
       "total": 462,
       "merged": 399,
@@ -3622,11 +3627,6 @@
       "total": 1,
       "merged": 1,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/5457539?v=4"
-    },
-    "kentcdodds": {
-      "total": 5,
-      "merged": 5,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/1500684?v=4"
     },
     "guicar": {
       "total": 1,
@@ -9381,7 +9381,7 @@
   },
   "datePRInfos": {
     "Novembre-2017": {
-      "total": 96,
+      "total": 97,
       "merged": 67
     },
     "Octobre-2017": {
