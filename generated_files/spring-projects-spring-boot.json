@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "2017-11-21T06:41:18.216Z",
+  "lastUpdate": "2017-11-21T07:41:08.797Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2167,
+  "totalPR": 2168,
   "lastPR": {
-    "createdAt": "2017-11-20T08:27:43Z",
+    "createdAt": "2017-11-21T07:08:22Z",
     "username": "vpavic"
   },
   "bestPR": {
@@ -24,7 +24,7 @@
   },
   "userPRInfos": {
     "vpavic": {
-      "total": 119,
+      "total": 120,
       "merged": 1,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/1149230?v=4"
     },
@@ -3446,7 +3446,7 @@
   },
   "datePRInfos": {
     "Novembre-2017": {
-      "total": 45,
+      "total": 46,
       "merged": 1
     },
     "Octobre-2017": {
