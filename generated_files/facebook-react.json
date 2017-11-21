@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-11-21T01:43:22.337Z",
+  "lastUpdate": "2017-11-21T02:43:21.856Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6234,
+  "totalPR": 6235,
   "lastPR": {
-    "createdAt": "2017-11-20T23:25:39Z",
-    "username": "raphamorim"
+    "createdAt": "2017-11-21T01:59:47Z",
+    "username": "BRKalow"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/17612522?v=4"
   },
   "userPRInfos": {
+    "BRKalow": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/1289701?v=4"
+    },
     "raphamorim": {
       "total": 4,
       "merged": 2,
@@ -9376,7 +9381,7 @@
   },
   "datePRInfos": {
     "Novembre-2017": {
-      "total": 93,
+      "total": 94,
       "merged": 64
     },
     "Octobre-2017": {
