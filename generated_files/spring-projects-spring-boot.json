@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-11-22T16:41:23.239Z",
+  "lastUpdate": "2017-11-22T17:41:14.158Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2170,
+  "totalPR": 2171,
   "lastPR": {
-    "createdAt": "2017-11-22T14:22:47Z",
-    "username": "izeye"
+    "createdAt": "2017-11-22T16:46:56Z",
+    "username": "espiegelberg"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "espiegelberg": {
+      "total": 2,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/2649592?v=4"
+    },
     "izeye": {
       "total": 290,
       "merged": 1,
@@ -687,11 +692,6 @@
       "total": 13,
       "merged": 2,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/103264?v=4"
-    },
-    "espiegelberg": {
-      "total": 1,
-      "merged": 0,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/2649592?v=4"
     },
     "wangchengit": {
       "total": 1,
@@ -3446,7 +3446,7 @@
   },
   "datePRInfos": {
     "Novembre-2017": {
-      "total": 48,
+      "total": 49,
       "merged": 2
     },
     "Octobre-2017": {
