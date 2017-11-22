@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-11-22T08:43:11.539Z",
+  "lastUpdate": "2017-11-22T09:43:26.059Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6241,
+  "totalPR": 6243,
   "lastPR": {
-    "createdAt": "2017-11-22T03:12:12Z",
-    "username": "serima"
+    "createdAt": "2017-11-22T09:18:00Z",
+    "username": "jorrit"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,16 @@
     "image": "https://avatars3.githubusercontent.com/u/1289701?v=4"
   },
   "userPRInfos": {
+    "jorrit": {
+      "total": 2,
+      "merged": 1,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/521449?v=4"
+    },
+    "potaty": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/5163148?v=4"
+    },
     "serima": {
       "total": 2,
       "merged": 1,
@@ -6343,11 +6353,6 @@
       "merged": 1,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/4062236?v=4"
     },
-    "jorrit": {
-      "total": 1,
-      "merged": 1,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/521449?v=4"
-    },
     "tgriesser": {
       "total": 1,
       "merged": 0,
@@ -9381,7 +9386,7 @@
   },
   "datePRInfos": {
     "Novembre-2017": {
-      "total": 100,
+      "total": 102,
       "merged": 67
     },
     "Octobre-2017": {
