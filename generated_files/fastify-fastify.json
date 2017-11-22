@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-11-22T14:42:28.894Z",
+  "lastUpdate": "2017-11-22T15:43:12.168Z",
   "cowner": "fastify",
   "crepo": "fastify",
-  "totalPR": 275,
+  "totalPR": 276,
   "lastPR": {
-    "createdAt": "2017-11-22T14:17:14Z",
-    "username": "lependu"
+    "createdAt": "2017-11-22T15:09:25Z",
+    "username": "chapuletta"
   },
   "bestPR": {
     "user": "delvedor",
@@ -23,6 +23,11 @@
     "image": "https://avatars2.githubusercontent.com/u/6317507?v=4"
   },
   "userPRInfos": {
+    "chapuletta": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/10291004?v=4"
+    },
     "lependu": {
       "total": 1,
       "merged": 1,
@@ -281,7 +286,7 @@
   },
   "datePRInfos": {
     "Novembre-2017": {
-      "total": 41,
+      "total": 42,
       "merged": 31
     },
     "Octobre-2017": {
