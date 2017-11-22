@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-11-22T12:43:26.561Z",
+  "lastUpdate": "2017-11-22T13:44:13.098Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6243,
+  "totalPR": 6245,
   "lastPR": {
-    "createdAt": "2017-11-22T09:18:00Z",
-    "username": "jorrit"
+    "createdAt": "2017-11-22T13:42:00Z",
+    "username": "gaearon"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,16 @@
     "image": "https://avatars3.githubusercontent.com/u/1289701?v=4"
   },
   "userPRInfos": {
+    "gaearon": {
+      "total": 464,
+      "merged": 400,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/810438?v=4"
+    },
+    "vincent178": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/2183720?v=4"
+    },
     "jorrit": {
       "total": 2,
       "merged": 1,
@@ -42,11 +52,6 @@
       "total": 75,
       "merged": 39,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/590904?v=4"
-    },
-    "gaearon": {
-      "total": 463,
-      "merged": 399,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/810438?v=4"
     },
     "kentcdodds": {
       "total": 6,
@@ -9386,8 +9391,8 @@
   },
   "datePRInfos": {
     "Novembre-2017": {
-      "total": 102,
-      "merged": 67
+      "total": 104,
+      "merged": 68
     },
     "Octobre-2017": {
       "total": 212,
