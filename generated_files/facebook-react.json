@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-11-22T17:43:57.223Z",
+  "lastUpdate": "2017-11-22T18:43:52.987Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6246,
+  "totalPR": 6248,
   "lastPR": {
-    "createdAt": "2017-11-22T17:23:37Z",
-    "username": "gaearon"
+    "createdAt": "2017-11-22T18:25:49Z",
+    "username": "aarboleda1"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,9 +23,14 @@
     "image": "https://avatars3.githubusercontent.com/u/1289701?v=4"
   },
   "userPRInfos": {
+    "aarboleda1": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/19655649?v=4"
+    },
     "gaearon": {
-      "total": 465,
-      "merged": 400,
+      "total": 466,
+      "merged": 401,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/810438?v=4"
     },
     "vincent178": {
@@ -9391,8 +9396,8 @@
   },
   "datePRInfos": {
     "Novembre-2017": {
-      "total": 105,
-      "merged": 68
+      "total": 107,
+      "merged": 69
     },
     "Octobre-2017": {
       "total": 212,
