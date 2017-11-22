@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-11-22T06:41:25.932Z",
+  "lastUpdate": "2017-11-22T07:41:35.842Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 963,
+  "totalPR": 964,
   "lastPR": {
-    "createdAt": "2017-11-21T15:01:06Z",
-    "username": "sleewoo"
+    "createdAt": "2017-11-22T07:08:52Z",
+    "username": "ssshooter"
   },
   "bestPR": {
     "user": "kazupon",
@@ -27,6 +27,11 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/28888508?v=4"
+    },
+    "ssshooter": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/13051472?v=4"
     },
     "sleewoo": {
       "total": 1,
@@ -2106,7 +2111,7 @@
   },
   "datePRInfos": {
     "Novembre-2017": {
-      "total": 22,
+      "total": 23,
       "merged": 13
     },
     "Octobre-2017": {
