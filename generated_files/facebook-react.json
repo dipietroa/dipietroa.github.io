@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-11-22T02:42:50.002Z",
+  "lastUpdate": "2017-11-22T03:42:59.117Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6240,
+  "totalPR": 6241,
   "lastPR": {
-    "createdAt": "2017-11-22T00:11:32Z",
-    "username": "nhunzaker"
+    "createdAt": "2017-11-22T03:12:12Z",
+    "username": "serima"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1289701?v=4"
   },
   "userPRInfos": {
+    "serima": {
+      "total": 2,
+      "merged": 1,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/1130921?v=4"
+    },
     "nhunzaker": {
       "total": 75,
       "merged": 39,
@@ -4162,11 +4167,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/1830035?v=4"
-    },
-    "serima": {
-      "total": 1,
-      "merged": 1,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/1130921?v=4"
     },
     "nhducit": {
       "total": 1,
@@ -9381,7 +9381,7 @@
   },
   "datePRInfos": {
     "Novembre-2017": {
-      "total": 99,
+      "total": 100,
       "merged": 67
     },
     "Octobre-2017": {
