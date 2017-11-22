@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-11-22T19:41:00.061Z",
+  "lastUpdate": "2017-11-22T20:41:01.514Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2171,
+  "totalPR": 2172,
   "lastPR": {
-    "createdAt": "2017-11-22T16:46:56Z",
-    "username": "espiegelberg"
+    "createdAt": "2017-11-22T19:43:01Z",
+    "username": "habuma"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "habuma": {
+      "total": 5,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/167926?v=4"
+    },
     "espiegelberg": {
       "total": 2,
       "merged": 0,
@@ -2748,11 +2753,6 @@
       "merged": 0,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/6444674?v=4"
     },
-    "habuma": {
-      "total": 4,
-      "merged": 0,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/167926?v=4"
-    },
     "christian-laakmann": {
       "total": 1,
       "merged": 0,
@@ -3446,7 +3446,7 @@
   },
   "datePRInfos": {
     "Novembre-2017": {
-      "total": 49,
+      "total": 50,
       "merged": 2
     },
     "Octobre-2017": {
