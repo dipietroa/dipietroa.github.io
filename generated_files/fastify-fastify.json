@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-11-22T13:42:27.603Z",
+  "lastUpdate": "2017-11-22T14:42:28.894Z",
   "cowner": "fastify",
   "crepo": "fastify",
-  "totalPR": 274,
+  "totalPR": 275,
   "lastPR": {
-    "createdAt": "2017-11-19T21:49:17Z",
-    "username": "allevo"
+    "createdAt": "2017-11-22T14:17:14Z",
+    "username": "lependu"
   },
   "bestPR": {
     "user": "delvedor",
@@ -18,11 +18,16 @@
     "image": "https://avatars0.githubusercontent.com/u/4865608?v=4"
   },
   "bestRatio": {
-    "user": "makeco",
+    "user": "lependu",
     "ratio": 1,
-    "image": "https://avatars1.githubusercontent.com/u/16967069?v=4"
+    "image": "https://avatars2.githubusercontent.com/u/6317507?v=4"
   },
   "userPRInfos": {
+    "lependu": {
+      "total": 1,
+      "merged": 1,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/6317507?v=4"
+    },
     "allevo": {
       "total": 29,
       "merged": 26,
@@ -276,8 +281,8 @@
   },
   "datePRInfos": {
     "Novembre-2017": {
-      "total": 40,
-      "merged": 30
+      "total": 41,
+      "merged": 31
     },
     "Octobre-2017": {
       "total": 57,
