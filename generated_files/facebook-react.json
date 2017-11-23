@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2017-11-23T21:43:07.909Z",
+  "lastUpdate": "2017-11-23T22:43:17.489Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 6260,
@@ -345,7 +345,7 @@
     },
     "jeremenichelli": {
       "total": 1,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/3856481?v=4"
     },
     "VladBlow": {
@@ -9411,7 +9411,7 @@
     },
     "Octobre-2017": {
       "total": 212,
-      "merged": 158
+      "merged": 159
     },
     "Septembre-2017": {
       "total": 236,
