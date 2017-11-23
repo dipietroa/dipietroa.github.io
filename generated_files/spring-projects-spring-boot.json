@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-11-23T04:41:12.403Z",
+  "lastUpdate": "2017-11-23T05:41:06.386Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2173,
+  "totalPR": 2174,
   "lastPR": {
-    "createdAt": "2017-11-23T03:15:55Z",
-    "username": "espiegelberg"
+    "createdAt": "2017-11-23T04:42:06Z",
+    "username": "hanyong"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "hanyong": {
+      "total": 2,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/250120?v=4"
+    },
     "espiegelberg": {
       "total": 3,
       "merged": 0,
@@ -82,11 +87,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/10846702?v=4"
-    },
-    "hanyong": {
-      "total": 1,
-      "merged": 0,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/250120?v=4"
     },
     "eddumelendez": {
       "total": 123,
@@ -3446,7 +3446,7 @@
   },
   "datePRInfos": {
     "Novembre-2017": {
-      "total": 51,
+      "total": 52,
       "merged": 2
     },
     "Octobre-2017": {
