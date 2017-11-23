@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-11-23T07:43:02.663Z",
+  "lastUpdate": "2017-11-23T08:43:46.636Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6256,
+  "totalPR": 6257,
   "lastPR": {
-    "createdAt": "2017-11-23T02:19:24Z",
-    "username": "raphamorim"
+    "createdAt": "2017-11-23T08:02:07Z",
+    "username": "HeroProtagonist"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1289701?v=4"
   },
   "userPRInfos": {
+    "HeroProtagonist": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/12506217?v=4"
+    },
     "raphamorim": {
       "total": 6,
       "merged": 2,
@@ -9401,7 +9406,7 @@
   },
   "datePRInfos": {
     "Novembre-2017": {
-      "total": 115,
+      "total": 116,
       "merged": 72
     },
     "Octobre-2017": {
