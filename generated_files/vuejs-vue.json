@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2017-11-23T01:41:29.021Z",
+  "lastUpdate": "2017-11-23T02:41:38.035Z",
   "cowner": "vuejs",
   "crepo": "vue",
   "totalPR": 966,
@@ -35,7 +35,7 @@
     },
     "Hanks10100": {
       "total": 25,
-      "merged": 22,
+      "merged": 23,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/8401776?v=4"
     },
     "ssshooter": {
@@ -2112,7 +2112,7 @@
   "datePRInfos": {
     "Novembre-2017": {
       "total": 25,
-      "merged": 13
+      "merged": 14
     },
     "Octobre-2017": {
       "total": 54,
