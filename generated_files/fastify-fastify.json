@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-11-23T20:41:29.084Z",
+  "lastUpdate": "2017-11-23T21:41:38.113Z",
   "cowner": "fastify",
   "crepo": "fastify",
-  "totalPR": 277,
+  "totalPR": 278,
   "lastPR": {
-    "createdAt": "2017-11-22T18:23:16Z",
-    "username": "trivikr"
+    "createdAt": "2017-11-23T21:09:25Z",
+    "username": "yamalight"
   },
   "bestPR": {
     "user": "delvedor",
@@ -23,6 +23,11 @@
     "image": "https://avatars2.githubusercontent.com/u/6317507?v=4"
   },
   "userPRInfos": {
+    "yamalight": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/365944?v=4"
+    },
     "trivikr": {
       "total": 1,
       "merged": 0,
@@ -291,7 +296,7 @@
   },
   "datePRInfos": {
     "Novembre-2017": {
-      "total": 43,
+      "total": 44,
       "merged": 31
     },
     "Octobre-2017": {
