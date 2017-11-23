@@ -1,15 +1,15 @@
 {
-  "lastUpdate": "2017-11-23T13:41:13.089Z",
+  "lastUpdate": "2017-11-23T14:41:33.757Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2174,
+  "totalPR": 2176,
   "lastPR": {
-    "createdAt": "2017-11-23T04:42:06Z",
-    "username": "hanyong"
+    "createdAt": "2017-11-23T14:07:36Z",
+    "username": "izeye"
   },
   "bestPR": {
     "user": "izeye",
-    "nbPR": 290,
+    "nbPR": 291,
     "image": "https://avatars3.githubusercontent.com/u/1059363?v=4"
   },
   "bestMerged": {
@@ -23,6 +23,16 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "izeye": {
+      "total": 291,
+      "merged": 1,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/1059363?v=4"
+    },
+    "dsu": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/5750612?v=4"
+    },
     "hanyong": {
       "total": 2,
       "merged": 0,
@@ -37,11 +47,6 @@
       "total": 5,
       "merged": 0,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/167926?v=4"
-    },
-    "izeye": {
-      "total": 290,
-      "merged": 1,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/1059363?v=4"
     },
     "vpavic": {
       "total": 120,
@@ -3446,7 +3451,7 @@
   },
   "datePRInfos": {
     "Novembre-2017": {
-      "total": 52,
+      "total": 54,
       "merged": 2
     },
     "Octobre-2017": {
