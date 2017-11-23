@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-11-23T01:43:06.549Z",
+  "lastUpdate": "2017-11-23T02:43:15.803Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6253,
+  "totalPR": 6256,
   "lastPR": {
-    "createdAt": "2017-11-23T00:56:10Z",
-    "username": "gaearon"
+    "createdAt": "2017-11-23T02:19:24Z",
+    "username": "raphamorim"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,16 @@
     "image": "https://avatars3.githubusercontent.com/u/1289701?v=4"
   },
   "userPRInfos": {
+    "raphamorim": {
+      "total": 6,
+      "merged": 2,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/3630346?v=4"
+    },
+    "vincent178": {
+      "total": 2,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/2183720?v=4"
+    },
     "gaearon": {
       "total": 469,
       "merged": 403,
@@ -37,11 +47,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/19655649?v=4"
-    },
-    "vincent178": {
-      "total": 1,
-      "merged": 0,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/2183720?v=4"
     },
     "jorrit": {
       "total": 2,
@@ -72,11 +77,6 @@
       "total": 1,
       "merged": 1,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/1289701?v=4"
-    },
-    "raphamorim": {
-      "total": 4,
-      "merged": 2,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/3630346?v=4"
     },
     "thatsjet": {
       "total": 1,
@@ -9401,7 +9401,7 @@
   },
   "datePRInfos": {
     "Novembre-2017": {
-      "total": 112,
+      "total": 115,
       "merged": 72
     },
     "Octobre-2017": {
