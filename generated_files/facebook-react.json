@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-11-23T11:43:12.386Z",
+  "lastUpdate": "2017-11-23T12:43:49.778Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6257,
+  "totalPR": 6258,
   "lastPR": {
-    "createdAt": "2017-11-23T08:02:07Z",
-    "username": "HeroProtagonist"
+    "createdAt": "2017-11-23T11:47:34Z",
+    "username": "trueadm"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1289701?v=4"
   },
   "userPRInfos": {
+    "trueadm": {
+      "total": 37,
+      "merged": 29,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/1519870?v=4"
+    },
     "HeroProtagonist": {
       "total": 1,
       "merged": 0,
@@ -132,11 +137,6 @@
       "total": 9,
       "merged": 8,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/3696934?v=4"
-    },
-    "trueadm": {
-      "total": 36,
-      "merged": 29,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/1519870?v=4"
     },
     "HardikModha": {
       "total": 1,
@@ -9406,7 +9406,7 @@
   },
   "datePRInfos": {
     "Novembre-2017": {
-      "total": 116,
+      "total": 117,
       "merged": 72
     },
     "Octobre-2017": {
