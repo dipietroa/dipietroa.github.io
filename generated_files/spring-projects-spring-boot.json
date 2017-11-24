@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-11-24T14:41:18.838Z",
+  "lastUpdate": "2017-11-24T15:41:14.771Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2179,
+  "totalPR": 2180,
   "lastPR": {
-    "createdAt": "2017-11-24T14:33:25Z",
-    "username": "izeye"
+    "createdAt": "2017-11-24T14:43:30Z",
+    "username": "kazuki43zoo"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "kazuki43zoo": {
+      "total": 33,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/5616270?v=4"
+    },
     "izeye": {
       "total": 292,
       "merged": 1,
@@ -132,11 +137,6 @@
       "total": 2,
       "merged": 0,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/514737?v=4"
-    },
-    "kazuki43zoo": {
-      "total": 32,
-      "merged": 0,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/5616270?v=4"
     },
     "filiphr": {
       "total": 1,
@@ -3456,7 +3456,7 @@
   },
   "datePRInfos": {
     "Novembre-2017": {
-      "total": 57,
+      "total": 58,
       "merged": 2
     },
     "Octobre-2017": {
