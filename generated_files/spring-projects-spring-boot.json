@@ -1,8 +1,8 @@
 {
-  "lastUpdate": "2017-11-24T16:41:02.784Z",
+  "lastUpdate": "2017-11-24T17:41:04.450Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2180,
+  "totalPR": 2181,
   "lastPR": {
     "createdAt": "2017-11-24T14:43:30Z",
     "username": "kazuki43zoo"
@@ -64,7 +64,7 @@
       "avatarUrl": "https://avatars2.githubusercontent.com/u/167926?v=4"
     },
     "vpavic": {
-      "total": 120,
+      "total": 121,
       "merged": 1,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/1149230?v=4"
     },
@@ -3524,7 +3524,7 @@
       "merged": 0
     },
     "Juin-2016": {
-      "total": 32,
+      "total": 33,
       "merged": 0
     },
     "Mai-2016": {
