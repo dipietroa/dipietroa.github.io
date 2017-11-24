@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2017-11-24T10:42:10.779Z",
+  "lastUpdate": "2017-11-24T11:41:43.387Z",
   "cowner": "fastify",
   "crepo": "fastify",
   "totalPR": 278,
@@ -35,7 +35,7 @@
     },
     "chapuletta": {
       "total": 1,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/10291004?v=4"
     },
     "lependu": {
@@ -297,7 +297,7 @@
   "datePRInfos": {
     "Novembre-2017": {
       "total": 44,
-      "merged": 32
+      "merged": 33
     },
     "Octobre-2017": {
       "total": 57,
