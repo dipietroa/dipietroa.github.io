@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "2017-11-24T14:41:58.240Z",
+  "lastUpdate": "2017-11-24T15:41:57.719Z",
   "cowner": "fastify",
   "crepo": "fastify",
-  "totalPR": 278,
+  "totalPR": 279,
   "lastPR": {
-    "createdAt": "2017-11-23T21:09:25Z",
+    "createdAt": "2017-11-24T15:30:15Z",
     "username": "yamalight"
   },
   "bestPR": {
@@ -18,13 +18,13 @@
     "image": "https://avatars0.githubusercontent.com/u/4865608?v=4"
   },
   "bestRatio": {
-    "user": "yamalight",
+    "user": "chapuletta",
     "ratio": 1,
-    "image": "https://avatars3.githubusercontent.com/u/365944?v=4"
+    "image": "https://avatars3.githubusercontent.com/u/10291004?v=4"
   },
   "userPRInfos": {
     "yamalight": {
-      "total": 1,
+      "total": 2,
       "merged": 1,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/365944?v=4"
     },
@@ -296,7 +296,7 @@
   },
   "datePRInfos": {
     "Novembre-2017": {
-      "total": 44,
+      "total": 45,
       "merged": 33
     },
     "Octobre-2017": {
