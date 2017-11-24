@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2017-11-24T21:42:53.481Z",
+  "lastUpdate": "2017-11-24T22:43:22.950Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 6261,
@@ -25,7 +25,7 @@
   "userPRInfos": {
     "Ethan-Arrowood": {
       "total": 4,
-      "merged": 1,
+      "merged": 2,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/16144158?v=4"
     },
     "gaearon": {
@@ -9411,7 +9411,7 @@
     },
     "Octobre-2017": {
       "total": 212,
-      "merged": 159
+      "merged": 160
     },
     "Septembre-2017": {
       "total": 236,
