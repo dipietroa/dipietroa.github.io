@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-11-25T07:41:14.344Z",
+  "lastUpdate": "2017-11-25T08:41:15.321Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 969,
+  "totalPR": 970,
   "lastPR": {
-    "createdAt": "2017-11-23T16:25:49Z",
-    "username": "jkzing"
+    "createdAt": "2017-11-25T07:55:08Z",
+    "username": "Zzzen"
   },
   "bestPR": {
     "user": "kazupon",
@@ -27,6 +27,11 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/28888508?v=4"
+    },
+    "Zzzen": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/6630042?v=4"
     },
     "jkzing": {
       "total": 14,
@@ -2116,7 +2121,7 @@
   },
   "datePRInfos": {
     "Novembre-2017": {
-      "total": 28,
+      "total": 29,
       "merged": 16
     },
     "Octobre-2017": {
