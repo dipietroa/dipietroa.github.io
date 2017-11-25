@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-11-25T04:43:10.981Z",
+  "lastUpdate": "2017-11-25T05:42:47.357Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 6265,
   "lastPR": {
-    "createdAt": "2017-11-25T02:08:00Z",
-    "username": "gaearon"
+    "createdAt": "2017-11-25T04:41:48Z",
+    "username": "veekas"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1289701?v=4"
   },
   "userPRInfos": {
+    "veekas": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/3917726?v=4"
+    },
     "gaearon": {
       "total": 474,
       "merged": 407,
@@ -1454,8 +1459,8 @@
       "avatarUrl": "https://avatars2.githubusercontent.com/u/2446302?v=4"
     },
     "MatthewShotton": {
-      "total": 2,
-      "merged": 2,
+      "total": 1,
+      "merged": 1,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/10514138?v=4"
     },
     "kurtfurbush": {
@@ -9406,7 +9411,7 @@
   },
   "datePRInfos": {
     "Novembre-2017": {
-      "total": 123,
+      "total": 124,
       "merged": 77
     },
     "Octobre-2017": {
@@ -9426,8 +9431,8 @@
       "merged": 89
     },
     "Juin-2017": {
-      "total": 152,
-      "merged": 111
+      "total": 151,
+      "merged": 110
     },
     "Mai-2017": {
       "total": 136,
