@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2017-11-25T21:42:11.729Z",
+  "lastUpdate": "2017-11-25T22:42:06.914Z",
   "cowner": "fastify",
   "crepo": "fastify",
   "totalPR": 279,
@@ -75,7 +75,7 @@
     },
     "jsumners": {
       "total": 16,
-      "merged": 15,
+      "merged": 16,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/321201?v=4"
     },
     "abenhamdine": {
@@ -301,7 +301,7 @@
     },
     "Octobre-2017": {
       "total": 57,
-      "merged": 51
+      "merged": 52
     },
     "Septembre-2017": {
       "total": 71,
