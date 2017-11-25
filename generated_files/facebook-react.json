@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-11-24T22:43:22.950Z",
+  "lastUpdate": "2017-11-25T00:43:04.333Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6261,
+  "totalPR": 6262,
   "lastPR": {
-    "createdAt": "2017-11-24T20:28:34Z",
-    "username": "Ethan-Arrowood"
+    "createdAt": "2017-11-24T23:01:29Z",
+    "username": "gaearon"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,15 +23,15 @@
     "image": "https://avatars3.githubusercontent.com/u/1289701?v=4"
   },
   "userPRInfos": {
+    "gaearon": {
+      "total": 472,
+      "merged": 405,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/810438?v=4"
+    },
     "Ethan-Arrowood": {
       "total": 4,
       "merged": 2,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/16144158?v=4"
-    },
-    "gaearon": {
-      "total": 471,
-      "merged": 405,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/810438?v=4"
     },
     "trueadm": {
       "total": 37,
@@ -9406,7 +9406,7 @@
   },
   "datePRInfos": {
     "Novembre-2017": {
-      "total": 120,
+      "total": 121,
       "merged": 75
     },
     "Octobre-2017": {
