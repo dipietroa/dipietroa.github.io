@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "2017-11-25T01:42:50.305Z",
+  "lastUpdate": "2017-11-25T02:43:07.354Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6263,
+  "totalPR": 6264,
   "lastPR": {
-    "createdAt": "2017-11-25T01:34:08Z",
+    "createdAt": "2017-11-25T02:08:00Z",
     "username": "gaearon"
   },
   "bestPR": {
@@ -24,8 +24,8 @@
   },
   "userPRInfos": {
     "gaearon": {
-      "total": 473,
-      "merged": 405,
+      "total": 474,
+      "merged": 407,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/810438?v=4"
     },
     "Ethan-Arrowood": {
@@ -9406,8 +9406,8 @@
   },
   "datePRInfos": {
     "Novembre-2017": {
-      "total": 122,
-      "merged": 75
+      "total": 123,
+      "merged": 77
     },
     "Octobre-2017": {
       "total": 212,
