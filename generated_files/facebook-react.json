@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2017-11-25T15:43:23.092Z",
+  "lastUpdate": "2017-11-25T16:43:35.841Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 6265,
@@ -18,9 +18,9 @@
     "image": "https://avatars2.githubusercontent.com/u/6820?v=4"
   },
   "bestRatio": {
-    "user": "BRKalow",
+    "user": "aarboleda1",
     "ratio": 1,
-    "image": "https://avatars3.githubusercontent.com/u/1289701?v=4"
+    "image": "https://avatars3.githubusercontent.com/u/19655649?v=4"
   },
   "userPRInfos": {
     "veekas": {
@@ -65,7 +65,7 @@
     },
     "aarboleda1": {
       "total": 1,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/19655649?v=4"
     },
     "jorrit": {
@@ -9412,7 +9412,7 @@
   "datePRInfos": {
     "Novembre-2017": {
       "total": 124,
-      "merged": 77
+      "merged": 78
     },
     "Octobre-2017": {
       "total": 212,
