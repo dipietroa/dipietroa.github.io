@@ -1,8 +1,8 @@
 {
-  "lastUpdate": "2017-11-25T03:43:13.158Z",
+  "lastUpdate": "2017-11-25T04:43:10.981Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6264,
+  "totalPR": 6265,
   "lastPR": {
     "createdAt": "2017-11-25T02:08:00Z",
     "username": "gaearon"
@@ -1454,8 +1454,8 @@
       "avatarUrl": "https://avatars2.githubusercontent.com/u/2446302?v=4"
     },
     "MatthewShotton": {
-      "total": 1,
-      "merged": 1,
+      "total": 2,
+      "merged": 2,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/10514138?v=4"
     },
     "kurtfurbush": {
@@ -9426,8 +9426,8 @@
       "merged": 89
     },
     "Juin-2017": {
-      "total": 151,
-      "merged": 110
+      "total": 152,
+      "merged": 111
     },
     "Mai-2017": {
       "total": 136,
