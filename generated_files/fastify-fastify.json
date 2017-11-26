@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-11-25T22:42:06.914Z",
+  "lastUpdate": "2017-11-26T01:41:30.425Z",
   "cowner": "fastify",
   "crepo": "fastify",
-  "totalPR": 279,
+  "totalPR": 280,
   "lastPR": {
-    "createdAt": "2017-11-24T15:30:15Z",
-    "username": "yamalight"
+    "createdAt": "2017-11-26T01:13:24Z",
+    "username": "greenkeeper[bot]"
   },
   "bestPR": {
     "user": "delvedor",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/365944?v=4"
   },
   "userPRInfos": {
+    "greenkeeper[bot]": {
+      "total": 31,
+      "merged": 18,
+      "avatarUrl": "https://avatars3.githubusercontent.com/in/505?v=4"
+    },
     "yamalight": {
       "total": 2,
       "merged": 2,
@@ -112,11 +117,6 @@
       "total": 16,
       "merged": 12,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/1764424?v=4"
-    },
-    "greenkeeper[bot]": {
-      "total": 30,
-      "merged": 18,
-      "avatarUrl": "https://avatars3.githubusercontent.com/in/505?v=4"
     },
     "oxsav": {
       "total": 1,
@@ -296,7 +296,7 @@
   },
   "datePRInfos": {
     "Novembre-2017": {
-      "total": 45,
+      "total": 46,
       "merged": 34
     },
     "Octobre-2017": {
