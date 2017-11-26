@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-11-26T22:41:40.529Z",
+  "lastUpdate": "2017-11-26T23:41:49.626Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
-  "totalPR": 307,
+  "totalPR": 308,
   "lastPR": {
-    "createdAt": "2017-11-26T13:07:00Z",
-    "username": "JeonSeongBae"
+    "createdAt": "2017-11-26T22:52:16Z",
+    "username": "flow85"
   },
   "bestPR": {
     "user": "theycallmemac",
@@ -23,6 +23,11 @@
     "image": "https://avatars0.githubusercontent.com/u/29345301?v=4"
   },
   "userPRInfos": {
+    "flow85": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/4181945?v=4"
+    },
     "JeonSeongBae": {
       "total": 3,
       "merged": 0,
@@ -831,7 +836,7 @@
   },
   "datePRInfos": {
     "Novembre-2017": {
-      "total": 24,
+      "total": 25,
       "merged": 6
     },
     "Octobre-2017": {
