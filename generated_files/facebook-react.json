@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-11-25T22:43:36.603Z",
+  "lastUpdate": "2017-11-26T01:42:57.678Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6266,
+  "totalPR": 6267,
   "lastPR": {
-    "createdAt": "2017-11-25T18:54:20Z",
-    "username": "watadarkstar"
+    "createdAt": "2017-11-26T01:26:12Z",
+    "username": "timjacobi"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/19655649?v=4"
   },
   "userPRInfos": {
+    "timjacobi": {
+      "total": 3,
+      "merged": 1,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/2023165?v=4"
+    },
     "watadarkstar": {
       "total": 2,
       "merged": 1,
@@ -172,11 +177,6 @@
       "total": 1,
       "merged": 1,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/126441?v=4"
-    },
-    "timjacobi": {
-      "total": 2,
-      "merged": 1,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/2023165?v=4"
     },
     "M-ZubairAhmed": {
       "total": 1,
@@ -9411,7 +9411,7 @@
   },
   "datePRInfos": {
     "Novembre-2017": {
-      "total": 125,
+      "total": 126,
       "merged": 78
     },
     "Octobre-2017": {
