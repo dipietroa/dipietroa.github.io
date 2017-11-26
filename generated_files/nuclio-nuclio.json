@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "2017-11-26T10:41:45.267Z",
+  "lastUpdate": "2017-11-26T11:41:55.881Z",
   "cowner": "nuclio",
   "crepo": "nuclio",
-  "totalPR": 247,
+  "totalPR": 248,
   "lastPR": {
-    "createdAt": "2017-11-26T07:30:26Z",
+    "createdAt": "2017-11-26T11:34:24Z",
     "username": "Sharon-iguazio"
   },
   "bestPR": {
@@ -24,7 +24,7 @@
   },
   "userPRInfos": {
     "Sharon-iguazio": {
-      "total": 12,
+      "total": 13,
       "merged": 11,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/27913885?v=4"
     },
@@ -81,7 +81,7 @@
   },
   "datePRInfos": {
     "Novembre-2017": {
-      "total": 46,
+      "total": 47,
       "merged": 41
     },
     "Octobre-2017": {
