@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-11-26T13:43:34.514Z",
+  "lastUpdate": "2017-11-26T14:43:23.112Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6267,
+  "totalPR": 6268,
   "lastPR": {
-    "createdAt": "2017-11-26T01:26:12Z",
-    "username": "timjacobi"
+    "createdAt": "2017-11-26T14:03:44Z",
+    "username": "accordeiro"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/19655649?v=4"
   },
   "userPRInfos": {
+    "accordeiro": {
+      "total": 3,
+      "merged": 2,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/1952585?v=4"
+    },
     "timjacobi": {
       "total": 3,
       "merged": 1,
@@ -202,11 +207,6 @@
       "total": 88,
       "merged": 69,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/1114467?v=4"
-    },
-    "accordeiro": {
-      "total": 2,
-      "merged": 2,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/1952585?v=4"
     },
     "selbekk": {
       "total": 1,
@@ -9411,7 +9411,7 @@
   },
   "datePRInfos": {
     "Novembre-2017": {
-      "total": 126,
+      "total": 127,
       "merged": 78
     },
     "Octobre-2017": {
