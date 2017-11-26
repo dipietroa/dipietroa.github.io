@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-11-26T16:43:48.859Z",
+  "lastUpdate": "2017-11-26T17:43:44.549Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6268,
+  "totalPR": 6269,
   "lastPR": {
-    "createdAt": "2017-11-26T14:03:44Z",
-    "username": "accordeiro"
+    "createdAt": "2017-11-26T17:08:21Z",
+    "username": "gaearon"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -18,11 +18,16 @@
     "image": "https://avatars2.githubusercontent.com/u/6820?v=4"
   },
   "bestRatio": {
-    "user": "aarboleda1",
+    "user": "watadarkstar",
     "ratio": 1,
-    "image": "https://avatars3.githubusercontent.com/u/19655649?v=4"
+    "image": "https://avatars3.githubusercontent.com/u/3059371?v=4"
   },
   "userPRInfos": {
+    "gaearon": {
+      "total": 475,
+      "merged": 407,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/810438?v=4"
+    },
     "accordeiro": {
       "total": 3,
       "merged": 2,
@@ -35,18 +40,13 @@
     },
     "watadarkstar": {
       "total": 2,
-      "merged": 1,
+      "merged": 2,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/3059371?v=4"
     },
     "veekas": {
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/3917726?v=4"
-    },
-    "gaearon": {
-      "total": 474,
-      "merged": 407,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/810438?v=4"
     },
     "Ethan-Arrowood": {
       "total": 4,
@@ -9411,8 +9411,8 @@
   },
   "datePRInfos": {
     "Novembre-2017": {
-      "total": 127,
-      "merged": 78
+      "total": 128,
+      "merged": 79
     },
     "Octobre-2017": {
       "total": 212,
