@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-11-26T16:42:07.910Z",
+  "lastUpdate": "2017-11-26T17:42:03.392Z",
   "cowner": "nuclio",
   "crepo": "nuclio",
-  "totalPR": 249,
+  "totalPR": 250,
   "lastPR": {
-    "createdAt": "2017-11-26T13:06:31Z",
-    "username": "yaronha"
+    "createdAt": "2017-11-26T16:55:43Z",
+    "username": "Sharon-iguazio"
   },
   "bestPR": {
     "user": "pavius",
@@ -23,15 +23,15 @@
     "image": "https://avatars1.githubusercontent.com/u/5636945?v=4"
   },
   "userPRInfos": {
+    "Sharon-iguazio": {
+      "total": 14,
+      "merged": 11,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/27913885?v=4"
+    },
     "yaronha": {
       "total": 5,
       "merged": 3,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/6298833?v=4"
-    },
-    "Sharon-iguazio": {
-      "total": 13,
-      "merged": 11,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/27913885?v=4"
     },
     "tebeka": {
       "total": 51,
@@ -81,7 +81,7 @@
   },
   "datePRInfos": {
     "Novembre-2017": {
-      "total": 48,
+      "total": 49,
       "merged": 41
     },
     "Octobre-2017": {
