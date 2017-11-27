@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2017-11-27T13:41:31.638Z",
+  "lastUpdate": "2017-11-27T14:42:22.540Z",
   "cowner": "vuejs",
   "crepo": "vue",
   "totalPR": 974,
@@ -18,9 +18,9 @@
     "image": "https://avatars1.githubusercontent.com/u/72989?v=4"
   },
   "bestRatio": {
-    "user": "rbrtmrtn",
+    "user": "Zzzen",
     "ratio": 1,
-    "image": "https://avatars0.githubusercontent.com/u/1463553?v=4"
+    "image": "https://avatars0.githubusercontent.com/u/6630042?v=4"
   },
   "userPRInfos": {
     "957685677": {
@@ -30,7 +30,7 @@
     },
     "HerringtonDarkholme": {
       "total": 22,
-      "merged": 18,
+      "merged": 19,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/2883231?v=4"
     },
     "wadetandy": {
@@ -50,7 +50,7 @@
     },
     "Zzzen": {
       "total": 1,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/6630042?v=4"
     },
     "jkzing": {
@@ -2132,7 +2132,7 @@
   "datePRInfos": {
     "Novembre-2017": {
       "total": 33,
-      "merged": 16
+      "merged": 18
     },
     "Octobre-2017": {
       "total": 54,
