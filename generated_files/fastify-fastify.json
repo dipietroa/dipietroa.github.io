@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-11-27T21:42:06.278Z",
+  "lastUpdate": "2017-11-27T22:41:49.354Z",
   "cowner": "fastify",
   "crepo": "fastify",
-  "totalPR": 282,
+  "totalPR": 283,
   "lastPR": {
-    "createdAt": "2017-11-27T21:34:10Z",
-    "username": "zenflow"
+    "createdAt": "2017-11-27T22:35:32Z",
+    "username": "jeromemacias"
   },
   "bestPR": {
     "user": "delvedor",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/365944?v=4"
   },
   "userPRInfos": {
+    "jeromemacias": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/582446?v=4"
+    },
     "zenflow": {
       "total": 2,
       "merged": 0,
@@ -301,7 +306,7 @@
   },
   "datePRInfos": {
     "Novembre-2017": {
-      "total": 48,
+      "total": 49,
       "merged": 35
     },
     "Octobre-2017": {
