@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-11-27T06:41:50.402Z",
+  "lastUpdate": "2017-11-27T07:41:55.308Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 972,
+  "totalPR": 973,
   "lastPR": {
-    "createdAt": "2017-11-26T14:07:46Z",
-    "username": "ktsn"
+    "createdAt": "2017-11-27T07:39:06Z",
+    "username": "wadetandy"
   },
   "bestPR": {
     "user": "kazupon",
@@ -27,6 +27,11 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/28888508?v=4"
+    },
+    "wadetandy": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/148470?v=4"
     },
     "ktsn": {
       "total": 17,
@@ -2126,7 +2131,7 @@
   },
   "datePRInfos": {
     "Novembre-2017": {
-      "total": 31,
+      "total": 32,
       "merged": 16
     },
     "Octobre-2017": {
