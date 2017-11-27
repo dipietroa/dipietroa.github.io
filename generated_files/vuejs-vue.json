@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-11-27T08:41:53.981Z",
+  "lastUpdate": "2017-11-27T09:41:39.992Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 973,
+  "totalPR": 974,
   "lastPR": {
-    "createdAt": "2017-11-27T07:39:06Z",
-    "username": "wadetandy"
+    "createdAt": "2017-11-27T09:31:08Z",
+    "username": "HerringtonDarkholme"
   },
   "bestPR": {
     "user": "kazupon",
@@ -27,6 +27,11 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/28888508?v=4"
+    },
+    "HerringtonDarkholme": {
+      "total": 22,
+      "merged": 18,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/2883231?v=4"
     },
     "wadetandy": {
       "total": 1,
@@ -217,11 +222,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/31074964?v=4"
-    },
-    "HerringtonDarkholme": {
-      "total": 21,
-      "merged": 18,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/2883231?v=4"
     },
     "imyzf": {
       "total": 2,
@@ -2131,7 +2131,7 @@
   },
   "datePRInfos": {
     "Novembre-2017": {
-      "total": 32,
+      "total": 33,
       "merged": 16
     },
     "Octobre-2017": {
