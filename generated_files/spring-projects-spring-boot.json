@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "2017-11-27T00:41:22.671Z",
+  "lastUpdate": "2017-11-27T01:41:18.695Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2192,
+  "totalPR": 2193,
   "lastPR": {
-    "createdAt": "2017-11-26T20:30:59Z",
+    "createdAt": "2017-11-27T01:17:52Z",
     "username": "eddumelendez"
   },
   "bestPR": {
@@ -24,7 +24,7 @@
   },
   "userPRInfos": {
     "eddumelendez": {
-      "total": 126,
+      "total": 127,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/1810547?v=4"
     },
@@ -3466,7 +3466,7 @@
   },
   "datePRInfos": {
     "Novembre-2017": {
-      "total": 70,
+      "total": 71,
       "merged": 2
     },
     "Octobre-2017": {
