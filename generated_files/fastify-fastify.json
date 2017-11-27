@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2017-11-27T12:41:39.749Z",
+  "lastUpdate": "2017-11-27T13:41:41.104Z",
   "cowner": "fastify",
   "crepo": "fastify",
   "totalPR": 280,
@@ -25,7 +25,7 @@
   "userPRInfos": {
     "greenkeeper[bot]": {
       "total": 31,
-      "merged": 18,
+      "merged": 19,
       "avatarUrl": "https://avatars3.githubusercontent.com/in/505?v=4"
     },
     "yamalight": {
@@ -297,7 +297,7 @@
   "datePRInfos": {
     "Novembre-2017": {
       "total": 46,
-      "merged": 34
+      "merged": 35
     },
     "Octobre-2017": {
       "total": 57,
