@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-11-27T14:44:22.458Z",
+  "lastUpdate": "2017-11-27T15:44:25.198Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6269,
+  "totalPR": 6270,
   "lastPR": {
-    "createdAt": "2017-11-26T17:08:21Z",
-    "username": "gaearon"
+    "createdAt": "2017-11-27T15:03:49Z",
+    "username": "Shoggomo"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/3059371?v=4"
   },
   "userPRInfos": {
+    "Shoggomo": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/18146212?v=4"
+    },
     "gaearon": {
       "total": 475,
       "merged": 408,
@@ -9411,7 +9416,7 @@
   },
   "datePRInfos": {
     "Novembre-2017": {
-      "total": 128,
+      "total": 129,
       "merged": 80
     },
     "Octobre-2017": {
