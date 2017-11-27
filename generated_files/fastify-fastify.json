@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-11-27T20:42:10.957Z",
+  "lastUpdate": "2017-11-27T21:42:06.278Z",
   "cowner": "fastify",
   "crepo": "fastify",
-  "totalPR": 280,
+  "totalPR": 282,
   "lastPR": {
-    "createdAt": "2017-11-26T01:13:24Z",
-    "username": "greenkeeper[bot]"
+    "createdAt": "2017-11-27T21:34:10Z",
+    "username": "zenflow"
   },
   "bestPR": {
     "user": "delvedor",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/365944?v=4"
   },
   "userPRInfos": {
+    "zenflow": {
+      "total": 2,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/3198597?v=4"
+    },
     "greenkeeper[bot]": {
       "total": 31,
       "merged": 19,
@@ -296,7 +301,7 @@
   },
   "datePRInfos": {
     "Novembre-2017": {
-      "total": 46,
+      "total": 48,
       "merged": 35
     },
     "Octobre-2017": {
