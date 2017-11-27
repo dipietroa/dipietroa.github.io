@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-11-27T04:41:27.347Z",
+  "lastUpdate": "2017-11-27T05:41:40.910Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
-  "totalPR": 309,
+  "totalPR": 310,
   "lastPR": {
-    "createdAt": "2017-11-27T02:21:17Z",
-    "username": "Phil-Schmidt"
+    "createdAt": "2017-11-27T04:45:39Z",
+    "username": "JeonSeongBae"
   },
   "bestPR": {
     "user": "theycallmemac",
@@ -23,6 +23,11 @@
     "image": "https://avatars0.githubusercontent.com/u/29345301?v=4"
   },
   "userPRInfos": {
+    "JeonSeongBae": {
+      "total": 4,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/19682981?v=4"
+    },
     "Phil-Schmidt": {
       "total": 1,
       "merged": 0,
@@ -32,11 +37,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/4181945?v=4"
-    },
-    "JeonSeongBae": {
-      "total": 3,
-      "merged": 0,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/19682981?v=4"
     },
     "LeeChungWan": {
       "total": 3,
@@ -841,7 +841,7 @@
   },
   "datePRInfos": {
     "Novembre-2017": {
-      "total": 26,
+      "total": 27,
       "merged": 6
     },
     "Octobre-2017": {
