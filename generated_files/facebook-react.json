@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "2017-11-27T22:43:28.626Z",
+  "lastUpdate": "2017-11-27T23:45:01.042Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6274,
+  "totalPR": 6276,
   "lastPR": {
-    "createdAt": "2017-11-27T22:25:57Z",
+    "createdAt": "2017-11-27T22:59:52Z",
     "username": "gaearon"
   },
   "bestPR": {
@@ -18,15 +18,20 @@
     "image": "https://avatars2.githubusercontent.com/u/6820?v=4"
   },
   "bestRatio": {
-    "user": "watadarkstar",
+    "user": "accordeiro",
     "ratio": 1,
-    "image": "https://avatars3.githubusercontent.com/u/3059371?v=4"
+    "image": "https://avatars1.githubusercontent.com/u/1952585?v=4"
   },
   "userPRInfos": {
     "gaearon": {
-      "total": 478,
+      "total": 479,
       "merged": 411,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/810438?v=4"
+    },
+    "skiritsis": {
+      "total": 2,
+      "merged": 0,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/29357763?v=4"
     },
     "clemmy": {
       "total": 10,
@@ -40,7 +45,7 @@
     },
     "accordeiro": {
       "total": 3,
-      "merged": 2,
+      "merged": 3,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/1952585?v=4"
     },
     "timjacobi": {
@@ -152,11 +157,6 @@
       "total": 156,
       "merged": 124,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/3624098?v=4"
-    },
-    "skiritsis": {
-      "total": 1,
-      "merged": 0,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/29357763?v=4"
     },
     "jquense": {
       "total": 32,
@@ -9416,8 +9416,8 @@
   },
   "datePRInfos": {
     "Novembre-2017": {
-      "total": 133,
-      "merged": 84
+      "total": 135,
+      "merged": 85
     },
     "Octobre-2017": {
       "total": 212,
