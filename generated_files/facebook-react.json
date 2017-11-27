@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "2017-11-27T20:44:00.983Z",
+  "lastUpdate": "2017-11-27T21:43:51.584Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6271,
+  "totalPR": 6273,
   "lastPR": {
-    "createdAt": "2017-11-27T16:00:36Z",
+    "createdAt": "2017-11-27T21:15:47Z",
     "username": "gaearon"
   },
   "bestPR": {
@@ -24,9 +24,14 @@
   },
   "userPRInfos": {
     "gaearon": {
-      "total": 476,
+      "total": 477,
       "merged": 409,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/810438?v=4"
+    },
+    "clemmy": {
+      "total": 10,
+      "merged": 9,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/3696934?v=4"
     },
     "Shoggomo": {
       "total": 1,
@@ -162,11 +167,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/26200582?v=4"
-    },
-    "clemmy": {
-      "total": 9,
-      "merged": 8,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/3696934?v=4"
     },
     "HardikModha": {
       "total": 1,
@@ -9416,8 +9416,8 @@
   },
   "datePRInfos": {
     "Novembre-2017": {
-      "total": 130,
-      "merged": 81
+      "total": 132,
+      "merged": 82
     },
     "Octobre-2017": {
       "total": 212,
