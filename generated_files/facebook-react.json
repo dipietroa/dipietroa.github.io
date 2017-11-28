@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2017-11-28T01:43:14.668Z",
+  "lastUpdate": "2017-11-28T02:43:06.490Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 6276,
@@ -90,7 +90,7 @@
     },
     "him2him2": {
       "total": 2,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/10393491?v=4"
     },
     "aarboleda1": {
@@ -9417,7 +9417,7 @@
   "datePRInfos": {
     "Novembre-2017": {
       "total": 135,
-      "merged": 85
+      "merged": 86
     },
     "Octobre-2017": {
       "total": 212,
