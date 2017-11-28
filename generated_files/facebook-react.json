@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2017-11-28T15:44:06.891Z",
+  "lastUpdate": "2017-11-28T16:44:32.757Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 6278,
@@ -25,7 +25,7 @@
   "userPRInfos": {
     "thymikee": {
       "total": 6,
-      "merged": 4,
+      "merged": 5,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/5106466?v=4"
     },
     "rivenhk": {
@@ -9422,7 +9422,7 @@
   "datePRInfos": {
     "Novembre-2017": {
       "total": 137,
-      "merged": 88
+      "merged": 89
     },
     "Octobre-2017": {
       "total": 212,
