@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-11-28T14:43:46.559Z",
+  "lastUpdate": "2017-11-28T15:44:06.891Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6276,
+  "totalPR": 6278,
   "lastPR": {
-    "createdAt": "2017-11-27T22:59:52Z",
-    "username": "gaearon"
+    "createdAt": "2017-11-28T15:15:01Z",
+    "username": "thymikee"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,16 @@
     "image": "https://avatars1.githubusercontent.com/u/1952585?v=4"
   },
   "userPRInfos": {
+    "thymikee": {
+      "total": 6,
+      "merged": 4,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/5106466?v=4"
+    },
+    "rivenhk": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/5195810?v=4"
+    },
     "gaearon": {
       "total": 479,
       "merged": 411,
@@ -1117,11 +1127,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/2068404?v=4"
-    },
-    "thymikee": {
-      "total": 5,
-      "merged": 4,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/5106466?v=4"
     },
     "wincent": {
       "total": 8,
@@ -9416,7 +9421,7 @@
   },
   "datePRInfos": {
     "Novembre-2017": {
-      "total": 135,
+      "total": 137,
       "merged": 88
     },
     "Octobre-2017": {
