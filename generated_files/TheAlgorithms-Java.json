@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-11-28T13:41:45.717Z",
+  "lastUpdate": "2017-11-28T14:41:21.678Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
-  "totalPR": 312,
+  "totalPR": 313,
   "lastPR": {
-    "createdAt": "2017-11-27T09:47:50Z",
-    "username": "YooSeonjae"
+    "createdAt": "2017-11-28T14:34:40Z",
+    "username": "The-TJ"
   },
   "bestPR": {
     "user": "theycallmemac",
@@ -23,6 +23,11 @@
     "image": "https://avatars0.githubusercontent.com/u/29345301?v=4"
   },
   "userPRInfos": {
+    "The-TJ": {
+      "total": 2,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/32796932?v=4"
+    },
     "YooSeonjae": {
       "total": 4,
       "merged": 0,
@@ -72,11 +77,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/33418541?v=4"
-    },
-    "The-TJ": {
-      "total": 1,
-      "merged": 0,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/32796932?v=4"
     },
     "babuipakhi007": {
       "total": 1,
@@ -841,7 +841,7 @@
   },
   "datePRInfos": {
     "Novembre-2017": {
-      "total": 29,
+      "total": 30,
       "merged": 6
     },
     "Octobre-2017": {
