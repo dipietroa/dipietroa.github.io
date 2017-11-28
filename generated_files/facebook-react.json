@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2017-11-28T16:44:32.757Z",
+  "lastUpdate": "2017-11-28T17:43:34.898Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 6278,
@@ -18,9 +18,9 @@
     "image": "https://avatars2.githubusercontent.com/u/6820?v=4"
   },
   "bestRatio": {
-    "user": "accordeiro",
+    "user": "rivenhk",
     "ratio": 1,
-    "image": "https://avatars1.githubusercontent.com/u/1952585?v=4"
+    "image": "https://avatars2.githubusercontent.com/u/5195810?v=4"
   },
   "userPRInfos": {
     "thymikee": {
@@ -30,7 +30,7 @@
     },
     "rivenhk": {
       "total": 1,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/5195810?v=4"
     },
     "gaearon": {
@@ -9422,7 +9422,7 @@
   "datePRInfos": {
     "Novembre-2017": {
       "total": 137,
-      "merged": 89
+      "merged": 90
     },
     "Octobre-2017": {
       "total": 212,
