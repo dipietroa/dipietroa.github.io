@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-11-28T22:43:49.605Z",
+  "lastUpdate": "2017-11-28T23:43:38.115Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6283,
+  "totalPR": 6285,
   "lastPR": {
-    "createdAt": "2017-11-28T22:39:40Z",
-    "username": "bvaughn"
+    "createdAt": "2017-11-28T23:34:49Z",
+    "username": "gkal19"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,9 +23,24 @@
     "image": "https://avatars2.githubusercontent.com/u/5195810?v=4"
   },
   "userPRInfos": {
+    "gkal19": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/11067705?v=4"
+    },
+    "ConradIrwin": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/94272?v=4"
+    },
+    "skiritsis": {
+      "total": 3,
+      "merged": 1,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/29357763?v=4"
+    },
     "bvaughn": {
       "total": 153,
-      "merged": 137,
+      "merged": 138,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/29597?v=4"
     },
     "gaearon": {
@@ -42,11 +57,6 @@
       "total": 1,
       "merged": 1,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/5195810?v=4"
-    },
-    "skiritsis": {
-      "total": 2,
-      "merged": 0,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/29357763?v=4"
     },
     "clemmy": {
       "total": 10,
@@ -9229,8 +9239,8 @@
       "avatarUrl": "https://avatars2.githubusercontent.com/u/817138?v=4"
     },
     "loganallenc": {
-      "total": 2,
-      "merged": 2,
+      "total": 1,
+      "merged": 1,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/1377557?v=4"
     },
     "ul": {
@@ -9421,8 +9431,8 @@
   },
   "datePRInfos": {
     "Novembre-2017": {
-      "total": 141,
-      "merged": 93
+      "total": 144,
+      "merged": 95
     },
     "Octobre-2017": {
       "total": 212,
@@ -9609,8 +9619,8 @@
       "merged": 87
     },
     "Décembre-2013": {
-      "total": 99,
-      "merged": 80
+      "total": 98,
+      "merged": 79
     },
     "Novembre-2013": {
       "total": 89,
