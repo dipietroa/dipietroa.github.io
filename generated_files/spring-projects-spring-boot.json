@@ -1,15 +1,15 @@
 {
-  "lastUpdate": "2017-11-28T22:41:27.839Z",
+  "lastUpdate": "2017-11-28T23:41:21.643Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2198,
+  "totalPR": 2200,
   "lastPR": {
-    "createdAt": "2017-11-28T20:59:08Z",
-    "username": "slachiewicz"
+    "createdAt": "2017-11-28T23:24:18Z",
+    "username": "izeye"
   },
   "bestPR": {
     "user": "izeye",
-    "nbPR": 299,
+    "nbPR": 300,
     "image": "https://avatars3.githubusercontent.com/u/1059363?v=4"
   },
   "bestMerged": {
@@ -23,8 +23,13 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "izeye": {
+      "total": 300,
+      "merged": 1,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/1059363?v=4"
+    },
     "slachiewicz": {
-      "total": 1,
+      "total": 2,
       "merged": 0,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/6705942?v=4"
     },
@@ -32,11 +37,6 @@
       "total": 36,
       "merged": 1,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/483832?v=4"
-    },
-    "izeye": {
-      "total": 299,
-      "merged": 1,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/1059363?v=4"
     },
     "eddumelendez": {
       "total": 127,
@@ -3471,7 +3471,7 @@
   },
   "datePRInfos": {
     "Novembre-2017": {
-      "total": 76,
+      "total": 78,
       "merged": 2
     },
     "Octobre-2017": {
