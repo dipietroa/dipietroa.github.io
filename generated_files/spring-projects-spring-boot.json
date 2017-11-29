@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-11-29T21:41:29.580Z",
+  "lastUpdate": "2017-11-29T22:41:21.643Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2203,
+  "totalPR": 2204,
   "lastPR": {
-    "createdAt": "2017-11-29T16:14:22Z",
-    "username": "izeye"
+    "createdAt": "2017-11-29T21:56:53Z",
+    "username": "gregturn"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "gregturn": {
+      "total": 30,
+      "merged": 1,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/311040?v=4"
+    },
     "izeye": {
       "total": 301,
       "merged": 1,
@@ -642,11 +647,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/5576875?v=4"
-    },
-    "gregturn": {
-      "total": 29,
-      "merged": 1,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/311040?v=4"
     },
     "andrew-j-cohen": {
       "total": 1,
@@ -3476,7 +3476,7 @@
   },
   "datePRInfos": {
     "Novembre-2017": {
-      "total": 81,
+      "total": 82,
       "merged": 2
     },
     "Octobre-2017": {
