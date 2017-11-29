@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2017-11-29T21:44:24.132Z",
+  "lastUpdate": "2017-11-29T22:43:48.422Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 6292,
@@ -25,7 +25,7 @@
   "userPRInfos": {
     "gaearon": {
       "total": 484,
-      "merged": 416,
+      "merged": 417,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/810438?v=4"
     },
     "aweary": {
@@ -55,7 +55,7 @@
     },
     "skiritsis": {
       "total": 3,
-      "merged": 1,
+      "merged": 2,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/29357763?v=4"
     },
     "bvaughn": {
@@ -9437,7 +9437,7 @@
   "datePRInfos": {
     "Novembre-2017": {
       "total": 151,
-      "merged": 105
+      "merged": 107
     },
     "Octobre-2017": {
       "total": 212,
