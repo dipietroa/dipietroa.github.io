@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-11-29T07:41:09.378Z",
+  "lastUpdate": "2017-11-29T08:41:17.965Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2201,
+  "totalPR": 2202,
   "lastPR": {
-    "createdAt": "2017-11-29T03:01:56Z",
-    "username": "fezi"
+    "createdAt": "2017-11-29T07:46:05Z",
+    "username": "wangyudongdom"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "wangyudongdom": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/6178254?v=4"
+    },
     "fezi": {
       "total": 1,
       "merged": 0,
@@ -3476,7 +3481,7 @@
   },
   "datePRInfos": {
     "Novembre-2017": {
-      "total": 79,
+      "total": 80,
       "merged": 2
     },
     "Octobre-2017": {
