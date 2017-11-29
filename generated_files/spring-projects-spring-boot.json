@@ -1,8 +1,8 @@
 {
-  "lastUpdate": "2017-11-29T18:41:07.490Z",
+  "lastUpdate": "2017-11-29T19:41:14.521Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2204,
+  "totalPR": 2203,
   "lastPR": {
     "createdAt": "2017-11-29T16:14:22Z",
     "username": "izeye"
@@ -32,11 +32,6 @@
       "total": 5,
       "merged": 0,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/5320045?v=4"
-    },
-    "wangyudongdom": {
-      "total": 1,
-      "merged": 0,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/6178254?v=4"
     },
     "fezi": {
       "total": 1,
@@ -3481,7 +3476,7 @@
   },
   "datePRInfos": {
     "Novembre-2017": {
-      "total": 82,
+      "total": 81,
       "merged": 2
     },
     "Octobre-2017": {
