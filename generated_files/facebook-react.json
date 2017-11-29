@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-11-29T00:43:47.062Z",
+  "lastUpdate": "2017-11-29T01:43:50.301Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6285,
+  "totalPR": 6286,
   "lastPR": {
-    "createdAt": "2017-11-28T23:34:49Z",
-    "username": "gkal19"
+    "createdAt": "2017-11-29T01:26:38Z",
+    "username": "raphamorim"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -18,14 +18,19 @@
     "image": "https://avatars2.githubusercontent.com/u/6820?v=4"
   },
   "bestRatio": {
-    "user": "rivenhk",
+    "user": "gkal19",
     "ratio": 1,
-    "image": "https://avatars2.githubusercontent.com/u/5195810?v=4"
+    "image": "https://avatars2.githubusercontent.com/u/11067705?v=4"
   },
   "userPRInfos": {
+    "raphamorim": {
+      "total": 7,
+      "merged": 3,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/3630346?v=4"
+    },
     "gkal19": {
       "total": 1,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/11067705?v=4"
     },
     "ConradIrwin": {
@@ -103,11 +108,6 @@
       "merged": 1,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/12506217?v=4"
     },
-    "raphamorim": {
-      "total": 6,
-      "merged": 3,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/3630346?v=4"
-    },
     "vincent178": {
       "total": 2,
       "merged": 0,
@@ -175,7 +175,7 @@
     },
     "acdlite": {
       "total": 156,
-      "merged": 124,
+      "merged": 126,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/3624098?v=4"
     },
     "jquense": {
@@ -9431,8 +9431,8 @@
   },
   "datePRInfos": {
     "Novembre-2017": {
-      "total": 144,
-      "merged": 95
+      "total": 145,
+      "merged": 98
     },
     "Octobre-2017": {
       "total": 212,
