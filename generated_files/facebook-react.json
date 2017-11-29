@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2017-11-29T17:44:17.118Z",
+  "lastUpdate": "2017-11-29T18:43:57.179Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 6291,
@@ -25,7 +25,7 @@
   "userPRInfos": {
     "aweary": {
       "total": 52,
-      "merged": 44,
+      "merged": 45,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/6886061?v=4"
     },
     "ArtemFitiskin": {
@@ -35,7 +35,7 @@
     },
     "gaearon": {
       "total": 483,
-      "merged": 415,
+      "merged": 416,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/810438?v=4"
     },
     "raphamorim": {
@@ -9437,7 +9437,7 @@
   "datePRInfos": {
     "Novembre-2017": {
       "total": 150,
-      "merged": 103
+      "merged": 105
     },
     "Octobre-2017": {
       "total": 212,
