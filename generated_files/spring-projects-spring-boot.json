@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-11-29T11:41:11.458Z",
+  "lastUpdate": "2017-11-29T12:40:53.583Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2202,
+  "totalPR": 2203,
   "lastPR": {
-    "createdAt": "2017-11-29T07:46:05Z",
-    "username": "wangyudongdom"
+    "createdAt": "2017-11-29T11:56:18Z",
+    "username": "ptahchiev"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "ptahchiev": {
+      "total": 5,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/5320045?v=4"
+    },
     "wangyudongdom": {
       "total": 1,
       "merged": 0,
@@ -1622,11 +1627,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/7237012?v=4"
-    },
-    "ptahchiev": {
-      "total": 4,
-      "merged": 0,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/5320045?v=4"
     },
     "sivaprasadreddy": {
       "total": 1,
@@ -3481,7 +3481,7 @@
   },
   "datePRInfos": {
     "Novembre-2017": {
-      "total": 80,
+      "total": 81,
       "merged": 2
     },
     "Octobre-2017": {
