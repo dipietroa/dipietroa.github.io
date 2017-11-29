@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "2017-11-29T01:43:50.301Z",
+  "lastUpdate": "2017-11-29T02:43:33.436Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6286,
+  "totalPR": 6287,
   "lastPR": {
-    "createdAt": "2017-11-29T01:26:38Z",
+    "createdAt": "2017-11-29T01:44:12Z",
     "username": "raphamorim"
   },
   "bestPR": {
@@ -24,7 +24,7 @@
   },
   "userPRInfos": {
     "raphamorim": {
-      "total": 7,
+      "total": 8,
       "merged": 3,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/3630346?v=4"
     },
@@ -9431,7 +9431,7 @@
   },
   "datePRInfos": {
     "Novembre-2017": {
-      "total": 145,
+      "total": 146,
       "merged": 98
     },
     "Octobre-2017": {
