@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2017-11-29T20:42:01.744Z",
+  "lastUpdate": "2017-11-29T21:42:11.386Z",
   "cowner": "nuclio",
   "crepo": "nuclio",
   "totalPR": 260,
@@ -25,7 +25,7 @@
   "userPRInfos": {
     "eran-nussbaum": {
       "total": 12,
-      "merged": 10,
+      "merged": 11,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/13918850?v=4"
     },
     "Sharon-iguazio": {
@@ -82,7 +82,7 @@
   "datePRInfos": {
     "Novembre-2017": {
       "total": 59,
-      "merged": 48
+      "merged": 49
     },
     "Octobre-2017": {
       "total": 48,
