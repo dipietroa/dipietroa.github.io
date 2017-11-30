@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2017-11-30T17:42:08.371Z",
+  "lastUpdate": "2017-11-30T18:41:44.715Z",
   "cowner": "nuclio",
   "crepo": "nuclio",
   "totalPR": 264,
@@ -35,7 +35,7 @@
     },
     "eran-nussbaum": {
       "total": 13,
-      "merged": 11,
+      "merged": 12,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/13918850?v=4"
     },
     "pavius": {
@@ -82,7 +82,7 @@
   "datePRInfos": {
     "Novembre-2017": {
       "total": 63,
-      "merged": 50
+      "merged": 51
     },
     "Octobre-2017": {
       "total": 48,
