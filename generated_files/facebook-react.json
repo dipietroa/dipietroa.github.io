@@ -1,8 +1,8 @@
 {
-  "lastUpdate": "2017-11-30T19:43:36.724Z",
+  "lastUpdate": "2017-11-30T20:43:53.963Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6304,
+  "totalPR": 6305,
   "lastPR": {
     "createdAt": "2017-11-30T18:42:49Z",
     "username": "gaearon"
@@ -194,8 +194,8 @@
       "avatarUrl": "https://avatars0.githubusercontent.com/u/12230408?v=4"
     },
     "acdlite": {
-      "total": 156,
-      "merged": 126,
+      "total": 157,
+      "merged": 127,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/3624098?v=4"
     },
     "jquense": {
@@ -9505,8 +9505,8 @@
       "merged": 101
     },
     "Juillet-2016": {
-      "total": 112,
-      "merged": 71
+      "total": 113,
+      "merged": 72
     },
     "Juin-2016": {
       "total": 117,
