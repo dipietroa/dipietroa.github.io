@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-11-30T06:40:57.567Z",
+  "lastUpdate": "2017-11-30T07:40:44.998Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2204,
+  "totalPR": 2205,
   "lastPR": {
-    "createdAt": "2017-11-29T21:56:53Z",
-    "username": "gregturn"
+    "createdAt": "2017-11-30T07:22:08Z",
+    "username": "wendal"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "wendal": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/589819?v=4"
+    },
     "gregturn": {
       "total": 30,
       "merged": 1,
@@ -3476,7 +3481,7 @@
   },
   "datePRInfos": {
     "Novembre-2017": {
-      "total": 82,
+      "total": 83,
       "merged": 2
     },
     "Octobre-2017": {
