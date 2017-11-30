@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-11-30T18:43:45.524Z",
+  "lastUpdate": "2017-11-30T19:43:36.724Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 6304,
   "lastPR": {
-    "createdAt": "2017-11-30T17:29:44Z",
-    "username": "abiduzz420"
+    "createdAt": "2017-11-30T18:42:49Z",
+    "username": "gaearon"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,15 +23,15 @@
     "image": "https://avatars2.githubusercontent.com/u/18336304?v=4"
   },
   "userPRInfos": {
-    "abiduzz420": {
-      "total": 1,
-      "merged": 1,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/18336304?v=4"
-    },
     "gaearon": {
       "total": 489,
       "merged": 421,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/810438?v=4"
+    },
+    "abiduzz420": {
+      "total": 1,
+      "merged": 1,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/18336304?v=4"
     },
     "raphamorim": {
       "total": 13,
@@ -9441,8 +9441,8 @@
   },
   "datePRInfos": {
     "Novembre-2017": {
-      "total": 162,
-      "merged": 114
+      "total": 163,
+      "merged": 115
     },
     "Octobre-2017": {
       "total": 212,
@@ -9525,8 +9525,8 @@
       "merged": 82
     },
     "Février-2016": {
-      "total": 93,
-      "merged": 58
+      "total": 92,
+      "merged": 57
     },
     "Janvier-2016": {
       "total": 86,
