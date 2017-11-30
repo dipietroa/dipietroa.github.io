@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "2017-11-30T20:43:53.963Z",
+  "lastUpdate": "2017-11-30T21:43:34.405Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6305,
+  "totalPR": 6306,
   "lastPR": {
-    "createdAt": "2017-11-30T18:42:49Z",
+    "createdAt": "2017-11-30T20:59:32Z",
     "username": "gaearon"
   },
   "bestPR": {
@@ -24,9 +24,14 @@
   },
   "userPRInfos": {
     "gaearon": {
-      "total": 489,
+      "total": 490,
       "merged": 421,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/810438?v=4"
+    },
+    "madeinfree": {
+      "total": 4,
+      "merged": 3,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/4027049?v=4"
     },
     "abiduzz420": {
       "total": 1,
@@ -35,13 +40,8 @@
     },
     "raphamorim": {
       "total": 13,
-      "merged": 6,
+      "merged": 8,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/3630346?v=4"
-    },
-    "madeinfree": {
-      "total": 3,
-      "merged": 2,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/4027049?v=4"
     },
     "aweary": {
       "total": 52,
@@ -160,7 +160,7 @@
     },
     "nhunzaker": {
       "total": 75,
-      "merged": 39,
+      "merged": 40,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/590904?v=4"
     },
     "kentcdodds": {
@@ -194,8 +194,8 @@
       "avatarUrl": "https://avatars0.githubusercontent.com/u/12230408?v=4"
     },
     "acdlite": {
-      "total": 157,
-      "merged": 127,
+      "total": 156,
+      "merged": 126,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/3624098?v=4"
     },
     "jquense": {
@@ -9441,8 +9441,8 @@
   },
   "datePRInfos": {
     "Novembre-2017": {
-      "total": 163,
-      "merged": 115
+      "total": 165,
+      "merged": 119
     },
     "Octobre-2017": {
       "total": 212,
@@ -9505,8 +9505,8 @@
       "merged": 101
     },
     "Juillet-2016": {
-      "total": 113,
-      "merged": 72
+      "total": 112,
+      "merged": 71
     },
     "Juin-2016": {
       "total": 117,
