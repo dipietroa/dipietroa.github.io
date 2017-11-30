@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-11-30T09:43:55.247Z",
+  "lastUpdate": "2017-11-30T10:44:04.448Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6293,
+  "totalPR": 6294,
   "lastPR": {
-    "createdAt": "2017-11-30T01:08:51Z",
-    "username": "gaearon"
+    "createdAt": "2017-11-30T09:58:39Z",
+    "username": "madeinfree"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/5507542?v=4"
   },
   "userPRInfos": {
+    "madeinfree": {
+      "total": 3,
+      "merged": 2,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/4027049?v=4"
+    },
     "gaearon": {
       "total": 485,
       "merged": 417,
@@ -2652,11 +2657,6 @@
       "total": 1,
       "merged": 1,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/15844775?v=4"
-    },
-    "madeinfree": {
-      "total": 2,
-      "merged": 2,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/4027049?v=4"
     },
     "neeldeep": {
       "total": 1,
@@ -9436,7 +9436,7 @@
   },
   "datePRInfos": {
     "Novembre-2017": {
-      "total": 152,
+      "total": 153,
       "merged": 107
     },
     "Octobre-2017": {
