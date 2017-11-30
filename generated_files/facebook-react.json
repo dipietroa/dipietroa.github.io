@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-11-30T16:44:23.902Z",
+  "lastUpdate": "2017-11-30T17:44:03.482Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6302,
+  "totalPR": 6303,
   "lastPR": {
-    "createdAt": "2017-11-30T16:11:51Z",
-    "username": "gaearon"
+    "createdAt": "2017-11-30T17:29:44Z",
+    "username": "abiduzz420"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/5507542?v=4"
   },
   "userPRInfos": {
+    "abiduzz420": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/18336304?v=4"
+    },
     "gaearon": {
       "total": 488,
       "merged": 419,
@@ -9436,7 +9441,7 @@
   },
   "datePRInfos": {
     "Novembre-2017": {
-      "total": 161,
+      "total": 162,
       "merged": 112
     },
     "Octobre-2017": {
