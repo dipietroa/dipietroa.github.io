@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-12-01T03:43:35.376Z",
+  "lastUpdate": "2017-12-01T04:43:46.265Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6313,
+  "totalPR": 6314,
   "lastPR": {
-    "createdAt": "2017-12-01T02:43:55Z",
-    "username": "koba04"
+    "createdAt": "2017-12-01T03:59:28Z",
+    "username": "zombieJ"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars2.githubusercontent.com/u/18336304?v=4"
   },
   "userPRInfos": {
+    "zombieJ": {
+      "total": 6,
+      "merged": 2,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/5378891?v=4"
+    },
     "koba04": {
       "total": 72,
       "merged": 50,
@@ -217,11 +222,6 @@
       "total": 1,
       "merged": 1,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/22439276?v=4"
-    },
-    "zombieJ": {
-      "total": 5,
-      "merged": 2,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/5378891?v=4"
     },
     "f0rmat1k": {
       "total": 1,
@@ -9441,7 +9441,7 @@
   },
   "datePRInfos": {
     "Décembre-2017": {
-      "total": 4,
+      "total": 5,
       "merged": 0
     },
     "Novembre-2017": {
