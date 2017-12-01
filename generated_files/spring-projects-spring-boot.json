@@ -1,15 +1,15 @@
 {
-  "lastUpdate": "2017-12-01T05:41:05.118Z",
+  "lastUpdate": "2017-12-01T06:40:59.882Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2206,
+  "totalPR": 2207,
   "lastPR": {
-    "createdAt": "2017-11-30T09:09:43Z",
-    "username": "vpavic"
+    "createdAt": "2017-12-01T06:31:30Z",
+    "username": "izeye"
   },
   "bestPR": {
     "user": "izeye",
-    "nbPR": 301,
+    "nbPR": 302,
     "image": "https://avatars3.githubusercontent.com/u/1059363?v=4"
   },
   "bestMerged": {
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "izeye": {
+      "total": 302,
+      "merged": 1,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/1059363?v=4"
+    },
     "vpavic": {
       "total": 121,
       "merged": 1,
@@ -37,11 +42,6 @@
       "total": 30,
       "merged": 1,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/311040?v=4"
-    },
-    "izeye": {
-      "total": 301,
-      "merged": 1,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/1059363?v=4"
     },
     "ptahchiev": {
       "total": 5,
@@ -3480,6 +3480,10 @@
     }
   },
   "datePRInfos": {
+    "Décembre-2017": {
+      "total": 1,
+      "merged": 0
+    },
     "Novembre-2017": {
       "total": 84,
       "merged": 2
