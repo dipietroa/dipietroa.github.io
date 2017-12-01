@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-12-01T00:41:43.520Z",
+  "lastUpdate": "2017-12-01T01:41:43.322Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 978,
+  "totalPR": 979,
   "lastPR": {
-    "createdAt": "2017-11-30T07:13:37Z",
-    "username": "jacekkarczmarczyk"
+    "createdAt": "2017-12-01T01:26:02Z",
+    "username": "nicholaslee119"
   },
   "bestPR": {
     "user": "kazupon",
@@ -27,6 +27,11 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/28888508?v=4"
+    },
+    "nicholaslee119": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/7650400?v=4"
     },
     "jacekkarczmarczyk": {
       "total": 1,
@@ -2140,6 +2145,10 @@
     }
   },
   "datePRInfos": {
+    "Décembre-2017": {
+      "total": 1,
+      "merged": 0
+    },
     "Novembre-2017": {
       "total": 37,
       "merged": 19
