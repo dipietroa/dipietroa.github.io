@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "2017-12-01T13:43:41.215Z",
+  "lastUpdate": "2017-12-01T14:43:35.738Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6315,
+  "totalPR": 6316,
   "lastPR": {
-    "createdAt": "2017-12-01T12:57:47Z",
+    "createdAt": "2017-12-01T13:50:35Z",
     "username": "nhunzaker"
   },
   "bestPR": {
@@ -24,7 +24,7 @@
   },
   "userPRInfos": {
     "nhunzaker": {
-      "total": 76,
+      "total": 77,
       "merged": 41,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/590904?v=4"
     },
@@ -9441,7 +9441,7 @@
   },
   "datePRInfos": {
     "Décembre-2017": {
-      "total": 6,
+      "total": 7,
       "merged": 1
     },
     "Novembre-2017": {
