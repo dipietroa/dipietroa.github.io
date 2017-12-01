@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-12-01T14:41:44.336Z",
+  "lastUpdate": "2017-12-01T15:42:18.813Z",
   "cowner": "fastify",
   "crepo": "fastify",
-  "totalPR": 286,
+  "totalPR": 287,
   "lastPR": {
-    "createdAt": "2017-11-30T23:58:48Z",
-    "username": "greenkeeper[bot]"
+    "createdAt": "2017-12-01T15:28:18Z",
+    "username": "jsumners"
   },
   "bestPR": {
     "user": "delvedor",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/582446?v=4"
   },
   "userPRInfos": {
+    "jsumners": {
+      "total": 17,
+      "merged": 16,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/321201?v=4"
+    },
     "greenkeeper[bot]": {
       "total": 32,
       "merged": 19,
@@ -92,11 +97,6 @@
       "total": 2,
       "merged": 2,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/16967069?v=4"
-    },
-    "jsumners": {
-      "total": 16,
-      "merged": 16,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/321201?v=4"
     },
     "abenhamdine": {
       "total": 2,
@@ -310,6 +310,10 @@
     }
   },
   "datePRInfos": {
+    "Décembre-2017": {
+      "total": 1,
+      "merged": 0
+    },
     "Novembre-2017": {
       "total": 52,
       "merged": 36
