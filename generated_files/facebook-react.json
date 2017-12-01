@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-12-01T12:43:45.335Z",
+  "lastUpdate": "2017-12-01T13:43:41.215Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6314,
+  "totalPR": 6315,
   "lastPR": {
-    "createdAt": "2017-12-01T03:59:28Z",
-    "username": "zombieJ"
+    "createdAt": "2017-12-01T12:57:47Z",
+    "username": "nhunzaker"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars2.githubusercontent.com/u/18336304?v=4"
   },
   "userPRInfos": {
+    "nhunzaker": {
+      "total": 76,
+      "merged": 41,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/590904?v=4"
+    },
     "zombieJ": {
       "total": 6,
       "merged": 2,
@@ -167,11 +172,6 @@
       "total": 2,
       "merged": 1,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/1130921?v=4"
-    },
-    "nhunzaker": {
-      "total": 75,
-      "merged": 40,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/590904?v=4"
     },
     "kentcdodds": {
       "total": 6,
@@ -9441,8 +9441,8 @@
   },
   "datePRInfos": {
     "Décembre-2017": {
-      "total": 5,
-      "merged": 0
+      "total": 6,
+      "merged": 1
     },
     "Novembre-2017": {
       "total": 168,
