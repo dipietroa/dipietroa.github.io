@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-12-01T20:43:14.564Z",
+  "lastUpdate": "2017-12-01T21:43:39.939Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6320,
+  "totalPR": 6321,
   "lastPR": {
-    "createdAt": "2017-12-01T20:23:27Z",
-    "username": "nhunzaker"
+    "createdAt": "2017-12-01T20:57:03Z",
+    "username": "prometheansacrifice"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars2.githubusercontent.com/u/18336304?v=4"
   },
   "userPRInfos": {
+    "prometheansacrifice": {
+      "total": 5,
+      "merged": 3,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/3097018?v=4"
+    },
     "nhunzaker": {
       "total": 78,
       "merged": 41,
@@ -1692,11 +1697,6 @@
       "total": 1,
       "merged": 1,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/1980044?v=4"
-    },
-    "prometheansacrifice": {
-      "total": 4,
-      "merged": 3,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/3097018?v=4"
     },
     "shifengchen": {
       "total": 1,
@@ -9441,7 +9441,7 @@
   },
   "datePRInfos": {
     "Décembre-2017": {
-      "total": 11,
+      "total": 12,
       "merged": 2
     },
     "Novembre-2017": {
