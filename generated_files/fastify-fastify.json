@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-11-30T23:41:49.410Z",
+  "lastUpdate": "2017-12-01T00:41:51.719Z",
   "cowner": "fastify",
   "crepo": "fastify",
-  "totalPR": 285,
+  "totalPR": 286,
   "lastPR": {
-    "createdAt": "2017-11-30T16:14:59Z",
-    "username": "coreyfarrell"
+    "createdAt": "2017-11-30T23:58:48Z",
+    "username": "greenkeeper[bot]"
   },
   "bestPR": {
     "user": "delvedor",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/582446?v=4"
   },
   "userPRInfos": {
+    "greenkeeper[bot]": {
+      "total": 32,
+      "merged": 19,
+      "avatarUrl": "https://avatars3.githubusercontent.com/in/505?v=4"
+    },
     "coreyfarrell": {
       "total": 1,
       "merged": 0,
@@ -42,11 +47,6 @@
       "total": 2,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/3198597?v=4"
-    },
-    "greenkeeper[bot]": {
-      "total": 31,
-      "merged": 19,
-      "avatarUrl": "https://avatars3.githubusercontent.com/in/505?v=4"
     },
     "yamalight": {
       "total": 2,
@@ -311,7 +311,7 @@
   },
   "datePRInfos": {
     "Novembre-2017": {
-      "total": 51,
+      "total": 52,
       "merged": 36
     },
     "Octobre-2017": {
