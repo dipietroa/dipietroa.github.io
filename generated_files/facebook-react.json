@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-12-01T02:43:19.084Z",
+  "lastUpdate": "2017-12-01T03:43:35.376Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6312,
+  "totalPR": 6313,
   "lastPR": {
-    "createdAt": "2017-12-01T01:27:37Z",
-    "username": "raphamorim"
+    "createdAt": "2017-12-01T02:43:55Z",
+    "username": "koba04"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars2.githubusercontent.com/u/18336304?v=4"
   },
   "userPRInfos": {
+    "koba04": {
+      "total": 72,
+      "merged": 50,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/250407?v=4"
+    },
     "raphamorim": {
       "total": 18,
       "merged": 11,
@@ -302,11 +307,6 @@
       "total": 23,
       "merged": 16,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/227879?v=4"
-    },
-    "koba04": {
-      "total": 71,
-      "merged": 50,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/250407?v=4"
     },
     "d4rky-pl": {
       "total": 2,
@@ -9441,7 +9441,7 @@
   },
   "datePRInfos": {
     "Décembre-2017": {
-      "total": 3,
+      "total": 4,
       "merged": 0
     },
     "Novembre-2017": {
