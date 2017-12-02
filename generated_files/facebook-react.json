@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-12-02T12:43:08.866Z",
+  "lastUpdate": "2017-12-02T13:43:20.905Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6322,
+  "totalPR": 6323,
   "lastPR": {
-    "createdAt": "2017-12-01T22:21:20Z",
-    "username": "gaearon"
+    "createdAt": "2017-12-02T12:51:15Z",
+    "username": "yu-tian113"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars2.githubusercontent.com/u/18336304?v=4"
   },
   "userPRInfos": {
+    "yu-tian113": {
+      "total": 2,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/1249823?v=4"
+    },
     "gaearon": {
       "total": 494,
       "merged": 425,
@@ -332,11 +337,6 @@
       "total": 4,
       "merged": 0,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/517889?v=4"
-    },
-    "yu-tian113": {
-      "total": 1,
-      "merged": 0,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/1249823?v=4"
     },
     "marciovicente": {
       "total": 1,
@@ -9441,7 +9441,7 @@
   },
   "datePRInfos": {
     "Décembre-2017": {
-      "total": 13,
+      "total": 14,
       "merged": 4
     },
     "Novembre-2017": {
