@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-12-02T17:43:32.386Z",
+  "lastUpdate": "2017-12-02T18:43:18.452Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6323,
+  "totalPR": 6324,
   "lastPR": {
-    "createdAt": "2017-12-02T12:51:15Z",
-    "username": "yu-tian113"
+    "createdAt": "2017-12-02T18:09:56Z",
+    "username": "nhunzaker"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars2.githubusercontent.com/u/18336304?v=4"
   },
   "userPRInfos": {
+    "nhunzaker": {
+      "total": 79,
+      "merged": 42,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/590904?v=4"
+    },
     "yu-tian113": {
       "total": 2,
       "merged": 0,
@@ -37,11 +42,6 @@
       "total": 5,
       "merged": 3,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/3097018?v=4"
-    },
-    "nhunzaker": {
-      "total": 78,
-      "merged": 42,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/590904?v=4"
     },
     "anushreesubramani": {
       "total": 3,
@@ -9441,7 +9441,7 @@
   },
   "datePRInfos": {
     "Décembre-2017": {
-      "total": 14,
+      "total": 15,
       "merged": 5
     },
     "Novembre-2017": {
