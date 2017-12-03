@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-12-03T08:41:38.312Z",
+  "lastUpdate": "2017-12-03T09:41:52.697Z",
   "cowner": "fastify",
   "crepo": "fastify",
-  "totalPR": 289,
+  "totalPR": 290,
   "lastPR": {
-    "createdAt": "2017-12-02T11:57:40Z",
-    "username": "chapuletta"
+    "createdAt": "2017-12-03T09:23:16Z",
+    "username": "mcollina"
   },
   "bestPR": {
     "user": "delvedor",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/321201?v=4"
   },
   "userPRInfos": {
+    "mcollina": {
+      "total": 38,
+      "merged": 35,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/52195?v=4"
+    },
     "chapuletta": {
       "total": 2,
       "merged": 1,
@@ -82,11 +87,6 @@
       "total": 5,
       "merged": 4,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/22620443?v=4"
-    },
-    "mcollina": {
-      "total": 37,
-      "merged": 35,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/52195?v=4"
     },
     "lolo32": {
       "total": 5,
@@ -311,7 +311,7 @@
   },
   "datePRInfos": {
     "Décembre-2017": {
-      "total": 3,
+      "total": 4,
       "merged": 2
     },
     "Novembre-2017": {
