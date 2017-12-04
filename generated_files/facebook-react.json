@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2017-12-04T13:44:00.500Z",
+  "lastUpdate": "2017-12-04T14:43:39.373Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 6329,
@@ -25,7 +25,7 @@
   "userPRInfos": {
     "nhunzaker": {
       "total": 80,
-      "merged": 42,
+      "merged": 45,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/590904?v=4"
     },
     "zombieJ": {
@@ -9447,7 +9447,7 @@
   "datePRInfos": {
     "Décembre-2017": {
       "total": 20,
-      "merged": 5
+      "merged": 8
     },
     "Novembre-2017": {
       "total": 168,
