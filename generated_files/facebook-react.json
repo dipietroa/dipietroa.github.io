@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-12-04T18:43:51.301Z",
+  "lastUpdate": "2017-12-04T20:44:00.077Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6331,
+  "totalPR": 6334,
   "lastPR": {
-    "createdAt": "2017-12-04T17:08:04Z",
-    "username": "bvaughn"
+    "createdAt": "2017-12-04T20:14:17Z",
+    "username": "Gregoirevda"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,16 @@
     "image": "https://avatars2.githubusercontent.com/u/18336304?v=4"
   },
   "userPRInfos": {
+    "Gregoirevda": {
+      "total": 3,
+      "merged": 1,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/12223738?v=4"
+    },
+    "raphamorim": {
+      "total": 20,
+      "merged": 11,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/3630346?v=4"
+    },
     "bvaughn": {
       "total": 154,
       "merged": 138,
@@ -52,11 +62,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/28618066?v=4"
-    },
-    "raphamorim": {
-      "total": 19,
-      "merged": 11,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/3630346?v=4"
     },
     "yu-tian113": {
       "total": 2,
@@ -2887,11 +2892,6 @@
       "total": 1,
       "merged": 1,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/532797?v=4"
-    },
-    "Gregoirevda": {
-      "total": 1,
-      "merged": 1,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/12223738?v=4"
     },
     "Devinsuit": {
       "total": 1,
@@ -9446,7 +9446,7 @@
   },
   "datePRInfos": {
     "Décembre-2017": {
-      "total": 22,
+      "total": 25,
       "merged": 8
     },
     "Novembre-2017": {
