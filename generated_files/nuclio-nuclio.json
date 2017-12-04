@@ -1,20 +1,20 @@
 {
-  "lastUpdate": "2017-12-04T06:41:31.707Z",
+  "lastUpdate": "2017-12-04T07:41:42.255Z",
   "cowner": "nuclio",
   "crepo": "nuclio",
-  "totalPR": 274,
+  "totalPR": 275,
   "lastPR": {
-    "createdAt": "2017-12-03T21:30:03Z",
-    "username": "eran-nussbaum"
+    "createdAt": "2017-12-04T07:10:58Z",
+    "username": "pavius"
   },
   "bestPR": {
     "user": "pavius",
-    "nbPR": 160,
+    "nbPR": 161,
     "image": "https://avatars2.githubusercontent.com/u/423987?v=4"
   },
   "bestMerged": {
     "user": "pavius",
-    "nbPR": 158,
+    "nbPR": 159,
     "image": "https://avatars2.githubusercontent.com/u/423987?v=4"
   },
   "bestRatio": {
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/5636945?v=4"
   },
   "userPRInfos": {
+    "pavius": {
+      "total": 161,
+      "merged": 159,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/423987?v=4"
+    },
     "eran-nussbaum": {
       "total": 15,
       "merged": 13,
@@ -30,13 +35,8 @@
     },
     "Sharon-iguazio": {
       "total": 19,
-      "merged": 17,
+      "merged": 18,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/27913885?v=4"
-    },
-    "pavius": {
-      "total": 160,
-      "merged": 158,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/423987?v=4"
     },
     "omriharel": {
       "total": 6,
@@ -81,8 +81,8 @@
   },
   "datePRInfos": {
     "Décembre-2017": {
-      "total": 7,
-      "merged": 4
+      "total": 8,
+      "merged": 6
     },
     "Novembre-2017": {
       "total": 66,
