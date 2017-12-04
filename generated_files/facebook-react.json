@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-12-04T01:43:26.808Z",
+  "lastUpdate": "2017-12-04T02:43:24.110Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 6327,
   "lastPR": {
-    "createdAt": "2017-12-03T13:20:05Z",
-    "username": "3260014374ting"
+    "createdAt": "2017-12-04T01:42:57Z",
+    "username": "aickin"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars2.githubusercontent.com/u/18336304?v=4"
   },
   "userPRInfos": {
+    "aickin": {
+      "total": 23,
+      "merged": 17,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/44199?v=4"
+    },
     "3260014374ting": {
       "total": 1,
       "merged": 0,
@@ -1127,11 +1132,6 @@
       "total": 1,
       "merged": 1,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/3036816?v=4"
-    },
-    "aickin": {
-      "total": 22,
-      "merged": 17,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/44199?v=4"
     },
     "oodavid": {
       "total": 1,
@@ -3249,7 +3249,7 @@
       "avatarUrl": "https://avatars2.githubusercontent.com/u/5652886?v=4"
     },
     "vjeux": {
-      "total": 116,
+      "total": 115,
       "merged": 88,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/197597?v=4"
     },
@@ -9446,7 +9446,7 @@
   },
   "datePRInfos": {
     "Décembre-2017": {
-      "total": 17,
+      "total": 18,
       "merged": 5
     },
     "Novembre-2017": {
@@ -9574,7 +9574,7 @@
       "merged": 68
     },
     "Avril-2015": {
-      "total": 123,
+      "total": 122,
       "merged": 83
     },
     "Mars-2015": {
