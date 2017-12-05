@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-12-05T14:44:27.873Z",
+  "lastUpdate": "2017-12-05T15:45:04.947Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6337,
+  "totalPR": 6338,
   "lastPR": {
-    "createdAt": "2017-12-04T21:53:52Z",
-    "username": "acdlite"
+    "createdAt": "2017-12-05T15:28:17Z",
+    "username": "raphamorim"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars2.githubusercontent.com/u/18336304?v=4"
   },
   "userPRInfos": {
+    "raphamorim": {
+      "total": 21,
+      "merged": 12,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/3630346?v=4"
+    },
     "acdlite": {
       "total": 158,
       "merged": 127,
@@ -32,11 +37,6 @@
       "total": 4,
       "merged": 1,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/12223738?v=4"
-    },
-    "raphamorim": {
-      "total": 20,
-      "merged": 12,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/3630346?v=4"
     },
     "bvaughn": {
       "total": 154,
@@ -9446,7 +9446,7 @@
   },
   "datePRInfos": {
     "Décembre-2017": {
-      "total": 28,
+      "total": 29,
       "merged": 11
     },
     "Novembre-2017": {
