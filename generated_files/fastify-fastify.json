@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2017-12-05T09:41:43.882Z",
+  "lastUpdate": "2017-12-05T10:41:55.755Z",
   "cowner": "fastify",
   "crepo": "fastify",
   "totalPR": 292,
@@ -18,9 +18,9 @@
     "image": "https://avatars0.githubusercontent.com/u/4865608?v=4"
   },
   "bestRatio": {
-    "user": "jsumners",
+    "user": "chapuletta",
     "ratio": 1,
-    "image": "https://avatars1.githubusercontent.com/u/321201?v=4"
+    "image": "https://avatars3.githubusercontent.com/u/10291004?v=4"
   },
   "userPRInfos": {
     "delvedor": {
@@ -40,7 +40,7 @@
     },
     "chapuletta": {
       "total": 2,
-      "merged": 1,
+      "merged": 2,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/10291004?v=4"
     },
     "jsumners": {
@@ -312,7 +312,7 @@
   "datePRInfos": {
     "Décembre-2017": {
       "total": 6,
-      "merged": 4
+      "merged": 5
     },
     "Novembre-2017": {
       "total": 52,
