@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2017-12-05T13:41:29.345Z",
+  "lastUpdate": "2017-12-05T14:41:28.514Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
   "totalPR": 316,
@@ -30,7 +30,7 @@
     },
     "LeeChungWan": {
       "total": 5,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/26535056?v=4"
     },
     "PiyushPawar17": {
@@ -847,7 +847,7 @@
   "datePRInfos": {
     "Décembre-2017": {
       "total": 3,
-      "merged": 0
+      "merged": 1
     },
     "Novembre-2017": {
       "total": 30,
