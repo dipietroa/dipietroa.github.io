@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2017-12-05T13:44:25.829Z",
+  "lastUpdate": "2017-12-05T14:44:27.873Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 6337,
@@ -35,7 +35,7 @@
     },
     "raphamorim": {
       "total": 20,
-      "merged": 11,
+      "merged": 12,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/3630346?v=4"
     },
     "bvaughn": {
@@ -70,7 +70,7 @@
     },
     "yu-tian113": {
       "total": 2,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/1249823?v=4"
     },
     "prometheansacrifice": {
@@ -9447,7 +9447,7 @@
   "datePRInfos": {
     "Décembre-2017": {
       "total": 28,
-      "merged": 9
+      "merged": 11
     },
     "Novembre-2017": {
       "total": 168,
