@@ -1,20 +1,20 @@
 {
-  "lastUpdate": "2017-12-05T10:41:55.755Z",
+  "lastUpdate": "2017-12-05T11:41:33.364Z",
   "cowner": "fastify",
   "crepo": "fastify",
-  "totalPR": 292,
+  "totalPR": 293,
   "lastPR": {
-    "createdAt": "2017-12-05T09:36:16Z",
+    "createdAt": "2017-12-05T10:56:50Z",
     "username": "delvedor"
   },
   "bestPR": {
     "user": "delvedor",
-    "nbPR": 68,
+    "nbPR": 69,
     "image": "https://avatars0.githubusercontent.com/u/4865608?v=4"
   },
   "bestMerged": {
     "user": "delvedor",
-    "nbPR": 64,
+    "nbPR": 65,
     "image": "https://avatars0.githubusercontent.com/u/4865608?v=4"
   },
   "bestRatio": {
@@ -24,8 +24,8 @@
   },
   "userPRInfos": {
     "delvedor": {
-      "total": 68,
-      "merged": 64,
+      "total": 69,
+      "merged": 65,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/4865608?v=4"
     },
     "coreyfarrell": {
@@ -311,8 +311,8 @@
   },
   "datePRInfos": {
     "Décembre-2017": {
-      "total": 6,
-      "merged": 5
+      "total": 7,
+      "merged": 6
     },
     "Novembre-2017": {
       "total": 52,
