@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-12-05T21:41:47.310Z",
+  "lastUpdate": "2017-12-05T22:42:03.223Z",
   "cowner": "fastify",
   "crepo": "fastify",
-  "totalPR": 294,
+  "totalPR": 295,
   "lastPR": {
-    "createdAt": "2017-12-05T14:45:58Z",
-    "username": "mcollina"
+    "createdAt": "2017-12-05T22:21:42Z",
+    "username": "coreyfarrell"
   },
   "bestPR": {
     "user": "delvedor",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/10291004?v=4"
   },
   "userPRInfos": {
+    "coreyfarrell": {
+      "total": 3,
+      "merged": 2,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/903597?v=4"
+    },
     "mcollina": {
       "total": 39,
       "merged": 37,
@@ -32,11 +37,6 @@
       "total": 69,
       "merged": 65,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/4865608?v=4"
-    },
-    "coreyfarrell": {
-      "total": 2,
-      "merged": 1,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/903597?v=4"
     },
     "chapuletta": {
       "total": 2,
@@ -311,12 +311,12 @@
   },
   "datePRInfos": {
     "Décembre-2017": {
-      "total": 8,
+      "total": 9,
       "merged": 7
     },
     "Novembre-2017": {
       "total": 52,
-      "merged": 36
+      "merged": 37
     },
     "Octobre-2017": {
       "total": 57,
