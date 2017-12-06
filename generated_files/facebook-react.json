@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2017-12-06T00:43:29.279Z",
+  "lastUpdate": "2017-12-06T01:43:24.056Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 6341,
@@ -25,7 +25,7 @@
   "userPRInfos": {
     "raphamorim": {
       "total": 22,
-      "merged": 13,
+      "merged": 14,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/3630346?v=4"
     },
     "sophiebits": {
@@ -9447,7 +9447,7 @@
   "datePRInfos": {
     "Décembre-2017": {
       "total": 32,
-      "merged": 14
+      "merged": 15
     },
     "Novembre-2017": {
       "total": 168,
