@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2017-12-06T14:41:41.744Z",
+  "lastUpdate": "2017-12-06T15:42:04.230Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
   "totalPR": 319,
@@ -40,7 +40,7 @@
     },
     "The-TJ": {
       "total": 2,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/32796932?v=4"
     },
     "YooSeonjae": {
@@ -851,7 +851,7 @@
     },
     "Novembre-2017": {
       "total": 30,
-      "merged": 6
+      "merged": 7
     },
     "Octobre-2017": {
       "total": 180,
