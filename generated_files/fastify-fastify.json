@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-12-06T21:42:23.214Z",
+  "lastUpdate": "2017-12-06T22:42:10.012Z",
   "cowner": "fastify",
   "crepo": "fastify",
-  "totalPR": 299,
+  "totalPR": 300,
   "lastPR": {
-    "createdAt": "2017-12-06T20:19:06Z",
-    "username": "chapuletta"
+    "createdAt": "2017-12-06T21:58:44Z",
+    "username": "dougrich"
   },
   "bestPR": {
     "user": "delvedor",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/903597?v=4"
   },
   "userPRInfos": {
+    "dougrich": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/10737526?v=4"
+    },
     "chapuletta": {
       "total": 3,
       "merged": 2,
@@ -311,7 +316,7 @@
   },
   "datePRInfos": {
     "Décembre-2017": {
-      "total": 13,
+      "total": 14,
       "merged": 12
     },
     "Novembre-2017": {
