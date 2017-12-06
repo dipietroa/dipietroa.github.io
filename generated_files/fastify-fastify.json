@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2017-12-06T08:41:55.371Z",
+  "lastUpdate": "2017-12-06T09:41:48.833Z",
   "cowner": "fastify",
   "crepo": "fastify",
   "totalPR": 296,
@@ -25,7 +25,7 @@
   "userPRInfos": {
     "allevo": {
       "total": 31,
-      "merged": 26,
+      "merged": 27,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/1054125?v=4"
     },
     "coreyfarrell": {
@@ -312,7 +312,7 @@
   "datePRInfos": {
     "Décembre-2017": {
       "total": 10,
-      "merged": 9
+      "merged": 10
     },
     "Novembre-2017": {
       "total": 52,
