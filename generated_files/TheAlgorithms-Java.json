@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "2017-12-06T03:41:05.620Z",
+  "lastUpdate": "2017-12-06T04:41:21.958Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
-  "totalPR": 318,
+  "totalPR": 319,
   "lastPR": {
-    "createdAt": "2017-12-06T02:46:43Z",
+    "createdAt": "2017-12-06T04:23:25Z",
     "username": "JeonSeongBae"
   },
   "bestPR": {
@@ -24,7 +24,7 @@
   },
   "userPRInfos": {
     "JeonSeongBae": {
-      "total": 6,
+      "total": 7,
       "merged": 0,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/19682981?v=4"
     },
@@ -846,7 +846,7 @@
   },
   "datePRInfos": {
     "Décembre-2017": {
-      "total": 5,
+      "total": 6,
       "merged": 1
     },
     "Novembre-2017": {
