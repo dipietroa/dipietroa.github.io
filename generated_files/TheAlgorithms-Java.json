@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-12-06T18:41:37.927Z",
+  "lastUpdate": "2017-12-06T19:41:52.751Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
-  "totalPR": 319,
+  "totalPR": 320,
   "lastPR": {
-    "createdAt": "2017-12-06T04:23:25Z",
-    "username": "JeonSeongBae"
+    "createdAt": "2017-12-06T18:46:49Z",
+    "username": "NISHITA97"
   },
   "bestPR": {
     "user": "theycallmemac",
@@ -23,6 +23,11 @@
     "image": "https://avatars0.githubusercontent.com/u/29345301?v=4"
   },
   "userPRInfos": {
+    "NISHITA97": {
+      "total": 6,
+      "merged": 3,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/22667364?v=4"
+    },
     "JeonSeongBae": {
       "total": 7,
       "merged": 0,
@@ -72,11 +77,6 @@
       "total": 1,
       "merged": 1,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/29345301?v=4"
-    },
-    "NISHITA97": {
-      "total": 5,
-      "merged": 3,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/22667364?v=4"
     },
     "Febaug": {
       "total": 1,
@@ -846,7 +846,7 @@
   },
   "datePRInfos": {
     "Décembre-2017": {
-      "total": 6,
+      "total": 7,
       "merged": 1
     },
     "Novembre-2017": {
