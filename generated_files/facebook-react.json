@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2017-12-06T14:44:36.917Z",
+  "lastUpdate": "2017-12-06T15:44:47.037Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 6342,
@@ -95,7 +95,7 @@
     },
     "koba04": {
       "total": 72,
-      "merged": 50,
+      "merged": 51,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/250407?v=4"
     },
     "madeinfree": {
@@ -9447,7 +9447,7 @@
   "datePRInfos": {
     "Décembre-2017": {
       "total": 33,
-      "merged": 15
+      "merged": 16
     },
     "Novembre-2017": {
       "total": 168,
