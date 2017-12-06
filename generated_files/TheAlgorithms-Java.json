@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-12-06T02:41:32.583Z",
+  "lastUpdate": "2017-12-06T03:41:05.620Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
-  "totalPR": 317,
+  "totalPR": 318,
   "lastPR": {
-    "createdAt": "2017-12-06T02:34:24Z",
-    "username": "LeeChungWan"
+    "createdAt": "2017-12-06T02:46:43Z",
+    "username": "JeonSeongBae"
   },
   "bestPR": {
     "user": "theycallmemac",
@@ -23,15 +23,15 @@
     "image": "https://avatars0.githubusercontent.com/u/29345301?v=4"
   },
   "userPRInfos": {
+    "JeonSeongBae": {
+      "total": 6,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/19682981?v=4"
+    },
     "LeeChungWan": {
       "total": 6,
       "merged": 1,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/26535056?v=4"
-    },
-    "JeonSeongBae": {
-      "total": 5,
-      "merged": 0,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/19682981?v=4"
     },
     "PiyushPawar17": {
       "total": 1,
@@ -846,7 +846,7 @@
   },
   "datePRInfos": {
     "Décembre-2017": {
-      "total": 4,
+      "total": 5,
       "merged": 1
     },
     "Novembre-2017": {
