@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-12-06T18:44:24.739Z",
+  "lastUpdate": "2017-12-06T19:44:45.264Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6343,
+  "totalPR": 6344,
   "lastPR": {
-    "createdAt": "2017-12-06T16:50:44Z",
-    "username": "bvaughn"
+    "createdAt": "2017-12-06T19:38:30Z",
+    "username": "gaearon"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars2.githubusercontent.com/u/18336304?v=4"
   },
   "userPRInfos": {
+    "gaearon": {
+      "total": 497,
+      "merged": 425,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/810438?v=4"
+    },
     "bvaughn": {
       "total": 155,
       "merged": 139,
@@ -42,11 +47,6 @@
       "total": 652,
       "merged": 579,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/6820?v=4"
-    },
-    "gaearon": {
-      "total": 496,
-      "merged": 425,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/810438?v=4"
     },
     "acdlite": {
       "total": 158,
@@ -9446,7 +9446,7 @@
   },
   "datePRInfos": {
     "Décembre-2017": {
-      "total": 34,
+      "total": 35,
       "merged": 16
     },
     "Novembre-2017": {
