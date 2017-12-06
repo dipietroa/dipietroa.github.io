@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2017-12-06T12:41:54.316Z",
+  "lastUpdate": "2017-12-06T13:42:10.165Z",
   "cowner": "nuclio",
   "crepo": "nuclio",
   "totalPR": 278,
@@ -18,9 +18,9 @@
     "image": "https://avatars2.githubusercontent.com/u/423987?v=4"
   },
   "bestRatio": {
-    "user": "sbkoth",
+    "user": "balster1123",
     "ratio": 1,
-    "image": "https://avatars0.githubusercontent.com/u/18405855?v=4"
+    "image": "https://avatars1.githubusercontent.com/u/5636945?v=4"
   },
   "userPRInfos": {
     "pavius": {
@@ -30,7 +30,7 @@
     },
     "balster1123": {
       "total": 2,
-      "merged": 1,
+      "merged": 2,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/5636945?v=4"
     },
     "eran-nussbaum": {
@@ -82,7 +82,7 @@
   "datePRInfos": {
     "Décembre-2017": {
       "total": 11,
-      "merged": 8
+      "merged": 9
     },
     "Novembre-2017": {
       "total": 66,
