@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-12-06T13:42:04.512Z",
+  "lastUpdate": "2017-12-06T14:42:07.100Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 981,
+  "totalPR": 982,
   "lastPR": {
-    "createdAt": "2017-12-02T16:25:19Z",
-    "username": "lyh2668"
+    "createdAt": "2017-12-06T13:53:01Z",
+    "username": "Akryum"
   },
   "bestPR": {
     "user": "kazupon",
@@ -18,15 +18,20 @@
     "image": "https://avatars1.githubusercontent.com/u/72989?v=4"
   },
   "bestRatio": {
-    "user": "Zzzen",
+    "user": "Akryum",
     "ratio": 1,
-    "image": "https://avatars0.githubusercontent.com/u/6630042?v=4"
+    "image": "https://avatars0.githubusercontent.com/u/2798204?v=4"
   },
   "userPRInfos": {
     "957685677": {
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/28888508?v=4"
+    },
+    "Akryum": {
+      "total": 2,
+      "merged": 2,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/2798204?v=4"
     },
     "lyh2668": {
       "total": 1,
@@ -977,11 +982,6 @@
       "total": 1,
       "merged": 1,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/2285017?v=4"
-    },
-    "Akryum": {
-      "total": 1,
-      "merged": 1,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/2798204?v=4"
     },
     "yantene": {
       "total": 1,
@@ -2151,8 +2151,8 @@
   },
   "datePRInfos": {
     "Décembre-2017": {
-      "total": 3,
-      "merged": 1
+      "total": 4,
+      "merged": 2
     },
     "Novembre-2017": {
       "total": 37,
