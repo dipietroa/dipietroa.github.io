@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-12-07T18:41:11.378Z",
+  "lastUpdate": "2017-12-07T19:41:17.713Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2216,
+  "totalPR": 2217,
   "lastPR": {
-    "createdAt": "2017-12-06T18:38:20Z",
-    "username": "dkublik"
+    "createdAt": "2017-12-07T19:38:46Z",
+    "username": "JorgenRingen"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "JorgenRingen": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/5677271?v=4"
+    },
     "dkublik": {
       "total": 1,
       "merged": 0,
@@ -3496,7 +3501,7 @@
   },
   "datePRInfos": {
     "Décembre-2017": {
-      "total": 10,
+      "total": 11,
       "merged": 0
     },
     "Novembre-2017": {
