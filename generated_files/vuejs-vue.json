@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-12-07T07:41:54.007Z",
+  "lastUpdate": "2017-12-07T08:41:54.454Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 982,
+  "totalPR": 983,
   "lastPR": {
-    "createdAt": "2017-12-06T13:53:01Z",
-    "username": "Akryum"
+    "createdAt": "2017-12-07T07:59:43Z",
+    "username": "wangyi7099"
   },
   "bestPR": {
     "user": "kazupon",
@@ -27,6 +27,11 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/28888508?v=4"
+    },
+    "wangyi7099": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/24426655?v=4"
     },
     "Akryum": {
       "total": 2,
@@ -2151,7 +2156,7 @@
   },
   "datePRInfos": {
     "Décembre-2017": {
-      "total": 4,
+      "total": 5,
       "merged": 2
     },
     "Novembre-2017": {
