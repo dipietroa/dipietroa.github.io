@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-12-07T12:43:43.922Z",
+  "lastUpdate": "2017-12-07T13:44:40.322Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6347,
+  "totalPR": 6348,
   "lastPR": {
-    "createdAt": "2017-12-07T06:23:12Z",
-    "username": "magicmark"
+    "createdAt": "2017-12-07T13:18:25Z",
+    "username": "ctxhou"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars2.githubusercontent.com/u/18336304?v=4"
   },
   "userPRInfos": {
+    "ctxhou": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/3364028?v=4"
+    },
     "magicmark": {
       "total": 1,
       "merged": 0,
@@ -9451,7 +9456,7 @@
   },
   "datePRInfos": {
     "Décembre-2017": {
-      "total": 38,
+      "total": 39,
       "merged": 18
     },
     "Novembre-2017": {
