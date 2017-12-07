@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-12-07T12:41:33.748Z",
+  "lastUpdate": "2017-12-07T13:42:07.737Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 983,
+  "totalPR": 984,
   "lastPR": {
-    "createdAt": "2017-12-07T07:59:43Z",
-    "username": "wangyi7099"
+    "createdAt": "2017-12-07T13:03:11Z",
+    "username": "Alex-Sokolov"
   },
   "bestPR": {
     "user": "kazupon",
@@ -27,6 +27,11 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/28888508?v=4"
+    },
+    "Alex-Sokolov": {
+      "total": 2,
+      "merged": 1,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/4497128?v=4"
     },
     "wangyi7099": {
       "total": 1,
@@ -927,11 +932,6 @@
       "total": 1,
       "merged": 1,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/4869742?v=4"
-    },
-    "Alex-Sokolov": {
-      "total": 1,
-      "merged": 1,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/4497128?v=4"
     },
     "wangyateng": {
       "total": 1,
@@ -2156,7 +2156,7 @@
   },
   "datePRInfos": {
     "Décembre-2017": {
-      "total": 5,
+      "total": 6,
       "merged": 2
     },
     "Novembre-2017": {
