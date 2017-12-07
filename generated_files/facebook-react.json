@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-12-07T18:43:59.805Z",
+  "lastUpdate": "2017-12-07T19:44:19.744Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6348,
+  "totalPR": 6349,
   "lastPR": {
-    "createdAt": "2017-12-07T13:18:25Z",
-    "username": "ctxhou"
+    "createdAt": "2017-12-07T19:20:29Z",
+    "username": "bvaughn"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -18,11 +18,16 @@
     "image": "https://avatars2.githubusercontent.com/u/6820?v=4"
   },
   "bestRatio": {
-    "user": "abiduzz420",
+    "user": "anushreesubramani",
     "ratio": 1,
-    "image": "https://avatars2.githubusercontent.com/u/18336304?v=4"
+    "image": "https://avatars3.githubusercontent.com/u/3088823?v=4"
   },
   "userPRInfos": {
+    "bvaughn": {
+      "total": 156,
+      "merged": 139,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/29597?v=4"
+    },
     "ctxhou": {
       "total": 1,
       "merged": 0,
@@ -37,11 +42,6 @@
       "total": 499,
       "merged": 427,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/810438?v=4"
-    },
-    "bvaughn": {
-      "total": 155,
-      "merged": 139,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/29597?v=4"
     },
     "skiritsis": {
       "total": 4,
@@ -100,7 +100,7 @@
     },
     "anushreesubramani": {
       "total": 3,
-      "merged": 2,
+      "merged": 3,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/3088823?v=4"
     },
     "koba04": {
@@ -9456,8 +9456,8 @@
   },
   "datePRInfos": {
     "Décembre-2017": {
-      "total": 39,
-      "merged": 18
+      "total": 40,
+      "merged": 19
     },
     "Novembre-2017": {
       "total": 168,
