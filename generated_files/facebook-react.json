@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-12-07T20:44:26.843Z",
+  "lastUpdate": "2017-12-07T21:44:16.732Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6349,
+  "totalPR": 6351,
   "lastPR": {
-    "createdAt": "2017-12-07T19:20:29Z",
-    "username": "bvaughn"
+    "createdAt": "2017-12-07T21:08:11Z",
+    "username": "aweary"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,16 @@
     "image": "https://avatars3.githubusercontent.com/u/3088823?v=4"
   },
   "userPRInfos": {
+    "aweary": {
+      "total": 53,
+      "merged": 45,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/6886061?v=4"
+    },
+    "gaearon": {
+      "total": 500,
+      "merged": 428,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/810438?v=4"
+    },
     "bvaughn": {
       "total": 156,
       "merged": 139,
@@ -37,11 +47,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/1590756?v=4"
-    },
-    "gaearon": {
-      "total": 499,
-      "merged": 427,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/810438?v=4"
     },
     "skiritsis": {
       "total": 4,
@@ -117,11 +122,6 @@
       "total": 1,
       "merged": 1,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/18336304?v=4"
-    },
-    "aweary": {
-      "total": 52,
-      "merged": 45,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/6886061?v=4"
     },
     "ArtemFitiskin": {
       "total": 1,
@@ -9456,8 +9456,8 @@
   },
   "datePRInfos": {
     "Décembre-2017": {
-      "total": 40,
-      "merged": 19
+      "total": 42,
+      "merged": 20
     },
     "Novembre-2017": {
       "total": 168,
