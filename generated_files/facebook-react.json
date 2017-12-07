@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-12-07T22:44:18.946Z",
+  "lastUpdate": "2017-12-07T23:43:59.030Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6352,
+  "totalPR": 6355,
   "lastPR": {
-    "createdAt": "2017-12-07T22:32:42Z",
-    "username": "gaearon"
+    "createdAt": "2017-12-07T22:58:34Z",
+    "username": "accordeiro"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,15 +23,20 @@
     "image": "https://avatars3.githubusercontent.com/u/3088823?v=4"
   },
   "userPRInfos": {
-    "gaearon": {
-      "total": 501,
-      "merged": 429,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/810438?v=4"
+    "accordeiro": {
+      "total": 4,
+      "merged": 3,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/1952585?v=4"
     },
     "aweary": {
-      "total": 53,
+      "total": 54,
       "merged": 46,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/6886061?v=4"
+    },
+    "gaearon": {
+      "total": 502,
+      "merged": 431,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/810438?v=4"
     },
     "bvaughn": {
       "total": 156,
@@ -157,11 +162,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/18146212?v=4"
-    },
-    "accordeiro": {
-      "total": 3,
-      "merged": 3,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/1952585?v=4"
     },
     "timjacobi": {
       "total": 3,
@@ -9456,8 +9456,8 @@
   },
   "datePRInfos": {
     "Décembre-2017": {
-      "total": 43,
-      "merged": 22
+      "total": 46,
+      "merged": 24
     },
     "Novembre-2017": {
       "total": 168,
