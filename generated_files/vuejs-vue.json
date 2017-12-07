@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-12-07T18:41:45.471Z",
+  "lastUpdate": "2017-12-07T19:41:51.856Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 984,
+  "totalPR": 985,
   "lastPR": {
-    "createdAt": "2017-12-07T13:03:11Z",
-    "username": "Alex-Sokolov"
+    "createdAt": "2017-12-07T19:01:34Z",
+    "username": "gebilaoxiong"
   },
   "bestPR": {
     "user": "kazupon",
@@ -27,6 +27,11 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/28888508?v=4"
+    },
+    "gebilaoxiong": {
+      "total": 20,
+      "merged": 13,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/11804936?v=4"
     },
     "Alex-Sokolov": {
       "total": 2,
@@ -212,11 +217,6 @@
       "total": 1,
       "merged": 1,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/12230408?v=4"
-    },
-    "gebilaoxiong": {
-      "total": 19,
-      "merged": 13,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/11804936?v=4"
     },
     "madskonradsen": {
       "total": 1,
@@ -2156,7 +2156,7 @@
   },
   "datePRInfos": {
     "Décembre-2017": {
-      "total": 6,
+      "total": 7,
       "merged": 2
     },
     "Novembre-2017": {
