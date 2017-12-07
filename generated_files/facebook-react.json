@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-12-07T05:43:38.036Z",
+  "lastUpdate": "2017-12-07T06:43:37.719Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6346,
+  "totalPR": 6347,
   "lastPR": {
-    "createdAt": "2017-12-07T03:00:56Z",
-    "username": "gaearon"
+    "createdAt": "2017-12-07T06:23:12Z",
+    "username": "magicmark"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars2.githubusercontent.com/u/18336304?v=4"
   },
   "userPRInfos": {
+    "magicmark": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/1590756?v=4"
+    },
     "gaearon": {
       "total": 499,
       "merged": 426,
@@ -9446,7 +9451,7 @@
   },
   "datePRInfos": {
     "Décembre-2017": {
-      "total": 37,
+      "total": 38,
       "merged": 17
     },
     "Novembre-2017": {
