@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "2017-12-07T20:41:41.164Z",
+  "lastUpdate": "2017-12-07T21:41:32.229Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
-  "totalPR": 320,
+  "totalPR": 321,
   "lastPR": {
-    "createdAt": "2017-12-06T18:46:49Z",
+    "createdAt": "2017-12-07T21:09:22Z",
     "username": "NISHITA97"
   },
   "bestPR": {
@@ -24,8 +24,8 @@
   },
   "userPRInfos": {
     "NISHITA97": {
-      "total": 6,
-      "merged": 3,
+      "total": 7,
+      "merged": 4,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/22667364?v=4"
     },
     "JeonSeongBae": {
@@ -846,8 +846,8 @@
   },
   "datePRInfos": {
     "Décembre-2017": {
-      "total": 7,
-      "merged": 1
+      "total": 8,
+      "merged": 2
     },
     "Novembre-2017": {
       "total": 30,
