@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-12-08T11:41:48.080Z",
+  "lastUpdate": "2017-12-08T12:41:35.040Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 985,
+  "totalPR": 987,
   "lastPR": {
-    "createdAt": "2017-12-07T19:01:34Z",
-    "username": "gebilaoxiong"
+    "createdAt": "2017-12-08T12:33:23Z",
+    "username": "icese7en"
   },
   "bestPR": {
     "user": "kazupon",
@@ -27,6 +27,11 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/28888508?v=4"
+    },
+    "icese7en": {
+      "total": 2,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/6931216?v=4"
     },
     "gebilaoxiong": {
       "total": 20,
@@ -2156,7 +2161,7 @@
   },
   "datePRInfos": {
     "Décembre-2017": {
-      "total": 7,
+      "total": 9,
       "merged": 2
     },
     "Novembre-2017": {
