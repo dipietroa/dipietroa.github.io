@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2017-12-08T18:41:30.831Z",
+  "lastUpdate": "2017-12-08T19:41:13.937Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
   "totalPR": 321,
@@ -30,7 +30,7 @@
     },
     "JeonSeongBae": {
       "total": 7,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/19682981?v=4"
     },
     "LeeChungWan": {
@@ -847,7 +847,7 @@
   "datePRInfos": {
     "Décembre-2017": {
       "total": 8,
-      "merged": 2
+      "merged": 3
     },
     "Novembre-2017": {
       "total": 30,
