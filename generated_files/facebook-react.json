@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2017-12-08T15:43:56.695Z",
+  "lastUpdate": "2017-12-08T16:44:05.711Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 6356,
@@ -105,7 +105,7 @@
     },
     "prometheansacrifice": {
       "total": 5,
-      "merged": 3,
+      "merged": 4,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/3097018?v=4"
     },
     "anushreesubramani": {
@@ -9457,7 +9457,7 @@
   "datePRInfos": {
     "Décembre-2017": {
       "total": 47,
-      "merged": 25
+      "merged": 26
     },
     "Novembre-2017": {
       "total": 168,
