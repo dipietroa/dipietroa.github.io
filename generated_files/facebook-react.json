@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-12-09T08:43:47.465Z",
+  "lastUpdate": "2017-12-09T09:43:18.989Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6360,
+  "totalPR": 6362,
   "lastPR": {
-    "createdAt": "2017-12-08T21:07:42Z",
-    "username": "gaearon"
+    "createdAt": "2017-12-09T09:25:49Z",
+    "username": "xxblakefailxx"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,16 @@
     "image": "https://avatars3.githubusercontent.com/u/3088823?v=4"
   },
   "userPRInfos": {
+    "xxblakefailxx": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/746504?v=4"
+    },
+    "acdlite": {
+      "total": 159,
+      "merged": 127,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/3624098?v=4"
+    },
     "gaearon": {
       "total": 506,
       "merged": 434,
@@ -72,11 +82,6 @@
       "total": 652,
       "merged": 579,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/6820?v=4"
-    },
-    "acdlite": {
-      "total": 158,
-      "merged": 127,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/3624098?v=4"
     },
     "Gregoirevda": {
       "total": 4,
@@ -9456,7 +9461,7 @@
   },
   "datePRInfos": {
     "Décembre-2017": {
-      "total": 51,
+      "total": 53,
       "merged": 29
     },
     "Novembre-2017": {
