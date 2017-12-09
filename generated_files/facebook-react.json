@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-12-09T18:43:53.899Z",
+  "lastUpdate": "2017-12-09T19:43:48.328Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6362,
+  "totalPR": 6363,
   "lastPR": {
-    "createdAt": "2017-12-09T09:25:49Z",
-    "username": "xxblakefailxx"
+    "createdAt": "2017-12-09T19:33:46Z",
+    "username": "watadarkstar"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/3088823?v=4"
   },
   "userPRInfos": {
+    "watadarkstar": {
+      "total": 3,
+      "merged": 2,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/3059371?v=4"
+    },
     "xxblakefailxx": {
       "total": 1,
       "merged": 0,
@@ -177,11 +182,6 @@
       "total": 3,
       "merged": 2,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/2023165?v=4"
-    },
-    "watadarkstar": {
-      "total": 2,
-      "merged": 2,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/3059371?v=4"
     },
     "veekas": {
       "total": 1,
@@ -9461,7 +9461,7 @@
   },
   "datePRInfos": {
     "Décembre-2017": {
-      "total": 53,
+      "total": 54,
       "merged": 29
     },
     "Novembre-2017": {
