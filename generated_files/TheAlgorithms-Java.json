@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2017-12-09T20:41:10.671Z",
+  "lastUpdate": "2017-12-09T21:41:08.444Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
   "totalPR": 323,
@@ -25,12 +25,12 @@
   "userPRInfos": {
     "YooSeonjae": {
       "total": 5,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/31612794?v=4"
     },
     "LeeChungWan": {
       "total": 7,
-      "merged": 1,
+      "merged": 2,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/26535056?v=4"
     },
     "NISHITA97": {
@@ -847,7 +847,7 @@
   "datePRInfos": {
     "Décembre-2017": {
       "total": 10,
-      "merged": 3
+      "merged": 5
     },
     "Novembre-2017": {
       "total": 30,
