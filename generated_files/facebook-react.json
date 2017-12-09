@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-12-09T20:43:45.812Z",
+  "lastUpdate": "2017-12-09T21:43:18.877Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6363,
+  "totalPR": 6365,
   "lastPR": {
-    "createdAt": "2017-12-09T19:33:46Z",
-    "username": "watadarkstar"
+    "createdAt": "2017-12-09T21:17:14Z",
+    "username": "XaveScor"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,16 @@
     "image": "https://avatars3.githubusercontent.com/u/3088823?v=4"
   },
   "userPRInfos": {
+    "XaveScor": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/6323437?v=4"
+    },
+    "nhunzaker": {
+      "total": 81,
+      "merged": 45,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/590904?v=4"
+    },
     "watadarkstar": {
       "total": 3,
       "merged": 2,
@@ -92,11 +102,6 @@
       "total": 4,
       "merged": 1,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/12223738?v=4"
-    },
-    "nhunzaker": {
-      "total": 80,
-      "merged": 45,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/590904?v=4"
     },
     "zombieJ": {
       "total": 7,
@@ -9461,7 +9466,7 @@
   },
   "datePRInfos": {
     "Décembre-2017": {
-      "total": 54,
+      "total": 56,
       "merged": 29
     },
     "Novembre-2017": {
