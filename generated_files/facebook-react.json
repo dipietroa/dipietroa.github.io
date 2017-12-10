@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2017-12-10T01:43:18.110Z",
+  "lastUpdate": "2017-12-10T02:44:05.655Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 6365,
@@ -18,9 +18,9 @@
     "image": "https://avatars2.githubusercontent.com/u/6820?v=4"
   },
   "bestRatio": {
-    "user": "anushreesubramani",
+    "user": "watadarkstar",
     "ratio": 1,
-    "image": "https://avatars3.githubusercontent.com/u/3088823?v=4"
+    "image": "https://avatars3.githubusercontent.com/u/3059371?v=4"
   },
   "userPRInfos": {
     "XaveScor": {
@@ -35,7 +35,7 @@
     },
     "watadarkstar": {
       "total": 3,
-      "merged": 2,
+      "merged": 3,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/3059371?v=4"
     },
     "xxblakefailxx": {
@@ -9467,7 +9467,7 @@
   "datePRInfos": {
     "Décembre-2017": {
       "total": 56,
-      "merged": 30
+      "merged": 31
     },
     "Novembre-2017": {
       "total": 168,
