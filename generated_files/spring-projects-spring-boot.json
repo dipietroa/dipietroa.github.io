@@ -1,8 +1,8 @@
 {
-  "lastUpdate": "2017-12-11T20:41:37.869Z",
+  "lastUpdate": "2017-12-11T21:41:12.598Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2223,
+  "totalPR": 2224,
   "lastPR": {
     "createdAt": "2017-12-11T18:34:16Z",
     "username": "dreis2211"
@@ -99,7 +99,7 @@
       "avatarUrl": "https://avatars3.githubusercontent.com/u/483832?v=4"
     },
     "eddumelendez": {
-      "total": 127,
+      "total": 128,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/1810547?v=4"
     },
@@ -3625,7 +3625,7 @@
       "merged": 0
     },
     "Mai-2015": {
-      "total": 37,
+      "total": 38,
       "merged": 0
     },
     "Avril-2015": {
