@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2017-12-11T15:42:37.418Z",
+  "lastUpdate": "2017-12-11T16:42:09.591Z",
   "cowner": "nuclio",
   "crepo": "nuclio",
   "totalPR": 287,
@@ -25,7 +25,7 @@
   "userPRInfos": {
     "balster1123": {
       "total": 4,
-      "merged": 2,
+      "merged": 3,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/5636945?v=4"
     },
     "tebeka": {
@@ -82,7 +82,7 @@
   "datePRInfos": {
     "Décembre-2017": {
       "total": 20,
-      "merged": 17
+      "merged": 18
     },
     "Novembre-2017": {
       "total": 66,
