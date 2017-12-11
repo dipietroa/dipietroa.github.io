@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-12-11T16:44:35.159Z",
+  "lastUpdate": "2017-12-11T17:44:12.176Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6368,
+  "totalPR": 6369,
   "lastPR": {
-    "createdAt": "2017-12-11T16:18:44Z",
-    "username": "gaearon"
+    "createdAt": "2017-12-11T17:33:05Z",
+    "username": "yenshih"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,9 +23,14 @@
     "image": "https://avatars3.githubusercontent.com/u/6323437?v=4"
   },
   "userPRInfos": {
+    "yenshih": {
+      "total": 3,
+      "merged": 1,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/14069488?v=4"
+    },
     "gaearon": {
-      "total": 507,
-      "merged": 435,
+      "total": 508,
+      "merged": 436,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/810438?v=4"
     },
     "roderickhsiao": {
@@ -407,11 +412,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/3599069?v=4"
-    },
-    "yenshih": {
-      "total": 2,
-      "merged": 1,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/14069488?v=4"
     },
     "thiagopaiva99": {
       "total": 1,
@@ -8129,8 +8129,8 @@
       "avatarUrl": "https://avatars1.githubusercontent.com/u/981128?v=4"
     },
     "johnheroy": {
-      "total": 2,
-      "merged": 2,
+      "total": 1,
+      "merged": 1,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/5909572?v=4"
     },
     "spencerhandley": {
@@ -9466,8 +9466,8 @@
   },
   "datePRInfos": {
     "Décembre-2017": {
-      "total": 58,
-      "merged": 34
+      "total": 60,
+      "merged": 35
     },
     "Novembre-2017": {
       "total": 168,
@@ -9618,8 +9618,8 @@
       "merged": 71
     },
     "Octobre-2014": {
-      "total": 84,
-      "merged": 60
+      "total": 83,
+      "merged": 59
     },
     "Septembre-2014": {
       "total": 80,
