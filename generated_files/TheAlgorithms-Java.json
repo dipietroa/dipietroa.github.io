@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-12-11T03:41:33.056Z",
+  "lastUpdate": "2017-12-11T04:42:08.672Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
-  "totalPR": 324,
+  "totalPR": 326,
   "lastPR": {
-    "createdAt": "2017-12-11T03:18:01Z",
-    "username": "cnuhoya"
+    "createdAt": "2017-12-11T04:39:41Z",
+    "username": "LeeChungWan"
   },
   "bestPR": {
     "user": "theycallmemac",
@@ -23,8 +23,13 @@
     "image": "https://avatars0.githubusercontent.com/u/29345301?v=4"
   },
   "userPRInfos": {
+    "LeeChungWan": {
+      "total": 8,
+      "merged": 2,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/26535056?v=4"
+    },
     "cnuhoya": {
-      "total": 3,
+      "total": 4,
       "merged": 1,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/19682978?v=4"
     },
@@ -32,11 +37,6 @@
       "total": 5,
       "merged": 1,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/31612794?v=4"
-    },
-    "LeeChungWan": {
-      "total": 7,
-      "merged": 2,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/26535056?v=4"
     },
     "NISHITA97": {
       "total": 7,
@@ -846,7 +846,7 @@
   },
   "datePRInfos": {
     "Décembre-2017": {
-      "total": 11,
+      "total": 13,
       "merged": 6
     },
     "Novembre-2017": {
