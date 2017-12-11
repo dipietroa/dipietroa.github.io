@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "2017-12-11T17:44:12.176Z",
+  "lastUpdate": "2017-12-11T18:44:18.513Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6369,
+  "totalPR": 6370,
   "lastPR": {
-    "createdAt": "2017-12-11T17:33:05Z",
+    "createdAt": "2017-12-11T17:48:25Z",
     "username": "yenshih"
   },
   "bestPR": {
@@ -24,7 +24,7 @@
   },
   "userPRInfos": {
     "yenshih": {
-      "total": 3,
+      "total": 4,
       "merged": 1,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/14069488?v=4"
     },
@@ -9466,7 +9466,7 @@
   },
   "datePRInfos": {
     "Décembre-2017": {
-      "total": 60,
+      "total": 61,
       "merged": 35
     },
     "Novembre-2017": {
