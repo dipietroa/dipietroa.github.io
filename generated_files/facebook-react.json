@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-12-11T15:45:04.931Z",
+  "lastUpdate": "2017-12-11T16:44:35.159Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6366,
+  "totalPR": 6368,
   "lastPR": {
-    "createdAt": "2017-12-11T05:39:34Z",
-    "username": "roderickhsiao"
+    "createdAt": "2017-12-11T16:18:44Z",
+    "username": "gaearon"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/6323437?v=4"
   },
   "userPRInfos": {
+    "gaearon": {
+      "total": 507,
+      "merged": 435,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/810438?v=4"
+    },
     "roderickhsiao": {
       "total": 2,
       "merged": 1,
@@ -53,11 +58,6 @@
       "merged": 127,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/3624098?v=4"
     },
-    "gaearon": {
-      "total": 506,
-      "merged": 435,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/810438?v=4"
-    },
     "jquense": {
       "total": 33,
       "merged": 15,
@@ -80,7 +80,7 @@
     },
     "ctxhou": {
       "total": 1,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/3364028?v=4"
     },
     "magicmark": {
@@ -8129,8 +8129,8 @@
       "avatarUrl": "https://avatars1.githubusercontent.com/u/981128?v=4"
     },
     "johnheroy": {
-      "total": 1,
-      "merged": 1,
+      "total": 2,
+      "merged": 2,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/5909572?v=4"
     },
     "spencerhandley": {
@@ -9466,8 +9466,8 @@
   },
   "datePRInfos": {
     "Décembre-2017": {
-      "total": 57,
-      "merged": 33
+      "total": 58,
+      "merged": 34
     },
     "Novembre-2017": {
       "total": 168,
@@ -9618,8 +9618,8 @@
       "merged": 71
     },
     "Octobre-2014": {
-      "total": 83,
-      "merged": 59
+      "total": 84,
+      "merged": 60
     },
     "Septembre-2014": {
       "total": 80,
