@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-12-11T09:42:30.821Z",
+  "lastUpdate": "2017-12-11T10:41:38.270Z",
   "cowner": "fastify",
   "crepo": "fastify",
-  "totalPR": 301,
+  "totalPR": 302,
   "lastPR": {
-    "createdAt": "2017-12-08T12:28:43Z",
-    "username": "yamalight"
+    "createdAt": "2017-12-11T09:51:11Z",
+    "username": "manzonif"
   },
   "bestPR": {
     "user": "delvedor",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/903597?v=4"
   },
   "userPRInfos": {
+    "manzonif": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/8948699?v=4"
+    },
     "yamalight": {
       "total": 3,
       "merged": 2,
@@ -316,7 +321,7 @@
   },
   "datePRInfos": {
     "Décembre-2017": {
-      "total": 15,
+      "total": 16,
       "merged": 12
     },
     "Novembre-2017": {
