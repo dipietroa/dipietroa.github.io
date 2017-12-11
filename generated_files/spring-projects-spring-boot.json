@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-12-11T21:41:12.598Z",
+  "lastUpdate": "2017-12-11T22:41:23.422Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2224,
+  "totalPR": 2225,
   "lastPR": {
-    "createdAt": "2017-12-11T18:34:16Z",
-    "username": "dreis2211"
+    "createdAt": "2017-12-11T22:20:30Z",
+    "username": "alex859"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,16 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "alex859": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/2026358?v=4"
+    },
+    "dkublik": {
+      "total": 2,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/5848865?v=4"
+    },
     "dreis2211": {
       "total": 33,
       "merged": 0,
@@ -37,11 +47,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/5677271?v=4"
-    },
-    "dkublik": {
-      "total": 1,
-      "merged": 0,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/5848865?v=4"
     },
     "hho": {
       "total": 1,
@@ -99,7 +104,7 @@
       "avatarUrl": "https://avatars3.githubusercontent.com/u/483832?v=4"
     },
     "eddumelendez": {
-      "total": 128,
+      "total": 127,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/1810547?v=4"
     },
@@ -3501,7 +3506,7 @@
   },
   "datePRInfos": {
     "Décembre-2017": {
-      "total": 17,
+      "total": 19,
       "merged": 0
     },
     "Novembre-2017": {
@@ -3625,7 +3630,7 @@
       "merged": 0
     },
     "Mai-2015": {
-      "total": 38,
+      "total": 37,
       "merged": 0
     },
     "Avril-2015": {
