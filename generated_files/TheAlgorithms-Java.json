@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-12-11T04:42:08.672Z",
+  "lastUpdate": "2017-12-11T05:41:26.811Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
-  "totalPR": 326,
+  "totalPR": 329,
   "lastPR": {
-    "createdAt": "2017-12-11T04:39:41Z",
-    "username": "LeeChungWan"
+    "createdAt": "2017-12-11T05:21:37Z",
+    "username": "cnuhoya"
   },
   "bestPR": {
     "user": "theycallmemac",
@@ -23,15 +23,20 @@
     "image": "https://avatars0.githubusercontent.com/u/29345301?v=4"
   },
   "userPRInfos": {
-    "LeeChungWan": {
-      "total": 8,
-      "merged": 2,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/26535056?v=4"
-    },
     "cnuhoya": {
-      "total": 4,
+      "total": 6,
       "merged": 1,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/19682978?v=4"
+    },
+    "MaengMaeng": {
+      "total": 3,
+      "merged": 1,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/31842031?v=4"
+    },
+    "LeeChungWan": {
+      "total": 8,
+      "merged": 3,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/26535056?v=4"
     },
     "YooSeonjae": {
       "total": 5,
@@ -67,11 +72,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/4181945?v=4"
-    },
-    "MaengMaeng": {
-      "total": 2,
-      "merged": 1,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/31842031?v=4"
     },
     "harshar11": {
       "total": 1,
@@ -846,8 +846,8 @@
   },
   "datePRInfos": {
     "Décembre-2017": {
-      "total": 13,
-      "merged": 6
+      "total": 16,
+      "merged": 7
     },
     "Novembre-2017": {
       "total": 30,
