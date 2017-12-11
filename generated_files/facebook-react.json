@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-12-11T04:44:30.340Z",
+  "lastUpdate": "2017-12-11T05:43:44.987Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6365,
+  "totalPR": 6366,
   "lastPR": {
-    "createdAt": "2017-12-09T21:17:14Z",
-    "username": "XaveScor"
+    "createdAt": "2017-12-11T05:39:34Z",
+    "username": "roderickhsiao"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/6323437?v=4"
   },
   "userPRInfos": {
+    "roderickhsiao": {
+      "total": 2,
+      "merged": 1,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/3906130?v=4"
+    },
     "XaveScor": {
       "total": 1,
       "merged": 1,
@@ -4472,11 +4477,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/2015955?v=4"
-    },
-    "roderickhsiao": {
-      "total": 1,
-      "merged": 1,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/3906130?v=4"
     },
     "Ivanwangcy": {
       "total": 1,
@@ -9466,7 +9466,7 @@
   },
   "datePRInfos": {
     "Décembre-2017": {
-      "total": 56,
+      "total": 57,
       "merged": 33
     },
     "Novembre-2017": {
