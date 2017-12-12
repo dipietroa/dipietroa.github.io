@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-12-12T05:43:44.813Z",
+  "lastUpdate": "2017-12-12T06:43:49.099Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6373,
+  "totalPR": 6374,
   "lastPR": {
-    "createdAt": "2017-12-12T04:05:58Z",
-    "username": "acdlite"
+    "createdAt": "2017-12-12T05:46:14Z",
+    "username": "yu-tian113"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/6323437?v=4"
   },
   "userPRInfos": {
+    "yu-tian113": {
+      "total": 3,
+      "merged": 1,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/1249823?v=4"
+    },
     "acdlite": {
       "total": 160,
       "merged": 127,
@@ -127,11 +132,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/28618066?v=4"
-    },
-    "yu-tian113": {
-      "total": 2,
-      "merged": 1,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/1249823?v=4"
     },
     "prometheansacrifice": {
       "total": 5,
@@ -9466,7 +9466,7 @@
   },
   "datePRInfos": {
     "Décembre-2017": {
-      "total": 64,
+      "total": 65,
       "merged": 35
     },
     "Novembre-2017": {
