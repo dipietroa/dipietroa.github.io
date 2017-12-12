@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2017-12-12T12:41:56.927Z",
+  "lastUpdate": "2017-12-12T13:42:05.870Z",
   "cowner": "nuclio",
   "crepo": "nuclio",
   "totalPR": 289,
@@ -25,7 +25,7 @@
   "userPRInfos": {
     "tebeka": {
       "total": 56,
-      "merged": 33,
+      "merged": 34,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/87697?v=4"
     },
     "pavius": {
@@ -82,7 +82,7 @@
   "datePRInfos": {
     "Décembre-2017": {
       "total": 22,
-      "merged": 19
+      "merged": 20
     },
     "Novembre-2017": {
       "total": 66,
