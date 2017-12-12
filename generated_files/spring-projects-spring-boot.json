@@ -1,15 +1,15 @@
 {
-  "lastUpdate": "2017-12-12T14:41:27.786Z",
+  "lastUpdate": "2017-12-12T15:41:52.804Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2226,
+  "totalPR": 2227,
   "lastPR": {
-    "createdAt": "2017-12-11T23:46:20Z",
-    "username": "nklmish"
+    "createdAt": "2017-12-12T14:46:22Z",
+    "username": "izeye"
   },
   "bestPR": {
     "user": "izeye",
-    "nbPR": 310,
+    "nbPR": 311,
     "image": "https://avatars3.githubusercontent.com/u/1059363?v=4"
   },
   "bestMerged": {
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "izeye": {
+      "total": 311,
+      "merged": 1,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/1059363?v=4"
+    },
     "nklmish": {
       "total": 3,
       "merged": 0,
@@ -42,11 +47,6 @@
       "total": 33,
       "merged": 0,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/6304496?v=4"
-    },
-    "izeye": {
-      "total": 310,
-      "merged": 1,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/1059363?v=4"
     },
     "JorgenRingen": {
       "total": 1,
@@ -3506,7 +3506,7 @@
   },
   "datePRInfos": {
     "Décembre-2017": {
-      "total": 20,
+      "total": 21,
       "merged": 0
     },
     "Novembre-2017": {
