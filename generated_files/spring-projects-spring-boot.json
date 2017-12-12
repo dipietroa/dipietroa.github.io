@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-12-12T16:41:59.994Z",
+  "lastUpdate": "2017-12-12T17:41:22.856Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2227,
+  "totalPR": 2228,
   "lastPR": {
-    "createdAt": "2017-12-12T14:46:22Z",
-    "username": "izeye"
+    "createdAt": "2017-12-12T17:25:24Z",
+    "username": "dreis2211"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "dreis2211": {
+      "total": 34,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/6304496?v=4"
+    },
     "izeye": {
       "total": 311,
       "merged": 1,
@@ -42,11 +47,6 @@
       "total": 2,
       "merged": 0,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/5848865?v=4"
-    },
-    "dreis2211": {
-      "total": 33,
-      "merged": 0,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/6304496?v=4"
     },
     "JorgenRingen": {
       "total": 1,
@@ -3506,7 +3506,7 @@
   },
   "datePRInfos": {
     "Décembre-2017": {
-      "total": 21,
+      "total": 22,
       "merged": 0
     },
     "Novembre-2017": {
