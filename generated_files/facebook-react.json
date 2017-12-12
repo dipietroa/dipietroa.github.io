@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-12-12T00:44:10.149Z",
+  "lastUpdate": "2017-12-12T01:43:54.647Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6370,
+  "totalPR": 6371,
   "lastPR": {
-    "createdAt": "2017-12-11T17:48:25Z",
-    "username": "yenshih"
+    "createdAt": "2017-12-12T01:17:34Z",
+    "username": "nhunzaker"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/6323437?v=4"
   },
   "userPRInfos": {
+    "nhunzaker": {
+      "total": 82,
+      "merged": 46,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/590904?v=4"
+    },
     "yenshih": {
       "total": 4,
       "merged": 1,
@@ -42,11 +47,6 @@
       "total": 1,
       "merged": 1,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/6323437?v=4"
-    },
-    "nhunzaker": {
-      "total": 81,
-      "merged": 46,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/590904?v=4"
     },
     "watadarkstar": {
       "total": 3,
@@ -9466,7 +9466,7 @@
   },
   "datePRInfos": {
     "Décembre-2017": {
-      "total": 61,
+      "total": 62,
       "merged": 35
     },
     "Novembre-2017": {
