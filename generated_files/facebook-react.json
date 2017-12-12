@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2017-12-12T16:45:17.494Z",
+  "lastUpdate": "2017-12-12T17:44:09.504Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 6375,
@@ -25,7 +25,7 @@
   "userPRInfos": {
     "gaearon": {
       "total": 509,
-      "merged": 436,
+      "merged": 437,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/810438?v=4"
     },
     "yu-tian113": {
@@ -9467,7 +9467,7 @@
   "datePRInfos": {
     "Décembre-2017": {
       "total": 66,
-      "merged": 35
+      "merged": 36
     },
     "Novembre-2017": {
       "total": 168,
