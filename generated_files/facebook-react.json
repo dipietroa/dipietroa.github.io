@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-12-12T03:43:47.175Z",
+  "lastUpdate": "2017-12-12T04:43:54.255Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6372,
+  "totalPR": 6373,
   "lastPR": {
-    "createdAt": "2017-12-12T03:37:00Z",
-    "username": "yenshih"
+    "createdAt": "2017-12-12T04:05:58Z",
+    "username": "acdlite"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/6323437?v=4"
   },
   "userPRInfos": {
+    "acdlite": {
+      "total": 160,
+      "merged": 127,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/3624098?v=4"
+    },
     "yenshih": {
       "total": 5,
       "merged": 1,
@@ -57,11 +62,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/746504?v=4"
-    },
-    "acdlite": {
-      "total": 159,
-      "merged": 127,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/3624098?v=4"
     },
     "jquense": {
       "total": 33,
@@ -9466,7 +9466,7 @@
   },
   "datePRInfos": {
     "Décembre-2017": {
-      "total": 63,
+      "total": 64,
       "merged": 35
     },
     "Novembre-2017": {
