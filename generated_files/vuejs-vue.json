@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2017-12-12T20:41:55.927Z",
+  "lastUpdate": "2017-12-12T21:42:07.366Z",
   "cowner": "vuejs",
   "crepo": "vue",
   "totalPR": 991,
@@ -50,7 +50,7 @@
     },
     "gebilaoxiong": {
       "total": 20,
-      "merged": 13,
+      "merged": 14,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/11804936?v=4"
     },
     "Alex-Sokolov": {
@@ -2167,7 +2167,7 @@
   "datePRInfos": {
     "Décembre-2017": {
       "total": 13,
-      "merged": 3
+      "merged": 4
     },
     "Novembre-2017": {
       "total": 37,
