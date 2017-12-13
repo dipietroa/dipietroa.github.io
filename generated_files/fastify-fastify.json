@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-12-13T16:42:54.971Z",
+  "lastUpdate": "2017-12-13T17:42:40.869Z",
   "cowner": "fastify",
   "crepo": "fastify",
-  "totalPR": 304,
+  "totalPR": 305,
   "lastPR": {
-    "createdAt": "2017-12-13T12:13:39Z",
-    "username": "delvedor"
+    "createdAt": "2017-12-13T17:35:01Z",
+    "username": "nasplachkov"
   },
   "bestPR": {
     "user": "delvedor",
@@ -23,6 +23,11 @@
     "image": "https://avatars2.githubusercontent.com/u/8948699?v=4"
   },
   "userPRInfos": {
+    "nasplachkov": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/4751655?v=4"
+    },
     "delvedor": {
       "total": 70,
       "merged": 66,
@@ -321,7 +326,7 @@
   },
   "datePRInfos": {
     "Décembre-2017": {
-      "total": 18,
+      "total": 19,
       "merged": 13
     },
     "Novembre-2017": {
