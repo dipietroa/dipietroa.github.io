@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-12-13T04:41:59.686Z",
+  "lastUpdate": "2017-12-13T05:41:30.327Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 991,
+  "totalPR": 992,
   "lastPR": {
-    "createdAt": "2017-12-12T03:43:06Z",
-    "username": "felixbuenemann"
+    "createdAt": "2017-12-13T05:01:59Z",
+    "username": "lzxb"
   },
   "bestPR": {
     "user": "kazupon",
@@ -27,6 +27,11 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/28888508?v=4"
+    },
+    "lzxb": {
+      "total": 6,
+      "merged": 2,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/8424643?v=4"
     },
     "felixbuenemann": {
       "total": 1,
@@ -82,11 +87,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/15625235?v=4"
-    },
-    "lzxb": {
-      "total": 5,
-      "merged": 2,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/8424643?v=4"
     },
     "wanyaxing": {
       "total": 1,
@@ -2166,7 +2166,7 @@
   },
   "datePRInfos": {
     "Décembre-2017": {
-      "total": 13,
+      "total": 14,
       "merged": 5
     },
     "Novembre-2017": {
