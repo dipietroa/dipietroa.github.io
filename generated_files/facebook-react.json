@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-12-14T03:44:02.312Z",
+  "lastUpdate": "2017-12-14T04:43:22.331Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6377,
+  "totalPR": 6378,
   "lastPR": {
-    "createdAt": "2017-12-14T01:13:55Z",
-    "username": "nhunzaker"
+    "createdAt": "2017-12-14T04:01:29Z",
+    "username": "GordyD"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/6323437?v=4"
   },
   "userPRInfos": {
+    "GordyD": {
+      "total": 2,
+      "merged": 1,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/966511?v=4"
+    },
     "nhunzaker": {
       "total": 83,
       "merged": 47,
@@ -402,11 +407,6 @@
       "total": 1,
       "merged": 1,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/10540173?v=4"
-    },
-    "GordyD": {
-      "total": 1,
-      "merged": 1,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/966511?v=4"
     },
     "tobiasandersen": {
       "total": 1,
@@ -9466,7 +9466,7 @@
   },
   "datePRInfos": {
     "Décembre-2017": {
-      "total": 68,
+      "total": 69,
       "merged": 39
     },
     "Novembre-2017": {
