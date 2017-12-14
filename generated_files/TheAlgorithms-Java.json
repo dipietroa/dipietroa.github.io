@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-12-14T02:41:12.864Z",
+  "lastUpdate": "2017-12-14T03:41:35.091Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
-  "totalPR": 329,
+  "totalPR": 330,
   "lastPR": {
-    "createdAt": "2017-12-11T05:21:37Z",
-    "username": "cnuhoya"
+    "createdAt": "2017-12-14T03:00:59Z",
+    "username": "LeeChungWan"
   },
   "bestPR": {
     "user": "theycallmemac",
@@ -23,6 +23,11 @@
     "image": "https://avatars0.githubusercontent.com/u/29345301?v=4"
   },
   "userPRInfos": {
+    "LeeChungWan": {
+      "total": 9,
+      "merged": 3,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/26535056?v=4"
+    },
     "cnuhoya": {
       "total": 6,
       "merged": 1,
@@ -32,11 +37,6 @@
       "total": 3,
       "merged": 1,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/31842031?v=4"
-    },
-    "LeeChungWan": {
-      "total": 8,
-      "merged": 3,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/26535056?v=4"
     },
     "YooSeonjae": {
       "total": 5,
@@ -846,7 +846,7 @@
   },
   "datePRInfos": {
     "Décembre-2017": {
-      "total": 16,
+      "total": 17,
       "merged": 7
     },
     "Novembre-2017": {
