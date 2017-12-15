@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2017-12-15T16:41:27.907Z",
+  "lastUpdate": "2017-12-15T17:41:16.530Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
   "totalPR": 331,
@@ -25,7 +25,7 @@
   "userPRInfos": {
     "LeeChungWan": {
       "total": 10,
-      "merged": 4,
+      "merged": 5,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/26535056?v=4"
     },
     "cnuhoya": {
@@ -847,7 +847,7 @@
   "datePRInfos": {
     "Décembre-2017": {
       "total": 18,
-      "merged": 8
+      "merged": 9
     },
     "Novembre-2017": {
       "total": 30,
