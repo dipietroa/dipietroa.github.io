@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2017-12-15T09:41:49.599Z",
+  "lastUpdate": "2017-12-15T10:41:55.737Z",
   "cowner": "fastify",
   "crepo": "fastify",
   "totalPR": 306,
@@ -18,9 +18,9 @@
     "image": "https://avatars0.githubusercontent.com/u/4865608?v=4"
   },
   "bestRatio": {
-    "user": "manzonif",
+    "user": "Ethan-Arrowood",
     "ratio": 1,
-    "image": "https://avatars2.githubusercontent.com/u/8948699?v=4"
+    "image": "https://avatars2.githubusercontent.com/u/16144158?v=4"
   },
   "userPRInfos": {
     "mcollina": {
@@ -40,7 +40,7 @@
     },
     "Ethan-Arrowood": {
       "total": 2,
-      "merged": 1,
+      "merged": 2,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/16144158?v=4"
     },
     "manzonif": {
@@ -327,7 +327,7 @@
   "datePRInfos": {
     "Décembre-2017": {
       "total": 20,
-      "merged": 14
+      "merged": 15
     },
     "Novembre-2017": {
       "total": 52,
