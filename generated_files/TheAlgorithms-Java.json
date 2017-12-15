@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-12-15T20:41:36.816Z",
+  "lastUpdate": "2017-12-15T21:41:13.153Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
-  "totalPR": 331,
+  "totalPR": 332,
   "lastPR": {
-    "createdAt": "2017-12-15T06:16:55Z",
-    "username": "LeeChungWan"
+    "createdAt": "2017-12-15T21:36:21Z",
+    "username": "christianbender"
   },
   "bestPR": {
     "user": "theycallmemac",
@@ -23,6 +23,11 @@
     "image": "https://avatars0.githubusercontent.com/u/29345301?v=4"
   },
   "userPRInfos": {
+    "christianbender": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/23243382?v=4"
+    },
     "LeeChungWan": {
       "total": 10,
       "merged": 5,
@@ -846,7 +851,7 @@
   },
   "datePRInfos": {
     "Décembre-2017": {
-      "total": 18,
+      "total": 19,
       "merged": 9
     },
     "Novembre-2017": {
