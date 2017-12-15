@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-12-15T05:43:45.970Z",
+  "lastUpdate": "2017-12-15T06:43:46.083Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6380,
+  "totalPR": 6381,
   "lastPR": {
-    "createdAt": "2017-12-15T04:12:36Z",
-    "username": "acdlite"
+    "createdAt": "2017-12-15T06:22:41Z",
+    "username": "samwgoldman"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/6323437?v=4"
   },
   "userPRInfos": {
+    "samwgoldman": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/254842?v=4"
+    },
     "acdlite": {
       "total": 161,
       "merged": 128,
@@ -9471,7 +9476,7 @@
   },
   "datePRInfos": {
     "Décembre-2017": {
-      "total": 71,
+      "total": 72,
       "merged": 39
     },
     "Novembre-2017": {
