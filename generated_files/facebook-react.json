@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2017-12-15T11:44:04.378Z",
+  "lastUpdate": "2017-12-15T12:43:59.098Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 6381,
@@ -18,14 +18,14 @@
     "image": "https://avatars2.githubusercontent.com/u/6820?v=4"
   },
   "bestRatio": {
-    "user": "XaveScor",
+    "user": "samwgoldman",
     "ratio": 1,
-    "image": "https://avatars3.githubusercontent.com/u/6323437?v=4"
+    "image": "https://avatars2.githubusercontent.com/u/254842?v=4"
   },
   "userPRInfos": {
     "samwgoldman": {
       "total": 1,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/254842?v=4"
     },
     "acdlite": {
@@ -9477,7 +9477,7 @@
   "datePRInfos": {
     "Décembre-2017": {
       "total": 72,
-      "merged": 39
+      "merged": 40
     },
     "Novembre-2017": {
       "total": 168,
