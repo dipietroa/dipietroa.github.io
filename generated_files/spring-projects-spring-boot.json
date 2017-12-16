@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "2017-12-16T14:40:59.570Z",
+  "lastUpdate": "2017-12-16T15:50:19.050Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
   "totalPR": 2231,
   "lastPR": {
-    "createdAt": "2017-12-15T17:08:21Z",
+    "createdAt": "2017-12-16T14:40:22Z",
     "username": "izeye"
   },
   "bestPR": {
@@ -3506,7 +3506,7 @@
   },
   "datePRInfos": {
     "Décembre-2017": {
-      "total": 24,
+      "total": 25,
       "merged": 0
     },
     "Novembre-2017": {
@@ -3514,7 +3514,7 @@
       "merged": 2
     },
     "Octobre-2017": {
-      "total": 91,
+      "total": 90,
       "merged": 1
     },
     "Septembre-2017": {
