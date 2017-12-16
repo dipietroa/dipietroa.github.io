@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-12-15T23:43:51.484Z",
+  "lastUpdate": "2017-12-16T00:43:37.798Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6381,
+  "totalPR": 6382,
   "lastPR": {
-    "createdAt": "2017-12-15T06:22:41Z",
-    "username": "samwgoldman"
+    "createdAt": "2017-12-15T23:47:13Z",
+    "username": "orta"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars2.githubusercontent.com/u/254842?v=4"
   },
   "userPRInfos": {
+    "orta": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/49038?v=4"
+    },
     "samwgoldman": {
       "total": 1,
       "merged": 1,
@@ -9476,7 +9481,7 @@
   },
   "datePRInfos": {
     "Décembre-2017": {
-      "total": 72,
+      "total": 73,
       "merged": 40
     },
     "Novembre-2017": {
