@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2017-12-16T16:42:04.487Z",
+  "lastUpdate": "2017-12-16T17:41:25.580Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
   "totalPR": 335,
@@ -25,7 +25,7 @@
   "userPRInfos": {
     "LeeChungWan": {
       "total": 13,
-      "merged": 6,
+      "merged": 8,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/26535056?v=4"
     },
     "christianbender": {
@@ -852,7 +852,7 @@
   "datePRInfos": {
     "Décembre-2017": {
       "total": 22,
-      "merged": 10
+      "merged": 12
     },
     "Novembre-2017": {
       "total": 30,
