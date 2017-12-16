@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-12-16T12:43:53.866Z",
+  "lastUpdate": "2017-12-16T13:43:17.763Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6382,
+  "totalPR": 6383,
   "lastPR": {
-    "createdAt": "2017-12-15T23:47:13Z",
-    "username": "orta"
+    "createdAt": "2017-12-16T13:18:09Z",
+    "username": "mannanali413"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars2.githubusercontent.com/u/254842?v=4"
   },
   "userPRInfos": {
+    "mannanali413": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/1666618?v=4"
+    },
     "orta": {
       "total": 1,
       "merged": 0,
@@ -9481,7 +9486,7 @@
   },
   "datePRInfos": {
     "Décembre-2017": {
-      "total": 73,
+      "total": 74,
       "merged": 40
     },
     "Novembre-2017": {
