@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2017-12-16T20:41:51.896Z",
+  "lastUpdate": "2017-12-16T21:41:21.420Z",
   "cowner": "vuejs",
   "crepo": "vue",
   "totalPR": 994,
@@ -18,9 +18,9 @@
     "image": "https://avatars1.githubusercontent.com/u/72989?v=4"
   },
   "bestRatio": {
-    "user": "felixbuenemann",
+    "user": "toBeTheLight",
     "ratio": 1,
-    "image": "https://avatars0.githubusercontent.com/u/909587?v=4"
+    "image": "https://avatars0.githubusercontent.com/u/23555178?v=4"
   },
   "userPRInfos": {
     "957685677": {
@@ -30,7 +30,7 @@
     },
     "toBeTheLight": {
       "total": 1,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/23555178?v=4"
     },
     "Hanks10100": {
@@ -2172,7 +2172,7 @@
   "datePRInfos": {
     "Décembre-2017": {
       "total": 16,
-      "merged": 6
+      "merged": 7
     },
     "Novembre-2017": {
       "total": 37,
