@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-12-16T15:52:42.588Z",
+  "lastUpdate": "2017-12-16T16:44:26.985Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6383,
+  "totalPR": 6384,
   "lastPR": {
-    "createdAt": "2017-12-16T13:18:09Z",
-    "username": "mannanali413"
+    "createdAt": "2017-12-16T16:33:42Z",
+    "username": "tbroadley"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars2.githubusercontent.com/u/254842?v=4"
   },
   "userPRInfos": {
+    "tbroadley": {
+      "total": 4,
+      "merged": 2,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/8731922?v=4"
+    },
     "mannanali413": {
       "total": 1,
       "merged": 0,
@@ -5898,11 +5903,6 @@
       "merged": 0,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/983861?v=4"
     },
-    "tbroadley": {
-      "total": 3,
-      "merged": 2,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/8731922?v=4"
-    },
     "drdelambre": {
       "total": 1,
       "merged": 1,
@@ -9486,7 +9486,7 @@
   },
   "datePRInfos": {
     "Décembre-2017": {
-      "total": 74,
+      "total": 75,
       "merged": 40
     },
     "Novembre-2017": {
