@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "2017-12-16T15:50:31.297Z",
+  "lastUpdate": "2017-12-16T16:42:04.487Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
-  "totalPR": 333,
+  "totalPR": 335,
   "lastPR": {
-    "createdAt": "2017-12-16T10:04:49Z",
+    "createdAt": "2017-12-16T16:21:54Z",
     "username": "LeeChungWan"
   },
   "bestPR": {
@@ -24,7 +24,7 @@
   },
   "userPRInfos": {
     "LeeChungWan": {
-      "total": 11,
+      "total": 13,
       "merged": 6,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/26535056?v=4"
     },
@@ -851,7 +851,7 @@
   },
   "datePRInfos": {
     "Décembre-2017": {
-      "total": 20,
+      "total": 22,
       "merged": 10
     },
     "Novembre-2017": {
