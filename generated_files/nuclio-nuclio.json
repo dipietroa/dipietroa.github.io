@@ -1,8 +1,8 @@
 {
-  "lastUpdate": "2017-12-17T14:41:51.433Z",
+  "lastUpdate": "2017-12-17T15:41:29.745Z",
   "cowner": "nuclio",
   "crepo": "nuclio",
-  "totalPR": 298,
+  "totalPR": 299,
   "lastPR": {
     "createdAt": "2017-12-17T14:02:55Z",
     "username": "bivas"
@@ -44,7 +44,7 @@
       "avatarUrl": "https://avatars1.githubusercontent.com/u/16291067?v=4"
     },
     "tebeka": {
-      "total": 57,
+      "total": 58,
       "merged": 35,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/87697?v=4"
     },
@@ -102,7 +102,7 @@
       "merged": 66
     },
     "Août-2017": {
-      "total": 36,
+      "total": 37,
       "merged": 31
     },
     "Juillet-2017": {
