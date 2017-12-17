@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-12-17T02:43:09.970Z",
+  "lastUpdate": "2017-12-17T03:43:12.770Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6385,
+  "totalPR": 6386,
   "lastPR": {
-    "createdAt": "2017-12-16T21:45:38Z",
-    "username": "M-ZubairAhmed"
+    "createdAt": "2017-12-17T03:07:02Z",
+    "username": "kermits931"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars2.githubusercontent.com/u/254842?v=4"
   },
   "userPRInfos": {
+    "kermits931": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/33876854?v=4"
+    },
     "M-ZubairAhmed": {
       "total": 2,
       "merged": 1,
@@ -9486,7 +9491,7 @@
   },
   "datePRInfos": {
     "Décembre-2017": {
-      "total": 76,
+      "total": 77,
       "merged": 40
     },
     "Novembre-2017": {
