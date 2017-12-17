@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-12-17T15:43:22.148Z",
+  "lastUpdate": "2017-12-17T16:43:28.254Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6386,
+  "totalPR": 6387,
   "lastPR": {
-    "createdAt": "2017-12-17T03:07:02Z",
-    "username": "kermits931"
+    "createdAt": "2017-12-17T16:09:02Z",
+    "username": "prometheansacrifice"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars2.githubusercontent.com/u/254842?v=4"
   },
   "userPRInfos": {
+    "prometheansacrifice": {
+      "total": 6,
+      "merged": 4,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/3097018?v=4"
+    },
     "kermits931": {
       "total": 1,
       "merged": 0,
@@ -172,11 +177,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/28618066?v=4"
-    },
-    "prometheansacrifice": {
-      "total": 5,
-      "merged": 4,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/3097018?v=4"
     },
     "anushreesubramani": {
       "total": 3,
@@ -9491,7 +9491,7 @@
   },
   "datePRInfos": {
     "Décembre-2017": {
-      "total": 77,
+      "total": 78,
       "merged": 40
     },
     "Novembre-2017": {
