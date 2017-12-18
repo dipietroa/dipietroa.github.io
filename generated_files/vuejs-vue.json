@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-12-17T23:41:26.490Z",
+  "lastUpdate": "2017-12-18T00:41:50.145Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 994,
+  "totalPR": 995,
   "lastPR": {
-    "createdAt": "2017-12-16T16:54:30Z",
-    "username": "toBeTheLight"
+    "createdAt": "2017-12-18T00:33:45Z",
+    "username": "rigor789"
   },
   "bestPR": {
     "user": "kazupon",
@@ -27,6 +27,11 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/28888508?v=4"
+    },
+    "rigor789": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/879060?v=4"
     },
     "toBeTheLight": {
       "total": 1,
@@ -2171,7 +2176,7 @@
   },
   "datePRInfos": {
     "Décembre-2017": {
-      "total": 16,
+      "total": 17,
       "merged": 7
     },
     "Novembre-2017": {
