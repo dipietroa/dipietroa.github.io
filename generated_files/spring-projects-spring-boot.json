@@ -1,8 +1,8 @@
 {
-  "lastUpdate": "2017-12-18T21:41:47.608Z",
+  "lastUpdate": "2017-12-18T22:42:20.900Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2236,
+  "totalPR": 2237,
   "lastPR": {
     "createdAt": "2017-12-18T15:24:10Z",
     "username": "izeye"
@@ -3184,7 +3184,7 @@
       "avatarUrl": "https://avatars2.githubusercontent.com/u/396348?v=4"
     },
     "kryger": {
-      "total": 7,
+      "total": 8,
       "merged": 1,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/1566028?v=4"
     },
@@ -3678,7 +3678,7 @@
       "merged": 2
     },
     "Mai-2014": {
-      "total": 35,
+      "total": 36,
       "merged": 4
     },
     "Avril-2014": {
