@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-12-18T09:41:53.346Z",
+  "lastUpdate": "2017-12-18T10:42:16.436Z",
   "cowner": "fastify",
   "crepo": "fastify",
-  "totalPR": 310,
+  "totalPR": 311,
   "lastPR": {
-    "createdAt": "2017-12-18T07:11:24Z",
-    "username": "nwoltman"
+    "createdAt": "2017-12-18T10:28:37Z",
+    "username": "greenkeeper[bot]"
   },
   "bestPR": {
     "user": "delvedor",
@@ -14,7 +14,7 @@
   },
   "bestMerged": {
     "user": "delvedor",
-    "nbPR": 66,
+    "nbPR": 68,
     "image": "https://avatars0.githubusercontent.com/u/4865608?v=4"
   },
   "bestRatio": {
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/5128013?v=4"
   },
   "userPRInfos": {
+    "greenkeeper[bot]": {
+      "total": 33,
+      "merged": 19,
+      "avatarUrl": "https://avatars3.githubusercontent.com/in/505?v=4"
+    },
     "nwoltman": {
       "total": 3,
       "merged": 3,
@@ -40,12 +45,12 @@
     },
     "nasplachkov": {
       "total": 1,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/4751655?v=4"
     },
     "delvedor": {
       "total": 70,
-      "merged": 66,
+      "merged": 68,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/4865608?v=4"
     },
     "Ethan-Arrowood": {
@@ -82,11 +87,6 @@
       "total": 17,
       "merged": 17,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/321201?v=4"
-    },
-    "greenkeeper[bot]": {
-      "total": 32,
-      "merged": 19,
-      "avatarUrl": "https://avatars3.githubusercontent.com/in/505?v=4"
     },
     "jeromemacias": {
       "total": 1,
@@ -331,12 +331,12 @@
   },
   "datePRInfos": {
     "Décembre-2017": {
-      "total": 24,
-      "merged": 18
+      "total": 25,
+      "merged": 20
     },
     "Novembre-2017": {
       "total": 52,
-      "merged": 37
+      "merged": 38
     },
     "Octobre-2017": {
       "total": 57,
