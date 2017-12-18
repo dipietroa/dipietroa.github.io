@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-12-18T16:44:40.925Z",
+  "lastUpdate": "2017-12-18T17:44:15.695Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6388,
+  "totalPR": 6389,
   "lastPR": {
-    "createdAt": "2017-12-18T01:51:18Z",
-    "username": "alexeyraspopov"
+    "createdAt": "2017-12-18T17:42:07Z",
+    "username": "roseangel62"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars2.githubusercontent.com/u/254842?v=4"
   },
   "userPRInfos": {
+    "roseangel62": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/17184442?v=4"
+    },
     "alexeyraspopov": {
       "total": 3,
       "merged": 2,
@@ -9491,7 +9496,7 @@
   },
   "datePRInfos": {
     "Décembre-2017": {
-      "total": 79,
+      "total": 80,
       "merged": 42
     },
     "Novembre-2017": {
