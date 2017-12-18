@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-12-18T01:43:25.717Z",
+  "lastUpdate": "2017-12-18T02:43:42.808Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6387,
+  "totalPR": 6388,
   "lastPR": {
-    "createdAt": "2017-12-17T16:09:02Z",
-    "username": "prometheansacrifice"
+    "createdAt": "2017-12-18T01:51:18Z",
+    "username": "alexeyraspopov"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars2.githubusercontent.com/u/254842?v=4"
   },
   "userPRInfos": {
+    "alexeyraspopov": {
+      "total": 3,
+      "merged": 2,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/858295?v=4"
+    },
     "prometheansacrifice": {
       "total": 6,
       "merged": 4,
@@ -6093,11 +6098,6 @@
       "merged": 3,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/938453?v=4"
     },
-    "alexeyraspopov": {
-      "total": 2,
-      "merged": 1,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/858295?v=4"
-    },
     "bhamodi": {
       "total": 9,
       "merged": 7,
@@ -9491,8 +9491,8 @@
   },
   "datePRInfos": {
     "Décembre-2017": {
-      "total": 78,
-      "merged": 40
+      "total": 79,
+      "merged": 41
     },
     "Novembre-2017": {
       "total": 168,
