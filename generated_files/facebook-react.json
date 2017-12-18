@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2017-12-18T11:43:56.234Z",
+  "lastUpdate": "2017-12-18T12:43:34.752Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 6388,
@@ -85,7 +85,7 @@
     },
     "raphamorim": {
       "total": 23,
-      "merged": 14,
+      "merged": 15,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/3630346?v=4"
     },
     "gaearon": {
@@ -9492,7 +9492,7 @@
   "datePRInfos": {
     "Décembre-2017": {
       "total": 79,
-      "merged": 41
+      "merged": 42
     },
     "Novembre-2017": {
       "total": 168,
