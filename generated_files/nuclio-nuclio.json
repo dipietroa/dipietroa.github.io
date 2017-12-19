@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "2017-12-19T13:42:43.759Z",
+  "lastUpdate": "2017-12-19T14:42:06.091Z",
   "cowner": "nuclio",
   "crepo": "nuclio",
-  "totalPR": 304,
+  "totalPR": 305,
   "lastPR": {
-    "createdAt": "2017-12-19T10:00:48Z",
+    "createdAt": "2017-12-19T13:52:10Z",
     "username": "bivas"
   },
   "bestPR": {
@@ -24,18 +24,18 @@
   },
   "userPRInfos": {
     "bivas": {
-      "total": 14,
-      "merged": 11,
+      "total": 15,
+      "merged": 13,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/530883?v=4"
     },
     "balster1123": {
       "total": 6,
-      "merged": 4,
+      "merged": 5,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/5636945?v=4"
     },
     "tebeka": {
       "total": 58,
-      "merged": 35,
+      "merged": 36,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/87697?v=4"
     },
     "pavius": {
@@ -86,8 +86,8 @@
   },
   "datePRInfos": {
     "Décembre-2017": {
-      "total": 37,
-      "merged": 31
+      "total": 38,
+      "merged": 35
     },
     "Novembre-2017": {
       "total": 66,
