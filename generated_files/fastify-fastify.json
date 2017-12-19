@@ -1,15 +1,15 @@
 {
-  "lastUpdate": "2017-12-19T08:42:43.981Z",
+  "lastUpdate": "2017-12-19T09:42:24.235Z",
   "cowner": "fastify",
   "crepo": "fastify",
-  "totalPR": 312,
+  "totalPR": 313,
   "lastPR": {
-    "createdAt": "2017-12-18T20:32:18Z",
-    "username": "nwoltman"
+    "createdAt": "2017-12-19T08:55:31Z",
+    "username": "delvedor"
   },
   "bestPR": {
     "user": "delvedor",
-    "nbPR": 70,
+    "nbPR": 71,
     "image": "https://avatars0.githubusercontent.com/u/4865608?v=4"
   },
   "bestMerged": {
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/5128013?v=4"
   },
   "userPRInfos": {
+    "delvedor": {
+      "total": 71,
+      "merged": 68,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/4865608?v=4"
+    },
     "nwoltman": {
       "total": 4,
       "merged": 4,
@@ -47,11 +52,6 @@
       "total": 1,
       "merged": 1,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/4751655?v=4"
-    },
-    "delvedor": {
-      "total": 70,
-      "merged": 68,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/4865608?v=4"
     },
     "Ethan-Arrowood": {
       "total": 2,
@@ -331,7 +331,7 @@
   },
   "datePRInfos": {
     "Décembre-2017": {
-      "total": 26,
+      "total": 27,
       "merged": 21
     },
     "Novembre-2017": {
