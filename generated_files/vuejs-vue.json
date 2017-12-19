@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2017-12-19T13:42:38.246Z",
+  "lastUpdate": "2017-12-19T14:41:58.892Z",
   "cowner": "vuejs",
   "crepo": "vue",
   "totalPR": 998,
@@ -30,7 +30,7 @@
     },
     "Kingwl": {
       "total": 27,
-      "merged": 14,
+      "merged": 15,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/6831019?v=4"
     },
     "Hanks10100": {
@@ -40,7 +40,7 @@
     },
     "HerringtonDarkholme": {
       "total": 23,
-      "merged": 19,
+      "merged": 20,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/2883231?v=4"
     },
     "rigor789": {
@@ -2177,7 +2177,7 @@
   "datePRInfos": {
     "Décembre-2017": {
       "total": 20,
-      "merged": 8
+      "merged": 10
     },
     "Novembre-2017": {
       "total": 37,
