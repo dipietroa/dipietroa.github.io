@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "2017-12-19T14:42:06.091Z",
+  "lastUpdate": "2017-12-19T15:42:36.292Z",
   "cowner": "nuclio",
   "crepo": "nuclio",
-  "totalPR": 305,
+  "totalPR": 307,
   "lastPR": {
-    "createdAt": "2017-12-19T13:52:10Z",
+    "createdAt": "2017-12-19T15:30:45Z",
     "username": "bivas"
   },
   "bestPR": {
@@ -24,7 +24,7 @@
   },
   "userPRInfos": {
     "bivas": {
-      "total": 15,
+      "total": 17,
       "merged": 13,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/530883?v=4"
     },
@@ -86,7 +86,7 @@
   },
   "datePRInfos": {
     "Décembre-2017": {
-      "total": 38,
+      "total": 40,
       "merged": 35
     },
     "Novembre-2017": {
