@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-12-19T02:44:10.953Z",
+  "lastUpdate": "2017-12-19T03:44:12.984Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6393,
+  "totalPR": 6394,
   "lastPR": {
-    "createdAt": "2017-12-18T21:57:05Z",
-    "username": "aweary"
+    "createdAt": "2017-12-19T03:08:38Z",
+    "username": "mfix22"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars2.githubusercontent.com/u/254842?v=4"
   },
   "userPRInfos": {
+    "mfix22": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/8397708?v=4"
+    },
     "aweary": {
       "total": 55,
       "merged": 47,
@@ -85,7 +90,7 @@
     },
     "alisherdavronov": {
       "total": 1,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/2254286?v=4"
     },
     "GordyD": {
@@ -9496,8 +9501,8 @@
   },
   "datePRInfos": {
     "Décembre-2017": {
-      "total": 84,
-      "merged": 44
+      "total": 85,
+      "merged": 45
     },
     "Novembre-2017": {
       "total": 168,
