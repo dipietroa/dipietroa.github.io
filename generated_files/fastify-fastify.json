@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-12-20T15:42:13.649Z",
+  "lastUpdate": "2017-12-20T16:42:25.197Z",
   "cowner": "fastify",
   "crepo": "fastify",
-  "totalPR": 319,
+  "totalPR": 320,
   "lastPR": {
-    "createdAt": "2017-12-20T12:15:50Z",
-    "username": "nasplachkov"
+    "createdAt": "2017-12-20T15:49:56Z",
+    "username": "derevandal"
   },
   "bestPR": {
     "user": "delvedor",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/5128013?v=4"
   },
   "userPRInfos": {
+    "derevandal": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/1340508?v=4"
+    },
     "nasplachkov": {
       "total": 2,
       "merged": 1,
@@ -331,7 +336,7 @@
   },
   "datePRInfos": {
     "Décembre-2017": {
-      "total": 33,
+      "total": 34,
       "merged": 24
     },
     "Novembre-2017": {
