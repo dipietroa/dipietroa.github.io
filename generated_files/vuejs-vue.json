@@ -1,8 +1,8 @@
 {
-  "lastUpdate": "2017-12-20T11:42:09.929Z",
+  "lastUpdate": "2017-12-20T12:42:06.331Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 1000,
+  "totalPR": 1001,
   "lastPR": {
     "createdAt": "2017-12-20T06:53:43Z",
     "username": "ktsn"
@@ -1704,8 +1704,8 @@
       "avatarUrl": "https://avatars1.githubusercontent.com/u/3468483?v=4"
     },
     "OEvgeny": {
-      "total": 3,
-      "merged": 3,
+      "total": 4,
+      "merged": 4,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/2841858?v=4"
     },
     "thecrypticace": {
@@ -2268,8 +2268,8 @@
       "merged": 5
     },
     "Janvier-2016": {
-      "total": 20,
-      "merged": 15
+      "total": 21,
+      "merged": 16
     },
     "Décembre-2015": {
       "total": 15,
