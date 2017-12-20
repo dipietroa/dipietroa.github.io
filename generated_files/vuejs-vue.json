@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-12-20T12:42:06.331Z",
+  "lastUpdate": "2017-12-20T13:41:50.921Z",
   "cowner": "vuejs",
   "crepo": "vue",
   "totalPR": 1001,
   "lastPR": {
-    "createdAt": "2017-12-20T06:53:43Z",
-    "username": "ktsn"
+    "createdAt": "2017-12-20T12:42:02Z",
+    "username": "Hanks10100"
   },
   "bestPR": {
     "user": "kazupon",
@@ -28,6 +28,11 @@
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/28888508?v=4"
     },
+    "Hanks10100": {
+      "total": 32,
+      "merged": 29,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/8401776?v=4"
+    },
     "ktsn": {
       "total": 18,
       "merged": 16,
@@ -42,11 +47,6 @@
       "total": 27,
       "merged": 15,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/6831019?v=4"
-    },
-    "Hanks10100": {
-      "total": 31,
-      "merged": 29,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/8401776?v=4"
     },
     "HerringtonDarkholme": {
       "total": 23,
@@ -1704,8 +1704,8 @@
       "avatarUrl": "https://avatars1.githubusercontent.com/u/3468483?v=4"
     },
     "OEvgeny": {
-      "total": 4,
-      "merged": 4,
+      "total": 3,
+      "merged": 3,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/2841858?v=4"
     },
     "thecrypticace": {
@@ -2176,7 +2176,7 @@
   },
   "datePRInfos": {
     "Décembre-2017": {
-      "total": 22,
+      "total": 23,
       "merged": 11
     },
     "Novembre-2017": {
@@ -2268,8 +2268,8 @@
       "merged": 5
     },
     "Janvier-2016": {
-      "total": 21,
-      "merged": 16
+      "total": 20,
+      "merged": 15
     },
     "Décembre-2015": {
       "total": 15,
