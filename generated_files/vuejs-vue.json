@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2017-12-20T13:41:50.921Z",
+  "lastUpdate": "2017-12-20T14:41:49.321Z",
   "cowner": "vuejs",
   "crepo": "vue",
   "totalPR": 1001,
@@ -18,9 +18,9 @@
     "image": "https://avatars1.githubusercontent.com/u/72989?v=4"
   },
   "bestRatio": {
-    "user": "toBeTheLight",
+    "user": "QingWei-Li",
     "ratio": 1,
-    "image": "https://avatars0.githubusercontent.com/u/23555178?v=4"
+    "image": "https://avatars0.githubusercontent.com/u/7565692?v=4"
   },
   "userPRInfos": {
     "957685677": {
@@ -35,12 +35,12 @@
     },
     "ktsn": {
       "total": 18,
-      "merged": 16,
+      "merged": 17,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/2194624?v=4"
     },
     "QingWei-Li": {
       "total": 2,
-      "merged": 1,
+      "merged": 2,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/7565692?v=4"
     },
     "Kingwl": {
@@ -2177,7 +2177,7 @@
   "datePRInfos": {
     "Décembre-2017": {
       "total": 23,
-      "merged": 11
+      "merged": 13
     },
     "Novembre-2017": {
       "total": 37,
