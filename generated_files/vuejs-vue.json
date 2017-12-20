@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-12-20T05:41:48.829Z",
+  "lastUpdate": "2017-12-20T06:41:53.479Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 998,
+  "totalPR": 999,
   "lastPR": {
-    "createdAt": "2017-12-19T08:22:11Z",
-    "username": "Kingwl"
+    "createdAt": "2017-12-20T05:55:20Z",
+    "username": "QingWei-Li"
   },
   "bestPR": {
     "user": "kazupon",
@@ -27,6 +27,11 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/28888508?v=4"
+    },
+    "QingWei-Li": {
+      "total": 2,
+      "merged": 1,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/7565692?v=4"
     },
     "Kingwl": {
       "total": 27,
@@ -1348,11 +1353,6 @@
       "merged": 1,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/6047078?v=4"
     },
-    "QingWei-Li": {
-      "total": 1,
-      "merged": 1,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/7565692?v=4"
-    },
     "bopjesvla": {
       "total": 2,
       "merged": 0,
@@ -2176,7 +2176,7 @@
   },
   "datePRInfos": {
     "Décembre-2017": {
-      "total": 20,
+      "total": 21,
       "merged": 11
     },
     "Novembre-2017": {
