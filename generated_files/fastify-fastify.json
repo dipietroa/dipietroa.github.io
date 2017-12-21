@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-12-21T07:42:16.238Z",
+  "lastUpdate": "2017-12-21T08:41:50.996Z",
   "cowner": "fastify",
   "crepo": "fastify",
-  "totalPR": 321,
+  "totalPR": 323,
   "lastPR": {
-    "createdAt": "2017-12-21T06:06:23Z",
-    "username": "nwoltman"
+    "createdAt": "2017-12-21T08:26:15Z",
+    "username": "greenkeeper[bot]"
   },
   "bestPR": {
     "user": "delvedor",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/5128013?v=4"
   },
   "userPRInfos": {
+    "greenkeeper[bot]": {
+      "total": 37,
+      "merged": 20,
+      "avatarUrl": "https://avatars3.githubusercontent.com/in/505?v=4"
+    },
     "nwoltman": {
       "total": 6,
       "merged": 6,
@@ -38,11 +43,6 @@
       "merged": 2,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/4751655?v=4"
     },
-    "greenkeeper[bot]": {
-      "total": 35,
-      "merged": 20,
-      "avatarUrl": "https://avatars3.githubusercontent.com/in/505?v=4"
-    },
     "mcollina": {
       "total": 42,
       "merged": 39,
@@ -55,7 +55,7 @@
     },
     "coreyfarrell": {
       "total": 4,
-      "merged": 3,
+      "merged": 4,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/903597?v=4"
     },
     "Ethan-Arrowood": {
@@ -336,8 +336,8 @@
   },
   "datePRInfos": {
     "Décembre-2017": {
-      "total": 35,
-      "merged": 28
+      "total": 37,
+      "merged": 29
     },
     "Novembre-2017": {
       "total": 52,
