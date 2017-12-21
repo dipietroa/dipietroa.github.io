@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-12-21T17:41:42.715Z",
+  "lastUpdate": "2017-12-21T18:41:57.927Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 1001,
+  "totalPR": 1002,
   "lastPR": {
-    "createdAt": "2017-12-20T12:42:02Z",
-    "username": "Hanks10100"
+    "createdAt": "2017-12-21T18:10:39Z",
+    "username": "DeyLak"
   },
   "bestPR": {
     "user": "kazupon",
@@ -27,6 +27,11 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/28888508?v=4"
+    },
+    "DeyLak": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/1286563?v=4"
     },
     "Hanks10100": {
       "total": 32,
@@ -2176,7 +2181,7 @@
   },
   "datePRInfos": {
     "Décembre-2017": {
-      "total": 23,
+      "total": 24,
       "merged": 13
     },
     "Novembre-2017": {
