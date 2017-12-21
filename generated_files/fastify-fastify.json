@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2017-12-21T06:41:46.438Z",
+  "lastUpdate": "2017-12-21T07:42:16.238Z",
   "cowner": "fastify",
   "crepo": "fastify",
   "totalPR": 321,
@@ -18,14 +18,14 @@
     "image": "https://avatars0.githubusercontent.com/u/4865608?v=4"
   },
   "bestRatio": {
-    "user": "derevandal",
+    "user": "nwoltman",
     "ratio": 1,
-    "image": "https://avatars2.githubusercontent.com/u/1340508?v=4"
+    "image": "https://avatars1.githubusercontent.com/u/5128013?v=4"
   },
   "userPRInfos": {
     "nwoltman": {
       "total": 6,
-      "merged": 5,
+      "merged": 6,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/5128013?v=4"
     },
     "derevandal": {
@@ -35,7 +35,7 @@
     },
     "nasplachkov": {
       "total": 2,
-      "merged": 1,
+      "merged": 2,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/4751655?v=4"
     },
     "greenkeeper[bot]": {
@@ -165,7 +165,7 @@
     },
     "oxsav": {
       "total": 1,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/2349816?v=4"
     },
     "lyquocnam": {
@@ -337,11 +337,11 @@
   "datePRInfos": {
     "Décembre-2017": {
       "total": 35,
-      "merged": 26
+      "merged": 28
     },
     "Novembre-2017": {
       "total": 52,
-      "merged": 38
+      "merged": 39
     },
     "Octobre-2017": {
       "total": 57,
