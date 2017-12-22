@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-12-22T15:41:42.404Z",
+  "lastUpdate": "2017-12-22T16:41:29.680Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 1003,
+  "totalPR": 1004,
   "lastPR": {
-    "createdAt": "2017-12-22T12:43:03Z",
-    "username": "HcySunYang"
+    "createdAt": "2017-12-22T16:35:28Z",
+    "username": "xdamman"
   },
   "bestPR": {
     "user": "kazupon",
@@ -27,6 +27,11 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/28888508?v=4"
+    },
+    "xdamman": {
+      "total": 3,
+      "merged": 1,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/74358?v=4"
     },
     "HcySunYang": {
       "total": 3,
@@ -247,11 +252,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/628161?v=4"
-    },
-    "xdamman": {
-      "total": 2,
-      "merged": 1,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/74358?v=4"
     },
     "PanJiaChen": {
       "total": 1,
@@ -2181,7 +2181,7 @@
   },
   "datePRInfos": {
     "Décembre-2017": {
-      "total": 25,
+      "total": 26,
       "merged": 13
     },
     "Novembre-2017": {
