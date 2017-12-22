@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-12-22T17:41:15.894Z",
+  "lastUpdate": "2017-12-22T18:41:14.862Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2244,
+  "totalPR": 2245,
   "lastPR": {
-    "createdAt": "2017-12-22T14:15:13Z",
-    "username": "douglascardoso"
+    "createdAt": "2017-12-22T18:03:21Z",
+    "username": "marceloverdijk"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "marceloverdijk": {
+      "total": 12,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/197004?v=4"
+    },
     "douglascardoso": {
       "total": 1,
       "merged": 0,
@@ -2138,11 +2143,6 @@
       "merged": 0,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/4489328?v=4"
     },
-    "marceloverdijk": {
-      "total": 11,
-      "merged": 0,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/197004?v=4"
-    },
     "icha024": {
       "total": 1,
       "merged": 0,
@@ -3516,7 +3516,7 @@
   },
   "datePRInfos": {
     "Décembre-2017": {
-      "total": 38,
+      "total": 39,
       "merged": 0
     },
     "Novembre-2017": {
