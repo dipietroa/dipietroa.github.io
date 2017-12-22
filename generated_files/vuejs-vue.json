@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-12-22T12:41:45.599Z",
+  "lastUpdate": "2017-12-22T13:41:52.348Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 1002,
+  "totalPR": 1003,
   "lastPR": {
-    "createdAt": "2017-12-21T18:10:39Z",
-    "username": "DeyLak"
+    "createdAt": "2017-12-22T12:43:03Z",
+    "username": "HcySunYang"
   },
   "bestPR": {
     "user": "kazupon",
@@ -27,6 +27,11 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/28888508?v=4"
+    },
+    "HcySunYang": {
+      "total": 3,
+      "merged": 2,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/14146560?v=4"
     },
     "DeyLak": {
       "total": 1,
@@ -312,11 +317,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/12239873?v=4"
-    },
-    "HcySunYang": {
-      "total": 2,
-      "merged": 2,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/14146560?v=4"
     },
     "Dafrok": {
       "total": 1,
@@ -2181,7 +2181,7 @@
   },
   "datePRInfos": {
     "Décembre-2017": {
-      "total": 24,
+      "total": 25,
       "merged": 13
     },
     "Novembre-2017": {
