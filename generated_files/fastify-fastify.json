@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "2017-12-22T03:42:11.652Z",
+  "lastUpdate": "2017-12-22T04:41:56.529Z",
   "cowner": "fastify",
   "crepo": "fastify",
-  "totalPR": 324,
+  "totalPR": 325,
   "lastPR": {
-    "createdAt": "2017-12-21T14:49:50Z",
+    "createdAt": "2017-12-22T04:21:41Z",
     "username": "jsumners"
   },
   "bestPR": {
@@ -18,13 +18,13 @@
     "image": "https://avatars0.githubusercontent.com/u/4865608?v=4"
   },
   "bestRatio": {
-    "user": "jsumners",
+    "user": "nwoltman",
     "ratio": 1,
-    "image": "https://avatars1.githubusercontent.com/u/321201?v=4"
+    "image": "https://avatars1.githubusercontent.com/u/5128013?v=4"
   },
   "userPRInfos": {
     "jsumners": {
-      "total": 18,
+      "total": 19,
       "merged": 18,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/321201?v=4"
     },
@@ -336,7 +336,7 @@
   },
   "datePRInfos": {
     "Décembre-2017": {
-      "total": 38,
+      "total": 39,
       "merged": 31
     },
     "Novembre-2017": {
