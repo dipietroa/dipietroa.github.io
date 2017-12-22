@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2017-12-22T19:41:36.565Z",
+  "lastUpdate": "2017-12-22T20:41:48.507Z",
   "cowner": "vuejs",
   "crepo": "vue",
   "totalPR": 1004,
@@ -30,7 +30,7 @@
     },
     "xdamman": {
       "total": 3,
-      "merged": 1,
+      "merged": 2,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/74358?v=4"
     },
     "HcySunYang": {
@@ -2182,7 +2182,7 @@
   "datePRInfos": {
     "Décembre-2017": {
       "total": 26,
-      "merged": 13
+      "merged": 14
     },
     "Novembre-2017": {
       "total": 37,
