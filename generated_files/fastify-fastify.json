@@ -1,20 +1,20 @@
 {
-  "lastUpdate": "2017-12-22T15:41:53.082Z",
+  "lastUpdate": "2017-12-22T16:41:40.407Z",
   "cowner": "fastify",
   "crepo": "fastify",
-  "totalPR": 327,
+  "totalPR": 328,
   "lastPR": {
-    "createdAt": "2017-12-22T14:28:46Z",
-    "username": "mcollina"
+    "createdAt": "2017-12-22T15:44:26Z",
+    "username": "delvedor"
   },
   "bestPR": {
     "user": "delvedor",
-    "nbPR": 72,
+    "nbPR": 73,
     "image": "https://avatars0.githubusercontent.com/u/4865608?v=4"
   },
   "bestMerged": {
     "user": "delvedor",
-    "nbPR": 70,
+    "nbPR": 71,
     "image": "https://avatars0.githubusercontent.com/u/4865608?v=4"
   },
   "bestRatio": {
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/321201?v=4"
   },
   "userPRInfos": {
+    "delvedor": {
+      "total": 73,
+      "merged": 71,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/4865608?v=4"
+    },
     "mcollina": {
       "total": 44,
       "merged": 42,
@@ -52,11 +57,6 @@
       "total": 2,
       "merged": 2,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/4751655?v=4"
-    },
-    "delvedor": {
-      "total": 72,
-      "merged": 70,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/4865608?v=4"
     },
     "coreyfarrell": {
       "total": 4,
@@ -336,8 +336,8 @@
   },
   "datePRInfos": {
     "Décembre-2017": {
-      "total": 41,
-      "merged": 35
+      "total": 42,
+      "merged": 36
     },
     "Novembre-2017": {
       "total": 52,
