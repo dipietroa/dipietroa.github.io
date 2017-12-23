@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-12-23T13:41:33.521Z",
+  "lastUpdate": "2017-12-23T14:41:23.202Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2245,
+  "totalPR": 2246,
   "lastPR": {
-    "createdAt": "2017-12-22T18:03:21Z",
-    "username": "marceloverdijk"
+    "createdAt": "2017-12-23T13:51:53Z",
+    "username": "ebussieres"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "ebussieres": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/10672519?v=4"
+    },
     "marceloverdijk": {
       "total": 12,
       "merged": 0,
@@ -3516,7 +3521,7 @@
   },
   "datePRInfos": {
     "Décembre-2017": {
-      "total": 39,
+      "total": 40,
       "merged": 0
     },
     "Novembre-2017": {
