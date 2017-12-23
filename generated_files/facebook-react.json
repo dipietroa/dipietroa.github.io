@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2017-12-23T19:43:20.925Z",
+  "lastUpdate": "2017-12-23T20:43:29.976Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 6402,
@@ -85,7 +85,7 @@
     },
     "tbroadley": {
       "total": 4,
-      "merged": 2,
+      "merged": 3,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/8731922?v=4"
     },
     "mannanali413": {
@@ -9502,7 +9502,7 @@
   "datePRInfos": {
     "Décembre-2017": {
       "total": 93,
-      "merged": 47
+      "merged": 48
     },
     "Novembre-2017": {
       "total": 168,
