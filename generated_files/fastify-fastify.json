@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-12-22T23:42:09.935Z",
+  "lastUpdate": "2017-12-23T00:42:02.473Z",
   "cowner": "fastify",
   "crepo": "fastify",
-  "totalPR": 328,
+  "totalPR": 329,
   "lastPR": {
-    "createdAt": "2017-12-22T15:44:26Z",
-    "username": "delvedor"
+    "createdAt": "2017-12-23T00:35:39Z",
+    "username": "tbroadley"
   },
   "bestPR": {
     "user": "delvedor",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/321201?v=4"
   },
   "userPRInfos": {
+    "tbroadley": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/8731922?v=4"
+    },
     "delvedor": {
       "total": 73,
       "merged": 71,
@@ -336,7 +341,7 @@
   },
   "datePRInfos": {
     "Décembre-2017": {
-      "total": 42,
+      "total": 43,
       "merged": 36
     },
     "Novembre-2017": {
