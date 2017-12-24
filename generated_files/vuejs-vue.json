@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-12-24T21:41:42.722Z",
+  "lastUpdate": "2017-12-24T22:41:40.783Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 1006,
+  "totalPR": 1007,
   "lastPR": {
-    "createdAt": "2017-12-24T17:17:22Z",
-    "username": "toBeTheLight"
+    "createdAt": "2017-12-24T21:43:48Z",
+    "username": "romansp"
   },
   "bestPR": {
     "user": "kazupon",
@@ -27,6 +27,11 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/28888508?v=4"
+    },
+    "romansp": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/3474842?v=4"
     },
     "toBeTheLight": {
       "total": 2,
@@ -2186,7 +2191,7 @@
   },
   "datePRInfos": {
     "Décembre-2017": {
-      "total": 28,
+      "total": 29,
       "merged": 15
     },
     "Novembre-2017": {
