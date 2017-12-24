@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-12-24T10:41:43.541Z",
+  "lastUpdate": "2017-12-24T11:41:40.674Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 1004,
+  "totalPR": 1005,
   "lastPR": {
-    "createdAt": "2017-12-22T16:35:28Z",
-    "username": "xdamman"
+    "createdAt": "2017-12-24T11:04:49Z",
+    "username": "erasermeng"
   },
   "bestPR": {
     "user": "kazupon",
@@ -27,6 +27,11 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/28888508?v=4"
+    },
+    "erasermeng": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/8306959?v=4"
     },
     "xdamman": {
       "total": 3,
@@ -2181,7 +2186,7 @@
   },
   "datePRInfos": {
     "Décembre-2017": {
-      "total": 26,
+      "total": 27,
       "merged": 14
     },
     "Novembre-2017": {
