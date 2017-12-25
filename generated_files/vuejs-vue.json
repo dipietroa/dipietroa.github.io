@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2017-12-25T15:41:58.989Z",
+  "lastUpdate": "2017-12-25T16:41:35.117Z",
   "cowner": "vuejs",
   "crepo": "vue",
   "totalPR": 1008,
@@ -18,9 +18,9 @@
     "image": "https://avatars1.githubusercontent.com/u/72989?v=4"
   },
   "bestRatio": {
-    "user": "HcySunYang",
+    "user": "erasermeng",
     "ratio": 1,
-    "image": "https://avatars2.githubusercontent.com/u/14146560?v=4"
+    "image": "https://avatars3.githubusercontent.com/u/8306959?v=4"
   },
   "userPRInfos": {
     "957685677": {
@@ -45,7 +45,7 @@
     },
     "erasermeng": {
       "total": 1,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/8306959?v=4"
     },
     "xdamman": {
@@ -2192,7 +2192,7 @@
   "datePRInfos": {
     "Décembre-2017": {
       "total": 30,
-      "merged": 15
+      "merged": 16
     },
     "Novembre-2017": {
       "total": 37,
