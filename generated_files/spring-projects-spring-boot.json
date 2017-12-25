@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-12-25T19:41:10.027Z",
+  "lastUpdate": "2017-12-25T20:41:24.814Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2248,
+  "totalPR": 2249,
   "lastPR": {
-    "createdAt": "2017-12-25T02:00:35Z",
-    "username": "javahongxi"
+    "createdAt": "2017-12-25T20:11:26Z",
+    "username": "nurkiewicz"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "nurkiewicz": {
+      "total": 2,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/164045?v=4"
+    },
     "javahongxi": {
       "total": 1,
       "merged": 0,
@@ -2678,11 +2683,6 @@
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/95261?v=4"
     },
-    "nurkiewicz": {
-      "total": 1,
-      "merged": 0,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/164045?v=4"
-    },
     "Quantas": {
       "total": 2,
       "merged": 0,
@@ -3526,7 +3526,7 @@
   },
   "datePRInfos": {
     "Décembre-2017": {
-      "total": 42,
+      "total": 43,
       "merged": 0
     },
     "Novembre-2017": {
