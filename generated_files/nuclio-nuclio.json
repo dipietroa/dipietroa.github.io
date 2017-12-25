@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-12-25T15:42:04.398Z",
+  "lastUpdate": "2017-12-25T16:41:40.509Z",
   "cowner": "nuclio",
   "crepo": "nuclio",
-  "totalPR": 312,
+  "totalPR": 313,
   "lastPR": {
-    "createdAt": "2017-12-21T15:48:16Z",
-    "username": "Sharon-iguazio"
+    "createdAt": "2017-12-25T16:08:40Z",
+    "username": "balster1123"
   },
   "bestPR": {
     "user": "pavius",
@@ -18,11 +18,16 @@
     "image": "https://avatars2.githubusercontent.com/u/423987?v=4"
   },
   "bestRatio": {
-    "user": "balster1123",
+    "user": "sbkoth",
     "ratio": 1,
-    "image": "https://avatars1.githubusercontent.com/u/5636945?v=4"
+    "image": "https://avatars0.githubusercontent.com/u/18405855?v=4"
   },
   "userPRInfos": {
+    "balster1123": {
+      "total": 8,
+      "merged": 7,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/5636945?v=4"
+    },
     "Sharon-iguazio": {
       "total": 20,
       "merged": 19,
@@ -37,11 +42,6 @@
       "total": 59,
       "merged": 36,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/87697?v=4"
-    },
-    "balster1123": {
-      "total": 7,
-      "merged": 7,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/5636945?v=4"
     },
     "eran-nussbaum": {
       "total": 16,
@@ -86,7 +86,7 @@
   },
   "datePRInfos": {
     "Décembre-2017": {
-      "total": 45,
+      "total": 46,
       "merged": 39
     },
     "Novembre-2017": {
