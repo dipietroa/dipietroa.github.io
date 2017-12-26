@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "2017-12-26T16:42:07.148Z",
+  "lastUpdate": "2017-12-26T17:42:06.421Z",
   "cowner": "nuclio",
   "crepo": "nuclio",
-  "totalPR": 314,
+  "totalPR": 315,
   "lastPR": {
-    "createdAt": "2017-12-25T17:42:23Z",
+    "createdAt": "2017-12-26T17:12:24Z",
     "username": "eran-nussbaum"
   },
   "bestPR": {
@@ -24,7 +24,7 @@
   },
   "userPRInfos": {
     "eran-nussbaum": {
-      "total": 17,
+      "total": 18,
       "merged": 16,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/13918850?v=4"
     },
@@ -86,7 +86,7 @@
   },
   "datePRInfos": {
     "Décembre-2017": {
-      "total": 47,
+      "total": 48,
       "merged": 40
     },
     "Novembre-2017": {
