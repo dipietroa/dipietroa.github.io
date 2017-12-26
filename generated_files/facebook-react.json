@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-12-26T14:43:48.637Z",
+  "lastUpdate": "2017-12-26T15:43:20.883Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6403,
+  "totalPR": 6404,
   "lastPR": {
-    "createdAt": "2017-12-26T11:26:16Z",
-    "username": "skiritsis"
+    "createdAt": "2017-12-26T14:55:03Z",
+    "username": "koba04"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars2.githubusercontent.com/u/254842?v=4"
   },
   "userPRInfos": {
+    "koba04": {
+      "total": 73,
+      "merged": 51,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/250407?v=4"
+    },
     "skiritsis": {
       "total": 5,
       "merged": 2,
@@ -197,11 +202,6 @@
       "total": 3,
       "merged": 3,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/3088823?v=4"
-    },
-    "koba04": {
-      "total": 72,
-      "merged": 51,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/250407?v=4"
     },
     "madeinfree": {
       "total": 4,
@@ -9501,7 +9501,7 @@
   },
   "datePRInfos": {
     "Décembre-2017": {
-      "total": 94,
+      "total": 95,
       "merged": 48
     },
     "Novembre-2017": {
