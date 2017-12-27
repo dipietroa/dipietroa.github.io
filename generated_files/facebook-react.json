@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-12-27T00:43:56.169Z",
+  "lastUpdate": "2017-12-27T01:43:25.675Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6404,
+  "totalPR": 6405,
   "lastPR": {
-    "createdAt": "2017-12-26T14:55:03Z",
-    "username": "koba04"
+    "createdAt": "2017-12-27T01:16:35Z",
+    "username": "haishengwu-okta"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars2.githubusercontent.com/u/254842?v=4"
   },
   "userPRInfos": {
+    "haishengwu-okta": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/13139863?v=4"
+    },
     "koba04": {
       "total": 73,
       "merged": 51,
@@ -9501,7 +9506,7 @@
   },
   "datePRInfos": {
     "Décembre-2017": {
-      "total": 95,
+      "total": 96,
       "merged": 48
     },
     "Novembre-2017": {
