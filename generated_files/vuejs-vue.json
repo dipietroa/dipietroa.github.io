@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-12-27T03:41:58.219Z",
+  "lastUpdate": "2017-12-27T04:41:29.594Z",
   "cowner": "vuejs",
   "crepo": "vue",
   "totalPR": 1010,
   "lastPR": {
     "createdAt": "2017-12-27T03:39:11Z",
-    "username": "tcb598611972"
+    "username": "kyouko2017"
   },
   "bestPR": {
     "user": "kazupon",
@@ -28,7 +28,7 @@
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/28888508?v=4"
     },
-    "tcb598611972": {
+    "kyouko2017": {
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/20899768?v=4"
