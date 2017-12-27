@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-12-27T01:41:30.160Z",
+  "lastUpdate": "2017-12-27T02:41:40.934Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 1008,
+  "totalPR": 1009,
   "lastPR": {
-    "createdAt": "2017-12-25T07:56:23Z",
-    "username": "Hanks10100"
+    "createdAt": "2017-12-27T02:29:34Z",
+    "username": "Kingwl"
   },
   "bestPR": {
     "user": "kazupon",
@@ -28,9 +28,14 @@
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/28888508?v=4"
     },
+    "Kingwl": {
+      "total": 28,
+      "merged": 15,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/6831019?v=4"
+    },
     "Hanks10100": {
       "total": 33,
-      "merged": 29,
+      "merged": 31,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/8401776?v=4"
     },
     "romansp": {
@@ -72,11 +77,6 @@
       "total": 2,
       "merged": 2,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/7565692?v=4"
-    },
-    "Kingwl": {
-      "total": 27,
-      "merged": 15,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/6831019?v=4"
     },
     "HerringtonDarkholme": {
       "total": 23,
@@ -2191,8 +2191,8 @@
   },
   "datePRInfos": {
     "Décembre-2017": {
-      "total": 30,
-      "merged": 16
+      "total": 31,
+      "merged": 18
     },
     "Novembre-2017": {
       "total": 37,
