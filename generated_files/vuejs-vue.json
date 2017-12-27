@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-12-27T02:41:40.934Z",
+  "lastUpdate": "2017-12-27T03:41:58.219Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 1009,
+  "totalPR": 1010,
   "lastPR": {
-    "createdAt": "2017-12-27T02:29:34Z",
-    "username": "Kingwl"
+    "createdAt": "2017-12-27T03:39:11Z",
+    "username": "tcb598611972"
   },
   "bestPR": {
     "user": "kazupon",
@@ -27,6 +27,11 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/28888508?v=4"
+    },
+    "tcb598611972": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/20899768?v=4"
     },
     "Kingwl": {
       "total": 28,
@@ -2191,7 +2196,7 @@
   },
   "datePRInfos": {
     "Décembre-2017": {
-      "total": 31,
+      "total": 32,
       "merged": 18
     },
     "Novembre-2017": {
