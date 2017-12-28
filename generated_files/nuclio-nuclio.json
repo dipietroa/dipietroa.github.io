@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-12-28T11:42:00.470Z",
+  "lastUpdate": "2017-12-28T12:42:26.791Z",
   "cowner": "nuclio",
   "crepo": "nuclio",
-  "totalPR": 316,
+  "totalPR": 318,
   "lastPR": {
-    "createdAt": "2017-12-27T18:31:04Z",
-    "username": "pavius"
+    "createdAt": "2017-12-28T12:00:16Z",
+    "username": "bivas"
   },
   "bestPR": {
     "user": "pavius",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/5636945?v=4"
   },
   "userPRInfos": {
+    "bivas": {
+      "total": 19,
+      "merged": 13,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/530883?v=4"
+    },
     "pavius": {
       "total": 178,
       "merged": 176,
@@ -53,11 +58,6 @@
       "merged": 36,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/87697?v=4"
     },
-    "bivas": {
-      "total": 17,
-      "merged": 13,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/530883?v=4"
-    },
     "omriharel": {
       "total": 6,
       "merged": 5,
@@ -86,7 +86,7 @@
   },
   "datePRInfos": {
     "Décembre-2017": {
-      "total": 49,
+      "total": 51,
       "merged": 42
     },
     "Novembre-2017": {
