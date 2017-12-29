@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-12-29T11:43:14.594Z",
+  "lastUpdate": "2017-12-29T12:43:19.959Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6406,
+  "totalPR": 6407,
   "lastPR": {
-    "createdAt": "2017-12-27T23:21:23Z",
-    "username": "aweary"
+    "createdAt": "2017-12-29T12:38:51Z",
+    "username": "neytema"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars2.githubusercontent.com/u/254842?v=4"
   },
   "userPRInfos": {
+    "neytema": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/124887?v=4"
+    },
     "aweary": {
       "total": 57,
       "merged": 48,
@@ -9506,7 +9511,7 @@
   },
   "datePRInfos": {
     "Décembre-2017": {
-      "total": 97,
+      "total": 98,
       "merged": 48
     },
     "Novembre-2017": {
