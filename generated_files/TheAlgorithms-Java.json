@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-12-29T20:41:15.046Z",
+  "lastUpdate": "2017-12-29T21:41:30.401Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
-  "totalPR": 338,
+  "totalPR": 339,
   "lastPR": {
-    "createdAt": "2017-12-23T17:16:09Z",
-    "username": "Rachana040"
+    "createdAt": "2017-12-29T20:45:33Z",
+    "username": "NISHITA97"
   },
   "bestPR": {
     "user": "theycallmemac",
@@ -23,6 +23,11 @@
     "image": "https://avatars0.githubusercontent.com/u/29345301?v=4"
   },
   "userPRInfos": {
+    "NISHITA97": {
+      "total": 8,
+      "merged": 4,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/22667364?v=4"
+    },
     "Rachana040": {
       "total": 1,
       "merged": 0,
@@ -57,11 +62,6 @@
       "total": 5,
       "merged": 1,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/31612794?v=4"
-    },
-    "NISHITA97": {
-      "total": 7,
-      "merged": 4,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/22667364?v=4"
     },
     "PiyushPawar17": {
       "total": 1,
@@ -856,7 +856,7 @@
   },
   "datePRInfos": {
     "Décembre-2017": {
-      "total": 25,
+      "total": 26,
       "merged": 14
     },
     "Novembre-2017": {
