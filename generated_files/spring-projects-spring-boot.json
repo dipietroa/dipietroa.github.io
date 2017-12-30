@@ -1,15 +1,15 @@
 {
-  "lastUpdate": "2017-12-30T17:41:04.821Z",
+  "lastUpdate": "2017-12-30T18:41:33.512Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2256,
+  "totalPR": 2258,
   "lastPR": {
-    "createdAt": "2017-12-29T16:59:52Z",
+    "createdAt": "2017-12-30T18:04:07Z",
     "username": "izeye"
   },
   "bestPR": {
     "user": "izeye",
-    "nbPR": 325,
+    "nbPR": 326,
     "image": "https://avatars3.githubusercontent.com/u/1059363?v=4"
   },
   "bestMerged": {
@@ -24,9 +24,14 @@
   },
   "userPRInfos": {
     "izeye": {
-      "total": 325,
+      "total": 326,
       "merged": 1,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/1059363?v=4"
+    },
+    "dreis2211": {
+      "total": 38,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/6304496?v=4"
     },
     "jkutner": {
       "total": 2,
@@ -57,11 +62,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/13135750?v=4"
-    },
-    "dreis2211": {
-      "total": 37,
-      "merged": 0,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/6304496?v=4"
     },
     "gonwan": {
       "total": 1,
@@ -3526,7 +3526,7 @@
   },
   "datePRInfos": {
     "Décembre-2017": {
-      "total": 50,
+      "total": 52,
       "merged": 0
     },
     "Novembre-2017": {
