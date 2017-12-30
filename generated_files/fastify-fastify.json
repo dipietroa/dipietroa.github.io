@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "2017-12-30T14:41:55.070Z",
+  "lastUpdate": "2017-12-30T15:41:52.526Z",
   "cowner": "fastify",
   "crepo": "fastify",
-  "totalPR": 338,
+  "totalPR": 339,
   "lastPR": {
-    "createdAt": "2017-12-30T14:03:39Z",
+    "createdAt": "2017-12-30T15:01:30Z",
     "username": "StarpTech"
   },
   "bestPR": {
@@ -24,7 +24,7 @@
   },
   "userPRInfos": {
     "StarpTech": {
-      "total": 18,
+      "total": 19,
       "merged": 12,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/1764424?v=4"
     },
@@ -341,7 +341,7 @@
   },
   "datePRInfos": {
     "Décembre-2017": {
-      "total": 52,
+      "total": 53,
       "merged": 40
     },
     "Novembre-2017": {
