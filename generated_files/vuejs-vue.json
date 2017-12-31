@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-12-31T16:41:55.678Z",
+  "lastUpdate": "2017-12-31T17:41:32.089Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 1011,
+  "totalPR": 1012,
   "lastPR": {
-    "createdAt": "2017-12-31T13:31:57Z",
-    "username": "javoski"
+    "createdAt": "2017-12-31T17:07:09Z",
+    "username": "shameleo"
   },
   "bestPR": {
     "user": "kazupon",
@@ -27,6 +27,11 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/28888508?v=4"
+    },
+    "shameleo": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/11148445?v=4"
     },
     "javoski": {
       "total": 27,
@@ -2196,7 +2201,7 @@
   },
   "datePRInfos": {
     "Décembre-2017": {
-      "total": 33,
+      "total": 34,
       "merged": 18
     },
     "Novembre-2017": {
