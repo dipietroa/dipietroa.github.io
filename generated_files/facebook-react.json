@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-12-31T13:44:42.049Z",
+  "lastUpdate": "2017-12-31T14:43:51.051Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6407,
+  "totalPR": 6408,
   "lastPR": {
-    "createdAt": "2017-12-29T12:38:51Z",
-    "username": "neytema"
+    "createdAt": "2017-12-31T13:54:31Z",
+    "username": "AndyStabler"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars2.githubusercontent.com/u/254842?v=4"
   },
   "userPRInfos": {
+    "AndyStabler": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/4704132?v=4"
+    },
     "neytema": {
       "total": 1,
       "merged": 0,
@@ -9511,7 +9516,7 @@
   },
   "datePRInfos": {
     "Décembre-2017": {
-      "total": 98,
+      "total": 99,
       "merged": 48
     },
     "Novembre-2017": {
