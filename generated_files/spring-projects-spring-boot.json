@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-12-31T17:41:00.482Z",
+  "lastUpdate": "2017-12-31T18:41:18.514Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2258,
+  "totalPR": 2259,
   "lastPR": {
-    "createdAt": "2017-12-30T18:04:07Z",
-    "username": "izeye"
+    "createdAt": "2017-12-31T18:38:59Z",
+    "username": "rajadilipkolli"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "rajadilipkolli": {
+      "total": 20,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/24761580?v=4"
+    },
     "izeye": {
       "total": 326,
       "merged": 1,
@@ -482,11 +487,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/10339738?v=4"
-    },
-    "rajadilipkolli": {
-      "total": 19,
-      "merged": 0,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/24761580?v=4"
     },
     "mduesterhoeft": {
       "total": 2,
@@ -3526,7 +3526,7 @@
   },
   "datePRInfos": {
     "Décembre-2017": {
-      "total": 52,
+      "total": 53,
       "merged": 0
     },
     "Novembre-2017": {
