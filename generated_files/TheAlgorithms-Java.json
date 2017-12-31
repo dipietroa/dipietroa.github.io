@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2017-12-31T14:41:41.329Z",
+  "lastUpdate": "2017-12-31T15:41:15.790Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
   "totalPR": 339,
@@ -25,7 +25,7 @@
   "userPRInfos": {
     "NISHITA97": {
       "total": 8,
-      "merged": 4,
+      "merged": 5,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/22667364?v=4"
     },
     "Rachana040": {
@@ -857,7 +857,7 @@
   "datePRInfos": {
     "Décembre-2017": {
       "total": 26,
-      "merged": 14
+      "merged": 15
     },
     "Novembre-2017": {
       "total": 30,
