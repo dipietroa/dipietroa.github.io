@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2017-12-31T15:43:29.490Z",
+  "lastUpdate": "2017-12-31T16:43:49.368Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6408,
+  "totalPR": 6409,
   "lastPR": {
-    "createdAt": "2017-12-31T13:54:31Z",
-    "username": "AndyStabler"
+    "createdAt": "2017-12-31T16:39:21Z",
+    "username": "Serkan-devel"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars2.githubusercontent.com/u/254842?v=4"
   },
   "userPRInfos": {
+    "Serkan-devel": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/16866642?v=4"
+    },
     "AndyStabler": {
       "total": 1,
       "merged": 0,
@@ -9516,7 +9521,7 @@
   },
   "datePRInfos": {
     "Décembre-2017": {
-      "total": 99,
+      "total": 100,
       "merged": 48
     },
     "Novembre-2017": {
