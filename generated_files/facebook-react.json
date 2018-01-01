@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-01-01T05:43:45.459Z",
+  "lastUpdate": "2018-01-01T06:44:48.157Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6409,
+  "totalPR": 6410,
   "lastPR": {
-    "createdAt": "2017-12-31T16:39:21Z",
-    "username": "Serkan-devel"
+    "createdAt": "2018-01-01T05:59:58Z",
+    "username": "onstash"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars2.githubusercontent.com/u/254842?v=4"
   },
   "userPRInfos": {
+    "onstash": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/4272832?v=4"
+    },
     "Serkan-devel": {
       "total": 1,
       "merged": 0,
@@ -9520,6 +9525,10 @@
     }
   },
   "datePRInfos": {
+    "Janvier-2018": {
+      "total": 1,
+      "merged": 0
+    },
     "Décembre-2017": {
       "total": 100,
       "merged": 48
