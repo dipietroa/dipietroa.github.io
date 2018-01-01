@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-01-01T11:41:53.497Z",
+  "lastUpdate": "2018-01-01T12:45:13.480Z",
   "cowner": "fastify",
   "crepo": "fastify",
   "totalPR": 341,
@@ -30,7 +30,7 @@
     },
     "nwoltman": {
       "total": 10,
-      "merged": 8,
+      "merged": 9,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/5128013?v=4"
     },
     "gillesdemey": {
@@ -346,7 +346,7 @@
     },
     "Décembre-2017": {
       "total": 54,
-      "merged": 40
+      "merged": 41
     },
     "Novembre-2017": {
       "total": 52,
