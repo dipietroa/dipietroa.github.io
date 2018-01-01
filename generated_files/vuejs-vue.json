@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-01-01T03:41:39.887Z",
+  "lastUpdate": "2018-01-01T04:41:25.166Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 1012,
+  "totalPR": 1013,
   "lastPR": {
-    "createdAt": "2017-12-31T17:07:09Z",
-    "username": "shameleo"
+    "createdAt": "2018-01-01T04:16:12Z",
+    "username": "edwinychu"
   },
   "bestPR": {
     "user": "kazupon",
@@ -27,6 +27,11 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/28888508?v=4"
+    },
+    "edwinychu": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/14060567?v=4"
     },
     "shameleo": {
       "total": 1,
@@ -2200,6 +2205,10 @@
     }
   },
   "datePRInfos": {
+    "Janvier-2018": {
+      "total": 1,
+      "merged": 0
+    },
     "Décembre-2017": {
       "total": 34,
       "merged": 18
