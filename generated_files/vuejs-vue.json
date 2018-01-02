@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-01-02T15:41:53.665Z",
+  "lastUpdate": "2018-01-02T16:42:00.210Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 1014,
+  "totalPR": 1015,
   "lastPR": {
-    "createdAt": "2018-01-02T01:39:44Z",
-    "username": "lopugit"
+    "createdAt": "2018-01-02T16:03:52Z",
+    "username": "jkzing"
   },
   "bestPR": {
     "user": "kazupon",
@@ -27,6 +27,11 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/28888508?v=4"
+    },
+    "jkzing": {
+      "total": 15,
+      "merged": 12,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/2851517?v=4"
     },
     "lopugit": {
       "total": 1,
@@ -187,11 +192,6 @@
       "total": 1,
       "merged": 1,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/6630042?v=4"
-    },
-    "jkzing": {
-      "total": 14,
-      "merged": 11,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/2851517?v=4"
     },
     "rbrtmrtn": {
       "total": 1,
@@ -2211,8 +2211,8 @@
   },
   "datePRInfos": {
     "Janvier-2018": {
-      "total": 2,
-      "merged": 0
+      "total": 3,
+      "merged": 1
     },
     "Décembre-2017": {
       "total": 34,
