@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-01-01T23:42:00.142Z",
+  "lastUpdate": "2018-01-02T00:42:27.205Z",
   "cowner": "fastify",
   "crepo": "fastify",
-  "totalPR": 341,
+  "totalPR": 342,
   "lastPR": {
-    "createdAt": "2018-01-01T02:28:21Z",
-    "username": "StarpTech"
+    "createdAt": "2018-01-01T23:46:59Z",
+    "username": "danielberndt"
   },
   "bestPR": {
     "user": "delvedor",
@@ -23,6 +23,11 @@
     "image": "https://avatars2.githubusercontent.com/u/6317507?v=4"
   },
   "userPRInfos": {
+    "danielberndt": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/856386?v=4"
+    },
     "StarpTech": {
       "total": 20,
       "merged": 12,
@@ -341,7 +346,7 @@
   },
   "datePRInfos": {
     "Janvier-2018": {
-      "total": 1,
+      "total": 2,
       "merged": 0
     },
     "Décembre-2017": {
