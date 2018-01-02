@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-01-02T10:41:46.305Z",
+  "lastUpdate": "2018-01-02T11:41:12.438Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2261,
+  "totalPR": 2262,
   "lastPR": {
-    "createdAt": "2018-01-01T12:22:00Z",
-    "username": "dreis2211"
+    "createdAt": "2018-01-02T11:18:07Z",
+    "username": "lukaseder"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "lukaseder": {
+      "total": 2,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/734593?v=4"
+    },
     "dreis2211": {
       "total": 39,
       "merged": 0,
@@ -182,11 +187,6 @@
       "total": 2,
       "merged": 0,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/7690479?v=4"
-    },
-    "lukaseder": {
-      "total": 1,
-      "merged": 0,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/734593?v=4"
     },
     "denis-zhdanov": {
       "total": 1,
@@ -3531,7 +3531,7 @@
   },
   "datePRInfos": {
     "Janvier-2018": {
-      "total": 2,
+      "total": 3,
       "merged": 0
     },
     "Décembre-2017": {
