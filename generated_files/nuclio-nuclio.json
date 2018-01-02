@@ -1,20 +1,20 @@
 {
-  "lastUpdate": "2018-01-02T12:41:46.793Z",
+  "lastUpdate": "2018-01-02T13:41:58.268Z",
   "cowner": "nuclio",
   "crepo": "nuclio",
-  "totalPR": 328,
+  "totalPR": 331,
   "lastPR": {
-    "createdAt": "2018-01-01T14:58:55Z",
-    "username": "eran-nussbaum"
+    "createdAt": "2018-01-02T13:13:04Z",
+    "username": "pavius"
   },
   "bestPR": {
     "user": "pavius",
-    "nbPR": 182,
+    "nbPR": 183,
     "image": "https://avatars2.githubusercontent.com/u/423987?v=4"
   },
   "bestMerged": {
     "user": "pavius",
-    "nbPR": 179,
+    "nbPR": 180,
     "image": "https://avatars2.githubusercontent.com/u/423987?v=4"
   },
   "bestRatio": {
@@ -23,15 +23,20 @@
     "image": "https://avatars1.githubusercontent.com/u/5636945?v=4"
   },
   "userPRInfos": {
+    "pavius": {
+      "total": 183,
+      "merged": 180,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/423987?v=4"
+    },
+    "bivas": {
+      "total": 21,
+      "merged": 17,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/530883?v=4"
+    },
     "eran-nussbaum": {
       "total": 19,
       "merged": 18,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/13918850?v=4"
-    },
-    "pavius": {
-      "total": 182,
-      "merged": 179,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/423987?v=4"
     },
     "tebeka": {
       "total": 63,
@@ -42,11 +47,6 @@
       "total": 6,
       "merged": 4,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/6298833?v=4"
-    },
-    "bivas": {
-      "total": 19,
-      "merged": 15,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/530883?v=4"
     },
     "balster1123": {
       "total": 8,
@@ -86,8 +86,8 @@
   },
   "datePRInfos": {
     "Janvier-2018": {
-      "total": 3,
-      "merged": 3
+      "total": 6,
+      "merged": 6
     },
     "Décembre-2017": {
       "total": 58,
