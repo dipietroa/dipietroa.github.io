@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "2018-01-03T21:42:13.651Z",
+  "lastUpdate": "2018-01-03T22:41:45.788Z",
   "cowner": "fastify",
   "crepo": "fastify",
-  "totalPR": 345,
+  "totalPR": 346,
   "lastPR": {
-    "createdAt": "2018-01-03T20:31:19Z",
+    "createdAt": "2018-01-03T22:10:13Z",
     "username": "nwoltman"
   },
   "bestPR": {
@@ -18,13 +18,13 @@
     "image": "https://avatars0.githubusercontent.com/u/4865608?v=4"
   },
   "bestRatio": {
-    "user": "nwoltman",
+    "user": "lependu",
     "ratio": 1,
-    "image": "https://avatars1.githubusercontent.com/u/5128013?v=4"
+    "image": "https://avatars2.githubusercontent.com/u/6317507?v=4"
   },
   "userPRInfos": {
     "nwoltman": {
-      "total": 13,
+      "total": 14,
       "merged": 13,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/5128013?v=4"
     },
@@ -346,7 +346,7 @@
   },
   "datePRInfos": {
     "Janvier-2018": {
-      "total": 5,
+      "total": 6,
       "merged": 4
     },
     "Décembre-2017": {
