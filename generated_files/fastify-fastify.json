@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "2018-01-03T19:42:10.230Z",
+  "lastUpdate": "2018-01-03T20:41:56.655Z",
   "cowner": "fastify",
   "crepo": "fastify",
-  "totalPR": 344,
+  "totalPR": 345,
   "lastPR": {
-    "createdAt": "2018-01-03T16:52:40Z",
+    "createdAt": "2018-01-03T20:31:19Z",
     "username": "nwoltman"
   },
   "bestPR": {
@@ -18,13 +18,13 @@
     "image": "https://avatars0.githubusercontent.com/u/4865608?v=4"
   },
   "bestRatio": {
-    "user": "nwoltman",
+    "user": "lependu",
     "ratio": 1,
-    "image": "https://avatars1.githubusercontent.com/u/5128013?v=4"
+    "image": "https://avatars2.githubusercontent.com/u/6317507?v=4"
   },
   "userPRInfos": {
     "nwoltman": {
-      "total": 12,
+      "total": 13,
       "merged": 12,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/5128013?v=4"
     },
@@ -35,7 +35,7 @@
     },
     "StarpTech": {
       "total": 20,
-      "merged": 13,
+      "merged": 14,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/1764424?v=4"
     },
     "gillesdemey": {
@@ -346,12 +346,12 @@
   },
   "datePRInfos": {
     "Janvier-2018": {
-      "total": 4,
+      "total": 5,
       "merged": 2
     },
     "Décembre-2017": {
       "total": 54,
-      "merged": 44
+      "merged": 45
     },
     "Novembre-2017": {
       "total": 52,
