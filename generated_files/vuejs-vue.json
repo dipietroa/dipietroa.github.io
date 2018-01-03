@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-01-03T03:41:52.323Z",
+  "lastUpdate": "2018-01-03T04:42:05.259Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 1015,
+  "totalPR": 1017,
   "lastPR": {
-    "createdAt": "2018-01-02T16:03:52Z",
-    "username": "jkzing"
+    "createdAt": "2018-01-03T03:59:57Z",
+    "username": "HerringtonDarkholme"
   },
   "bestPR": {
     "user": "kazupon",
@@ -27,6 +27,16 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/28888508?v=4"
+    },
+    "HerringtonDarkholme": {
+      "total": 24,
+      "merged": 20,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/2883231?v=4"
+    },
+    "LeuisKen": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/7701575?v=4"
     },
     "jkzing": {
       "total": 15,
@@ -107,11 +117,6 @@
       "total": 2,
       "merged": 2,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/7565692?v=4"
-    },
-    "HerringtonDarkholme": {
-      "total": 23,
-      "merged": 20,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/2883231?v=4"
     },
     "rigor789": {
       "total": 1,
@@ -2211,7 +2216,7 @@
   },
   "datePRInfos": {
     "Janvier-2018": {
-      "total": 3,
+      "total": 5,
       "merged": 1
     },
     "Décembre-2017": {
