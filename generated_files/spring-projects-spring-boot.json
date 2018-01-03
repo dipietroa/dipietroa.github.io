@@ -1,15 +1,15 @@
 {
-  "lastUpdate": "2018-01-03T14:41:55.527Z",
+  "lastUpdate": "2018-01-03T15:41:47.976Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2262,
+  "totalPR": 2263,
   "lastPR": {
-    "createdAt": "2018-01-02T11:18:07Z",
-    "username": "lukaseder"
+    "createdAt": "2018-01-03T15:31:34Z",
+    "username": "izeye"
   },
   "bestPR": {
     "user": "izeye",
-    "nbPR": 326,
+    "nbPR": 327,
     "image": "https://avatars3.githubusercontent.com/u/1059363?v=4"
   },
   "bestMerged": {
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "izeye": {
+      "total": 327,
+      "merged": 1,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/1059363?v=4"
+    },
     "lukaseder": {
       "total": 2,
       "merged": 0,
@@ -42,11 +47,6 @@
       "total": 20,
       "merged": 0,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/24761580?v=4"
-    },
-    "izeye": {
-      "total": 326,
-      "merged": 1,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/1059363?v=4"
     },
     "jkutner": {
       "total": 2,
@@ -3531,7 +3531,7 @@
   },
   "datePRInfos": {
     "Janvier-2018": {
-      "total": 3,
+      "total": 4,
       "merged": 0
     },
     "Décembre-2017": {
