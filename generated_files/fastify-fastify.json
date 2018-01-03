@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-01-03T08:41:43.653Z",
+  "lastUpdate": "2018-01-03T09:41:55.391Z",
   "cowner": "fastify",
   "crepo": "fastify",
   "totalPR": 343,
@@ -18,14 +18,14 @@
     "image": "https://avatars0.githubusercontent.com/u/4865608?v=4"
   },
   "bestRatio": {
-    "user": "lependu",
+    "user": "nwoltman",
     "ratio": 1,
-    "image": "https://avatars2.githubusercontent.com/u/6317507?v=4"
+    "image": "https://avatars1.githubusercontent.com/u/5128013?v=4"
   },
   "userPRInfos": {
     "nwoltman": {
       "total": 11,
-      "merged": 9,
+      "merged": 11,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/5128013?v=4"
     },
     "danielberndt": {
@@ -347,11 +347,11 @@
   "datePRInfos": {
     "Janvier-2018": {
       "total": 3,
-      "merged": 0
+      "merged": 1
     },
     "Décembre-2017": {
       "total": 54,
-      "merged": 43
+      "merged": 44
     },
     "Novembre-2017": {
       "total": 52,
