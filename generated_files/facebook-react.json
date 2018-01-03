@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-01-03T04:44:12.303Z",
+  "lastUpdate": "2018-01-03T05:44:28.539Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 6414,
   "lastPR": {
-    "createdAt": "2018-01-02T22:19:06Z",
-    "username": "bvaughn"
+    "createdAt": "2018-01-03T04:42:48Z",
+    "username": "taehwanno"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars2.githubusercontent.com/u/254842?v=4"
   },
   "userPRInfos": {
+    "taehwanno": {
+      "total": 2,
+      "merged": 1,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/7760903?v=4"
+    },
     "bvaughn": {
       "total": 158,
       "merged": 140,
@@ -409,8 +414,8 @@
       "avatarUrl": "https://avatars0.githubusercontent.com/u/1042131?v=4"
     },
     "sebmarkbage": {
-      "total": 241,
-      "merged": 224,
+      "total": 240,
+      "merged": 223,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/63648?v=4"
     },
     "Haroenv": {
@@ -1572,11 +1577,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/47334?v=4"
-    },
-    "taehwanno": {
-      "total": 1,
-      "merged": 1,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/7760903?v=4"
     },
     "coryhouse": {
       "total": 3,
@@ -9526,7 +9526,7 @@
   },
   "datePRInfos": {
     "Janvier-2018": {
-      "total": 4,
+      "total": 5,
       "merged": 2
     },
     "Décembre-2017": {
@@ -9574,8 +9574,8 @@
       "merged": 83
     },
     "Janvier-2017": {
-      "total": 150,
-      "merged": 110
+      "total": 149,
+      "merged": 109
     },
     "Décembre-2016": {
       "total": 123,
