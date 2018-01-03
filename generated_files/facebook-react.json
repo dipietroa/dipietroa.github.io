@@ -1,8 +1,8 @@
 {
-  "lastUpdate": "2018-01-03T03:43:47.124Z",
+  "lastUpdate": "2018-01-03T04:44:12.303Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6413,
+  "totalPR": 6414,
   "lastPR": {
     "createdAt": "2018-01-02T22:19:06Z",
     "username": "bvaughn"
@@ -409,8 +409,8 @@
       "avatarUrl": "https://avatars0.githubusercontent.com/u/1042131?v=4"
     },
     "sebmarkbage": {
-      "total": 240,
-      "merged": 223,
+      "total": 241,
+      "merged": 224,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/63648?v=4"
     },
     "Haroenv": {
@@ -9574,8 +9574,8 @@
       "merged": 83
     },
     "Janvier-2017": {
-      "total": 149,
-      "merged": 109
+      "total": 150,
+      "merged": 110
     },
     "Décembre-2016": {
       "total": 123,
