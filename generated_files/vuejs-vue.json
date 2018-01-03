@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-01-03T09:41:43.002Z",
+  "lastUpdate": "2018-01-03T10:42:10.802Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 1017,
+  "totalPR": 1018,
   "lastPR": {
-    "createdAt": "2018-01-03T03:59:57Z",
-    "username": "HerringtonDarkholme"
+    "createdAt": "2018-01-03T10:03:18Z",
+    "username": "Hanks10100"
   },
   "bestPR": {
     "user": "kazupon",
@@ -27,6 +27,11 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/28888508?v=4"
+    },
+    "Hanks10100": {
+      "total": 34,
+      "merged": 31,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/8401776?v=4"
     },
     "HerringtonDarkholme": {
       "total": 24,
@@ -72,11 +77,6 @@
       "total": 28,
       "merged": 15,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/6831019?v=4"
-    },
-    "Hanks10100": {
-      "total": 33,
-      "merged": 31,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/8401776?v=4"
     },
     "romansp": {
       "total": 1,
@@ -2216,7 +2216,7 @@
   },
   "datePRInfos": {
     "Janvier-2018": {
-      "total": 5,
+      "total": 6,
       "merged": 2
     },
     "Décembre-2017": {
