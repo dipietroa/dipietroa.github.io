@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-01-03T13:44:55.605Z",
+  "lastUpdate": "2018-01-03T14:44:43.796Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 6414,
@@ -18,14 +18,14 @@
     "image": "https://avatars2.githubusercontent.com/u/6820?v=4"
   },
   "bestRatio": {
-    "user": "samwgoldman",
+    "user": "taehwanno",
     "ratio": 1,
-    "image": "https://avatars2.githubusercontent.com/u/254842?v=4"
+    "image": "https://avatars0.githubusercontent.com/u/7760903?v=4"
   },
   "userPRInfos": {
     "taehwanno": {
       "total": 2,
-      "merged": 1,
+      "merged": 2,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/7760903?v=4"
     },
     "bvaughn": {
@@ -9527,7 +9527,7 @@
   "datePRInfos": {
     "Janvier-2018": {
       "total": 5,
-      "merged": 2
+      "merged": 3
     },
     "Décembre-2017": {
       "total": 100,
