@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-01-04T13:41:27.280Z",
+  "lastUpdate": "2018-01-04T14:41:43.277Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2267,
+  "totalPR": 2268,
   "lastPR": {
-    "createdAt": "2018-01-04T12:58:54Z",
-    "username": "mederly"
+    "createdAt": "2018-01-04T14:19:34Z",
+    "username": "ioanngolovko"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "ioanngolovko": {
+      "total": 2,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/22096380?v=4"
+    },
     "mederly": {
       "total": 1,
       "merged": 0,
@@ -1062,11 +1067,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/16354558?v=4"
-    },
-    "ioanngolovko": {
-      "total": 1,
-      "merged": 0,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/22096380?v=4"
     },
     "luispollo": {
       "total": 1,
@@ -3536,7 +3536,7 @@
   },
   "datePRInfos": {
     "Janvier-2018": {
-      "total": 8,
+      "total": 9,
       "merged": 0
     },
     "Décembre-2017": {
