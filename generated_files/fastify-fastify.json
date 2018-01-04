@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-01-04T09:42:02.337Z",
+  "lastUpdate": "2018-01-04T10:41:52.199Z",
   "cowner": "fastify",
   "crepo": "fastify",
   "totalPR": 348,
@@ -18,14 +18,14 @@
     "image": "https://avatars0.githubusercontent.com/u/4865608?v=4"
   },
   "bestRatio": {
-    "user": "nwoltman",
+    "user": "mafintosh",
     "ratio": 1,
-    "image": "https://avatars1.githubusercontent.com/u/5128013?v=4"
+    "image": "https://avatars1.githubusercontent.com/u/376661?v=4"
   },
   "userPRInfos": {
     "mafintosh": {
       "total": 1,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/376661?v=4"
     },
     "nwoltman": {
@@ -352,7 +352,7 @@
   "datePRInfos": {
     "Janvier-2018": {
       "total": 8,
-      "merged": 6
+      "merged": 7
     },
     "Décembre-2017": {
       "total": 54,
