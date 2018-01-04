@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-01-04T14:41:59.663Z",
+  "lastUpdate": "2018-01-04T15:41:32.587Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
   "totalPR": 339,
@@ -18,9 +18,9 @@
     "image": "https://avatars1.githubusercontent.com/u/16108563?v=4"
   },
   "bestRatio": {
-    "user": "harshar11",
+    "user": "Rachana040",
     "ratio": 1,
-    "image": "https://avatars0.githubusercontent.com/u/29345301?v=4"
+    "image": "https://avatars0.githubusercontent.com/u/24251292?v=4"
   },
   "userPRInfos": {
     "NISHITA97": {
@@ -30,7 +30,7 @@
     },
     "Rachana040": {
       "total": 1,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/24251292?v=4"
     },
     "JeonSeongBae": {
@@ -857,7 +857,7 @@
   "datePRInfos": {
     "Décembre-2017": {
       "total": 26,
-      "merged": 15
+      "merged": 16
     },
     "Novembre-2017": {
       "total": 30,
