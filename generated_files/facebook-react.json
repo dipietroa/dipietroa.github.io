@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-01-05T13:43:44.020Z",
+  "lastUpdate": "2018-01-05T14:44:36.985Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6421,
+  "totalPR": 6422,
   "lastPR": {
-    "createdAt": "2018-01-05T09:21:48Z",
-    "username": "banga"
+    "createdAt": "2018-01-05T14:21:24Z",
+    "username": "jquense"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars0.githubusercontent.com/u/7760903?v=4"
   },
   "userPRInfos": {
+    "jquense": {
+      "total": 35,
+      "merged": 15,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/339286?v=4"
+    },
     "banga": {
       "total": 1,
       "merged": 0,
@@ -102,11 +107,6 @@
       "total": 162,
       "merged": 128,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/3624098?v=4"
-    },
-    "jquense": {
-      "total": 34,
-      "merged": 15,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/339286?v=4"
     },
     "mfix22": {
       "total": 1,
@@ -9536,7 +9536,7 @@
   },
   "datePRInfos": {
     "Janvier-2018": {
-      "total": 12,
+      "total": 13,
       "merged": 9
     },
     "Décembre-2017": {
