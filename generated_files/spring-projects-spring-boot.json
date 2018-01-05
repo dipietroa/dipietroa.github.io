@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "2018-01-05T11:40:57.978Z",
+  "lastUpdate": "2018-01-05T12:41:29.309Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2271,
+  "totalPR": 2272,
   "lastPR": {
-    "createdAt": "2018-01-05T11:02:56Z",
+    "createdAt": "2018-01-05T11:55:22Z",
     "username": "Jcamilorada"
   },
   "bestPR": {
@@ -24,7 +24,7 @@
   },
   "userPRInfos": {
     "Jcamilorada": {
-      "total": 1,
+      "total": 2,
       "merged": 0,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/6124959?v=4"
     },
@@ -3541,7 +3541,7 @@
   },
   "datePRInfos": {
     "Janvier-2018": {
-      "total": 12,
+      "total": 13,
       "merged": 0
     },
     "Décembre-2017": {
