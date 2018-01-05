@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-01-05T18:43:53.924Z",
+  "lastUpdate": "2018-01-05T19:43:59.047Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6422,
+  "totalPR": 6423,
   "lastPR": {
-    "createdAt": "2018-01-05T14:21:24Z",
-    "username": "jquense"
+    "createdAt": "2018-01-05T18:56:11Z",
+    "username": "gaearon"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -18,11 +18,16 @@
     "image": "https://avatars2.githubusercontent.com/u/6820?v=4"
   },
   "bestRatio": {
-    "user": "taehwanno",
+    "user": "jwbay",
     "ratio": 1,
-    "image": "https://avatars0.githubusercontent.com/u/7760903?v=4"
+    "image": "https://avatars3.githubusercontent.com/u/1320447?v=4"
   },
   "userPRInfos": {
+    "gaearon": {
+      "total": 519,
+      "merged": 445,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/810438?v=4"
+    },
     "jquense": {
       "total": 35,
       "merged": 18,
@@ -40,13 +45,8 @@
     },
     "jwbay": {
       "total": 1,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/1320447?v=4"
-    },
-    "gaearon": {
-      "total": 518,
-      "merged": 444,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/810438?v=4"
     },
     "bvaughn": {
       "total": 160,
@@ -85,12 +85,12 @@
     },
     "haishengwu-okta": {
       "total": 1,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/13139863?v=4"
     },
     "koba04": {
       "total": 73,
-      "merged": 51,
+      "merged": 52,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/250407?v=4"
     },
     "skiritsis": {
@@ -9536,12 +9536,12 @@
   },
   "datePRInfos": {
     "Janvier-2018": {
-      "total": 13,
-      "merged": 10
+      "total": 14,
+      "merged": 12
     },
     "Décembre-2017": {
       "total": 100,
-      "merged": 57
+      "merged": 59
     },
     "Novembre-2017": {
       "total": 168,
