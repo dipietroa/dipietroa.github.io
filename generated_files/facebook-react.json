@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-01-05T03:43:58.281Z",
+  "lastUpdate": "2018-01-05T04:43:54.884Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6419,
+  "totalPR": 6420,
   "lastPR": {
-    "createdAt": "2018-01-05T01:28:00Z",
-    "username": "jwbay"
+    "createdAt": "2018-01-05T03:55:45Z",
+    "username": "HeroProtagonist"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars0.githubusercontent.com/u/7760903?v=4"
   },
   "userPRInfos": {
+    "HeroProtagonist": {
+      "total": 2,
+      "merged": 1,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/12506217?v=4"
+    },
     "jwbay": {
       "total": 1,
       "merged": 0,
@@ -302,11 +307,6 @@
       "total": 37,
       "merged": 30,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/1519870?v=4"
-    },
-    "HeroProtagonist": {
-      "total": 1,
-      "merged": 1,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/12506217?v=4"
     },
     "vincent178": {
       "total": 2,
@@ -9531,7 +9531,7 @@
   },
   "datePRInfos": {
     "Janvier-2018": {
-      "total": 10,
+      "total": 11,
       "merged": 9
     },
     "Décembre-2017": {
