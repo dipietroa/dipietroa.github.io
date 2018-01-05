@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-01-05T17:44:12.221Z",
+  "lastUpdate": "2018-01-05T18:43:53.924Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 6422,
@@ -25,7 +25,7 @@
   "userPRInfos": {
     "jquense": {
       "total": 35,
-      "merged": 16,
+      "merged": 18,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/339286?v=4"
     },
     "banga": {
@@ -45,12 +45,12 @@
     },
     "gaearon": {
       "total": 518,
-      "merged": 443,
+      "merged": 444,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/810438?v=4"
     },
     "bvaughn": {
       "total": 160,
-      "merged": 143,
+      "merged": 144,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/29597?v=4"
     },
     "taehwanno": {
@@ -95,7 +95,7 @@
     },
     "skiritsis": {
       "total": 5,
-      "merged": 3,
+      "merged": 4,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/29357763?v=4"
     },
     "orta": {
@@ -135,7 +135,7 @@
     },
     "M-ZubairAhmed": {
       "total": 2,
-      "merged": 1,
+      "merged": 2,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/17708702?v=4"
     },
     "tbroadley": {
@@ -185,7 +185,7 @@
     },
     "roderickhsiao": {
       "total": 2,
-      "merged": 1,
+      "merged": 2,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/3906130?v=4"
     },
     "XaveScor": {
@@ -9541,7 +9541,7 @@
     },
     "Décembre-2017": {
       "total": 100,
-      "merged": 50
+      "merged": 57
     },
     "Novembre-2017": {
       "total": 168,
