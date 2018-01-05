@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-01-05T22:41:33.657Z",
+  "lastUpdate": "2018-01-05T23:41:54.012Z",
   "cowner": "vuejs",
   "crepo": "vue",
   "totalPR": 1021,
@@ -18,9 +18,9 @@
     "image": "https://avatars1.githubusercontent.com/u/72989?v=4"
   },
   "bestRatio": {
-    "user": "erasermeng",
+    "user": "Akryum",
     "ratio": 1,
-    "image": "https://avatars3.githubusercontent.com/u/8306959?v=4"
+    "image": "https://avatars0.githubusercontent.com/u/2798204?v=4"
   },
   "userPRInfos": {
     "957685677": {
@@ -30,7 +30,7 @@
     },
     "Akryum": {
       "total": 3,
-      "merged": 2,
+      "merged": 3,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/2798204?v=4"
     },
     "rigor789": {
@@ -80,7 +80,7 @@
     },
     "javoski": {
       "total": 27,
-      "merged": 20,
+      "merged": 21,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/5391892?v=4"
     },
     "kyouko2017": {
@@ -2222,11 +2222,11 @@
   "datePRInfos": {
     "Janvier-2018": {
       "total": 9,
-      "merged": 2
+      "merged": 3
     },
     "Décembre-2017": {
       "total": 34,
-      "merged": 18
+      "merged": 19
     },
     "Novembre-2017": {
       "total": 37,
