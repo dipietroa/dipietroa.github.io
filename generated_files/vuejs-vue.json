@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-01-05T12:42:01.541Z",
+  "lastUpdate": "2018-01-05T13:41:38.428Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 1019,
+  "totalPR": 1020,
   "lastPR": {
-    "createdAt": "2018-01-05T11:33:30Z",
-    "username": "AndyStabler"
+    "createdAt": "2018-01-05T13:02:00Z",
+    "username": "rigor789"
   },
   "bestPR": {
     "user": "kazupon",
@@ -27,6 +27,11 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/28888508?v=4"
+    },
+    "rigor789": {
+      "total": 2,
+      "merged": 0,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/879060?v=4"
     },
     "AndyStabler": {
       "total": 1,
@@ -122,11 +127,6 @@
       "total": 2,
       "merged": 2,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/7565692?v=4"
-    },
-    "rigor789": {
-      "total": 1,
-      "merged": 0,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/879060?v=4"
     },
     "lzxb": {
       "total": 6,
@@ -2221,7 +2221,7 @@
   },
   "datePRInfos": {
     "Janvier-2018": {
-      "total": 7,
+      "total": 8,
       "merged": 2
     },
     "Décembre-2017": {
