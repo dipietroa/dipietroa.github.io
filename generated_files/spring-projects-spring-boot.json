@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-01-06T00:42:00.161Z",
+  "lastUpdate": "2018-01-06T01:41:27.605Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2272,
+  "totalPR": 2273,
   "lastPR": {
-    "createdAt": "2018-01-05T11:55:22Z",
-    "username": "Jcamilorada"
+    "createdAt": "2018-01-06T01:37:46Z",
+    "username": "juan-medina"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "juan-medina": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/485083?v=4"
+    },
     "Jcamilorada": {
       "total": 2,
       "merged": 0,
@@ -3541,7 +3546,7 @@
   },
   "datePRInfos": {
     "Janvier-2018": {
-      "total": 13,
+      "total": 14,
       "merged": 0
     },
     "Décembre-2017": {
