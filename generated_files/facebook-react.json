@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-01-07T20:43:51.255Z",
+  "lastUpdate": "2018-01-07T21:43:50.939Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6427,
+  "totalPR": 6428,
   "lastPR": {
-    "createdAt": "2018-01-07T11:39:07Z",
-    "username": "vikramcse"
+    "createdAt": "2018-01-07T21:15:37Z",
+    "username": "M-ZubairAhmed"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1297597?v=4"
   },
   "userPRInfos": {
+    "M-ZubairAhmed": {
+      "total": 3,
+      "merged": 2,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/17708702?v=4"
+    },
     "vikramcse": {
       "total": 1,
       "merged": 0,
@@ -147,11 +152,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/33876854?v=4"
-    },
-    "M-ZubairAhmed": {
-      "total": 2,
-      "merged": 2,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/17708702?v=4"
     },
     "tbroadley": {
       "total": 4,
@@ -9551,7 +9551,7 @@
   },
   "datePRInfos": {
     "Janvier-2018": {
-      "total": 18,
+      "total": 19,
       "merged": 14
     },
     "Décembre-2017": {
