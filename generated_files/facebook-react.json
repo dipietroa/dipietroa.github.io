@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-01-07T11:44:11.545Z",
+  "lastUpdate": "2018-01-07T12:43:39.856Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 6427,
@@ -18,9 +18,9 @@
     "image": "https://avatars2.githubusercontent.com/u/6820?v=4"
   },
   "bestRatio": {
-    "user": "jwbay",
+    "user": "azz",
     "ratio": 1,
-    "image": "https://avatars3.githubusercontent.com/u/1320447?v=4"
+    "image": "https://avatars3.githubusercontent.com/u/1297597?v=4"
   },
   "userPRInfos": {
     "vikramcse": {
@@ -30,7 +30,7 @@
     },
     "azz": {
       "total": 1,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/1297597?v=4"
     },
     "rmhartog": {
@@ -195,7 +195,7 @@
     },
     "yenshih": {
       "total": 5,
-      "merged": 1,
+      "merged": 2,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/14069488?v=4"
     },
     "roderickhsiao": {
@@ -9552,11 +9552,11 @@
   "datePRInfos": {
     "Janvier-2018": {
       "total": 18,
-      "merged": 12
+      "merged": 13
     },
     "Décembre-2017": {
       "total": 100,
-      "merged": 59
+      "merged": 60
     },
     "Novembre-2017": {
       "total": 168,
