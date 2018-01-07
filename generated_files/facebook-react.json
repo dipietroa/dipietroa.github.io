@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-01-07T10:43:37.253Z",
+  "lastUpdate": "2018-01-07T11:44:11.545Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6426,
+  "totalPR": 6427,
   "lastPR": {
-    "createdAt": "2018-01-07T05:46:27Z",
-    "username": "azz"
+    "createdAt": "2018-01-07T11:39:07Z",
+    "username": "vikramcse"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1320447?v=4"
   },
   "userPRInfos": {
+    "vikramcse": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/1611331?v=4"
+    },
     "azz": {
       "total": 1,
       "merged": 0,
@@ -9546,7 +9551,7 @@
   },
   "datePRInfos": {
     "Janvier-2018": {
-      "total": 17,
+      "total": 18,
       "merged": 12
     },
     "Décembre-2017": {
