@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-01-07T13:41:52.030Z",
+  "lastUpdate": "2018-01-07T14:41:46.812Z",
   "cowner": "nuclio",
   "crepo": "nuclio",
-  "totalPR": 340,
+  "totalPR": 341,
   "lastPR": {
-    "createdAt": "2018-01-05T19:20:55Z",
-    "username": "pavius"
+    "createdAt": "2018-01-07T14:00:59Z",
+    "username": "balster1123"
   },
   "bestPR": {
     "user": "pavius",
@@ -18,11 +18,16 @@
     "image": "https://avatars2.githubusercontent.com/u/423987?v=4"
   },
   "bestRatio": {
-    "user": "balster1123",
+    "user": "sbkoth",
     "ratio": 1,
-    "image": "https://avatars1.githubusercontent.com/u/5636945?v=4"
+    "image": "https://avatars0.githubusercontent.com/u/18405855?v=4"
   },
   "userPRInfos": {
+    "balster1123": {
+      "total": 9,
+      "merged": 8,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/5636945?v=4"
+    },
     "pavius": {
       "total": 187,
       "merged": 183,
@@ -47,11 +52,6 @@
       "total": 6,
       "merged": 4,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/6298833?v=4"
-    },
-    "balster1123": {
-      "total": 8,
-      "merged": 8,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/5636945?v=4"
     },
     "Sharon-iguazio": {
       "total": 20,
@@ -86,7 +86,7 @@
   },
   "datePRInfos": {
     "Janvier-2018": {
-      "total": 15,
+      "total": 16,
       "merged": 13
     },
     "Décembre-2017": {
