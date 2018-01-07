@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-01-07T05:43:26.350Z",
+  "lastUpdate": "2018-01-07T06:43:17.193Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6425,
+  "totalPR": 6426,
   "lastPR": {
-    "createdAt": "2018-01-06T16:56:43Z",
-    "username": "rmhartog"
+    "createdAt": "2018-01-07T05:46:27Z",
+    "username": "azz"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1320447?v=4"
   },
   "userPRInfos": {
+    "azz": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/1297597?v=4"
+    },
     "rmhartog": {
       "total": 1,
       "merged": 0,
@@ -9541,7 +9546,7 @@
   },
   "datePRInfos": {
     "Janvier-2018": {
-      "total": 16,
+      "total": 17,
       "merged": 12
     },
     "Décembre-2017": {
