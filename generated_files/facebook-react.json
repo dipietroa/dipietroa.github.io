@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-01-08T01:44:27.235Z",
+  "lastUpdate": "2018-01-08T02:44:17.480Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 6429,
@@ -18,14 +18,14 @@
     "image": "https://avatars2.githubusercontent.com/u/6820?v=4"
   },
   "bestRatio": {
-    "user": "azz",
+    "user": "rickhanlonii",
     "ratio": 1,
-    "image": "https://avatars3.githubusercontent.com/u/1297597?v=4"
+    "image": "https://avatars0.githubusercontent.com/u/2440089?v=4"
   },
   "userPRInfos": {
     "rickhanlonii": {
       "total": 1,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/2440089?v=4"
     },
     "M-ZubairAhmed": {
@@ -9557,7 +9557,7 @@
   "datePRInfos": {
     "Janvier-2018": {
       "total": 20,
-      "merged": 14
+      "merged": 15
     },
     "Décembre-2017": {
       "total": 100,
