@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-01-08T07:42:13.889Z",
+  "lastUpdate": "2018-01-08T08:42:42.365Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 1021,
+  "totalPR": 1022,
   "lastPR": {
-    "createdAt": "2018-01-05T17:05:38Z",
-    "username": "Akryum"
+    "createdAt": "2018-01-08T07:58:14Z",
+    "username": "Justineo"
   },
   "bestPR": {
     "user": "kazupon",
@@ -27,6 +27,11 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/28888508?v=4"
+    },
+    "Justineo": {
+      "total": 2,
+      "merged": 1,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/1726061?v=4"
     },
     "Akryum": {
       "total": 3,
@@ -1693,11 +1698,6 @@
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/246103?v=4"
     },
-    "Justineo": {
-      "total": 1,
-      "merged": 1,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/1726061?v=4"
-    },
     "rhyzx": {
       "total": 6,
       "merged": 6,
@@ -2221,7 +2221,7 @@
   },
   "datePRInfos": {
     "Janvier-2018": {
-      "total": 9,
+      "total": 10,
       "merged": 3
     },
     "Décembre-2017": {
