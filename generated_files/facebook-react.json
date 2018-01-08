@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-01-08T16:44:19.655Z",
+  "lastUpdate": "2018-01-08T17:44:12.553Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6432,
+  "totalPR": 6433,
   "lastPR": {
-    "createdAt": "2018-01-08T15:39:46Z",
-    "username": "jquense"
+    "createdAt": "2018-01-08T17:31:11Z",
+    "username": "wyze"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars0.githubusercontent.com/u/2440089?v=4"
   },
   "userPRInfos": {
+    "wyze": {
+      "total": 2,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/186971?v=4"
+    },
     "jquense": {
       "total": 36,
       "merged": 18,
@@ -7688,11 +7693,6 @@
       "merged": 0,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/669650?v=4"
     },
-    "wyze": {
-      "total": 1,
-      "merged": 0,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/186971?v=4"
-    },
     "jasonly": {
       "total": 1,
       "merged": 1,
@@ -9561,7 +9561,7 @@
   },
   "datePRInfos": {
     "Janvier-2018": {
-      "total": 23,
+      "total": 24,
       "merged": 15
     },
     "Décembre-2017": {
