@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-01-08T02:44:17.480Z",
+  "lastUpdate": "2018-01-08T03:44:36.452Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6429,
+  "totalPR": 6430,
   "lastPR": {
-    "createdAt": "2018-01-08T01:37:57Z",
-    "username": "rickhanlonii"
+    "createdAt": "2018-01-08T02:58:57Z",
+    "username": "chrisdieckhaus"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars0.githubusercontent.com/u/2440089?v=4"
   },
   "userPRInfos": {
+    "chrisdieckhaus": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/6969732?v=4"
+    },
     "rickhanlonii": {
       "total": 1,
       "merged": 1,
@@ -8898,7 +8903,7 @@
       "merged": 3,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/6553?v=4"
     },
-    "BetaRabbit": {
+    "betarabbit": {
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/1359340?v=4"
@@ -9556,7 +9561,7 @@
   },
   "datePRInfos": {
     "Janvier-2018": {
-      "total": 20,
+      "total": 21,
       "merged": 15
     },
     "Décembre-2017": {
