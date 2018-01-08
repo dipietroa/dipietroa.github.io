@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-01-08T00:43:31.451Z",
+  "lastUpdate": "2018-01-08T01:44:27.235Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6428,
+  "totalPR": 6429,
   "lastPR": {
-    "createdAt": "2018-01-07T21:15:37Z",
-    "username": "M-ZubairAhmed"
+    "createdAt": "2018-01-08T01:37:57Z",
+    "username": "rickhanlonii"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1297597?v=4"
   },
   "userPRInfos": {
+    "rickhanlonii": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/2440089?v=4"
+    },
     "M-ZubairAhmed": {
       "total": 3,
       "merged": 2,
@@ -9551,7 +9556,7 @@
   },
   "datePRInfos": {
     "Janvier-2018": {
-      "total": 19,
+      "total": 20,
       "merged": 14
     },
     "Décembre-2017": {
