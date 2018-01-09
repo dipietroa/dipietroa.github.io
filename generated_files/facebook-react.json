@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-01-09T10:44:19.398Z",
+  "lastUpdate": "2018-01-09T11:44:33.342Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 6434,
@@ -55,7 +55,7 @@
     },
     "M-ZubairAhmed": {
       "total": 3,
-      "merged": 2,
+      "merged": 3,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/17708702?v=4"
     },
     "vikramcse": {
@@ -9557,7 +9557,7 @@
   "datePRInfos": {
     "Janvier-2018": {
       "total": 25,
-      "merged": 15
+      "merged": 16
     },
     "Décembre-2017": {
       "total": 100,
