@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-01-09T22:45:08.785Z",
+  "lastUpdate": "2018-01-09T23:44:56.333Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6435,
+  "totalPR": 6436,
   "lastPR": {
-    "createdAt": "2018-01-09T21:14:26Z",
-    "username": "wyze"
+    "createdAt": "2018-01-09T23:26:09Z",
+    "username": "nhunzaker"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars0.githubusercontent.com/u/2440089?v=4"
   },
   "userPRInfos": {
+    "nhunzaker": {
+      "total": 84,
+      "merged": 47,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/590904?v=4"
+    },
     "wyze": {
       "total": 3,
       "merged": 1,
@@ -192,11 +197,6 @@
       "total": 2,
       "merged": 1,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/966511?v=4"
-    },
-    "nhunzaker": {
-      "total": 83,
-      "merged": 47,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/590904?v=4"
     },
     "raphamorim": {
       "total": 23,
@@ -9556,7 +9556,7 @@
   },
   "datePRInfos": {
     "Janvier-2018": {
-      "total": 26,
+      "total": 27,
       "merged": 18
     },
     "Décembre-2017": {
