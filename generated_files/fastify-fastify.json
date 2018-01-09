@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-01-09T17:42:25.158Z",
+  "lastUpdate": "2018-01-09T18:42:53.881Z",
   "cowner": "fastify",
   "crepo": "fastify",
-  "totalPR": 368,
+  "totalPR": 369,
   "lastPR": {
-    "createdAt": "2018-01-09T15:30:00Z",
-    "username": "delvedor"
+    "createdAt": "2018-01-09T17:47:28Z",
+    "username": "jsumners"
   },
   "bestPR": {
     "user": "delvedor",
@@ -18,11 +18,16 @@
     "image": "https://avatars0.githubusercontent.com/u/4865608?v=4"
   },
   "bestRatio": {
-    "user": "butlerx",
+    "user": "jsumners",
     "ratio": 1,
-    "image": "https://avatars1.githubusercontent.com/u/867930?v=4"
+    "image": "https://avatars1.githubusercontent.com/u/321201?v=4"
   },
   "userPRInfos": {
+    "jsumners": {
+      "total": 20,
+      "merged": 20,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/321201?v=4"
+    },
     "delvedor": {
       "total": 77,
       "merged": 74,
@@ -82,11 +87,6 @@
       "total": 1,
       "merged": 1,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/8731922?v=4"
-    },
-    "jsumners": {
-      "total": 19,
-      "merged": 19,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/321201?v=4"
     },
     "derevandal": {
       "total": 1,
@@ -356,8 +356,8 @@
   },
   "datePRInfos": {
     "Janvier-2018": {
-      "total": 28,
-      "merged": 20
+      "total": 29,
+      "merged": 21
     },
     "Décembre-2017": {
       "total": 54,
