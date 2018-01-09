@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-01-09T18:45:02.010Z",
+  "lastUpdate": "2018-01-09T19:43:52.814Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 6434,
@@ -75,7 +75,7 @@
     },
     "bvaughn": {
       "total": 161,
-      "merged": 144,
+      "merged": 146,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/29597?v=4"
     },
     "HeroProtagonist": {
@@ -9557,7 +9557,7 @@
   "datePRInfos": {
     "Janvier-2018": {
       "total": 25,
-      "merged": 17
+      "merged": 18
     },
     "Décembre-2017": {
       "total": 100,
@@ -9565,7 +9565,7 @@
     },
     "Novembre-2017": {
       "total": 168,
-      "merged": 125
+      "merged": 126
     },
     "Octobre-2017": {
       "total": 212,
