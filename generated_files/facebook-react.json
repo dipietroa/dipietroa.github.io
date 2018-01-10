@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-01-09T23:44:56.333Z",
+  "lastUpdate": "2018-01-10T00:44:35.020Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 6436,
@@ -25,7 +25,7 @@
   "userPRInfos": {
     "nhunzaker": {
       "total": 84,
-      "merged": 47,
+      "merged": 48,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/590904?v=4"
     },
     "wyze": {
@@ -9557,7 +9557,7 @@
   "datePRInfos": {
     "Janvier-2018": {
       "total": 27,
-      "merged": 18
+      "merged": 19
     },
     "Décembre-2017": {
       "total": 100,
