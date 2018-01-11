@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-01-11T11:44:46.228Z",
+  "lastUpdate": "2018-01-11T12:44:16.483Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 6438,
@@ -18,14 +18,14 @@
     "image": "https://avatars2.githubusercontent.com/u/6820?v=4"
   },
   "bestRatio": {
-    "user": "rickhanlonii",
+    "user": "ss18",
     "ratio": 1,
-    "image": "https://avatars0.githubusercontent.com/u/2440089?v=4"
+    "image": "https://avatars1.githubusercontent.com/u/832917?v=4"
   },
   "userPRInfos": {
     "ss18": {
       "total": 1,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/832917?v=4"
     },
     "nhunzaker": {
@@ -9562,7 +9562,7 @@
   "datePRInfos": {
     "Janvier-2018": {
       "total": 29,
-      "merged": 21
+      "merged": 22
     },
     "Décembre-2017": {
       "total": 100,
