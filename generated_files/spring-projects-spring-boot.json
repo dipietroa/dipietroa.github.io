@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-01-11T10:41:52.292Z",
+  "lastUpdate": "2018-01-11T11:41:58.853Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2282,
+  "totalPR": 2284,
   "lastPR": {
-    "createdAt": "2018-01-11T04:23:42Z",
-    "username": "jkschneider"
+    "createdAt": "2018-01-11T11:20:46Z",
+    "username": "mederly"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "mederly": {
+      "total": 3,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/5798500?v=4"
+    },
     "jkschneider": {
       "total": 8,
       "merged": 0,
@@ -67,11 +72,6 @@
       "total": 2,
       "merged": 0,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/22096380?v=4"
-    },
-    "mederly": {
-      "total": 1,
-      "merged": 0,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/5798500?v=4"
     },
     "Buzzardo": {
       "total": 22,
@@ -3556,7 +3556,7 @@
   },
   "datePRInfos": {
     "Janvier-2018": {
-      "total": 23,
+      "total": 25,
       "merged": 0
     },
     "Décembre-2017": {
