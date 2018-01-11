@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-01-11T14:44:50.251Z",
+  "lastUpdate": "2018-01-11T15:45:21.810Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 6440,
@@ -25,7 +25,7 @@
   "userPRInfos": {
     "SimenB": {
       "total": 7,
-      "merged": 5,
+      "merged": 6,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/1404810?v=4"
     },
     "gaearon": {
@@ -9562,7 +9562,7 @@
   "datePRInfos": {
     "Janvier-2018": {
       "total": 31,
-      "merged": 23
+      "merged": 24
     },
     "Décembre-2017": {
       "total": 100,
