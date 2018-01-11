@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-01-11T02:42:13.267Z",
+  "lastUpdate": "2018-01-11T03:41:59.262Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2279,
+  "totalPR": 2281,
   "lastPR": {
-    "createdAt": "2018-01-10T13:23:56Z",
-    "username": "izeye"
+    "createdAt": "2018-01-11T03:18:26Z",
+    "username": "hcxin"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,16 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "hcxin": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/16517131?v=4"
+    },
+    "xsj34567": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/5569837?v=4"
+    },
     "izeye": {
       "total": 333,
       "merged": 1,
@@ -3546,7 +3556,7 @@
   },
   "datePRInfos": {
     "Janvier-2018": {
-      "total": 20,
+      "total": 22,
       "merged": 0
     },
     "Décembre-2017": {
