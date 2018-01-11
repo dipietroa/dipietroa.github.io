@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "2018-01-10T23:45:10.653Z",
+  "lastUpdate": "2018-01-11T00:45:00.317Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6436,
+  "totalPR": 6437,
   "lastPR": {
-    "createdAt": "2018-01-09T23:26:09Z",
+    "createdAt": "2018-01-11T00:33:49Z",
     "username": "nhunzaker"
   },
   "bestPR": {
@@ -24,7 +24,7 @@
   },
   "userPRInfos": {
     "nhunzaker": {
-      "total": 84,
+      "total": 85,
       "merged": 48,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/590904?v=4"
     },
@@ -45,7 +45,7 @@
     },
     "gaearon": {
       "total": 520,
-      "merged": 445,
+      "merged": 446,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/810438?v=4"
     },
     "chrisdieckhaus": {
@@ -9556,8 +9556,8 @@
   },
   "datePRInfos": {
     "Janvier-2018": {
-      "total": 27,
-      "merged": 19
+      "total": 28,
+      "merged": 20
     },
     "Décembre-2017": {
       "total": 100,
