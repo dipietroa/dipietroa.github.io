@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-01-12T13:42:27.820Z",
+  "lastUpdate": "2018-01-12T14:42:40.057Z",
   "cowner": "fastify",
   "crepo": "fastify",
-  "totalPR": 377,
+  "totalPR": 378,
   "lastPR": {
-    "createdAt": "2018-01-12T07:40:35Z",
-    "username": "nwoltman"
+    "createdAt": "2018-01-12T14:38:54Z",
+    "username": "mcollina"
   },
   "bestPR": {
     "user": "delvedor",
@@ -14,7 +14,7 @@
   },
   "bestMerged": {
     "user": "delvedor",
-    "nbPR": 75,
+    "nbPR": 76,
     "image": "https://avatars0.githubusercontent.com/u/4865608?v=4"
   },
   "bestRatio": {
@@ -23,15 +23,15 @@
     "image": "https://avatars1.githubusercontent.com/u/2853613?v=4"
   },
   "userPRInfos": {
-    "nwoltman": {
-      "total": 24,
-      "merged": 22,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/5128013?v=4"
-    },
     "mcollina": {
-      "total": 48,
+      "total": 49,
       "merged": 46,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/52195?v=4"
+    },
+    "nwoltman": {
+      "total": 24,
+      "merged": 23,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/5128013?v=4"
     },
     "jpagarcia": {
       "total": 1,
@@ -45,7 +45,7 @@
     },
     "delvedor": {
       "total": 78,
-      "merged": 75,
+      "merged": 76,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/4865608?v=4"
     },
     "StarpTech": {
@@ -361,8 +361,8 @@
   },
   "datePRInfos": {
     "Janvier-2018": {
-      "total": 37,
-      "merged": 28
+      "total": 38,
+      "merged": 30
     },
     "Décembre-2017": {
       "total": 54,
