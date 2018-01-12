@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-01-12T03:41:56.696Z",
+  "lastUpdate": "2018-01-12T04:41:31.397Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 1023,
+  "totalPR": 1025,
   "lastPR": {
-    "createdAt": "2018-01-11T13:30:03Z",
-    "username": "shay1989"
+    "createdAt": "2018-01-12T04:14:11Z",
+    "username": "clarkdo"
   },
   "bestPR": {
     "user": "kazupon",
@@ -27,6 +27,16 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/28888508?v=4"
+    },
+    "clarkdo": {
+      "total": 7,
+      "merged": 4,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/4312154?v=4"
+    },
+    "rayqian": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/1597584?v=4"
     },
     "shay1989": {
       "total": 1,
@@ -377,11 +387,6 @@
       "total": 3,
       "merged": 2,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/8336744?v=4"
-    },
-    "clarkdo": {
-      "total": 6,
-      "merged": 4,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/4312154?v=4"
     },
     "Samuell1": {
       "total": 1,
@@ -2226,7 +2231,7 @@
   },
   "datePRInfos": {
     "Janvier-2018": {
-      "total": 11,
+      "total": 13,
       "merged": 3
     },
     "Décembre-2017": {
