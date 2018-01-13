@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-01-13T11:41:20.808Z",
+  "lastUpdate": "2018-01-13T12:41:19.364Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2289,
+  "totalPR": 2290,
   "lastPR": {
-    "createdAt": "2018-01-13T11:37:44Z",
-    "username": "izeye"
+    "createdAt": "2018-01-13T12:21:39Z",
+    "username": "igor-suhorukov"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "igor-suhorukov": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/10332206?v=4"
+    },
     "izeye": {
       "total": 335,
       "merged": 1,
@@ -3556,7 +3561,7 @@
   },
   "datePRInfos": {
     "Janvier-2018": {
-      "total": 30,
+      "total": 31,
       "merged": 0
     },
     "Décembre-2017": {
