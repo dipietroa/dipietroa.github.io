@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-01-14T14:41:44.975Z",
+  "lastUpdate": "2018-01-14T15:42:11.867Z",
   "cowner": "nuclio",
   "crepo": "nuclio",
-  "totalPR": 354,
+  "totalPR": 355,
   "lastPR": {
-    "createdAt": "2018-01-13T10:22:52Z",
-    "username": "pavius"
+    "createdAt": "2018-01-14T14:48:17Z",
+    "username": "itye-msft"
   },
   "bestPR": {
     "user": "pavius",
@@ -18,11 +18,16 @@
     "image": "https://avatars2.githubusercontent.com/u/423987?v=4"
   },
   "bestRatio": {
-    "user": "sbkoth",
+    "user": "itye-msft",
     "ratio": 1,
-    "image": "https://avatars0.githubusercontent.com/u/18405855?v=4"
+    "image": "https://avatars1.githubusercontent.com/u/26870839?v=4"
   },
   "userPRInfos": {
+    "itye-msft": {
+      "total": 1,
+      "merged": 1,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/26870839?v=4"
+    },
     "pavius": {
       "total": 192,
       "merged": 189,
@@ -86,8 +91,8 @@
   },
   "datePRInfos": {
     "Janvier-2018": {
-      "total": 29,
-      "merged": 27
+      "total": 30,
+      "merged": 28
     },
     "Décembre-2017": {
       "total": 58,
