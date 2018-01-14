@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-01-14T12:41:58.243Z",
+  "lastUpdate": "2018-01-14T13:42:07.093Z",
   "cowner": "fastify",
   "crepo": "fastify",
   "totalPR": 383,
@@ -55,7 +55,7 @@
     },
     "StarpTech": {
       "total": 22,
-      "merged": 16,
+      "merged": 17,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/1764424?v=4"
     },
     "allevo": {
@@ -362,7 +362,7 @@
   "datePRInfos": {
     "Janvier-2018": {
       "total": 43,
-      "merged": 34
+      "merged": 35
     },
     "Décembre-2017": {
       "total": 54,
