@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-01-14T19:42:10.374Z",
+  "lastUpdate": "2018-01-14T20:42:19.114Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 1028,
+  "totalPR": 1029,
   "lastPR": {
-    "createdAt": "2018-01-14T16:56:09Z",
-    "username": "ismailarilik"
+    "createdAt": "2018-01-14T20:37:49Z",
+    "username": "Platonn"
   },
   "bestPR": {
     "user": "kazupon",
@@ -28,15 +28,15 @@
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/28888508?v=4"
     },
+    "Platonn": {
+      "total": 2,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/4001059?v=4"
+    },
     "ismailarilik": {
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/17585121?v=4"
-    },
-    "Platonn": {
-      "total": 1,
-      "merged": 0,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/4001059?v=4"
     },
     "dmitry-vakhnenko": {
       "total": 1,
@@ -2246,7 +2246,7 @@
   },
   "datePRInfos": {
     "Janvier-2018": {
-      "total": 16,
+      "total": 17,
       "merged": 3
     },
     "Décembre-2017": {
