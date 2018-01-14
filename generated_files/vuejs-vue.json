@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-01-14T03:41:46.572Z",
+  "lastUpdate": "2018-01-14T05:41:52.073Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 1026,
+  "totalPR": 1027,
   "lastPR": {
-    "createdAt": "2018-01-13T10:36:30Z",
-    "username": "dmitry-vakhnenko"
+    "createdAt": "2018-01-14T03:52:32Z",
+    "username": "Platonn"
   },
   "bestPR": {
     "user": "kazupon",
@@ -27,6 +27,11 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/28888508?v=4"
+    },
+    "Platonn": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/4001059?v=4"
     },
     "dmitry-vakhnenko": {
       "total": 1,
@@ -2236,7 +2241,7 @@
   },
   "datePRInfos": {
     "Janvier-2018": {
-      "total": 14,
+      "total": 15,
       "merged": 3
     },
     "Décembre-2017": {
