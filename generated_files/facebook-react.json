@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-01-14T17:43:34.267Z",
+  "lastUpdate": "2018-01-14T18:43:56.122Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 6442,
@@ -25,7 +25,7 @@
   "userPRInfos": {
     "gaearon": {
       "total": 522,
-      "merged": 448,
+      "merged": 449,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/810438?v=4"
     },
     "nhunzaker": {
@@ -9562,7 +9562,7 @@
   "datePRInfos": {
     "Janvier-2018": {
       "total": 33,
-      "merged": 25
+      "merged": 26
     },
     "Décembre-2017": {
       "total": 100,
