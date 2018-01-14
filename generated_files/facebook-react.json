@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-01-14T19:44:22.182Z",
+  "lastUpdate": "2018-01-14T20:44:26.540Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6442,
+  "totalPR": 6443,
   "lastPR": {
-    "createdAt": "2018-01-14T10:07:29Z",
-    "username": "gaearon"
+    "createdAt": "2018-01-14T20:02:53Z",
+    "username": "appsforartists"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/832917?v=4"
   },
   "userPRInfos": {
+    "appsforartists": {
+      "total": 2,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/926648?v=4"
+    },
     "gaearon": {
       "total": 522,
       "merged": 449,
@@ -8153,11 +8158,6 @@
       "merged": 1,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/40036?v=4"
     },
-    "appsforartists": {
-      "total": 1,
-      "merged": 0,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/926648?v=4"
-    },
     "ikr": {
       "total": 1,
       "merged": 1,
@@ -9561,7 +9561,7 @@
   },
   "datePRInfos": {
     "Janvier-2018": {
-      "total": 33,
+      "total": 34,
       "merged": 26
     },
     "Décembre-2017": {
