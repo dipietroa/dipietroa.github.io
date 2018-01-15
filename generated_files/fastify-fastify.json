@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-01-15T16:41:59.720Z",
+  "lastUpdate": "2018-01-15T17:42:42.122Z",
   "cowner": "fastify",
   "crepo": "fastify",
   "totalPR": 389,
@@ -25,7 +25,7 @@
   "userPRInfos": {
     "jsumners": {
       "total": 23,
-      "merged": 21,
+      "merged": 22,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/321201?v=4"
     },
     "jeromemacias": {
@@ -362,7 +362,7 @@
   "datePRInfos": {
     "Janvier-2018": {
       "total": 49,
-      "merged": 38
+      "merged": 39
     },
     "Décembre-2017": {
       "total": 54,
