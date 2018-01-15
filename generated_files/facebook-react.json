@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-01-15T21:44:09.429Z",
+  "lastUpdate": "2018-01-15T22:43:51.540Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6445,
+  "totalPR": 6447,
   "lastPR": {
-    "createdAt": "2018-01-15T17:28:22Z",
-    "username": "benbraou"
+    "createdAt": "2018-01-15T22:19:58Z",
+    "username": "DATLegendKujo"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars0.githubusercontent.com/u/2440089?v=4"
   },
   "userPRInfos": {
+    "DATLegendKujo": {
+      "total": 2,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/26561893?v=4"
+    },
     "benbraou": {
       "total": 1,
       "merged": 0,
@@ -9566,7 +9571,7 @@
   },
   "datePRInfos": {
     "Janvier-2018": {
-      "total": 36,
+      "total": 38,
       "merged": 27
     },
     "Décembre-2017": {
