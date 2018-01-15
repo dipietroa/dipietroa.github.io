@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-01-15T16:43:58.170Z",
+  "lastUpdate": "2018-01-15T17:44:44.917Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6444,
+  "totalPR": 6445,
   "lastPR": {
-    "createdAt": "2018-01-14T22:21:52Z",
-    "username": "rickhanlonii"
+    "createdAt": "2018-01-15T17:28:22Z",
+    "username": "benbraou"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars0.githubusercontent.com/u/2440089?v=4"
   },
   "userPRInfos": {
+    "benbraou": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/14368835?v=4"
+    },
     "rickhanlonii": {
       "total": 2,
       "merged": 2,
@@ -9561,7 +9566,7 @@
   },
   "datePRInfos": {
     "Janvier-2018": {
-      "total": 35,
+      "total": 36,
       "merged": 27
     },
     "Décembre-2017": {
