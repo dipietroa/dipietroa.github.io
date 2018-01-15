@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "2018-01-15T13:42:07.937Z",
+  "lastUpdate": "2018-01-15T14:42:22.668Z",
   "cowner": "fastify",
   "crepo": "fastify",
-  "totalPR": 387,
+  "totalPR": 388,
   "lastPR": {
-    "createdAt": "2018-01-14T22:51:34Z",
+    "createdAt": "2018-01-15T13:46:19Z",
     "username": "jeromemacias"
   },
   "bestPR": {
@@ -24,7 +24,7 @@
   },
   "userPRInfos": {
     "jeromemacias": {
-      "total": 2,
+      "total": 3,
       "merged": 1,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/582446?v=4"
     },
@@ -361,7 +361,7 @@
   },
   "datePRInfos": {
     "Janvier-2018": {
-      "total": 47,
+      "total": 48,
       "merged": 37
     },
     "Décembre-2017": {
