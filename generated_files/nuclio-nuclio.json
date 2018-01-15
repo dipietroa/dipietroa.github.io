@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-01-15T13:41:59.744Z",
+  "lastUpdate": "2018-01-15T14:42:15.863Z",
   "cowner": "nuclio",
   "crepo": "nuclio",
   "totalPR": 356,
@@ -18,14 +18,14 @@
     "image": "https://avatars2.githubusercontent.com/u/423987?v=4"
   },
   "bestRatio": {
-    "user": "itye-msft",
+    "user": "balster1123",
     "ratio": 1,
-    "image": "https://avatars1.githubusercontent.com/u/26870839?v=4"
+    "image": "https://avatars1.githubusercontent.com/u/5636945?v=4"
   },
   "userPRInfos": {
     "balster1123": {
       "total": 12,
-      "merged": 11,
+      "merged": 12,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/5636945?v=4"
     },
     "itye-msft": {
@@ -92,7 +92,7 @@
   "datePRInfos": {
     "Janvier-2018": {
       "total": 31,
-      "merged": 29
+      "merged": 30
     },
     "Décembre-2017": {
       "total": 58,
