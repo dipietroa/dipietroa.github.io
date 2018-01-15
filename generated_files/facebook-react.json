@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-01-15T10:43:56.033Z",
+  "lastUpdate": "2018-01-15T11:43:50.286Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 6444,
@@ -18,14 +18,14 @@
     "image": "https://avatars2.githubusercontent.com/u/6820?v=4"
   },
   "bestRatio": {
-    "user": "ss18",
+    "user": "rickhanlonii",
     "ratio": 1,
-    "image": "https://avatars1.githubusercontent.com/u/832917?v=4"
+    "image": "https://avatars0.githubusercontent.com/u/2440089?v=4"
   },
   "userPRInfos": {
     "rickhanlonii": {
       "total": 2,
-      "merged": 1,
+      "merged": 2,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/2440089?v=4"
     },
     "appsforartists": {
@@ -9562,7 +9562,7 @@
   "datePRInfos": {
     "Janvier-2018": {
       "total": 35,
-      "merged": 26
+      "merged": 27
     },
     "Décembre-2017": {
       "total": 100,
