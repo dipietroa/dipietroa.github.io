@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-01-16T13:42:19.701Z",
+  "lastUpdate": "2018-01-16T14:42:35.961Z",
   "cowner": "fastify",
   "crepo": "fastify",
   "totalPR": 391,
@@ -18,9 +18,9 @@
     "image": "https://avatars0.githubusercontent.com/u/4865608?v=4"
   },
   "bestRatio": {
-    "user": "jpagarcia",
+    "user": "matrus2",
     "ratio": 1,
-    "image": "https://avatars1.githubusercontent.com/u/2853613?v=4"
+    "image": "https://avatars2.githubusercontent.com/u/9248211?v=4"
   },
   "userPRInfos": {
     "delvedor": {
@@ -30,7 +30,7 @@
     },
     "matrus2": {
       "total": 1,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/9248211?v=4"
     },
     "jsumners": {
@@ -367,7 +367,7 @@
   "datePRInfos": {
     "Janvier-2018": {
       "total": 51,
-      "merged": 39
+      "merged": 40
     },
     "Décembre-2017": {
       "total": 54,
