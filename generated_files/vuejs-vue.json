@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-01-16T22:42:15.957Z",
+  "lastUpdate": "2018-01-16T23:42:25.439Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 1031,
+  "totalPR": 1032,
   "lastPR": {
-    "createdAt": "2018-01-16T00:47:21Z",
-    "username": "hirokiosame"
+    "createdAt": "2018-01-16T23:33:24Z",
+    "username": "btkostner"
   },
   "bestPR": {
     "user": "kazupon",
@@ -27,6 +27,11 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/28888508?v=4"
+    },
+    "btkostner": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/3385679?v=4"
     },
     "hirokiosame": {
       "total": 1,
@@ -2251,7 +2256,7 @@
   },
   "datePRInfos": {
     "Janvier-2018": {
-      "total": 19,
+      "total": 20,
       "merged": 3
     },
     "Décembre-2017": {
