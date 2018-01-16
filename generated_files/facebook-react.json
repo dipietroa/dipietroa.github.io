@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-01-16T18:44:57.945Z",
+  "lastUpdate": "2018-01-16T19:44:40.242Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6447,
+  "totalPR": 6448,
   "lastPR": {
-    "createdAt": "2018-01-15T22:19:58Z",
-    "username": "DATLegendKujo"
+    "createdAt": "2018-01-16T18:46:35Z",
+    "username": "vldvel"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars0.githubusercontent.com/u/2440089?v=4"
   },
   "userPRInfos": {
+    "vldvel": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/22643415?v=4"
+    },
     "DATLegendKujo": {
       "total": 2,
       "merged": 0,
@@ -9571,7 +9576,7 @@
   },
   "datePRInfos": {
     "Janvier-2018": {
-      "total": 38,
+      "total": 39,
       "merged": 27
     },
     "Décembre-2017": {
