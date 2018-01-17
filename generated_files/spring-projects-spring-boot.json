@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-01-17T08:41:30.982Z",
+  "lastUpdate": "2018-01-17T09:41:14.441Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2297,
+  "totalPR": 2298,
   "lastPR": {
-    "createdAt": "2018-01-17T03:25:25Z",
-    "username": "eddumelendez"
+    "createdAt": "2018-01-17T09:09:13Z",
+    "username": "avinashhiriadka"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "avinashhiriadka": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/35520805?v=4"
+    },
     "eddumelendez": {
       "total": 132,
       "merged": 0,
@@ -3566,7 +3571,7 @@
   },
   "datePRInfos": {
     "Janvier-2018": {
-      "total": 38,
+      "total": 39,
       "merged": 0
     },
     "Décembre-2017": {
