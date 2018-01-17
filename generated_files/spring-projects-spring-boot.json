@@ -1,15 +1,15 @@
 {
-  "lastUpdate": "2018-01-17T12:40:59.141Z",
+  "lastUpdate": "2018-01-17T13:41:31.128Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2298,
+  "totalPR": 2299,
   "lastPR": {
-    "createdAt": "2018-01-17T09:09:13Z",
-    "username": "avinashhiriadka"
+    "createdAt": "2018-01-17T13:11:40Z",
+    "username": "izeye"
   },
   "bestPR": {
     "user": "izeye",
-    "nbPR": 337,
+    "nbPR": 338,
     "image": "https://avatars3.githubusercontent.com/u/1059363?v=4"
   },
   "bestMerged": {
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "izeye": {
+      "total": 338,
+      "merged": 1,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/1059363?v=4"
+    },
     "avinashhiriadka": {
       "total": 1,
       "merged": 0,
@@ -32,11 +37,6 @@
       "total": 132,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/1810547?v=4"
-    },
-    "izeye": {
-      "total": 337,
-      "merged": 1,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/1059363?v=4"
     },
     "dsyer": {
       "total": 20,
@@ -3571,7 +3571,7 @@
   },
   "datePRInfos": {
     "Janvier-2018": {
-      "total": 39,
+      "total": 40,
       "merged": 0
     },
     "Décembre-2017": {
