@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-01-17T13:42:20.697Z",
+  "lastUpdate": "2018-01-17T14:42:15.449Z",
   "cowner": "fastify",
   "crepo": "fastify",
-  "totalPR": 393,
+  "totalPR": 394,
   "lastPR": {
-    "createdAt": "2018-01-17T12:50:40Z",
-    "username": "mcollina"
+    "createdAt": "2018-01-17T14:22:01Z",
+    "username": "jsumners"
   },
   "bestPR": {
     "user": "delvedor",
@@ -23,6 +23,11 @@
     "image": "https://avatars2.githubusercontent.com/u/9248211?v=4"
   },
   "userPRInfos": {
+    "jsumners": {
+      "total": 24,
+      "merged": 22,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/321201?v=4"
+    },
     "mcollina": {
       "total": 51,
       "merged": 47,
@@ -42,11 +47,6 @@
       "total": 1,
       "merged": 1,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/9248211?v=4"
-    },
-    "jsumners": {
-      "total": 23,
-      "merged": 22,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/321201?v=4"
     },
     "jeromemacias": {
       "total": 3,
@@ -366,7 +366,7 @@
   },
   "datePRInfos": {
     "Janvier-2018": {
-      "total": 53,
+      "total": 54,
       "merged": 41
     },
     "Décembre-2017": {
