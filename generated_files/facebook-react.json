@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-01-17T01:44:43.220Z",
+  "lastUpdate": "2018-01-17T02:44:19.403Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6447,
+  "totalPR": 6449,
   "lastPR": {
-    "createdAt": "2018-01-16T22:17:26Z",
-    "username": "bvaughn"
+    "createdAt": "2018-01-17T02:13:32Z",
+    "username": "rickhanlonii"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -18,11 +18,21 @@
     "image": "https://avatars2.githubusercontent.com/u/6820?v=4"
   },
   "bestRatio": {
-    "user": "rickhanlonii",
+    "user": "ss18",
     "ratio": 1,
-    "image": "https://avatars0.githubusercontent.com/u/2440089?v=4"
+    "image": "https://avatars1.githubusercontent.com/u/832917?v=4"
   },
   "userPRInfos": {
+    "rickhanlonii": {
+      "total": 3,
+      "merged": 2,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/2440089?v=4"
+    },
+    "gaearon": {
+      "total": 523,
+      "merged": 449,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/810438?v=4"
+    },
     "bvaughn": {
       "total": 162,
       "merged": 146,
@@ -38,20 +48,10 @@
       "merged": 0,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/14368835?v=4"
     },
-    "rickhanlonii": {
-      "total": 2,
-      "merged": 2,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/2440089?v=4"
-    },
     "appsforartists": {
       "total": 2,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/926648?v=4"
-    },
-    "gaearon": {
-      "total": 522,
-      "merged": 449,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/810438?v=4"
     },
     "nhunzaker": {
       "total": 86,
@@ -165,7 +165,7 @@
     },
     "orta": {
       "total": 2,
-      "merged": 1,
+      "merged": 2,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/49038?v=4"
     },
     "acdlite": {
@@ -9571,12 +9571,12 @@
   },
   "datePRInfos": {
     "Janvier-2018": {
-      "total": 38,
+      "total": 40,
       "merged": 27
     },
     "Décembre-2017": {
       "total": 100,
-      "merged": 62
+      "merged": 63
     },
     "Novembre-2017": {
       "total": 168,
