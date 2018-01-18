@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-01-18T22:44:26.921Z",
+  "lastUpdate": "2018-01-18T23:44:04.641Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6454,
+  "totalPR": 6455,
   "lastPR": {
-    "createdAt": "2018-01-18T21:10:30Z",
-    "username": "orta"
+    "createdAt": "2018-01-18T23:14:25Z",
+    "username": "bvaughn"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars2.githubusercontent.com/u/1924993?v=4"
   },
   "userPRInfos": {
+    "bvaughn": {
+      "total": 164,
+      "merged": 147,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/29597?v=4"
+    },
     "orta": {
       "total": 3,
       "merged": 2,
@@ -37,11 +42,6 @@
       "total": 5,
       "merged": 0,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/517889?v=4"
-    },
-    "bvaughn": {
-      "total": 163,
-      "merged": 146,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/29597?v=4"
     },
     "sebmarkbage": {
       "total": 241,
@@ -9576,8 +9576,8 @@
   },
   "datePRInfos": {
     "Janvier-2018": {
-      "total": 45,
-      "merged": 29
+      "total": 46,
+      "merged": 30
     },
     "Décembre-2017": {
       "total": 100,
