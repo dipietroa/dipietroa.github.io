@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-01-19T09:44:37.589Z",
+  "lastUpdate": "2018-01-19T10:42:12.818Z",
   "cowner": "fastify",
   "crepo": "fastify",
   "totalPR": 400,
@@ -18,19 +18,19 @@
     "image": "https://avatars0.githubusercontent.com/u/4865608?v=4"
   },
   "bestRatio": {
-    "user": "matrus2",
+    "user": "jtlapp",
     "ratio": 1,
-    "image": "https://avatars2.githubusercontent.com/u/9248211?v=4"
+    "image": "https://avatars3.githubusercontent.com/u/138133?v=4"
   },
   "userPRInfos": {
     "nwoltman": {
       "total": 28,
-      "merged": 26,
+      "merged": 27,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/5128013?v=4"
     },
     "jtlapp": {
       "total": 1,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/138133?v=4"
     },
     "jsumners": {
@@ -372,7 +372,7 @@
   "datePRInfos": {
     "Janvier-2018": {
       "total": 60,
-      "merged": 48
+      "merged": 50
     },
     "Décembre-2017": {
       "total": 54,
