@@ -1,15 +1,15 @@
 {
-  "lastUpdate": "2018-01-19T08:41:28.432Z",
+  "lastUpdate": "2018-01-19T09:43:50.565Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
   "totalPR": 2306,
   "lastPR": {
-    "createdAt": "2018-01-19T03:12:56Z",
-    "username": "garyrussell"
+    "createdAt": "2018-01-19T08:41:01Z",
+    "username": "izeye"
   },
   "bestPR": {
     "user": "izeye",
-    "nbPR": 340,
+    "nbPR": 341,
     "image": "https://avatars3.githubusercontent.com/u/1059363?v=4"
   },
   "bestMerged": {
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "izeye": {
+      "total": 341,
+      "merged": 1,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/1059363?v=4"
+    },
     "garyrussell": {
       "total": 39,
       "merged": 1,
@@ -42,11 +47,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/1372054?v=4"
-    },
-    "izeye": {
-      "total": 340,
-      "merged": 1,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/1059363?v=4"
     },
     "avinashhiriadka": {
       "total": 1,
@@ -1749,7 +1749,7 @@
       "avatarUrl": "https://avatars3.githubusercontent.com/u/542428?v=4"
     },
     "phxism": {
-      "total": 2,
+      "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/16344801?v=4"
     },
@@ -3581,7 +3581,7 @@
   },
   "datePRInfos": {
     "Janvier-2018": {
-      "total": 46,
+      "total": 47,
       "merged": 0
     },
     "Décembre-2017": {
@@ -3649,7 +3649,7 @@
       "merged": 0
     },
     "Août-2016": {
-      "total": 48,
+      "total": 47,
       "merged": 0
     },
     "Juillet-2016": {
