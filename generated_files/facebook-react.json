@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-01-19T15:49:05.132Z",
+  "lastUpdate": "2018-01-19T16:44:33.196Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6455,
+  "totalPR": 6457,
   "lastPR": {
-    "createdAt": "2018-01-18T23:14:25Z",
-    "username": "bvaughn"
+    "createdAt": "2018-01-19T16:28:39Z",
+    "username": "clairecliu"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,16 @@
     "image": "https://avatars2.githubusercontent.com/u/1924993?v=4"
   },
   "userPRInfos": {
+    "clairecliu": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/29962092?v=4"
+    },
+    "AlwaysHC": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/2215615?v=4"
+    },
     "bvaughn": {
       "total": 164,
       "merged": 147,
@@ -9576,7 +9586,7 @@
   },
   "datePRInfos": {
     "Janvier-2018": {
-      "total": 46,
+      "total": 48,
       "merged": 30
     },
     "Décembre-2017": {
