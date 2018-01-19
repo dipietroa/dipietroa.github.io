@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-01-19T00:41:41.521Z",
+  "lastUpdate": "2018-01-19T01:41:53.470Z",
   "cowner": "fastify",
   "crepo": "fastify",
-  "totalPR": 398,
+  "totalPR": 399,
   "lastPR": {
-    "createdAt": "2018-01-18T21:42:05Z",
-    "username": "jsumners"
+    "createdAt": "2018-01-19T01:08:25Z",
+    "username": "jtlapp"
   },
   "bestPR": {
     "user": "delvedor",
@@ -23,6 +23,11 @@
     "image": "https://avatars2.githubusercontent.com/u/9248211?v=4"
   },
   "userPRInfos": {
+    "jtlapp": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/138133?v=4"
+    },
     "jsumners": {
       "total": 27,
       "merged": 25,
@@ -366,7 +371,7 @@
   },
   "datePRInfos": {
     "Janvier-2018": {
-      "total": 58,
+      "total": 59,
       "merged": 48
     },
     "Décembre-2017": {
