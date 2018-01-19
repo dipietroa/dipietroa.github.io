@@ -1,8 +1,8 @@
 {
-  "lastUpdate": "2018-01-19T07:41:07.695Z",
+  "lastUpdate": "2018-01-19T08:41:28.432Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2305,
+  "totalPR": 2306,
   "lastPR": {
     "createdAt": "2018-01-19T03:12:56Z",
     "username": "garyrussell"
@@ -1749,7 +1749,7 @@
       "avatarUrl": "https://avatars3.githubusercontent.com/u/542428?v=4"
     },
     "phxism": {
-      "total": 1,
+      "total": 2,
       "merged": 0,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/16344801?v=4"
     },
@@ -3649,7 +3649,7 @@
       "merged": 0
     },
     "Août-2016": {
-      "total": 47,
+      "total": 48,
       "merged": 0
     },
     "Juillet-2016": {
