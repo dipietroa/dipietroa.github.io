@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-01-19T20:42:28.318Z",
+  "lastUpdate": "2018-01-19T21:42:12.749Z",
   "cowner": "fastify",
   "crepo": "fastify",
-  "totalPR": 401,
+  "totalPR": 402,
   "lastPR": {
-    "createdAt": "2018-01-19T18:14:43Z",
-    "username": "nwoltman"
+    "createdAt": "2018-01-19T21:36:52Z",
+    "username": "PavelPolyakov"
   },
   "bestPR": {
     "user": "delvedor",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/138133?v=4"
   },
   "userPRInfos": {
+    "PavelPolyakov": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/839290?v=4"
+    },
     "nwoltman": {
       "total": 29,
       "merged": 27,
@@ -371,7 +376,7 @@
   },
   "datePRInfos": {
     "Janvier-2018": {
-      "total": 61,
+      "total": 62,
       "merged": 51
     },
     "Décembre-2017": {
