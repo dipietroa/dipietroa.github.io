@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-01-20T01:43:40.739Z",
+  "lastUpdate": "2018-01-20T02:43:54.900Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6458,
+  "totalPR": 6461,
   "lastPR": {
-    "createdAt": "2018-01-19T23:12:30Z",
-    "username": "bvaughn"
+    "createdAt": "2018-01-20T02:32:46Z",
+    "username": "billyjanitsch"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/29962092?v=4"
   },
   "userPRInfos": {
+    "billyjanitsch": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/1158733?v=4"
+    },
     "bvaughn": {
       "total": 165,
       "merged": 149,
@@ -72,6 +77,11 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/22643415?v=4"
+    },
+    "DATLegendKujo": {
+      "total": 2,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/26561893?v=4"
     },
     "benbraou": {
       "total": 1,
@@ -9586,7 +9596,7 @@
   },
   "datePRInfos": {
     "Janvier-2018": {
-      "total": 49,
+      "total": 52,
       "merged": 33
     },
     "Décembre-2017": {
