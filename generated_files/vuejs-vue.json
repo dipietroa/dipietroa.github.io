@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-01-20T21:41:23.078Z",
+  "lastUpdate": "2018-01-20T22:42:15.247Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 1034,
+  "totalPR": 1035,
   "lastPR": {
-    "createdAt": "2018-01-17T08:27:04Z",
-    "username": "CarterLi"
+    "createdAt": "2018-01-20T22:03:43Z",
+    "username": "dmitry-vakhnenko"
   },
   "bestPR": {
     "user": "kazupon",
@@ -27,6 +27,11 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/28888508?v=4"
+    },
+    "dmitry-vakhnenko": {
+      "total": 2,
+      "merged": 0,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/33278950?v=4"
     },
     "CarterLi": {
       "total": 1,
@@ -62,11 +67,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/17585121?v=4"
-    },
-    "dmitry-vakhnenko": {
-      "total": 1,
-      "merged": 0,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/33278950?v=4"
     },
     "clarkdo": {
       "total": 7,
@@ -2266,7 +2266,7 @@
   },
   "datePRInfos": {
     "Janvier-2018": {
-      "total": 22,
+      "total": 23,
       "merged": 3
     },
     "Décembre-2017": {
