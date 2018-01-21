@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-01-21T08:43:28.201Z",
+  "lastUpdate": "2018-01-21T09:44:00.988Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6463,
+  "totalPR": 6464,
   "lastPR": {
-    "createdAt": "2018-01-21T01:26:08Z",
-    "username": "sompylasar"
+    "createdAt": "2018-01-21T09:07:10Z",
+    "username": "sportnak"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/29962092?v=4"
   },
   "userPRInfos": {
+    "sportnak": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/2974028?v=4"
+    },
     "sompylasar": {
       "total": 2,
       "merged": 1,
@@ -9596,7 +9601,7 @@
   },
   "datePRInfos": {
     "Janvier-2018": {
-      "total": 54,
+      "total": 55,
       "merged": 33
     },
     "Décembre-2017": {
