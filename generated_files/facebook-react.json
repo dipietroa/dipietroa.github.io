@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-01-21T12:43:55.382Z",
+  "lastUpdate": "2018-01-21T13:43:52.642Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6464,
+  "totalPR": 6465,
   "lastPR": {
-    "createdAt": "2018-01-21T09:07:10Z",
-    "username": "sportnak"
+    "createdAt": "2018-01-21T13:10:33Z",
+    "username": "HuangHongRui"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/29962092?v=4"
   },
   "userPRInfos": {
+    "HuangHongRui": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/26321899?v=4"
+    },
     "sportnak": {
       "total": 1,
       "merged": 0,
@@ -9601,7 +9606,7 @@
   },
   "datePRInfos": {
     "Janvier-2018": {
-      "total": 55,
+      "total": 56,
       "merged": 33
     },
     "Décembre-2017": {
