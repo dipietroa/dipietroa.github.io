@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-01-21T16:43:47.156Z",
+  "lastUpdate": "2018-01-21T17:44:27.283Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6465,
+  "totalPR": 6466,
   "lastPR": {
-    "createdAt": "2018-01-21T13:10:33Z",
-    "username": "HuangHongRui"
+    "createdAt": "2018-01-21T17:37:54Z",
+    "username": "zeigo"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/29962092?v=4"
   },
   "userPRInfos": {
+    "zeigo": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/33696101?v=4"
+    },
     "HuangHongRui": {
       "total": 1,
       "merged": 0,
@@ -9606,7 +9611,7 @@
   },
   "datePRInfos": {
     "Janvier-2018": {
-      "total": 56,
+      "total": 57,
       "merged": 33
     },
     "Décembre-2017": {
