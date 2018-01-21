@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-01-21T15:41:58.514Z",
+  "lastUpdate": "2018-01-21T16:41:58.993Z",
   "cowner": "fastify",
   "crepo": "fastify",
   "totalPR": 408,
@@ -18,9 +18,9 @@
     "image": "https://avatars0.githubusercontent.com/u/4865608?v=4"
   },
   "bestRatio": {
-    "user": "jsumners",
+    "user": "sebdeckers",
     "ratio": 1,
-    "image": "https://avatars1.githubusercontent.com/u/321201?v=4"
+    "image": "https://avatars0.githubusercontent.com/u/78718?v=4"
   },
   "userPRInfos": {
     "StarpTech": {
@@ -40,7 +40,7 @@
     },
     "sebdeckers": {
       "total": 5,
-      "merged": 4,
+      "merged": 5,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/78718?v=4"
     },
     "nwoltman": {
@@ -377,7 +377,7 @@
   "datePRInfos": {
     "Janvier-2018": {
       "total": 68,
-      "merged": 55
+      "merged": 56
     },
     "Décembre-2017": {
       "total": 54,
