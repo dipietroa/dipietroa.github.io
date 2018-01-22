@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-01-22T05:44:04.330Z",
+  "lastUpdate": "2018-01-22T08:43:49.530Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6466,
+  "totalPR": 6467,
   "lastPR": {
-    "createdAt": "2018-01-21T17:37:54Z",
-    "username": "zeigo"
+    "createdAt": "2018-01-22T07:28:00Z",
+    "username": "sebmarkbage"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/29962092?v=4"
   },
   "userPRInfos": {
+    "sebmarkbage": {
+      "total": 242,
+      "merged": 224,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/63648?v=4"
+    },
     "zeigo": {
       "total": 1,
       "merged": 0,
@@ -77,11 +82,6 @@
       "total": 5,
       "merged": 0,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/517889?v=4"
-    },
-    "sebmarkbage": {
-      "total": 241,
-      "merged": 224,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/63648?v=4"
     },
     "rickhanlonii": {
       "total": 3,
@@ -9611,7 +9611,7 @@
   },
   "datePRInfos": {
     "Janvier-2018": {
-      "total": 57,
+      "total": 58,
       "merged": 33
     },
     "Décembre-2017": {
