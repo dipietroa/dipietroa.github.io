@@ -1,20 +1,20 @@
 {
-  "lastUpdate": "2018-01-22T20:42:14.867Z",
+  "lastUpdate": "2018-01-22T21:42:30.453Z",
   "cowner": "fastify",
   "crepo": "fastify",
-  "totalPR": 412,
+  "totalPR": 413,
   "lastPR": {
-    "createdAt": "2018-01-22T18:13:06Z",
-    "username": "nwoltman"
+    "createdAt": "2018-01-22T21:08:06Z",
+    "username": "delvedor"
   },
   "bestPR": {
     "user": "delvedor",
-    "nbPR": 80,
+    "nbPR": 81,
     "image": "https://avatars0.githubusercontent.com/u/4865608?v=4"
   },
   "bestMerged": {
     "user": "delvedor",
-    "nbPR": 77,
+    "nbPR": 78,
     "image": "https://avatars0.githubusercontent.com/u/4865608?v=4"
   },
   "bestRatio": {
@@ -23,9 +23,14 @@
     "image": "https://avatars0.githubusercontent.com/u/78718?v=4"
   },
   "userPRInfos": {
+    "delvedor": {
+      "total": 81,
+      "merged": 78,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/4865608?v=4"
+    },
     "nwoltman": {
       "total": 32,
-      "merged": 29,
+      "merged": 30,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/5128013?v=4"
     },
     "thekemkid": {
@@ -42,11 +47,6 @@
       "total": 24,
       "merged": 19,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/1764424?v=4"
-    },
-    "delvedor": {
-      "total": 80,
-      "merged": 77,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/4865608?v=4"
     },
     "greenkeeper[bot]": {
       "total": 43,
@@ -381,8 +381,8 @@
   },
   "datePRInfos": {
     "Janvier-2018": {
-      "total": 72,
-      "merged": 57
+      "total": 73,
+      "merged": 59
     },
     "Décembre-2017": {
       "total": 54,
