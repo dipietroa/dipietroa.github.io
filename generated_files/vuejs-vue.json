@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-01-23T17:42:16.138Z",
+  "lastUpdate": "2018-01-23T18:42:15.010Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 1036,
+  "totalPR": 1037,
   "lastPR": {
-    "createdAt": "2018-01-23T04:07:38Z",
-    "username": "HcySunYang"
+    "createdAt": "2018-01-23T17:53:29Z",
+    "username": "efueger"
   },
   "bestPR": {
     "user": "kazupon",
@@ -27,6 +27,11 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/28888508?v=4"
+    },
+    "efueger": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/2053833?v=4"
     },
     "HcySunYang": {
       "total": 4,
@@ -2266,7 +2271,7 @@
   },
   "datePRInfos": {
     "Janvier-2018": {
-      "total": 24,
+      "total": 25,
       "merged": 3
     },
     "Décembre-2017": {
