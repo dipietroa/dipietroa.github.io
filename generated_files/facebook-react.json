@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "2018-01-23T05:44:00.314Z",
+  "lastUpdate": "2018-01-23T06:44:21.693Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6467,
+  "totalPR": 6468,
   "lastPR": {
-    "createdAt": "2018-01-22T07:28:00Z",
+    "createdAt": "2018-01-23T06:23:47Z",
     "username": "sebmarkbage"
   },
   "bestPR": {
@@ -24,8 +24,8 @@
   },
   "userPRInfos": {
     "sebmarkbage": {
-      "total": 242,
-      "merged": 225,
+      "total": 243,
+      "merged": 226,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/63648?v=4"
     },
     "zeigo": {
@@ -9611,8 +9611,8 @@
   },
   "datePRInfos": {
     "Janvier-2018": {
-      "total": 58,
-      "merged": 34
+      "total": 59,
+      "merged": 35
     },
     "Décembre-2017": {
       "total": 100,
