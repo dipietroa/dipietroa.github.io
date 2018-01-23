@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-01-23T17:44:36.286Z",
+  "lastUpdate": "2018-01-23T18:44:36.179Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6469,
+  "totalPR": 6470,
   "lastPR": {
-    "createdAt": "2018-01-23T13:08:21Z",
-    "username": "stephenkingsley"
+    "createdAt": "2018-01-23T17:52:41Z",
+    "username": "joelbarbosa"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/29962092?v=4"
   },
   "userPRInfos": {
+    "joelbarbosa": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/1504007?v=4"
+    },
     "stephenkingsley": {
       "total": 1,
       "merged": 0,
@@ -9616,7 +9621,7 @@
   },
   "datePRInfos": {
     "Janvier-2018": {
-      "total": 60,
+      "total": 61,
       "merged": 35
     },
     "Décembre-2017": {
