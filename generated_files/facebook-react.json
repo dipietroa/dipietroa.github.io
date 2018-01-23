@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-01-23T12:44:53.239Z",
+  "lastUpdate": "2018-01-23T13:44:29.750Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6468,
+  "totalPR": 6469,
   "lastPR": {
-    "createdAt": "2018-01-23T06:23:47Z",
-    "username": "sebmarkbage"
+    "createdAt": "2018-01-23T13:08:21Z",
+    "username": "stephenkingsley"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/29962092?v=4"
   },
   "userPRInfos": {
+    "stephenkingsley": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/13380370?v=4"
+    },
     "sebmarkbage": {
       "total": 243,
       "merged": 226,
@@ -9611,7 +9616,7 @@
   },
   "datePRInfos": {
     "Janvier-2018": {
-      "total": 59,
+      "total": 60,
       "merged": 35
     },
     "Décembre-2017": {
