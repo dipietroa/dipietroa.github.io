@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-01-23T21:41:52.377Z",
+  "lastUpdate": "2018-01-23T22:41:40.678Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2316,
+  "totalPR": 2317,
   "lastPR": {
-    "createdAt": "2018-01-23T04:21:47Z",
-    "username": "eddumelendez"
+    "createdAt": "2018-01-23T22:14:28Z",
+    "username": "DominicGunn"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "DominicGunn": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/4493719?v=4"
+    },
     "eddumelendez": {
       "total": 133,
       "merged": 0,
@@ -3581,7 +3586,7 @@
   },
   "datePRInfos": {
     "Janvier-2018": {
-      "total": 57,
+      "total": 58,
       "merged": 0
     },
     "Décembre-2017": {
