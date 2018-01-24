@@ -1,15 +1,15 @@
 {
-  "lastUpdate": "2018-01-24T08:42:01.611Z",
+  "lastUpdate": "2018-01-24T09:42:10.977Z",
   "cowner": "nuclio",
   "crepo": "nuclio",
-  "totalPR": 371,
+  "totalPR": 372,
   "lastPR": {
-    "createdAt": "2018-01-24T07:13:35Z",
-    "username": "torosent"
+    "createdAt": "2018-01-24T09:36:19Z",
+    "username": "pavius"
   },
   "bestPR": {
     "user": "pavius",
-    "nbPR": 196,
+    "nbPR": 197,
     "image": "https://avatars2.githubusercontent.com/u/423987?v=4"
   },
   "bestMerged": {
@@ -23,9 +23,14 @@
     "image": "https://avatars1.githubusercontent.com/u/26870839?v=4"
   },
   "userPRInfos": {
+    "pavius": {
+      "total": 197,
+      "merged": 193,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/423987?v=4"
+    },
     "torosent": {
       "total": 3,
-      "merged": 1,
+      "merged": 2,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/17064840?v=4"
     },
     "ilaykav": {
@@ -35,7 +40,7 @@
     },
     "omriharel": {
       "total": 7,
-      "merged": 5,
+      "merged": 6,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/10298151?v=4"
     },
     "itye-msft": {
@@ -47,11 +52,6 @@
       "total": 15,
       "merged": 15,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/5636945?v=4"
-    },
-    "pavius": {
-      "total": 196,
-      "merged": 193,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/423987?v=4"
     },
     "eran-nussbaum": {
       "total": 30,
@@ -96,8 +96,8 @@
   },
   "datePRInfos": {
     "Janvier-2018": {
-      "total": 46,
-      "merged": 42
+      "total": 47,
+      "merged": 44
     },
     "Décembre-2017": {
       "total": 58,
