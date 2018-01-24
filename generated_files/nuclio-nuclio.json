@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "2018-01-24T06:42:07.185Z",
+  "lastUpdate": "2018-01-24T07:42:06.843Z",
   "cowner": "nuclio",
   "crepo": "nuclio",
-  "totalPR": 370,
+  "totalPR": 371,
   "lastPR": {
-    "createdAt": "2018-01-24T06:36:44Z",
+    "createdAt": "2018-01-24T07:13:35Z",
     "username": "torosent"
   },
   "bestPR": {
@@ -24,7 +24,7 @@
   },
   "userPRInfos": {
     "torosent": {
-      "total": 2,
+      "total": 3,
       "merged": 1,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/17064840?v=4"
     },
@@ -96,7 +96,7 @@
   },
   "datePRInfos": {
     "Janvier-2018": {
-      "total": 45,
+      "total": 46,
       "merged": 42
     },
     "Décembre-2017": {
