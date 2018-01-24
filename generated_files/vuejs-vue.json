@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-01-24T10:42:14.509Z",
+  "lastUpdate": "2018-01-24T11:41:48.639Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 1037,
+  "totalPR": 1038,
   "lastPR": {
-    "createdAt": "2018-01-23T17:53:29Z",
-    "username": "efueger"
+    "createdAt": "2018-01-24T11:16:09Z",
+    "username": "posva"
   },
   "bestPR": {
     "user": "kazupon",
@@ -27,6 +27,11 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/28888508?v=4"
+    },
+    "posva": {
+      "total": 29,
+      "merged": 23,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/664177?v=4"
     },
     "efueger": {
       "total": 1,
@@ -287,11 +292,6 @@
       "total": 1,
       "merged": 1,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/9264860?v=4"
-    },
-    "posva": {
-      "total": 28,
-      "merged": 23,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/664177?v=4"
     },
     "guieiras": {
       "total": 1,
@@ -2271,7 +2271,7 @@
   },
   "datePRInfos": {
     "Janvier-2018": {
-      "total": 25,
+      "total": 26,
       "merged": 3
     },
     "Décembre-2017": {
