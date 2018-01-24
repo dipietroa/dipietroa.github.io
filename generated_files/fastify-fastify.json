@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-01-24T15:42:24.755Z",
+  "lastUpdate": "2018-01-24T16:43:25.753Z",
   "cowner": "fastify",
   "crepo": "fastify",
-  "totalPR": 417,
+  "totalPR": 418,
   "lastPR": {
-    "createdAt": "2018-01-24T15:30:13Z",
-    "username": "mcollina"
+    "createdAt": "2018-01-24T15:43:28Z",
+    "username": "zhenruyan"
   },
   "bestPR": {
     "user": "delvedor",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/582446?v=4"
   },
   "userPRInfos": {
+    "zhenruyan": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/9253251?v=4"
+    },
     "mcollina": {
       "total": 52,
       "merged": 48,
@@ -381,7 +386,7 @@
   },
   "datePRInfos": {
     "Janvier-2018": {
-      "total": 77,
+      "total": 78,
       "merged": 63
     },
     "Décembre-2017": {
