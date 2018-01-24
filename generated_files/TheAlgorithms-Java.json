@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-01-24T15:41:44.818Z",
+  "lastUpdate": "2018-01-24T16:42:21.425Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
-  "totalPR": 341,
+  "totalPR": 342,
   "lastPR": {
-    "createdAt": "2018-01-16T07:55:08Z",
-    "username": "Aftaab99"
+    "createdAt": "2018-01-24T16:06:45Z",
+    "username": "GammaBurst101"
   },
   "bestPR": {
     "user": "theycallmemac",
@@ -23,6 +23,11 @@
     "image": "https://avatars0.githubusercontent.com/u/24251292?v=4"
   },
   "userPRInfos": {
+    "GammaBurst101": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/35678205?v=4"
+    },
     "Aftaab99": {
       "total": 1,
       "merged": 0,
@@ -866,7 +871,7 @@
   },
   "datePRInfos": {
     "Janvier-2018": {
-      "total": 2,
+      "total": 3,
       "merged": 0
     },
     "Décembre-2017": {
