@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-01-24T10:42:21.672Z",
+  "lastUpdate": "2018-01-24T11:41:55.123Z",
   "cowner": "nuclio",
   "crepo": "nuclio",
-  "totalPR": 372,
+  "totalPR": 375,
   "lastPR": {
-    "createdAt": "2018-01-24T09:36:19Z",
-    "username": "pavius"
+    "createdAt": "2018-01-24T11:29:54Z",
+    "username": "itye-msft"
   },
   "bestPR": {
     "user": "pavius",
@@ -18,11 +18,26 @@
     "image": "https://avatars2.githubusercontent.com/u/423987?v=4"
   },
   "bestRatio": {
-    "user": "itye-msft",
+    "user": "sbkoth",
     "ratio": 1,
-    "image": "https://avatars1.githubusercontent.com/u/26870839?v=4"
+    "image": "https://avatars0.githubusercontent.com/u/18405855?v=4"
   },
   "userPRInfos": {
+    "itye-msft": {
+      "total": 3,
+      "merged": 2,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/26870839?v=4"
+    },
+    "ilaykav": {
+      "total": 5,
+      "merged": 3,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/16291067?v=4"
+    },
+    "balster1123": {
+      "total": 16,
+      "merged": 15,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/5636945?v=4"
+    },
     "pavius": {
       "total": 197,
       "merged": 194,
@@ -33,25 +48,10 @@
       "merged": 2,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/17064840?v=4"
     },
-    "ilaykav": {
-      "total": 4,
-      "merged": 3,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/16291067?v=4"
-    },
     "omriharel": {
       "total": 7,
       "merged": 6,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/10298151?v=4"
-    },
-    "itye-msft": {
-      "total": 2,
-      "merged": 2,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/26870839?v=4"
-    },
-    "balster1123": {
-      "total": 15,
-      "merged": 15,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/5636945?v=4"
     },
     "eran-nussbaum": {
       "total": 30,
@@ -96,7 +96,7 @@
   },
   "datePRInfos": {
     "Janvier-2018": {
-      "total": 47,
+      "total": 50,
       "merged": 45
     },
     "Décembre-2017": {
