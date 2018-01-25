@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-01-25T17:44:48.397Z",
+  "lastUpdate": "2018-01-25T18:44:48.098Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6476,
+  "totalPR": 6477,
   "lastPR": {
-    "createdAt": "2018-01-25T13:58:58Z",
-    "username": "NE-SmallTown"
+    "createdAt": "2018-01-25T18:12:46Z",
+    "username": "bvaughn"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/29962092?v=4"
   },
   "userPRInfos": {
+    "bvaughn": {
+      "total": 171,
+      "merged": 155,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/29597?v=4"
+    },
     "NE-SmallTown": {
       "total": 2,
       "merged": 1,
@@ -32,11 +37,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/1649955?v=4"
-    },
-    "bvaughn": {
-      "total": 170,
-      "merged": 155,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/29597?v=4"
     },
     "joelbarbosa": {
       "total": 1,
@@ -9621,7 +9621,7 @@
   },
   "datePRInfos": {
     "Janvier-2018": {
-      "total": 67,
+      "total": 68,
       "merged": 41
     },
     "Décembre-2017": {
