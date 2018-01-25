@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-01-25T03:44:26.009Z",
+  "lastUpdate": "2018-01-25T04:44:01.842Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 6475,
@@ -823,10 +823,10 @@
       "merged": 2,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/14318826?v=4"
     },
-    "artkhl": {
-      "total": 1,
-      "merged": 0,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/23264064?v=4"
+    "ghost": {
+      "total": 12,
+      "merged": 5,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/10137?v=4"
     },
     "rreusser": {
       "total": 1,
@@ -2237,11 +2237,6 @@
       "total": 1,
       "merged": 1,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/6231616?v=4"
-    },
-    "ghost": {
-      "total": 11,
-      "merged": 5,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/10137?v=4"
     },
     "fraserhaer": {
       "total": 1,
