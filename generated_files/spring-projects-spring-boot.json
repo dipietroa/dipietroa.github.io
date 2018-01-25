@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-01-25T13:41:12.473Z",
+  "lastUpdate": "2018-01-25T14:41:42.937Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2322,
+  "totalPR": 2324,
   "lastPR": {
-    "createdAt": "2018-01-25T04:27:37Z",
-    "username": "eddumelendez"
+    "createdAt": "2018-01-25T14:08:01Z",
+    "username": "htynkn"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,16 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "htynkn": {
+      "total": 23,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/659135?v=4"
+    },
+    "qinnnyul": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/3600881?v=4"
+    },
     "eddumelendez": {
       "total": 134,
       "merged": 0,
@@ -42,11 +52,6 @@
       "total": 43,
       "merged": 0,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/6304496?v=4"
-    },
-    "htynkn": {
-      "total": 22,
-      "merged": 0,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/659135?v=4"
     },
     "DominicGunn": {
       "total": 1,
@@ -3586,7 +3591,7 @@
   },
   "datePRInfos": {
     "Janvier-2018": {
-      "total": 63,
+      "total": 65,
       "merged": 0
     },
     "Décembre-2017": {
