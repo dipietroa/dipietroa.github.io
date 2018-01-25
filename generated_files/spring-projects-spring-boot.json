@@ -1,15 +1,15 @@
 {
-  "lastUpdate": "2018-01-25T19:41:18.382Z",
+  "lastUpdate": "2018-01-25T20:41:27.202Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2329,
+  "totalPR": 2330,
   "lastPR": {
-    "createdAt": "2018-01-25T19:31:51Z",
-    "username": "andrey916"
+    "createdAt": "2018-01-25T20:03:10Z",
+    "username": "rajadilipkolli"
   },
   "bestPR": {
     "user": "izeye",
-    "nbPR": 344,
+    "nbPR": 343,
     "image": "https://avatars3.githubusercontent.com/u/1059363?v=4"
   },
   "bestMerged": {
@@ -23,15 +23,15 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "rajadilipkolli": {
+      "total": 24,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/24761580?v=4"
+    },
     "andrey916": {
       "total": 3,
       "merged": 0,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/31131872?v=4"
-    },
-    "rajadilipkolli": {
-      "total": 22,
-      "merged": 0,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/24761580?v=4"
     },
     "jkschneider": {
       "total": 9,
@@ -69,7 +69,7 @@
       "avatarUrl": "https://avatars1.githubusercontent.com/u/4493719?v=4"
     },
     "izeye": {
-      "total": 344,
+      "total": 343,
       "merged": 1,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/1059363?v=4"
     },
@@ -3591,7 +3591,7 @@
   },
   "datePRInfos": {
     "Janvier-2018": {
-      "total": 70,
+      "total": 71,
       "merged": 0
     },
     "Décembre-2017": {
