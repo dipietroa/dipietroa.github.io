@@ -1,15 +1,15 @@
 {
-  "lastUpdate": "2018-01-25T18:41:41.084Z",
+  "lastUpdate": "2018-01-25T19:41:18.382Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2325,
+  "totalPR": 2329,
   "lastPR": {
-    "createdAt": "2018-01-25T17:48:48Z",
-    "username": "rajadilipkolli"
+    "createdAt": "2018-01-25T19:31:51Z",
+    "username": "andrey916"
   },
   "bestPR": {
     "user": "izeye",
-    "nbPR": 343,
+    "nbPR": 344,
     "image": "https://avatars3.githubusercontent.com/u/1059363?v=4"
   },
   "bestMerged": {
@@ -23,10 +23,20 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "andrey916": {
+      "total": 3,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/31131872?v=4"
+    },
     "rajadilipkolli": {
-      "total": 21,
+      "total": 22,
       "merged": 0,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/24761580?v=4"
+    },
+    "jkschneider": {
+      "total": 9,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/1697736?v=4"
     },
     "htynkn": {
       "total": 23,
@@ -42,11 +52,6 @@
       "total": 134,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/1810547?v=4"
-    },
-    "andrey916": {
-      "total": 2,
-      "merged": 0,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/31131872?v=4"
     },
     "igor-suhorukov": {
       "total": 6,
@@ -64,7 +69,7 @@
       "avatarUrl": "https://avatars1.githubusercontent.com/u/4493719?v=4"
     },
     "izeye": {
-      "total": 343,
+      "total": 344,
       "merged": 1,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/1059363?v=4"
     },
@@ -102,11 +107,6 @@
       "total": 3,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/5798500?v=4"
-    },
-    "jkschneider": {
-      "total": 8,
-      "merged": 0,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/1697736?v=4"
     },
     "hcxin": {
       "total": 1,
@@ -3591,7 +3591,7 @@
   },
   "datePRInfos": {
     "Janvier-2018": {
-      "total": 66,
+      "total": 70,
       "merged": 0
     },
     "Décembre-2017": {
