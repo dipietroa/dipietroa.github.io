@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "2018-01-25T00:42:27.748Z",
+  "lastUpdate": "2018-01-25T01:41:56.338Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 1039,
+  "totalPR": 1040,
   "lastPR": {
-    "createdAt": "2018-01-24T18:24:11Z",
+    "createdAt": "2018-01-25T01:26:11Z",
     "username": "blake-newman"
   },
   "bestPR": {
@@ -29,7 +29,7 @@
       "avatarUrl": "https://avatars1.githubusercontent.com/u/28888508?v=4"
     },
     "blake-newman": {
-      "total": 17,
+      "total": 18,
       "merged": 12,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/7272211?v=4"
     },
@@ -2271,7 +2271,7 @@
   },
   "datePRInfos": {
     "Janvier-2018": {
-      "total": 27,
+      "total": 28,
       "merged": 3
     },
     "Décembre-2017": {
