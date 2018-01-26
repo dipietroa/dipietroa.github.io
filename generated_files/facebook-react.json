@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-01-26T12:44:01.106Z",
+  "lastUpdate": "2018-01-26T13:44:27.286Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6479,
+  "totalPR": 6480,
   "lastPR": {
-    "createdAt": "2018-01-26T05:44:40Z",
-    "username": "acdlite"
+    "createdAt": "2018-01-26T13:32:08Z",
+    "username": "KingHenne"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -18,11 +18,16 @@
     "image": "https://avatars2.githubusercontent.com/u/6820?v=4"
   },
   "bestRatio": {
-    "user": "clairecliu",
+    "user": "KingHenne",
     "ratio": 1,
-    "image": "https://avatars3.githubusercontent.com/u/29962092?v=4"
+    "image": "https://avatars1.githubusercontent.com/u/761683?v=4"
   },
   "userPRInfos": {
+    "KingHenne": {
+      "total": 1,
+      "merged": 1,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/761683?v=4"
+    },
     "acdlite": {
       "total": 163,
       "merged": 130,
@@ -9626,8 +9631,8 @@
   },
   "datePRInfos": {
     "Janvier-2018": {
-      "total": 70,
-      "merged": 42
+      "total": 71,
+      "merged": 43
     },
     "Décembre-2017": {
       "total": 100,
