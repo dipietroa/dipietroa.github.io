@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-01-26T11:41:43.373Z",
+  "lastUpdate": "2018-01-26T12:41:09.497Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2333,
+  "totalPR": 2334,
   "lastPR": {
-    "createdAt": "2018-01-26T10:52:32Z",
-    "username": "izeye"
+    "createdAt": "2018-01-26T12:03:52Z",
+    "username": "panchenko"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "panchenko": {
+      "total": 2,
+      "merged": 0,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/440271?v=4"
+    },
     "izeye": {
       "total": 345,
       "merged": 1,
@@ -3058,11 +3063,6 @@
       "merged": 0,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/1413158?v=4"
     },
-    "panchenko": {
-      "total": 1,
-      "merged": 0,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/440271?v=4"
-    },
     "ceefour": {
       "total": 1,
       "merged": 0,
@@ -3591,7 +3591,7 @@
   },
   "datePRInfos": {
     "Janvier-2018": {
-      "total": 74,
+      "total": 75,
       "merged": 0
     },
     "Décembre-2017": {
