@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-01-27T16:42:28.717Z",
+  "lastUpdate": "2018-01-27T17:41:59.693Z",
   "cowner": "fastify",
   "crepo": "fastify",
-  "totalPR": 419,
+  "totalPR": 420,
   "lastPR": {
-    "createdAt": "2018-01-25T17:00:30Z",
-    "username": "nwoltman"
+    "createdAt": "2018-01-27T17:08:43Z",
+    "username": "sarneeh"
   },
   "bestPR": {
     "user": "delvedor",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/582446?v=4"
   },
   "userPRInfos": {
+    "sarneeh": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/11553624?v=4"
+    },
     "nwoltman": {
       "total": 35,
       "merged": 32,
@@ -386,7 +391,7 @@
   },
   "datePRInfos": {
     "Janvier-2018": {
-      "total": 79,
+      "total": 80,
       "merged": 65
     },
     "Décembre-2017": {
