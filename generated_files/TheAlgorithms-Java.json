@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-01-27T12:41:40.614Z",
+  "lastUpdate": "2018-01-27T13:41:41.444Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
-  "totalPR": 342,
+  "totalPR": 343,
   "lastPR": {
-    "createdAt": "2018-01-24T16:06:45Z",
-    "username": "GammaBurst101"
+    "createdAt": "2018-01-27T12:54:59Z",
+    "username": "debck"
   },
   "bestPR": {
     "user": "theycallmemac",
@@ -23,6 +23,11 @@
     "image": "https://avatars0.githubusercontent.com/u/35678205?v=4"
   },
   "userPRInfos": {
+    "debck": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/33368759?v=4"
+    },
     "GammaBurst101": {
       "total": 1,
       "merged": 1,
@@ -871,7 +876,7 @@
   },
   "datePRInfos": {
     "Janvier-2018": {
-      "total": 3,
+      "total": 4,
       "merged": 1
     },
     "Décembre-2017": {
