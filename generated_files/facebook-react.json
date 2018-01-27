@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-01-27T19:44:45.634Z",
+  "lastUpdate": "2018-01-27T20:44:10.662Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6481,
+  "totalPR": 6482,
   "lastPR": {
-    "createdAt": "2018-01-26T18:22:18Z",
-    "username": "bvaughn"
+    "createdAt": "2018-01-27T20:16:28Z",
+    "username": "maciej-ka"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/761683?v=4"
   },
   "userPRInfos": {
+    "maciej-ka": {
+      "total": 5,
+      "merged": 3,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/5403694?v=4"
+    },
     "bvaughn": {
       "total": 172,
       "merged": 156,
@@ -1992,11 +1997,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/17366068?v=4"
-    },
-    "maciej-ka": {
-      "total": 4,
-      "merged": 3,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/5403694?v=4"
     },
     "leobalter": {
       "total": 1,
@@ -9631,7 +9631,7 @@
   },
   "datePRInfos": {
     "Janvier-2018": {
-      "total": 72,
+      "total": 73,
       "merged": 43
     },
     "Décembre-2017": {
