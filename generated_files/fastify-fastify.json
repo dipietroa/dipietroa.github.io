@@ -1,15 +1,15 @@
 {
-  "lastUpdate": "2018-01-28T13:42:24.855Z",
+  "lastUpdate": "2018-01-28T14:42:29.261Z",
   "cowner": "fastify",
   "crepo": "fastify",
-  "totalPR": 420,
+  "totalPR": 421,
   "lastPR": {
-    "createdAt": "2018-01-27T17:08:43Z",
-    "username": "sarneeh"
+    "createdAt": "2018-01-28T14:18:55Z",
+    "username": "delvedor"
   },
   "bestPR": {
     "user": "delvedor",
-    "nbPR": 81,
+    "nbPR": 82,
     "image": "https://avatars0.githubusercontent.com/u/4865608?v=4"
   },
   "bestMerged": {
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/582446?v=4"
   },
   "userPRInfos": {
+    "delvedor": {
+      "total": 82,
+      "merged": 79,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/4865608?v=4"
+    },
     "sarneeh": {
       "total": 1,
       "merged": 0,
@@ -47,11 +52,6 @@
       "total": 3,
       "merged": 2,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/16144158?v=4"
-    },
-    "delvedor": {
-      "total": 81,
-      "merged": 79,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/4865608?v=4"
     },
     "thekemkid": {
       "total": 1,
@@ -391,7 +391,7 @@
   },
   "datePRInfos": {
     "Janvier-2018": {
-      "total": 80,
+      "total": 81,
       "merged": 65
     },
     "Décembre-2017": {
