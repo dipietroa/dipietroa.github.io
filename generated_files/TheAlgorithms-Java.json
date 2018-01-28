@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "2018-01-28T10:41:49.786Z",
+  "lastUpdate": "2018-01-28T11:41:26.530Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
-  "totalPR": 343,
+  "totalPR": 344,
   "lastPR": {
-    "createdAt": "2018-01-27T12:54:59Z",
+    "createdAt": "2018-01-28T10:54:41Z",
     "username": "debck"
   },
   "bestPR": {
@@ -24,7 +24,7 @@
   },
   "userPRInfos": {
     "debck": {
-      "total": 1,
+      "total": 2,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/33368759?v=4"
     },
@@ -876,7 +876,7 @@
   },
   "datePRInfos": {
     "Janvier-2018": {
-      "total": 4,
+      "total": 5,
       "merged": 1
     },
     "Décembre-2017": {
