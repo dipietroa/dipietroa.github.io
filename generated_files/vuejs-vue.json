@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-01-28T14:42:15.510Z",
+  "lastUpdate": "2018-01-28T15:42:00.521Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 1042,
+  "totalPR": 1043,
   "lastPR": {
-    "createdAt": "2018-01-27T15:20:38Z",
-    "username": "posva"
+    "createdAt": "2018-01-28T15:21:26Z",
+    "username": "william-pan"
   },
   "bestPR": {
     "user": "kazupon",
@@ -27,6 +27,11 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/28888508?v=4"
+    },
+    "william-pan": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/20611735?v=4"
     },
     "posva": {
       "total": 30,
@@ -2271,7 +2276,7 @@
   },
   "datePRInfos": {
     "Janvier-2018": {
-      "total": 30,
+      "total": 31,
       "merged": 3
     },
     "Décembre-2017": {
