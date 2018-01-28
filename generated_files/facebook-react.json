@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-01-28T14:44:27.003Z",
+  "lastUpdate": "2018-01-28T15:44:10.904Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6482,
+  "totalPR": 6483,
   "lastPR": {
-    "createdAt": "2018-01-27T20:16:28Z",
-    "username": "maciej-ka"
+    "createdAt": "2018-01-28T15:14:11Z",
+    "username": "ambar"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/761683?v=4"
   },
   "userPRInfos": {
+    "ambar": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/105919?v=4"
+    },
     "maciej-ka": {
       "total": 5,
       "merged": 4,
@@ -9631,7 +9636,7 @@
   },
   "datePRInfos": {
     "Janvier-2018": {
-      "total": 73,
+      "total": 74,
       "merged": 44
     },
     "Décembre-2017": {
