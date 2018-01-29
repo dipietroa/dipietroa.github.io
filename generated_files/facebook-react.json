@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-01-29T15:44:46.380Z",
+  "lastUpdate": "2018-01-29T16:44:43.927Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6483,
+  "totalPR": 6484,
   "lastPR": {
-    "createdAt": "2018-01-28T15:14:11Z",
-    "username": "ambar"
+    "createdAt": "2018-01-29T16:13:07Z",
+    "username": "dallgoot"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/761683?v=4"
   },
   "userPRInfos": {
+    "dallgoot": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/26066516?v=4"
+    },
     "ambar": {
       "total": 1,
       "merged": 0,
@@ -35,7 +40,7 @@
     },
     "bvaughn": {
       "total": 172,
-      "merged": 156,
+      "merged": 157,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/29597?v=4"
     },
     "KingHenne": {
@@ -9636,8 +9641,8 @@
   },
   "datePRInfos": {
     "Janvier-2018": {
-      "total": 74,
-      "merged": 44
+      "total": 75,
+      "merged": 45
     },
     "Décembre-2017": {
       "total": 100,
