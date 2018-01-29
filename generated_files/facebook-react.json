@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-01-29T16:44:43.927Z",
+  "lastUpdate": "2018-01-29T17:44:27.648Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6484,
+  "totalPR": 6485,
   "lastPR": {
-    "createdAt": "2018-01-29T16:13:07Z",
-    "username": "dallgoot"
+    "createdAt": "2018-01-29T17:41:01Z",
+    "username": "giles-v"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/761683?v=4"
   },
   "userPRInfos": {
+    "giles-v": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/248669?v=4"
+    },
     "dallgoot": {
       "total": 1,
       "merged": 0,
@@ -9641,7 +9646,7 @@
   },
   "datePRInfos": {
     "Janvier-2018": {
-      "total": 75,
+      "total": 76,
       "merged": 45
     },
     "Décembre-2017": {
