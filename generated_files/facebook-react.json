@@ -1,8 +1,8 @@
 {
-  "lastUpdate": "2018-01-30T19:44:37.514Z",
+  "lastUpdate": "2018-01-30T20:44:42.364Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6489,
+  "totalPR": 6487,
   "lastPR": {
     "createdAt": "2018-01-30T19:32:24Z",
     "username": "acdlite"
@@ -152,11 +152,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/22643415?v=4"
-    },
-    "DATLegendKujo": {
-      "total": 2,
-      "merged": 0,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/26561893?v=4"
     },
     "benbraou": {
       "total": 1,
@@ -9646,7 +9641,7 @@
   },
   "datePRInfos": {
     "Janvier-2018": {
-      "total": 80,
+      "total": 78,
       "merged": 49
     },
     "Décembre-2017": {
