@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "2018-01-30T02:44:19.140Z",
+  "lastUpdate": "2018-01-30T03:44:27.512Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6487,
+  "totalPR": 6488,
   "lastPR": {
-    "createdAt": "2018-01-30T02:23:59Z",
+    "createdAt": "2018-01-30T03:12:44Z",
     "username": "acdlite"
   },
   "bestPR": {
@@ -24,8 +24,8 @@
   },
   "userPRInfos": {
     "acdlite": {
-      "total": 164,
-      "merged": 130,
+      "total": 165,
+      "merged": 131,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/3624098?v=4"
     },
     "bvaughn": {
@@ -9646,8 +9646,8 @@
   },
   "datePRInfos": {
     "Janvier-2018": {
-      "total": 78,
-      "merged": 46
+      "total": 79,
+      "merged": 47
     },
     "Décembre-2017": {
       "total": 100,
