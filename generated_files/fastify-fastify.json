@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-01-30T17:42:33.085Z",
+  "lastUpdate": "2018-01-30T18:42:31.696Z",
   "cowner": "fastify",
   "crepo": "fastify",
-  "totalPR": 429,
+  "totalPR": 430,
   "lastPR": {
-    "createdAt": "2018-01-30T13:02:11Z",
-    "username": "sebdeckers"
+    "createdAt": "2018-01-30T17:58:22Z",
+    "username": "mcollina"
   },
   "bestPR": {
     "user": "delvedor",
@@ -18,20 +18,20 @@
     "image": "https://avatars0.githubusercontent.com/u/4865608?v=4"
   },
   "bestRatio": {
-    "user": "PavelPolyakov",
+    "user": "sebdeckers",
     "ratio": 1,
-    "image": "https://avatars0.githubusercontent.com/u/839290?v=4"
+    "image": "https://avatars0.githubusercontent.com/u/78718?v=4"
   },
   "userPRInfos": {
+    "mcollina": {
+      "total": 55,
+      "merged": 51,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/52195?v=4"
+    },
     "sebdeckers": {
       "total": 6,
-      "merged": 5,
+      "merged": 6,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/78718?v=4"
-    },
-    "mcollina": {
-      "total": 54,
-      "merged": 49,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/52195?v=4"
     },
     "PavelPolyakov": {
       "total": 2,
@@ -40,7 +40,7 @@
     },
     "greenkeeper[bot]": {
       "total": 44,
-      "merged": 21,
+      "merged": 22,
       "avatarUrl": "https://avatars3.githubusercontent.com/in/505?v=4"
     },
     "nwoltman": {
@@ -391,8 +391,8 @@
   },
   "datePRInfos": {
     "Janvier-2018": {
-      "total": 89,
-      "merged": 68
+      "total": 90,
+      "merged": 72
     },
     "Décembre-2017": {
       "total": 54,
