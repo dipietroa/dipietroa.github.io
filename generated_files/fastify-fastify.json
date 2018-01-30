@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-01-30T08:42:16.727Z",
+  "lastUpdate": "2018-01-30T09:42:19.991Z",
   "cowner": "fastify",
   "crepo": "fastify",
-  "totalPR": 427,
+  "totalPR": 428,
   "lastPR": {
-    "createdAt": "2018-01-29T15:13:09Z",
-    "username": "PavelPolyakov"
+    "createdAt": "2018-01-30T09:01:02Z",
+    "username": "mcollina"
   },
   "bestPR": {
     "user": "delvedor",
@@ -23,15 +23,15 @@
     "image": "https://avatars0.githubusercontent.com/u/839290?v=4"
   },
   "userPRInfos": {
+    "mcollina": {
+      "total": 54,
+      "merged": 49,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/52195?v=4"
+    },
     "PavelPolyakov": {
       "total": 2,
       "merged": 2,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/839290?v=4"
-    },
-    "mcollina": {
-      "total": 53,
-      "merged": 49,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/52195?v=4"
     },
     "greenkeeper[bot]": {
       "total": 44,
@@ -391,7 +391,7 @@
   },
   "datePRInfos": {
     "Janvier-2018": {
-      "total": 87,
+      "total": 88,
       "merged": 68
     },
     "Décembre-2017": {
