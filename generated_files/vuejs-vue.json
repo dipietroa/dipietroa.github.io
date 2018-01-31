@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-01-31T05:42:24.611Z",
+  "lastUpdate": "2018-01-31T06:41:38.526Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 1043,
+  "totalPR": 1044,
   "lastPR": {
-    "createdAt": "2018-01-28T15:21:26Z",
-    "username": "william-pan"
+    "createdAt": "2018-01-31T06:25:09Z",
+    "username": "dear-lizhihua"
   },
   "bestPR": {
     "user": "kazupon",
@@ -27,6 +27,11 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/28888508?v=4"
+    },
+    "dear-lizhihua": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/15142680?v=4"
     },
     "william-pan": {
       "total": 1,
@@ -2276,7 +2281,7 @@
   },
   "datePRInfos": {
     "Janvier-2018": {
-      "total": 31,
+      "total": 32,
       "merged": 4
     },
     "Décembre-2017": {
