@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-02-01T14:12:46.566Z",
+  "lastUpdate": "2018-02-01T15:21:42.001Z",
   "cowner": "fastify",
   "crepo": "fastify",
   "totalPR": 439,
@@ -14,7 +14,7 @@
   },
   "bestMerged": {
     "user": "delvedor",
-    "nbPR": 81,
+    "nbPR": 82,
     "image": "https://avatars0.githubusercontent.com/u/4865608?v=4"
   },
   "bestRatio": {
@@ -25,7 +25,7 @@
   "userPRInfos": {
     "delvedor": {
       "total": 84,
-      "merged": 81,
+      "merged": 82,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/4865608?v=4"
     },
     "mcollina": {
@@ -397,7 +397,7 @@
   "datePRInfos": {
     "Février-2018": {
       "total": 6,
-      "merged": 4
+      "merged": 5
     },
     "Janvier-2018": {
       "total": 93,
