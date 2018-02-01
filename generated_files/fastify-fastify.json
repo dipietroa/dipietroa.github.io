@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-02-01T15:21:42.001Z",
+  "lastUpdate": "2018-02-01T16:34:03.350Z",
   "cowner": "fastify",
   "crepo": "fastify",
-  "totalPR": 439,
+  "totalPR": 440,
   "lastPR": {
-    "createdAt": "2018-02-01T12:00:12Z",
-    "username": "delvedor"
+    "createdAt": "2018-02-01T16:30:55Z",
+    "username": "tikotzky"
   },
   "bestPR": {
     "user": "delvedor",
@@ -18,11 +18,16 @@
     "image": "https://avatars0.githubusercontent.com/u/4865608?v=4"
   },
   "bestRatio": {
-    "user": "tikotzky",
+    "user": "jsumners",
     "ratio": 1,
-    "image": "https://avatars3.githubusercontent.com/u/200528?v=4"
+    "image": "https://avatars1.githubusercontent.com/u/321201?v=4"
   },
   "userPRInfos": {
+    "tikotzky": {
+      "total": 2,
+      "merged": 1,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/200528?v=4"
+    },
     "delvedor": {
       "total": 84,
       "merged": 82,
@@ -37,11 +42,6 @@
       "total": 46,
       "merged": 23,
       "avatarUrl": "https://avatars3.githubusercontent.com/in/505?v=4"
-    },
-    "tikotzky": {
-      "total": 1,
-      "merged": 1,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/200528?v=4"
     },
     "jsumners": {
       "total": 29,
@@ -396,7 +396,7 @@
   },
   "datePRInfos": {
     "Février-2018": {
-      "total": 6,
+      "total": 7,
       "merged": 5
     },
     "Janvier-2018": {
