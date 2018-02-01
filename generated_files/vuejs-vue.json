@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-01-31T23:41:59.968Z",
+  "lastUpdate": "2018-02-01T00:41:53.595Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 1044,
+  "totalPR": 1045,
   "lastPR": {
-    "createdAt": "2018-01-31T06:25:09Z",
-    "username": "dear-lizhihua"
+    "createdAt": "2018-02-01T00:21:19Z",
+    "username": "ArStah"
   },
   "bestPR": {
     "user": "kazupon",
@@ -27,6 +27,11 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/28888508?v=4"
+    },
+    "ArStah": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/30985699?v=4"
     },
     "dear-lizhihua": {
       "total": 1,
@@ -2280,6 +2285,10 @@
     }
   },
   "datePRInfos": {
+    "Février-2018": {
+      "total": 1,
+      "merged": 0
+    },
     "Janvier-2018": {
       "total": 32,
       "merged": 4
