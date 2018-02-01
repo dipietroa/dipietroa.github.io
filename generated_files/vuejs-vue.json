@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-02-01T01:41:53.318Z",
+  "lastUpdate": "2018-02-01T02:41:27.838Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 1045,
+  "totalPR": 1046,
   "lastPR": {
-    "createdAt": "2018-02-01T00:21:19Z",
-    "username": "ArStah"
+    "createdAt": "2018-02-01T02:02:15Z",
+    "username": "ktsn"
   },
   "bestPR": {
     "user": "kazupon",
@@ -27,6 +27,11 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/28888508?v=4"
+    },
+    "ktsn": {
+      "total": 19,
+      "merged": 17,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/2194624?v=4"
     },
     "ArStah": {
       "total": 1,
@@ -212,11 +217,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/1286563?v=4"
-    },
-    "ktsn": {
-      "total": 18,
-      "merged": 17,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/2194624?v=4"
     },
     "QingWei-Li": {
       "total": 2,
@@ -2286,7 +2286,7 @@
   },
   "datePRInfos": {
     "Février-2018": {
-      "total": 1,
+      "total": 2,
       "merged": 0
     },
     "Janvier-2018": {
