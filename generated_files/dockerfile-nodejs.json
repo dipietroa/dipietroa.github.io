@@ -1,16 +1,16 @@
 {
-  "lastUpdate": "2018-02-01T07:41:50.923Z",
+  "lastUpdate": "2018-02-01T08:41:53.163Z",
   "cowner": "dockerfile",
   "crepo": "nodejs",
-  "totalPR": 6,
+  "totalPR": 7,
   "lastPR": {
-    "createdAt": "2017-07-10T07:26:38Z",
-    "username": "Nithya25Mari"
+    "createdAt": "2018-02-01T07:56:56Z",
+    "username": "sonamsachdeva"
   },
   "bestPR": {
-    "user": "Nithya25Mari",
+    "user": "sonamsachdeva",
     "nbPR": 1,
-    "image": "https://avatars3.githubusercontent.com/u/26431700?v=4"
+    "image": "https://avatars1.githubusercontent.com/u/25509020?v=4"
   },
   "bestMerged": {
     "user": "adam-beck",
@@ -23,6 +23,11 @@
     "image": "https://avatars2.githubusercontent.com/u/6046654?v=4"
   },
   "userPRInfos": {
+    "sonamsachdeva": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/25509020?v=4"
+    },
     "Nithya25Mari": {
       "total": 1,
       "merged": 0,
@@ -55,6 +60,10 @@
     }
   },
   "datePRInfos": {
+    "Février-2018": {
+      "total": 1,
+      "merged": 0
+    },
     "Juillet-2017": {
       "total": 1,
       "merged": 0
