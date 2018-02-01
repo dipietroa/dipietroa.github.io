@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-02-01T18:57:47.922Z",
+  "lastUpdate": "2018-02-01T20:04:54.518Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 6490,
@@ -25,7 +25,7 @@
   "userPRInfos": {
     "bvaughn": {
       "total": 176,
-      "merged": 160,
+      "merged": 161,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/29597?v=4"
     },
     "acdlite": {
@@ -9642,7 +9642,7 @@
   "datePRInfos": {
     "Février-2018": {
       "total": 1,
-      "merged": 0
+      "merged": 1
     },
     "Janvier-2018": {
       "total": 80,
