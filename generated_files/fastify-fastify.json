@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-02-01T07:42:24.426Z",
+  "lastUpdate": "2018-02-01T08:42:37.303Z",
   "cowner": "fastify",
   "crepo": "fastify",
   "totalPR": 434,
@@ -18,14 +18,14 @@
     "image": "https://avatars0.githubusercontent.com/u/4865608?v=4"
   },
   "bestRatio": {
-    "user": "jsumners",
+    "user": "tikotzky",
     "ratio": 1,
-    "image": "https://avatars1.githubusercontent.com/u/321201?v=4"
+    "image": "https://avatars3.githubusercontent.com/u/200528?v=4"
   },
   "userPRInfos": {
     "tikotzky": {
       "total": 1,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/200528?v=4"
     },
     "jsumners": {
@@ -397,7 +397,7 @@
   "datePRInfos": {
     "Février-2018": {
       "total": 1,
-      "merged": 0
+      "merged": 1
     },
     "Janvier-2018": {
       "total": 93,
