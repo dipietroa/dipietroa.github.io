@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-02-02T15:42:35.877Z",
+  "lastUpdate": "2018-02-02T16:42:47.066Z",
   "cowner": "fastify",
   "crepo": "fastify",
   "totalPR": 442,
@@ -80,7 +80,7 @@
     },
     "Ethan-Arrowood": {
       "total": 3,
-      "merged": 2,
+      "merged": 3,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/16144158?v=4"
     },
     "thekemkid": {
@@ -401,7 +401,7 @@
     },
     "Janvier-2018": {
       "total": 93,
-      "merged": 77
+      "merged": 78
     },
     "Décembre-2017": {
       "total": 54,
