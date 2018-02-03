@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-02-03T15:41:48.199Z",
+  "lastUpdate": "2018-02-03T16:42:08.048Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 1048,
+  "totalPR": 1049,
   "lastPR": {
-    "createdAt": "2018-02-03T02:03:44Z",
-    "username": "g-plane"
+    "createdAt": "2018-02-03T16:25:22Z",
+    "username": "cerlestes"
   },
   "bestPR": {
     "user": "kazupon",
@@ -27,6 +27,11 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/28888508?v=4"
+    },
+    "cerlestes": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/6085124?v=4"
     },
     "g-plane": {
       "total": 1,
@@ -2291,7 +2296,7 @@
   },
   "datePRInfos": {
     "Février-2018": {
-      "total": 4,
+      "total": 5,
       "merged": 0
     },
     "Janvier-2018": {
