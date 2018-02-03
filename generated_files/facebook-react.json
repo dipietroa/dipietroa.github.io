@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-02-03T22:44:15.096Z",
+  "lastUpdate": "2018-02-03T23:44:01.841Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6491,
+  "totalPR": 6492,
   "lastPR": {
-    "createdAt": "2018-02-01T20:12:40Z",
-    "username": "spirosikmd"
+    "createdAt": "2018-02-03T22:50:26Z",
+    "username": "istarkov"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/761683?v=4"
   },
   "userPRInfos": {
+    "istarkov": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/5077042?v=4"
+    },
     "spirosikmd": {
       "total": 1,
       "merged": 0,
@@ -9646,7 +9651,7 @@
   },
   "datePRInfos": {
     "Février-2018": {
-      "total": 2,
+      "total": 3,
       "merged": 1
     },
     "Janvier-2018": {
