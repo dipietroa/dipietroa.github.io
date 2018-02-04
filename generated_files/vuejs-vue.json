@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-02-04T04:42:12.489Z",
+  "lastUpdate": "2018-02-04T05:41:50.578Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 1049,
+  "totalPR": 1050,
   "lastPR": {
-    "createdAt": "2018-02-03T16:25:22Z",
-    "username": "cerlestes"
+    "createdAt": "2018-02-04T04:49:11Z",
+    "username": "commonstarling"
   },
   "bestPR": {
     "user": "kazupon",
@@ -27,6 +27,11 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/28888508?v=4"
+    },
+    "commonstarling": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/14931558?v=4"
     },
     "cerlestes": {
       "total": 1,
@@ -2296,7 +2301,7 @@
   },
   "datePRInfos": {
     "Février-2018": {
-      "total": 5,
+      "total": 6,
       "merged": 1
     },
     "Janvier-2018": {
