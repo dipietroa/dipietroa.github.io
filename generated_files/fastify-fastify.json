@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-02-04T00:42:27.640Z",
+  "lastUpdate": "2018-02-04T01:42:41.765Z",
   "cowner": "fastify",
   "crepo": "fastify",
-  "totalPR": 444,
+  "totalPR": 445,
   "lastPR": {
-    "createdAt": "2018-02-03T01:11:15Z",
-    "username": "nwoltman"
+    "createdAt": "2018-02-04T01:21:56Z",
+    "username": "trivikr"
   },
   "bestPR": {
     "user": "delvedor",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/321201?v=4"
   },
   "userPRInfos": {
+    "trivikr": {
+      "total": 2,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/16024985?v=4"
+    },
     "nwoltman": {
       "total": 41,
       "merged": 37,
@@ -182,11 +187,6 @@
       "total": 2,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/3198597?v=4"
-    },
-    "trivikr": {
-      "total": 1,
-      "merged": 0,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/16024985?v=4"
     },
     "SerayaEryn": {
       "total": 5,
@@ -396,7 +396,7 @@
   },
   "datePRInfos": {
     "Février-2018": {
-      "total": 11,
+      "total": 12,
       "merged": 8
     },
     "Janvier-2018": {
