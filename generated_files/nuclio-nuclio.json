@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-02-04T10:41:53.196Z",
+  "lastUpdate": "2018-02-04T11:41:47.935Z",
   "cowner": "nuclio",
   "crepo": "nuclio",
   "totalPR": 399,
@@ -25,7 +25,7 @@
   "userPRInfos": {
     "Sharon-iguazio": {
       "total": 21,
-      "merged": 19,
+      "merged": 20,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/27913885?v=4"
     },
     "tonyrewin": {
@@ -102,7 +102,7 @@
   "datePRInfos": {
     "Février-2018": {
       "total": 4,
-      "merged": 1
+      "merged": 2
     },
     "Janvier-2018": {
       "total": 70,
