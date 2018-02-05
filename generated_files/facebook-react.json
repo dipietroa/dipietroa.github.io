@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-02-05T16:45:20.690Z",
+  "lastUpdate": "2018-02-05T17:44:33.510Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 6497,
@@ -25,7 +25,7 @@
   "userPRInfos": {
     "gaearon": {
       "total": 525,
-      "merged": 449,
+      "merged": 451,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/810438?v=4"
     },
     "pshrmn": {
@@ -235,7 +235,7 @@
     },
     "HeroProtagonist": {
       "total": 2,
-      "merged": 1,
+      "merged": 2,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/12506217?v=4"
     },
     "jwbay": {
@@ -9657,11 +9657,11 @@
   "datePRInfos": {
     "Février-2018": {
       "total": 8,
-      "merged": 4
+      "merged": 6
     },
     "Janvier-2018": {
       "total": 80,
-      "merged": 53
+      "merged": 54
     },
     "Décembre-2017": {
       "total": 100,
