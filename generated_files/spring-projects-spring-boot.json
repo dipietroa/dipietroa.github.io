@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-02-05T07:41:33.233Z",
+  "lastUpdate": "2018-02-05T08:41:36.085Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2359,
+  "totalPR": 2360,
   "lastPR": {
-    "createdAt": "2018-02-02T21:32:24Z",
-    "username": "garyrussell"
+    "createdAt": "2018-02-05T08:00:12Z",
+    "username": "atrijitdasgupta"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "atrijitdasgupta": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/12153228?v=4"
+    },
     "garyrussell": {
       "total": 43,
       "merged": 1,
@@ -3616,7 +3621,7 @@
   },
   "datePRInfos": {
     "Février-2018": {
-      "total": 5,
+      "total": 6,
       "merged": 0
     },
     "Janvier-2018": {
