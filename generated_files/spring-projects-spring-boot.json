@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-02-05T12:41:23.546Z",
+  "lastUpdate": "2018-02-05T13:41:20.272Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2360,
+  "totalPR": 2361,
   "lastPR": {
-    "createdAt": "2018-02-05T08:00:12Z",
-    "username": "atrijitdasgupta"
+    "createdAt": "2018-02-05T13:38:22Z",
+    "username": "sdeleuze"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "sdeleuze": {
+      "total": 21,
+      "merged": 1,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/141109?v=4"
+    },
     "atrijitdasgupta": {
       "total": 1,
       "merged": 0,
@@ -127,11 +132,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/4493719?v=4"
-    },
-    "sdeleuze": {
-      "total": 20,
-      "merged": 1,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/141109?v=4"
     },
     "ITman1": {
       "total": 1,
@@ -3621,7 +3621,7 @@
   },
   "datePRInfos": {
     "Février-2018": {
-      "total": 6,
+      "total": 7,
       "merged": 0
     },
     "Janvier-2018": {
