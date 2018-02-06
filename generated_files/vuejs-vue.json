@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-02-06T12:42:27.975Z",
+  "lastUpdate": "2018-02-06T13:42:30.284Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 1051,
+  "totalPR": 1052,
   "lastPR": {
-    "createdAt": "2018-02-06T12:00:38Z",
-    "username": "Hanks10100"
+    "createdAt": "2018-02-06T12:58:57Z",
+    "username": "wangyi7099"
   },
   "bestPR": {
     "user": "kazupon",
@@ -27,6 +27,11 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/28888508?v=4"
+    },
+    "wangyi7099": {
+      "total": 2,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/24426655?v=4"
     },
     "Hanks10100": {
       "total": 36,
@@ -267,11 +272,6 @@
       "total": 2,
       "merged": 2,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/4497128?v=4"
-    },
-    "wangyi7099": {
-      "total": 1,
-      "merged": 0,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/24426655?v=4"
     },
     "lyh2668": {
       "total": 1,
@@ -2301,7 +2301,7 @@
   },
   "datePRInfos": {
     "Février-2018": {
-      "total": 7,
+      "total": 8,
       "merged": 2
     },
     "Janvier-2018": {
