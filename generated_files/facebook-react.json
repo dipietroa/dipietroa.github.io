@@ -1,8 +1,8 @@
 {
-  "lastUpdate": "2018-02-06T12:45:12.699Z",
+  "lastUpdate": "2018-02-06T13:45:05.502Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6500,
+  "totalPR": 6499,
   "lastPR": {
     "createdAt": "2018-02-06T11:59:12Z",
     "username": "trueadm"
@@ -1247,11 +1247,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/1535430?v=4"
-    },
-    "kant": {
-      "total": 1,
-      "merged": 0,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/32717?v=4"
     },
     "taggon": {
       "total": 1,
@@ -9676,7 +9671,7 @@
       "merged": 160
     },
     "Septembre-2017": {
-      "total": 236,
+      "total": 235,
       "merged": 161
     },
     "Août-2017": {
