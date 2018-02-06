@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-02-06T13:45:05.502Z",
+  "lastUpdate": "2018-02-06T14:45:22.776Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6499,
+  "totalPR": 6500,
   "lastPR": {
-    "createdAt": "2018-02-06T11:59:12Z",
-    "username": "trueadm"
+    "createdAt": "2018-02-06T14:00:41Z",
+    "username": "marionebl"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/5077042?v=4"
   },
   "userPRInfos": {
+    "marionebl": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/4248851?v=4"
+    },
     "trueadm": {
       "total": 38,
       "merged": 30,
@@ -9651,7 +9656,7 @@
   },
   "datePRInfos": {
     "Février-2018": {
-      "total": 11,
+      "total": 12,
       "merged": 7
     },
     "Janvier-2018": {
