@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-02-06T00:42:25.202Z",
+  "lastUpdate": "2018-02-06T01:41:49.567Z",
   "cowner": "vuejs",
   "crepo": "vue",
   "totalPR": 1050,
@@ -18,9 +18,9 @@
     "image": "https://avatars1.githubusercontent.com/u/72989?v=4"
   },
   "bestRatio": {
-    "user": "g-plane",
+    "user": "commonstarling",
     "ratio": 1,
-    "image": "https://avatars1.githubusercontent.com/u/17216317?v=4"
+    "image": "https://avatars1.githubusercontent.com/u/14931558?v=4"
   },
   "userPRInfos": {
     "957685677": {
@@ -30,7 +30,7 @@
     },
     "commonstarling": {
       "total": 1,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/14931558?v=4"
     },
     "cerlestes": {
@@ -2302,7 +2302,7 @@
   "datePRInfos": {
     "Février-2018": {
       "total": 6,
-      "merged": 1
+      "merged": 2
     },
     "Janvier-2018": {
       "total": 32,
