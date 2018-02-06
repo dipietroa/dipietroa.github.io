@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-02-06T02:41:04.856Z",
+  "lastUpdate": "2018-02-06T03:41:02.744Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2362,
+  "totalPR": 2364,
   "lastPR": {
-    "createdAt": "2018-02-05T14:04:56Z",
-    "username": "dreis2211"
+    "createdAt": "2018-02-06T03:12:57Z",
+    "username": "jkschneider"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,16 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "jkschneider": {
+      "total": 12,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/1697736?v=4"
+    },
+    "szantopeter": {
+      "total": 3,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/69414?v=4"
+    },
     "dreis2211": {
       "total": 48,
       "merged": 0,
@@ -77,11 +87,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/1348987?v=4"
-    },
-    "jkschneider": {
-      "total": 11,
-      "merged": 0,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/1697736?v=4"
     },
     "stadler": {
       "total": 1,
@@ -987,11 +992,6 @@
       "total": 2,
       "merged": 0,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/16055826?v=4"
-    },
-    "szantopeter": {
-      "total": 2,
-      "merged": 0,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/69414?v=4"
     },
     "strattonw": {
       "total": 2,
@@ -3621,7 +3621,7 @@
   },
   "datePRInfos": {
     "Février-2018": {
-      "total": 8,
+      "total": 10,
       "merged": 0
     },
     "Janvier-2018": {
