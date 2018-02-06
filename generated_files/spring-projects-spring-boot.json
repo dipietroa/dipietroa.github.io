@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "2018-02-06T14:41:52.618Z",
+  "lastUpdate": "2018-02-06T15:41:30.962Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2364,
+  "totalPR": 2365,
   "lastPR": {
-    "createdAt": "2018-02-06T03:12:57Z",
+    "createdAt": "2018-02-06T14:54:15Z",
     "username": "jkschneider"
   },
   "bestPR": {
@@ -24,7 +24,7 @@
   },
   "userPRInfos": {
     "jkschneider": {
-      "total": 12,
+      "total": 13,
       "merged": 0,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/1697736?v=4"
     },
@@ -3621,7 +3621,7 @@
   },
   "datePRInfos": {
     "Février-2018": {
-      "total": 10,
+      "total": 11,
       "merged": 0
     },
     "Janvier-2018": {
