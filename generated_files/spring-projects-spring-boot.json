@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "2018-02-07T13:41:24.751Z",
+  "lastUpdate": "2018-02-07T14:41:25.072Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2367,
+  "totalPR": 2368,
   "lastPR": {
-    "createdAt": "2018-02-07T12:50:17Z",
+    "createdAt": "2018-02-07T13:53:34Z",
     "username": "michael-simons"
   },
   "bestPR": {
@@ -24,7 +24,7 @@
   },
   "userPRInfos": {
     "michael-simons": {
-      "total": 15,
+      "total": 16,
       "merged": 0,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/526383?v=4"
     },
@@ -3626,7 +3626,7 @@
   },
   "datePRInfos": {
     "Février-2018": {
-      "total": 13,
+      "total": 14,
       "merged": 0
     },
     "Janvier-2018": {
