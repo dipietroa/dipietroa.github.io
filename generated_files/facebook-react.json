@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-02-07T04:44:35.291Z",
+  "lastUpdate": "2018-02-07T05:44:12.067Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6504,
+  "totalPR": 6505,
   "lastPR": {
-    "createdAt": "2018-02-06T22:50:22Z",
-    "username": "shaggay"
+    "createdAt": "2018-02-07T04:44:49Z",
+    "username": "chentsulin"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars2.githubusercontent.com/u/239676?v=4"
   },
   "userPRInfos": {
+    "chentsulin": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/3382565?v=4"
+    },
     "shaggay": {
       "total": 1,
       "merged": 0,
@@ -9671,7 +9676,7 @@
   },
   "datePRInfos": {
     "Février-2018": {
-      "total": 16,
+      "total": 17,
       "merged": 11
     },
     "Janvier-2018": {
