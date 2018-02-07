@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-02-07T06:42:43.173Z",
+  "lastUpdate": "2018-02-07T07:42:37.847Z",
   "cowner": "fastify",
   "crepo": "fastify",
   "totalPR": 453,
@@ -25,7 +25,7 @@
   "userPRInfos": {
     "allevo": {
       "total": 39,
-      "merged": 32,
+      "merged": 33,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/1054125?v=4"
     },
     "sebdeckers": {
@@ -397,7 +397,7 @@
   "datePRInfos": {
     "Février-2018": {
       "total": 20,
-      "merged": 12
+      "merged": 13
     },
     "Janvier-2018": {
       "total": 93,
