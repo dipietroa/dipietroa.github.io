@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "2018-02-07T10:44:42.681Z",
+  "lastUpdate": "2018-02-07T11:45:59.700Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6505,
+  "totalPR": 6506,
   "lastPR": {
-    "createdAt": "2018-02-07T04:44:49Z",
+    "createdAt": "2018-02-07T11:30:00Z",
     "username": "chentsulin"
   },
   "bestPR": {
@@ -18,13 +18,13 @@
     "image": "https://avatars2.githubusercontent.com/u/6820?v=4"
   },
   "bestRatio": {
-    "user": "chentsulin",
+    "user": "necolas",
     "ratio": 1,
-    "image": "https://avatars2.githubusercontent.com/u/3382565?v=4"
+    "image": "https://avatars2.githubusercontent.com/u/239676?v=4"
   },
   "userPRInfos": {
     "chentsulin": {
-      "total": 1,
+      "total": 2,
       "merged": 1,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/3382565?v=4"
     },
@@ -9676,7 +9676,7 @@
   },
   "datePRInfos": {
     "Février-2018": {
-      "total": 17,
+      "total": 18,
       "merged": 12
     },
     "Janvier-2018": {
