@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-02-07T12:41:45.926Z",
+  "lastUpdate": "2018-02-07T13:41:24.751Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2366,
+  "totalPR": 2367,
   "lastPR": {
-    "createdAt": "2018-02-06T21:14:18Z",
-    "username": "pkostrzewa"
+    "createdAt": "2018-02-07T12:50:17Z",
+    "username": "michael-simons"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "michael-simons": {
+      "total": 15,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/526383?v=4"
+    },
     "pkostrzewa": {
       "total": 1,
       "merged": 0,
@@ -472,11 +477,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/32830630?v=4"
-    },
-    "michael-simons": {
-      "total": 14,
-      "merged": 0,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/526383?v=4"
     },
     "thiagohirata": {
       "total": 2,
@@ -3626,7 +3626,7 @@
   },
   "datePRInfos": {
     "Février-2018": {
-      "total": 12,
+      "total": 13,
       "merged": 0
     },
     "Janvier-2018": {
