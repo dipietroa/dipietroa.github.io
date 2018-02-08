@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-02-08T22:44:23.355Z",
+  "lastUpdate": "2018-02-08T23:44:05.970Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6515,
+  "totalPR": 6516,
   "lastPR": {
-    "createdAt": "2018-02-08T22:35:08Z",
-    "username": "rajendraarora16"
+    "createdAt": "2018-02-08T23:26:46Z",
+    "username": "acdlite"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars2.githubusercontent.com/u/3382565?v=4"
   },
   "userPRInfos": {
+    "acdlite": {
+      "total": 167,
+      "merged": 134,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/3624098?v=4"
+    },
     "rajendraarora16": {
       "total": 1,
       "merged": 0,
@@ -87,11 +92,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/1057324?v=4"
-    },
-    "acdlite": {
-      "total": 166,
-      "merged": 134,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/3624098?v=4"
     },
     "giles-v": {
       "total": 1,
@@ -9686,7 +9686,7 @@
   },
   "datePRInfos": {
     "Février-2018": {
-      "total": 26,
+      "total": 27,
       "merged": 17
     },
     "Janvier-2018": {
