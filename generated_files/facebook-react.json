@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-02-07T23:43:55.452Z",
+  "lastUpdate": "2018-02-08T00:44:14.589Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6508,
+  "totalPR": 6509,
   "lastPR": {
-    "createdAt": "2018-02-07T19:40:42Z",
-    "username": "bvaughn"
+    "createdAt": "2018-02-08T00:01:44Z",
+    "username": "necolas"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars2.githubusercontent.com/u/3382565?v=4"
   },
   "userPRInfos": {
+    "necolas": {
+      "total": 2,
+      "merged": 1,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/239676?v=4"
+    },
     "bvaughn": {
       "total": 182,
       "merged": 167,
@@ -37,11 +42,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/34149121?v=4"
-    },
-    "necolas": {
-      "total": 1,
-      "merged": 1,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/239676?v=4"
     },
     "cramaechi": {
       "total": 1,
@@ -9681,7 +9681,7 @@
   },
   "datePRInfos": {
     "Février-2018": {
-      "total": 19,
+      "total": 20,
       "merged": 14
     },
     "Janvier-2018": {
