@@ -1,15 +1,15 @@
 {
-  "lastUpdate": "2018-02-08T21:44:33.195Z",
+  "lastUpdate": "2018-02-08T22:44:23.355Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6513,
+  "totalPR": 6515,
   "lastPR": {
-    "createdAt": "2018-02-08T21:23:58Z",
-    "username": "sophiebits"
+    "createdAt": "2018-02-08T22:35:08Z",
+    "username": "rajendraarora16"
   },
   "bestPR": {
     "user": "sophiebits",
-    "nbPR": 653,
+    "nbPR": 654,
     "image": "https://avatars2.githubusercontent.com/u/6820?v=4"
   },
   "bestMerged": {
@@ -23,14 +23,19 @@
     "image": "https://avatars2.githubusercontent.com/u/3382565?v=4"
   },
   "userPRInfos": {
+    "rajendraarora16": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/7589596?v=4"
+    },
     "sophiebits": {
-      "total": 653,
+      "total": 654,
       "merged": 580,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/6820?v=4"
     },
     "bvaughn": {
       "total": 184,
-      "merged": 168,
+      "merged": 169,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/29597?v=4"
     },
     "necolas": {
@@ -9681,8 +9686,8 @@
   },
   "datePRInfos": {
     "Février-2018": {
-      "total": 24,
-      "merged": 16
+      "total": 26,
+      "merged": 17
     },
     "Janvier-2018": {
       "total": 80,
