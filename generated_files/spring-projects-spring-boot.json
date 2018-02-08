@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-02-08T07:41:06.920Z",
+  "lastUpdate": "2018-02-08T08:41:14.508Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2369,
+  "totalPR": 2370,
   "lastPR": {
-    "createdAt": "2018-02-07T16:50:46Z",
-    "username": "pkostrzewa"
+    "createdAt": "2018-02-08T08:22:07Z",
+    "username": "dwdking"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "dwdking": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/7398563?v=4"
+    },
     "pkostrzewa": {
       "total": 2,
       "merged": 0,
@@ -3626,7 +3631,7 @@
   },
   "datePRInfos": {
     "Février-2018": {
-      "total": 15,
+      "total": 16,
       "merged": 0
     },
     "Janvier-2018": {
