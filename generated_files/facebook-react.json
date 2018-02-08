@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "2018-02-08T03:44:29.573Z",
+  "lastUpdate": "2018-02-08T04:44:31.665Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6509,
+  "totalPR": 6510,
   "lastPR": {
-    "createdAt": "2018-02-08T00:01:44Z",
+    "createdAt": "2018-02-08T04:25:55Z",
     "username": "necolas"
   },
   "bestPR": {
@@ -24,7 +24,7 @@
   },
   "userPRInfos": {
     "necolas": {
-      "total": 2,
+      "total": 3,
       "merged": 1,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/239676?v=4"
     },
@@ -9681,7 +9681,7 @@
   },
   "datePRInfos": {
     "Février-2018": {
-      "total": 20,
+      "total": 21,
       "merged": 14
     },
     "Janvier-2018": {
