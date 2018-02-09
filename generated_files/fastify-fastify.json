@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-02-09T15:43:08.702Z",
+  "lastUpdate": "2018-02-09T16:43:05.962Z",
   "cowner": "fastify",
   "crepo": "fastify",
   "totalPR": 457,
@@ -18,14 +18,14 @@
     "image": "https://avatars0.githubusercontent.com/u/4865608?v=4"
   },
   "bestRatio": {
-    "user": "sebdeckers",
+    "user": "mancioshell",
     "ratio": 1,
-    "image": "https://avatars0.githubusercontent.com/u/78718?v=4"
+    "image": "https://avatars1.githubusercontent.com/u/2076833?v=4"
   },
   "userPRInfos": {
     "mancioshell": {
       "total": 1,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/2076833?v=4"
     },
     "allevo": {
@@ -402,7 +402,7 @@
   "datePRInfos": {
     "Février-2018": {
       "total": 24,
-      "merged": 17
+      "merged": 18
     },
     "Janvier-2018": {
       "total": 93,
