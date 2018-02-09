@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-02-09T05:41:52.926Z",
+  "lastUpdate": "2018-02-09T06:41:25.038Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
-  "totalPR": 347,
+  "totalPR": 348,
   "lastPR": {
-    "createdAt": "2018-02-04T13:49:59Z",
-    "username": "GammaBurst101"
+    "createdAt": "2018-02-09T06:25:34Z",
+    "username": "jackzhao29"
   },
   "bestPR": {
     "user": "theycallmemac",
@@ -23,6 +23,11 @@
     "image": "https://avatars0.githubusercontent.com/u/24251292?v=4"
   },
   "userPRInfos": {
+    "jackzhao29": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/1536047?v=4"
+    },
     "GammaBurst101": {
       "total": 4,
       "merged": 2,
@@ -876,7 +881,7 @@
   },
   "datePRInfos": {
     "Février-2018": {
-      "total": 2,
+      "total": 3,
       "merged": 0
     },
     "Janvier-2018": {
