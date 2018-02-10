@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-02-10T13:45:17.495Z",
+  "lastUpdate": "2018-02-10T14:44:37.212Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6519,
+  "totalPR": 6520,
   "lastPR": {
-    "createdAt": "2018-02-09T23:51:51Z",
-    "username": "acdlite"
+    "createdAt": "2018-02-10T13:55:07Z",
+    "username": "SadPandaBear"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars2.githubusercontent.com/u/3382565?v=4"
   },
   "userPRInfos": {
+    "SadPandaBear": {
+      "total": 2,
+      "merged": 1,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/13281562?v=4"
+    },
     "acdlite": {
       "total": 168,
       "merged": 134,
@@ -767,11 +772,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/952783?v=4"
-    },
-    "SadPandaBear": {
-      "total": 1,
-      "merged": 1,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/13281562?v=4"
     },
     "NicBonetto": {
       "total": 5,
@@ -9686,7 +9686,7 @@
   },
   "datePRInfos": {
     "Février-2018": {
-      "total": 30,
+      "total": 31,
       "merged": 18
     },
     "Janvier-2018": {
