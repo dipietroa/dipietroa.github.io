@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-02-10T15:45:08.997Z",
+  "lastUpdate": "2018-02-10T16:44:38.828Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6520,
+  "totalPR": 6521,
   "lastPR": {
-    "createdAt": "2018-02-10T13:55:07Z",
-    "username": "SadPandaBear"
+    "createdAt": "2018-02-10T15:48:53Z",
+    "username": "gaearon"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars2.githubusercontent.com/u/3382565?v=4"
   },
   "userPRInfos": {
+    "gaearon": {
+      "total": 527,
+      "merged": 453,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/810438?v=4"
+    },
     "SadPandaBear": {
       "total": 2,
       "merged": 1,
@@ -37,11 +42,6 @@
       "total": 185,
       "merged": 169,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/29597?v=4"
-    },
-    "gaearon": {
-      "total": 526,
-      "merged": 452,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/810438?v=4"
     },
     "rajendraarora16": {
       "total": 1,
@@ -9686,8 +9686,8 @@
   },
   "datePRInfos": {
     "Février-2018": {
-      "total": 31,
-      "merged": 18
+      "total": 32,
+      "merged": 19
     },
     "Janvier-2018": {
       "total": 80,
