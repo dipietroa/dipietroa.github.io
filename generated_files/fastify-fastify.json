@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "2018-02-10T18:42:21.987Z",
+  "lastUpdate": "2018-02-10T19:42:27.016Z",
   "cowner": "fastify",
   "crepo": "fastify",
-  "totalPR": 458,
+  "totalPR": 459,
   "lastPR": {
-    "createdAt": "2018-02-09T18:53:07Z",
+    "createdAt": "2018-02-10T19:05:31Z",
     "username": "nwoltman"
   },
   "bestPR": {
@@ -24,7 +24,7 @@
   },
   "userPRInfos": {
     "nwoltman": {
-      "total": 42,
+      "total": 43,
       "merged": 39,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/5128013?v=4"
     },
@@ -401,7 +401,7 @@
   },
   "datePRInfos": {
     "Février-2018": {
-      "total": 25,
+      "total": 26,
       "merged": 19
     },
     "Janvier-2018": {
