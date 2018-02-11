@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-02-11T19:45:16.105Z",
+  "lastUpdate": "2018-02-11T20:44:26.165Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6522,
+  "totalPR": 6523,
   "lastPR": {
-    "createdAt": "2018-02-11T14:04:23Z",
-    "username": "koba04"
+    "createdAt": "2018-02-11T19:48:07Z",
+    "username": "gaearon"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,15 +23,15 @@
     "image": "https://avatars2.githubusercontent.com/u/3382565?v=4"
   },
   "userPRInfos": {
+    "gaearon": {
+      "total": 528,
+      "merged": 453,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/810438?v=4"
+    },
     "koba04": {
       "total": 74,
       "merged": 52,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/250407?v=4"
-    },
-    "gaearon": {
-      "total": 527,
-      "merged": 453,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/810438?v=4"
     },
     "SadPandaBear": {
       "total": 2,
@@ -195,7 +195,7 @@
     },
     "orta": {
       "total": 3,
-      "merged": 2,
+      "merged": 3,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/49038?v=4"
     },
     "esbena": {
@@ -9686,12 +9686,12 @@
   },
   "datePRInfos": {
     "Février-2018": {
-      "total": 33,
+      "total": 34,
       "merged": 19
     },
     "Janvier-2018": {
       "total": 80,
-      "merged": 54
+      "merged": 55
     },
     "Décembre-2017": {
       "total": 100,
