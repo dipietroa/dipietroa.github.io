@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-02-12T12:44:59.316Z",
+  "lastUpdate": "2018-02-12T13:45:27.642Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6525,
+  "totalPR": 6526,
   "lastPR": {
-    "createdAt": "2018-02-12T01:01:04Z",
-    "username": "orta"
+    "createdAt": "2018-02-12T12:44:59Z",
+    "username": "gaearon"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -18,25 +18,25 @@
     "image": "https://avatars2.githubusercontent.com/u/6820?v=4"
   },
   "bestRatio": {
-    "user": "chentsulin",
+    "user": "orta",
     "ratio": 1,
-    "image": "https://avatars2.githubusercontent.com/u/3382565?v=4"
+    "image": "https://avatars2.githubusercontent.com/u/49038?v=4"
   },
   "userPRInfos": {
+    "gaearon": {
+      "total": 529,
+      "merged": 453,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/810438?v=4"
+    },
     "orta": {
       "total": 4,
-      "merged": 3,
+      "merged": 4,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/49038?v=4"
     },
     "bvaughn": {
       "total": 186,
       "merged": 171,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/29597?v=4"
-    },
-    "gaearon": {
-      "total": 528,
-      "merged": 453,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/810438?v=4"
     },
     "koba04": {
       "total": 74,
@@ -9686,8 +9686,8 @@
   },
   "datePRInfos": {
     "Février-2018": {
-      "total": 36,
-      "merged": 21
+      "total": 37,
+      "merged": 22
     },
     "Janvier-2018": {
       "total": 80,
