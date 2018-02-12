@@ -1,15 +1,15 @@
 {
-  "lastUpdate": "2018-02-12T15:41:34.652Z",
+  "lastUpdate": "2018-02-12T16:41:44.268Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2378,
+  "totalPR": 2379,
   "lastPR": {
-    "createdAt": "2018-02-12T11:29:34Z",
-    "username": "gytis"
+    "createdAt": "2018-02-12T15:49:24Z",
+    "username": "izeye"
   },
   "bestPR": {
     "user": "izeye",
-    "nbPR": 351,
+    "nbPR": 352,
     "image": "https://avatars3.githubusercontent.com/u/1059363?v=4"
   },
   "bestMerged": {
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "izeye": {
+      "total": 352,
+      "merged": 1,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/1059363?v=4"
+    },
     "gytis": {
       "total": 9,
       "merged": 0,
@@ -112,11 +117,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/9084666?v=4"
-    },
-    "izeye": {
-      "total": 351,
-      "merged": 1,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/1059363?v=4"
     },
     "diesieben07": {
       "total": 1,
@@ -3641,7 +3641,7 @@
   },
   "datePRInfos": {
     "Février-2018": {
-      "total": 24,
+      "total": 25,
       "merged": 0
     },
     "Janvier-2018": {
