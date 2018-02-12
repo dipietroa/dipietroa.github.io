@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-02-12T10:41:48.996Z",
+  "lastUpdate": "2018-02-12T11:41:19.785Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2377,
+  "totalPR": 2378,
   "lastPR": {
-    "createdAt": "2018-02-12T07:02:52Z",
-    "username": "qinnnyul"
+    "createdAt": "2018-02-12T11:29:34Z",
+    "username": "gytis"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "gytis": {
+      "total": 9,
+      "merged": 0,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/196395?v=4"
+    },
     "qinnnyul": {
       "total": 2,
       "merged": 0,
@@ -757,11 +762,6 @@
       "total": 2,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/146346?v=4"
-    },
-    "gytis": {
-      "total": 8,
-      "merged": 0,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/196395?v=4"
     },
     "olegz": {
       "total": 1,
@@ -3641,7 +3641,7 @@
   },
   "datePRInfos": {
     "Février-2018": {
-      "total": 23,
+      "total": 24,
       "merged": 0
     },
     "Janvier-2018": {
