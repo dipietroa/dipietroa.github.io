@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-02-12T18:41:23.102Z",
+  "lastUpdate": "2018-02-12T19:41:33.288Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2379,
+  "totalPR": 2380,
   "lastPR": {
-    "createdAt": "2018-02-12T15:49:24Z",
-    "username": "izeye"
+    "createdAt": "2018-02-12T19:37:26Z",
+    "username": "candrews"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "candrews": {
+      "total": 16,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/194713?v=4"
+    },
     "izeye": {
       "total": 352,
       "merged": 1,
@@ -477,11 +482,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/3622377?v=4"
-    },
-    "candrews": {
-      "total": 15,
-      "merged": 0,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/194713?v=4"
     },
     "AdrienC": {
       "total": 1,
@@ -3641,7 +3641,7 @@
   },
   "datePRInfos": {
     "Février-2018": {
-      "total": 25,
+      "total": 26,
       "merged": 0
     },
     "Janvier-2018": {
