@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-02-12T06:41:32.515Z",
+  "lastUpdate": "2018-02-12T07:41:50.745Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2376,
+  "totalPR": 2377,
   "lastPR": {
-    "createdAt": "2018-02-10T18:15:35Z",
-    "username": "rupert654"
+    "createdAt": "2018-02-12T07:02:52Z",
+    "username": "qinnnyul"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "qinnnyul": {
+      "total": 2,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/3600881?v=4"
+    },
     "rupert654": {
       "total": 2,
       "merged": 0,
@@ -147,11 +152,6 @@
       "total": 23,
       "merged": 0,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/659135?v=4"
-    },
-    "qinnnyul": {
-      "total": 1,
-      "merged": 0,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/3600881?v=4"
     },
     "eddumelendez": {
       "total": 134,
@@ -3641,7 +3641,7 @@
   },
   "datePRInfos": {
     "Février-2018": {
-      "total": 22,
+      "total": 23,
       "merged": 0
     },
     "Janvier-2018": {
