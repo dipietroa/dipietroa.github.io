@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-02-13T15:45:58.575Z",
+  "lastUpdate": "2018-02-13T16:46:04.013Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6529,
+  "totalPR": 6530,
   "lastPR": {
-    "createdAt": "2018-02-13T03:54:53Z",
-    "username": "acdlite"
+    "createdAt": "2018-02-13T16:37:38Z",
+    "username": "koba04"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars2.githubusercontent.com/u/49038?v=4"
   },
   "userPRInfos": {
+    "koba04": {
+      "total": 75,
+      "merged": 52,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/250407?v=4"
+    },
     "acdlite": {
       "total": 169,
       "merged": 134,
@@ -42,11 +47,6 @@
       "total": 4,
       "merged": 4,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/49038?v=4"
-    },
-    "koba04": {
-      "total": 74,
-      "merged": 52,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/250407?v=4"
     },
     "SadPandaBear": {
       "total": 2,
@@ -9686,7 +9686,7 @@
   },
   "datePRInfos": {
     "Février-2018": {
-      "total": 40,
+      "total": 41,
       "merged": 24
     },
     "Janvier-2018": {
