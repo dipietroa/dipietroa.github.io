@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-02-13T13:43:00.123Z",
+  "lastUpdate": "2018-02-13T14:42:51.351Z",
   "cowner": "nuclio",
   "crepo": "nuclio",
-  "totalPR": 404,
+  "totalPR": 405,
   "lastPR": {
-    "createdAt": "2018-02-12T11:37:29Z",
-    "username": "balster1123"
+    "createdAt": "2018-02-13T13:57:52Z",
+    "username": "omriharel"
   },
   "bestPR": {
     "user": "pavius",
@@ -23,6 +23,11 @@
     "image": "https://avatars0.githubusercontent.com/u/18405855?v=4"
   },
   "userPRInfos": {
+    "omriharel": {
+      "total": 9,
+      "merged": 7,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/10298151?v=4"
+    },
     "balster1123": {
       "total": 18,
       "merged": 17,
@@ -63,11 +68,6 @@
       "merged": 31,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/13918850?v=4"
     },
-    "omriharel": {
-      "total": 8,
-      "merged": 7,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/10298151?v=4"
-    },
     "itye-msft": {
       "total": 5,
       "merged": 3,
@@ -101,7 +101,7 @@
   },
   "datePRInfos": {
     "Février-2018": {
-      "total": 9,
+      "total": 10,
       "merged": 4
     },
     "Janvier-2018": {
