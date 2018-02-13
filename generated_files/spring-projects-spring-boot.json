@@ -1,8 +1,8 @@
 {
-  "lastUpdate": "2018-02-13T08:41:29.932Z",
+  "lastUpdate": "2018-02-13T09:41:21.474Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2386,
+  "totalPR": 2387,
   "lastPR": {
     "createdAt": "2018-02-13T08:18:06Z",
     "username": "alecharp"
@@ -2359,7 +2359,7 @@
       "avatarUrl": "https://avatars2.githubusercontent.com/u/4463380?v=4"
     },
     "mrumpf": {
-      "total": 3,
+      "total": 4,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/1191530?v=4"
     },
@@ -3755,7 +3755,7 @@
       "merged": 0
     },
     "Décembre-2015": {
-      "total": 48,
+      "total": 49,
       "merged": 0
     },
     "Novembre-2015": {
