@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-02-13T09:41:21.474Z",
+  "lastUpdate": "2018-02-13T10:41:40.579Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
   "totalPR": 2387,
   "lastPR": {
-    "createdAt": "2018-02-13T08:18:06Z",
-    "username": "alecharp"
+    "createdAt": "2018-02-13T09:40:54Z",
+    "username": "shakuzen"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "shakuzen": {
+      "total": 20,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/8924140?v=4"
+    },
     "alecharp": {
       "total": 1,
       "merged": 0,
@@ -122,11 +127,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/7439282?v=4"
-    },
-    "shakuzen": {
-      "total": 19,
-      "merged": 0,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/8924140?v=4"
     },
     "vpavic": {
       "total": 123,
@@ -2359,7 +2359,7 @@
       "avatarUrl": "https://avatars2.githubusercontent.com/u/4463380?v=4"
     },
     "mrumpf": {
-      "total": 4,
+      "total": 3,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/1191530?v=4"
     },
@@ -3651,7 +3651,7 @@
   },
   "datePRInfos": {
     "Février-2018": {
-      "total": 32,
+      "total": 33,
       "merged": 0
     },
     "Janvier-2018": {
@@ -3755,7 +3755,7 @@
       "merged": 0
     },
     "Décembre-2015": {
-      "total": 49,
+      "total": 48,
       "merged": 0
     },
     "Novembre-2015": {
