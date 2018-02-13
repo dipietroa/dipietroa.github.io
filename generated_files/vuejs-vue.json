@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-02-13T21:42:32.282Z",
+  "lastUpdate": "2018-02-13T22:42:44.828Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 1052,
+  "totalPR": 1053,
   "lastPR": {
-    "createdAt": "2018-02-06T12:58:57Z",
-    "username": "wangyi7099"
+    "createdAt": "2018-02-13T21:49:01Z",
+    "username": "yaodingyd"
   },
   "bestPR": {
     "user": "kazupon",
@@ -27,6 +27,11 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/28888508?v=4"
+    },
+    "yaodingyd": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/11392695?v=4"
     },
     "wangyi7099": {
       "total": 2,
@@ -2301,7 +2306,7 @@
   },
   "datePRInfos": {
     "Février-2018": {
-      "total": 8,
+      "total": 9,
       "merged": 2
     },
     "Janvier-2018": {
