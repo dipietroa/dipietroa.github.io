@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-02-13T20:41:40.854Z",
+  "lastUpdate": "2018-02-13T21:41:34.663Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2389,
+  "totalPR": 2390,
   "lastPR": {
-    "createdAt": "2018-02-13T20:31:07Z",
-    "username": "jkschneider"
+    "createdAt": "2018-02-13T21:29:30Z",
+    "username": "igor-suhorukov"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "igor-suhorukov": {
+      "total": 10,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/10332206?v=4"
+    },
     "jkschneider": {
       "total": 16,
       "merged": 0,
@@ -57,11 +62,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/18124327?v=4"
-    },
-    "igor-suhorukov": {
-      "total": 9,
-      "merged": 0,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/10332206?v=4"
     },
     "candrews": {
       "total": 16,
@@ -1608,10 +1608,10 @@
       "merged": 0,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/159684?v=4"
     },
-    "hemanth224": {
-      "total": 1,
+    "ghost": {
+      "total": 2,
       "merged": 0,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/18536338?v=4"
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/10137?v=4"
     },
     "alebar": {
       "total": 1,
@@ -1702,11 +1702,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/438661?v=4"
-    },
-    "ghost": {
-      "total": 1,
-      "merged": 0,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/10137?v=4"
     },
     "robfletcher": {
       "total": 1,
@@ -3651,7 +3646,7 @@
   },
   "datePRInfos": {
     "Février-2018": {
-      "total": 35,
+      "total": 36,
       "merged": 0
     },
     "Janvier-2018": {
