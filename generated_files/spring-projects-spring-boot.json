@@ -1,15 +1,15 @@
 {
-  "lastUpdate": "2018-02-13T05:41:22.308Z",
+  "lastUpdate": "2018-02-13T06:41:23.424Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2384,
+  "totalPR": 2385,
   "lastPR": {
-    "createdAt": "2018-02-13T00:53:42Z",
-    "username": "pkostrzewa"
+    "createdAt": "2018-02-13T06:22:53Z",
+    "username": "izeye"
   },
   "bestPR": {
     "user": "izeye",
-    "nbPR": 352,
+    "nbPR": 353,
     "image": "https://avatars3.githubusercontent.com/u/1059363?v=4"
   },
   "bestMerged": {
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "izeye": {
+      "total": 353,
+      "merged": 1,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/1059363?v=4"
+    },
     "pkostrzewa": {
       "total": 3,
       "merged": 0,
@@ -47,11 +52,6 @@
       "total": 16,
       "merged": 0,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/194713?v=4"
-    },
-    "izeye": {
-      "total": 352,
-      "merged": 1,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/1059363?v=4"
     },
     "gytis": {
       "total": 9,
@@ -3646,7 +3646,7 @@
   },
   "datePRInfos": {
     "Février-2018": {
-      "total": 30,
+      "total": 31,
       "merged": 0
     },
     "Janvier-2018": {
