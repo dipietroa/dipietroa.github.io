@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-02-14T14:43:07.445Z",
+  "lastUpdate": "2018-02-14T15:43:36.575Z",
   "cowner": "nuclio",
   "crepo": "nuclio",
-  "totalPR": 407,
+  "totalPR": 409,
   "lastPR": {
-    "createdAt": "2018-02-14T07:19:21Z",
-    "username": "balster1123"
+    "createdAt": "2018-02-14T15:40:17Z",
+    "username": "eran-nussbaum"
   },
   "bestPR": {
     "user": "pavius",
@@ -23,6 +23,16 @@
     "image": "https://avatars0.githubusercontent.com/u/18405855?v=4"
   },
   "userPRInfos": {
+    "eran-nussbaum": {
+      "total": 33,
+      "merged": 31,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/13918850?v=4"
+    },
+    "omriharel": {
+      "total": 10,
+      "merged": 9,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/10298151?v=4"
+    },
     "balster1123": {
       "total": 19,
       "merged": 17,
@@ -32,11 +42,6 @@
       "total": 66,
       "merged": 41,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/87697?v=4"
-    },
-    "omriharel": {
-      "total": 9,
-      "merged": 8,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/10298151?v=4"
     },
     "Sharon-iguazio": {
       "total": 22,
@@ -62,11 +67,6 @@
       "total": 6,
       "merged": 4,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/16291067?v=4"
-    },
-    "eran-nussbaum": {
-      "total": 32,
-      "merged": 31,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/13918850?v=4"
     },
     "itye-msft": {
       "total": 5,
@@ -101,8 +101,8 @@
   },
   "datePRInfos": {
     "Février-2018": {
-      "total": 12,
-      "merged": 5
+      "total": 14,
+      "merged": 6
     },
     "Janvier-2018": {
       "total": 70,
