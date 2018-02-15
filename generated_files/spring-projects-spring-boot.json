@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-02-15T21:41:26.339Z",
+  "lastUpdate": "2018-02-15T22:42:03.573Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2395,
+  "totalPR": 2397,
   "lastPR": {
-    "createdAt": "2018-02-15T10:36:29Z",
-    "username": "sdeleuze"
+    "createdAt": "2018-02-15T22:39:30Z",
+    "username": "igor-suhorukov"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,16 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "igor-suhorukov": {
+      "total": 11,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/10332206?v=4"
+    },
+    "vpavic": {
+      "total": 124,
+      "merged": 1,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/1149230?v=4"
+    },
     "sdeleuze": {
       "total": 22,
       "merged": 1,
@@ -37,11 +47,6 @@
       "total": 18,
       "merged": 0,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/1697736?v=4"
-    },
-    "igor-suhorukov": {
-      "total": 10,
-      "merged": 0,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/10332206?v=4"
     },
     "dreis2211": {
       "total": 49,
@@ -132,11 +137,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/7439282?v=4"
-    },
-    "vpavic": {
-      "total": 123,
-      "merged": 1,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/1149230?v=4"
     },
     "gopuprakash": {
       "total": 1,
@@ -3651,7 +3651,7 @@
   },
   "datePRInfos": {
     "Février-2018": {
-      "total": 41,
+      "total": 43,
       "merged": 0
     },
     "Janvier-2018": {
