@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-02-15T00:46:11.163Z",
+  "lastUpdate": "2018-02-15T01:45:39.526Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 6532,
   "lastPR": {
-    "createdAt": "2018-02-14T03:17:59Z",
-    "username": "acdlite"
+    "createdAt": "2018-02-15T00:45:26Z",
+    "username": "orta"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -18,11 +18,16 @@
     "image": "https://avatars2.githubusercontent.com/u/6820?v=4"
   },
   "bestRatio": {
-    "user": "orta",
+    "user": "chentsulin",
     "ratio": 1,
-    "image": "https://avatars2.githubusercontent.com/u/49038?v=4"
+    "image": "https://avatars2.githubusercontent.com/u/3382565?v=4"
   },
   "userPRInfos": {
+    "orta": {
+      "total": 5,
+      "merged": 4,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/49038?v=4"
+    },
     "acdlite": {
       "total": 170,
       "merged": 135,
@@ -42,11 +47,6 @@
       "total": 529,
       "merged": 453,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/810438?v=4"
-    },
-    "orta": {
-      "total": 4,
-      "merged": 4,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/49038?v=4"
     },
     "SadPandaBear": {
       "total": 2,
@@ -3489,8 +3489,8 @@
       "avatarUrl": "https://avatars0.githubusercontent.com/u/1591702?v=4"
     },
     "rickbeerendonk": {
-      "total": 13,
-      "merged": 9,
+      "total": 12,
+      "merged": 8,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/479223?v=4"
     },
     "GantMan": {
@@ -9686,7 +9686,7 @@
   },
   "datePRInfos": {
     "Février-2018": {
-      "total": 42,
+      "total": 43,
       "merged": 25
     },
     "Janvier-2018": {
@@ -9834,8 +9834,8 @@
       "merged": 98
     },
     "Janvier-2015": {
-      "total": 110,
-      "merged": 88
+      "total": 109,
+      "merged": 87
     },
     "Décembre-2014": {
       "total": 77,
