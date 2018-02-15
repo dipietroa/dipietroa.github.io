@@ -1,8 +1,8 @@
 {
-  "lastUpdate": "2018-02-14T23:45:46.951Z",
+  "lastUpdate": "2018-02-15T00:46:11.163Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6531,
+  "totalPR": 6532,
   "lastPR": {
     "createdAt": "2018-02-14T03:17:59Z",
     "username": "acdlite"
@@ -3489,8 +3489,8 @@
       "avatarUrl": "https://avatars0.githubusercontent.com/u/1591702?v=4"
     },
     "rickbeerendonk": {
-      "total": 12,
-      "merged": 8,
+      "total": 13,
+      "merged": 9,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/479223?v=4"
     },
     "GantMan": {
@@ -9834,8 +9834,8 @@
       "merged": 98
     },
     "Janvier-2015": {
-      "total": 109,
-      "merged": 87
+      "total": 110,
+      "merged": 88
     },
     "Décembre-2014": {
       "total": 77,
