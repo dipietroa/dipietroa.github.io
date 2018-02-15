@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-02-15T08:45:44.023Z",
+  "lastUpdate": "2018-02-15T09:46:03.360Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6532,
+  "totalPR": 6533,
   "lastPR": {
-    "createdAt": "2018-02-15T00:45:26Z",
-    "username": "orta"
+    "createdAt": "2018-02-15T08:45:55Z",
+    "username": "sangle7"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars2.githubusercontent.com/u/3382565?v=4"
   },
   "userPRInfos": {
+    "sangle7": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/21354661?v=4"
+    },
     "orta": {
       "total": 5,
       "merged": 4,
@@ -9686,7 +9691,7 @@
   },
   "datePRInfos": {
     "Février-2018": {
-      "total": 43,
+      "total": 44,
       "merged": 25
     },
     "Janvier-2018": {
