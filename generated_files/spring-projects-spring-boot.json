@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "2018-02-15T08:41:49.499Z",
+  "lastUpdate": "2018-02-15T09:41:54.921Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2393,
+  "totalPR": 2394,
   "lastPR": {
-    "createdAt": "2018-02-15T07:43:36Z",
+    "createdAt": "2018-02-15T09:15:16Z",
     "username": "imgx64"
   },
   "bestPR": {
@@ -24,7 +24,7 @@
   },
   "userPRInfos": {
     "imgx64": {
-      "total": 1,
+      "total": 2,
       "merged": 0,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/318668?v=4"
     },
@@ -3651,7 +3651,7 @@
   },
   "datePRInfos": {
     "Février-2018": {
-      "total": 39,
+      "total": 40,
       "merged": 0
     },
     "Janvier-2018": {
