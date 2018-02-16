@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-02-16T18:45:50.614Z",
+  "lastUpdate": "2018-02-16T19:45:50.965Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6533,
+  "totalPR": 6534,
   "lastPR": {
-    "createdAt": "2018-02-15T08:45:55Z",
-    "username": "sangle7"
+    "createdAt": "2018-02-16T19:13:41Z",
+    "username": "acdlite"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars2.githubusercontent.com/u/49038?v=4"
   },
   "userPRInfos": {
+    "acdlite": {
+      "total": 171,
+      "merged": 137,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/3624098?v=4"
+    },
     "sangle7": {
       "total": 1,
       "merged": 0,
@@ -32,11 +37,6 @@
       "total": 5,
       "merged": 5,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/49038?v=4"
-    },
-    "acdlite": {
-      "total": 170,
-      "merged": 136,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/3624098?v=4"
     },
     "koba04": {
       "total": 75,
@@ -888,7 +888,7 @@
       "merged": 1,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/2577356?v=4"
     },
-    "Engineering-Robert": {
+    "robertcoopercode": {
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/16786990?v=4"
@@ -9691,8 +9691,8 @@
   },
   "datePRInfos": {
     "Février-2018": {
-      "total": 44,
-      "merged": 28
+      "total": 45,
+      "merged": 29
     },
     "Janvier-2018": {
       "total": 80,
