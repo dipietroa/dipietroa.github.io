@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "2018-02-17T21:45:01.547Z",
+  "lastUpdate": "2018-02-17T22:44:36.110Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6535,
+  "totalPR": 6536,
   "lastPR": {
-    "createdAt": "2018-02-17T17:01:49Z",
+    "createdAt": "2018-02-17T22:38:40Z",
     "username": "GarethSmall"
   },
   "bestPR": {
@@ -24,7 +24,7 @@
   },
   "userPRInfos": {
     "GarethSmall": {
-      "total": 1,
+      "total": 2,
       "merged": 0,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/32682373?v=4"
     },
@@ -9696,7 +9696,7 @@
   },
   "datePRInfos": {
     "Février-2018": {
-      "total": 46,
+      "total": 47,
       "merged": 29
     },
     "Janvier-2018": {
