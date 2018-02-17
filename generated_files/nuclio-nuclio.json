@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-02-17T07:42:46.278Z",
+  "lastUpdate": "2018-02-17T08:42:34.563Z",
   "cowner": "nuclio",
   "crepo": "nuclio",
   "totalPR": 411,
@@ -25,12 +25,12 @@
   "userPRInfos": {
     "ilaykav": {
       "total": 7,
-      "merged": 4,
+      "merged": 5,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/16291067?v=4"
     },
     "eran-nussbaum": {
       "total": 34,
-      "merged": 31,
+      "merged": 33,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/13918850?v=4"
     },
     "omriharel": {
@@ -40,7 +40,7 @@
     },
     "balster1123": {
       "total": 19,
-      "merged": 17,
+      "merged": 18,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/5636945?v=4"
     },
     "tebeka": {
@@ -102,7 +102,7 @@
   "datePRInfos": {
     "Février-2018": {
       "total": 16,
-      "merged": 6
+      "merged": 10
     },
     "Janvier-2018": {
       "total": 70,
