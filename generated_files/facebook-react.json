@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-02-17T16:45:20.744Z",
+  "lastUpdate": "2018-02-17T17:45:06.967Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6534,
+  "totalPR": 6535,
   "lastPR": {
-    "createdAt": "2018-02-16T19:13:41Z",
-    "username": "acdlite"
+    "createdAt": "2018-02-17T17:01:49Z",
+    "username": "GarethSmall"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars2.githubusercontent.com/u/49038?v=4"
   },
   "userPRInfos": {
+    "GarethSmall": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/32682373?v=4"
+    },
     "acdlite": {
       "total": 171,
       "merged": 137,
@@ -9691,7 +9696,7 @@
   },
   "datePRInfos": {
     "Février-2018": {
-      "total": 45,
+      "total": 46,
       "merged": 29
     },
     "Janvier-2018": {
