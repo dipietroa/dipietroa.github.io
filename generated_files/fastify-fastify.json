@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-02-18T00:42:12.353Z",
+  "lastUpdate": "2018-02-18T01:42:16.711Z",
   "cowner": "fastify",
   "crepo": "fastify",
-  "totalPR": 472,
+  "totalPR": 473,
   "lastPR": {
-    "createdAt": "2018-02-17T15:16:11Z",
-    "username": "delvedor"
+    "createdAt": "2018-02-18T00:52:49Z",
+    "username": "nwoltman"
   },
   "bestPR": {
     "user": "delvedor",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/582446?v=4"
   },
   "userPRInfos": {
+    "nwoltman": {
+      "total": 44,
+      "merged": 40,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/5128013?v=4"
+    },
     "delvedor": {
       "total": 90,
       "merged": 87,
@@ -52,11 +57,6 @@
       "total": 30,
       "merged": 30,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/321201?v=4"
-    },
-    "nwoltman": {
-      "total": 43,
-      "merged": 40,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/5128013?v=4"
     },
     "mancioshell": {
       "total": 1,
@@ -406,7 +406,7 @@
   },
   "datePRInfos": {
     "Février-2018": {
-      "total": 39,
+      "total": 40,
       "merged": 29
     },
     "Janvier-2018": {
