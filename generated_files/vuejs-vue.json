@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "2018-02-18T09:42:01.759Z",
+  "lastUpdate": "2018-02-18T10:42:07.065Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 1054,
+  "totalPR": 1055,
   "lastPR": {
-    "createdAt": "2018-02-14T15:04:48Z",
+    "createdAt": "2018-02-18T09:46:40Z",
     "username": "ktsn"
   },
   "bestPR": {
@@ -29,7 +29,7 @@
       "avatarUrl": "https://avatars1.githubusercontent.com/u/28888508?v=4"
     },
     "ktsn": {
-      "total": 20,
+      "total": 21,
       "merged": 17,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/2194624?v=4"
     },
@@ -2306,7 +2306,7 @@
   },
   "datePRInfos": {
     "Février-2018": {
-      "total": 10,
+      "total": 11,
       "merged": 2
     },
     "Janvier-2018": {
