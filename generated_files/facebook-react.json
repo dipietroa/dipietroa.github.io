@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-02-19T18:45:59.143Z",
+  "lastUpdate": "2018-02-19T19:45:57.236Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6536,
+  "totalPR": 6537,
   "lastPR": {
-    "createdAt": "2018-02-17T22:38:40Z",
-    "username": "GarethSmall"
+    "createdAt": "2018-02-19T18:55:17Z",
+    "username": "abhaynikam"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars2.githubusercontent.com/u/49038?v=4"
   },
   "userPRInfos": {
+    "abhaynikam": {
+      "total": 9,
+      "merged": 4,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/7736232?v=4"
+    },
     "GarethSmall": {
       "total": 2,
       "merged": 0,
@@ -2077,11 +2082,6 @@
       "total": 1,
       "merged": 1,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/216572?v=4"
-    },
-    "abhaynikam": {
-      "total": 8,
-      "merged": 4,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/7736232?v=4"
     },
     "hawkins": {
       "total": 1,
@@ -9696,7 +9696,7 @@
   },
   "datePRInfos": {
     "Février-2018": {
-      "total": 47,
+      "total": 48,
       "merged": 29
     },
     "Janvier-2018": {
