@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-02-19T11:42:56.927Z",
+  "lastUpdate": "2018-02-19T12:42:38.579Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 1056,
+  "totalPR": 1057,
   "lastPR": {
-    "createdAt": "2018-02-18T15:07:23Z",
-    "username": "posva"
+    "createdAt": "2018-02-19T12:34:42Z",
+    "username": "sis0k0"
   },
   "bestPR": {
     "user": "kazupon",
@@ -27,6 +27,11 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/28888508?v=4"
+    },
+    "sis0k0": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/7893485?v=4"
     },
     "posva": {
       "total": 31,
@@ -2306,7 +2311,7 @@
   },
   "datePRInfos": {
     "Février-2018": {
-      "total": 12,
+      "total": 13,
       "merged": 2
     },
     "Janvier-2018": {
