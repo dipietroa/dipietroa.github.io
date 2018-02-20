@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-02-20T06:41:27.304Z",
+  "lastUpdate": "2018-02-20T07:41:41.863Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2406,
+  "totalPR": 2408,
   "lastPR": {
-    "createdAt": "2018-02-20T03:24:56Z",
-    "username": "jkschneider"
+    "createdAt": "2018-02-20T07:29:54Z",
+    "username": "shakuzen"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,16 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "shakuzen": {
+      "total": 21,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/8924140?v=4"
+    },
+    "evenh": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/2701536?v=4"
+    },
     "jkschneider": {
       "total": 23,
       "merged": 0,
@@ -72,11 +82,6 @@
       "total": 49,
       "merged": 0,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/6304496?v=4"
-    },
-    "shakuzen": {
-      "total": 20,
-      "merged": 0,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/8924140?v=4"
     },
     "alecharp": {
       "total": 1,
@@ -3666,7 +3671,7 @@
   },
   "datePRInfos": {
     "Février-2018": {
-      "total": 52,
+      "total": 54,
       "merged": 0
     },
     "Janvier-2018": {
