@@ -1,15 +1,15 @@
 {
-  "lastUpdate": "2018-02-20T18:46:15.858Z",
+  "lastUpdate": "2018-02-20T19:46:41.402Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6539,
+  "totalPR": 6540,
   "lastPR": {
-    "createdAt": "2018-02-20T18:14:04Z",
-    "username": "acdlite"
+    "createdAt": "2018-02-20T19:10:07Z",
+    "username": "sophiebits"
   },
   "bestPR": {
     "user": "sophiebits",
-    "nbPR": 654,
+    "nbPR": 655,
     "image": "https://avatars2.githubusercontent.com/u/6820?v=4"
   },
   "bestMerged": {
@@ -23,6 +23,11 @@
     "image": "https://avatars2.githubusercontent.com/u/49038?v=4"
   },
   "userPRInfos": {
+    "sophiebits": {
+      "total": 655,
+      "merged": 580,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/6820?v=4"
+    },
     "acdlite": {
       "total": 172,
       "merged": 137,
@@ -77,11 +82,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/7589596?v=4"
-    },
-    "sophiebits": {
-      "total": 654,
-      "merged": 580,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/6820?v=4"
     },
     "necolas": {
       "total": 3,
@@ -9696,7 +9696,7 @@
   },
   "datePRInfos": {
     "Février-2018": {
-      "total": 50,
+      "total": 51,
       "merged": 30
     },
     "Janvier-2018": {
