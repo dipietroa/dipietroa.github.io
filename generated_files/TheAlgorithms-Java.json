@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-02-21T09:41:43.308Z",
+  "lastUpdate": "2018-02-21T10:42:08.013Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
-  "totalPR": 351,
+  "totalPR": 352,
   "lastPR": {
-    "createdAt": "2018-02-21T07:47:58Z",
-    "username": "knightcube"
+    "createdAt": "2018-02-21T10:00:03Z",
+    "username": "shaqed"
   },
   "bestPR": {
     "user": "theycallmemac",
@@ -23,6 +23,11 @@
     "image": "https://avatars2.githubusercontent.com/u/36105785?v=4"
   },
   "userPRInfos": {
+    "shaqed": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/10148624?v=4"
+    },
     "knightcube": {
       "total": 1,
       "merged": 0,
@@ -896,7 +901,7 @@
   },
   "datePRInfos": {
     "Février-2018": {
-      "total": 6,
+      "total": 7,
       "merged": 1
     },
     "Janvier-2018": {
