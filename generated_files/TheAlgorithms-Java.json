@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-02-21T06:42:04.850Z",
+  "lastUpdate": "2018-02-21T07:42:11.986Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
-  "totalPR": 349,
+  "totalPR": 350,
   "lastPR": {
-    "createdAt": "2018-02-17T12:36:23Z",
-    "username": "petersonddb"
+    "createdAt": "2018-02-21T07:04:30Z",
+    "username": "Shyam2609"
   },
   "bestPR": {
     "user": "theycallmemac",
@@ -23,6 +23,11 @@
     "image": "https://avatars2.githubusercontent.com/u/36105785?v=4"
   },
   "userPRInfos": {
+    "Shyam2609": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/23314012?v=4"
+    },
     "petersonddb": {
       "total": 1,
       "merged": 1,
@@ -886,7 +891,7 @@
   },
   "datePRInfos": {
     "Février-2018": {
-      "total": 4,
+      "total": 5,
       "merged": 1
     },
     "Janvier-2018": {
