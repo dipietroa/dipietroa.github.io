@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-02-21T13:42:14.947Z",
+  "lastUpdate": "2018-02-21T14:42:55.587Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
   "totalPR": 352,
@@ -18,9 +18,9 @@
     "image": "https://avatars1.githubusercontent.com/u/16108563?v=4"
   },
   "bestRatio": {
-    "user": "petersonddb",
+    "user": "knightcube",
     "ratio": 1,
-    "image": "https://avatars2.githubusercontent.com/u/36105785?v=4"
+    "image": "https://avatars3.githubusercontent.com/u/22871961?v=4"
   },
   "userPRInfos": {
     "shaqed": {
@@ -30,7 +30,7 @@
     },
     "knightcube": {
       "total": 1,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/22871961?v=4"
     },
     "Shyam2609": {
@@ -902,7 +902,7 @@
   "datePRInfos": {
     "Février-2018": {
       "total": 7,
-      "merged": 1
+      "merged": 2
     },
     "Janvier-2018": {
       "total": 6,
