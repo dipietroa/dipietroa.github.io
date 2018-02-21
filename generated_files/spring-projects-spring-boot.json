@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-02-21T02:41:35.228Z",
+  "lastUpdate": "2018-02-21T03:41:49.042Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2409,
+  "totalPR": 2410,
   "lastPR": {
-    "createdAt": "2018-02-20T14:46:41Z",
-    "username": "nkolosnjaji"
+    "createdAt": "2018-02-21T02:50:07Z",
+    "username": "shakuzen"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,15 +23,15 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "shakuzen": {
+      "total": 22,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/8924140?v=4"
+    },
     "nkolosnjaji": {
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/18678333?v=4"
-    },
-    "shakuzen": {
-      "total": 21,
-      "merged": 0,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/8924140?v=4"
     },
     "evenh": {
       "total": 1,
@@ -3676,7 +3676,7 @@
   },
   "datePRInfos": {
     "Février-2018": {
-      "total": 55,
+      "total": 56,
       "merged": 0
     },
     "Janvier-2018": {
