@@ -1,15 +1,15 @@
 {
-  "lastUpdate": "2018-02-21T04:41:41.602Z",
+  "lastUpdate": "2018-02-21T05:41:49.336Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2410,
+  "totalPR": 2412,
   "lastPR": {
-    "createdAt": "2018-02-21T02:50:07Z",
-    "username": "shakuzen"
+    "createdAt": "2018-02-21T05:01:00Z",
+    "username": "izeye"
   },
   "bestPR": {
     "user": "izeye",
-    "nbPR": 354,
+    "nbPR": 356,
     "image": "https://avatars3.githubusercontent.com/u/1059363?v=4"
   },
   "bestMerged": {
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "izeye": {
+      "total": 356,
+      "merged": 1,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/1059363?v=4"
+    },
     "shakuzen": {
       "total": 22,
       "merged": 0,
@@ -47,11 +52,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/818766?v=4"
-    },
-    "izeye": {
-      "total": 354,
-      "merged": 1,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/1059363?v=4"
     },
     "4val0v": {
       "total": 1,
@@ -3676,7 +3676,7 @@
   },
   "datePRInfos": {
     "Février-2018": {
-      "total": 56,
+      "total": 57,
       "merged": 0
     },
     "Janvier-2018": {
@@ -3804,7 +3804,7 @@
       "merged": 0
     },
     "Juin-2015": {
-      "total": 73,
+      "total": 74,
       "merged": 0
     },
     "Mai-2015": {
