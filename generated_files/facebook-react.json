@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-02-21T19:47:03.523Z",
+  "lastUpdate": "2018-02-21T20:46:08.746Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6540,
+  "totalPR": 6541,
   "lastPR": {
-    "createdAt": "2018-02-20T19:10:07Z",
-    "username": "sophiebits"
+    "createdAt": "2018-02-21T20:02:08Z",
+    "username": "Swieckowski"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars2.githubusercontent.com/u/49038?v=4"
   },
   "userPRInfos": {
+    "Swieckowski": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/31023010?v=4"
+    },
     "sophiebits": {
       "total": 655,
       "merged": 580,
@@ -9696,7 +9701,7 @@
   },
   "datePRInfos": {
     "Février-2018": {
-      "total": 51,
+      "total": 52,
       "merged": 30
     },
     "Janvier-2018": {
