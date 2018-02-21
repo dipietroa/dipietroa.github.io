@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-02-21T15:43:12.183Z",
+  "lastUpdate": "2018-02-21T16:43:27.789Z",
   "cowner": "fastify",
   "crepo": "fastify",
-  "totalPR": 478,
+  "totalPR": 479,
   "lastPR": {
-    "createdAt": "2018-02-21T00:31:14Z",
-    "username": "jeromemacias"
+    "createdAt": "2018-02-21T15:58:24Z",
+    "username": "greenkeeper[bot]"
   },
   "bestPR": {
     "user": "delvedor",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/2076833?v=4"
   },
   "userPRInfos": {
+    "greenkeeper[bot]": {
+      "total": 48,
+      "merged": 23,
+      "avatarUrl": "https://avatars3.githubusercontent.com/in/505?v=4"
+    },
     "jeromemacias": {
       "total": 7,
       "merged": 6,
@@ -37,11 +42,6 @@
       "total": 45,
       "merged": 42,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/5128013?v=4"
-    },
-    "greenkeeper[bot]": {
-      "total": 47,
-      "merged": 23,
-      "avatarUrl": "https://avatars3.githubusercontent.com/in/505?v=4"
     },
     "delvedor": {
       "total": 90,
@@ -406,7 +406,7 @@
   },
   "datePRInfos": {
     "Février-2018": {
-      "total": 45,
+      "total": 46,
       "merged": 32
     },
     "Janvier-2018": {
