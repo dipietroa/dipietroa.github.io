@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-02-22T17:46:29.850Z",
+  "lastUpdate": "2018-02-22T18:45:58.270Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 6542,
@@ -405,7 +405,7 @@
     },
     "GordyD": {
       "total": 2,
-      "merged": 1,
+      "merged": 2,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/966511?v=4"
     },
     "raphamorim": {
@@ -9710,7 +9710,7 @@
     },
     "Décembre-2017": {
       "total": 100,
-      "merged": 64
+      "merged": 65
     },
     "Novembre-2017": {
       "total": 168,
