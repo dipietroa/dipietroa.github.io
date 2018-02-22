@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-02-22T13:42:44.681Z",
+  "lastUpdate": "2018-02-22T14:43:23.743Z",
   "cowner": "fastify",
   "crepo": "fastify",
-  "totalPR": 479,
+  "totalPR": 480,
   "lastPR": {
-    "createdAt": "2018-02-21T15:58:24Z",
-    "username": "greenkeeper[bot]"
+    "createdAt": "2018-02-22T13:50:07Z",
+    "username": "smartiniOnGitHub"
   },
   "bestPR": {
     "user": "delvedor",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/2076833?v=4"
   },
   "userPRInfos": {
+    "smartiniOnGitHub": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/1280477?v=4"
+    },
     "greenkeeper[bot]": {
       "total": 48,
       "merged": 23,
@@ -406,7 +411,7 @@
   },
   "datePRInfos": {
     "Février-2018": {
-      "total": 46,
+      "total": 47,
       "merged": 32
     },
     "Janvier-2018": {
