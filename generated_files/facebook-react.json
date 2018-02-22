@@ -1,8 +1,8 @@
 {
-  "lastUpdate": "2018-02-22T11:45:16.978Z",
+  "lastUpdate": "2018-02-22T12:45:45.598Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6543,
+  "totalPR": 6542,
   "lastPR": {
     "createdAt": "2018-02-21T23:16:43Z",
     "username": "fkgozali"
@@ -4988,11 +4988,6 @@
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/17993994?v=4"
     },
-    "adius": {
-      "total": 1,
-      "merged": 1,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/969983?v=4"
-    },
     "jyang22": {
       "total": 1,
       "merged": 0,
@@ -9794,8 +9789,8 @@
       "merged": 99
     },
     "Avril-2016": {
-      "total": 131,
-      "merged": 83
+      "total": 130,
+      "merged": 82
     },
     "Mars-2016": {
       "total": 117,
