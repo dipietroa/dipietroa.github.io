@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-02-21T23:45:25.067Z",
+  "lastUpdate": "2018-02-22T00:45:19.276Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 6543,
@@ -14,7 +14,7 @@
   },
   "bestMerged": {
     "user": "sophiebits",
-    "nbPR": 581,
+    "nbPR": 582,
     "image": "https://avatars2.githubusercontent.com/u/6820?v=4"
   },
   "bestRatio": {
@@ -30,7 +30,7 @@
     },
     "sophiebits": {
       "total": 656,
-      "merged": 581,
+      "merged": 582,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/6820?v=4"
     },
     "Swieckowski": {
@@ -9707,7 +9707,7 @@
   "datePRInfos": {
     "Février-2018": {
       "total": 54,
-      "merged": 32
+      "merged": 33
     },
     "Janvier-2018": {
       "total": 80,
