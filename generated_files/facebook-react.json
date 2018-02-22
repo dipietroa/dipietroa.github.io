@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-02-22T18:45:58.270Z",
+  "lastUpdate": "2018-02-22T19:45:51.171Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6542,
+  "totalPR": 6543,
   "lastPR": {
-    "createdAt": "2018-02-21T23:16:43Z",
-    "username": "fkgozali"
+    "createdAt": "2018-02-22T19:31:14Z",
+    "username": "raunofreiberg"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars2.githubusercontent.com/u/1095866?v=4"
   },
   "userPRInfos": {
+    "raunofreiberg": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/23662329?v=4"
+    },
     "fkgozali": {
       "total": 1,
       "merged": 1,
@@ -9701,7 +9706,7 @@
   },
   "datePRInfos": {
     "Février-2018": {
-      "total": 54,
+      "total": 55,
       "merged": 33
     },
     "Janvier-2018": {
