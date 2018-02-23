@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-02-23T17:41:45.526Z",
+  "lastUpdate": "2018-02-23T18:41:45.584Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2418,
+  "totalPR": 2420,
   "lastPR": {
-    "createdAt": "2018-02-22T15:47:22Z",
-    "username": "izeye"
+    "createdAt": "2018-02-23T18:38:18Z",
+    "username": "dreis2211"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,16 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "dreis2211": {
+      "total": 50,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/6304496?v=4"
+    },
+    "garyrussell": {
+      "total": 44,
+      "merged": 1,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/483832?v=4"
+    },
     "izeye": {
       "total": 360,
       "merged": 1,
@@ -93,11 +103,6 @@
       "merged": 0,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/318668?v=4"
     },
-    "dreis2211": {
-      "total": 49,
-      "merged": 0,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/6304496?v=4"
-    },
     "alecharp": {
       "total": 1,
       "merged": 0,
@@ -157,11 +162,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/12153228?v=4"
-    },
-    "garyrussell": {
-      "total": 43,
-      "merged": 1,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/483832?v=4"
     },
     "henrjk": {
       "total": 1,
@@ -3681,7 +3681,7 @@
   },
   "datePRInfos": {
     "Février-2018": {
-      "total": 64,
+      "total": 66,
       "merged": 0
     },
     "Janvier-2018": {
