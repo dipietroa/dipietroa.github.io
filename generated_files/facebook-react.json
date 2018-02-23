@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-02-23T05:45:43.960Z",
+  "lastUpdate": "2018-02-23T06:45:23.233Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6543,
+  "totalPR": 6544,
   "lastPR": {
-    "createdAt": "2018-02-22T19:31:14Z",
-    "username": "raunofreiberg"
+    "createdAt": "2018-02-23T06:37:51Z",
+    "username": "monkindey"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/23662329?v=4"
   },
   "userPRInfos": {
+    "monkindey": {
+      "total": 5,
+      "merged": 3,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/6913898?v=4"
+    },
     "raunofreiberg": {
       "total": 1,
       "merged": 1,
@@ -662,11 +667,6 @@
       "total": 3,
       "merged": 3,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/6270048?v=4"
-    },
-    "monkindey": {
-      "total": 4,
-      "merged": 3,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/6913898?v=4"
     },
     "iamtommcc": {
       "total": 1,
@@ -9706,7 +9706,7 @@
   },
   "datePRInfos": {
     "Février-2018": {
-      "total": 55,
+      "total": 56,
       "merged": 34
     },
     "Janvier-2018": {
