@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "2018-02-23T07:42:28.080Z",
+  "lastUpdate": "2018-02-23T08:42:38.600Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 1064,
+  "totalPR": 1065,
   "lastPR": {
-    "createdAt": "2018-02-23T01:37:31Z",
+    "createdAt": "2018-02-23T08:19:02Z",
     "username": "jmilanovic"
   },
   "bestPR": {
@@ -29,7 +29,7 @@
       "avatarUrl": "https://avatars1.githubusercontent.com/u/28888508?v=4"
     },
     "jmilanovic": {
-      "total": 3,
+      "total": 4,
       "merged": 0,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/36500189?v=4"
     },
@@ -2326,7 +2326,7 @@
   },
   "datePRInfos": {
     "Février-2018": {
-      "total": 20,
+      "total": 21,
       "merged": 3
     },
     "Janvier-2018": {
