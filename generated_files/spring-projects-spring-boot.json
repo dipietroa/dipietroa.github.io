@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-02-24T20:41:30.976Z",
+  "lastUpdate": "2018-02-24T21:41:27.088Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2424,
+  "totalPR": 2425,
   "lastPR": {
-    "createdAt": "2018-02-24T15:04:49Z",
-    "username": "Dav1dde"
+    "createdAt": "2018-02-24T20:46:30Z",
+    "username": "aheritier"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "aheritier": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/174600?v=4"
+    },
     "Dav1dde": {
       "total": 1,
       "merged": 0,
@@ -3686,7 +3691,7 @@
   },
   "datePRInfos": {
     "Février-2018": {
-      "total": 70,
+      "total": 71,
       "merged": 0
     },
     "Janvier-2018": {
