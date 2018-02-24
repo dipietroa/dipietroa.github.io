@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-02-24T14:41:23.467Z",
+  "lastUpdate": "2018-02-24T15:41:48.434Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2423,
+  "totalPR": 2424,
   "lastPR": {
-    "createdAt": "2018-02-24T11:08:55Z",
-    "username": "kedar-joshi"
+    "createdAt": "2018-02-24T15:04:49Z",
+    "username": "Dav1dde"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "Dav1dde": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/255721?v=4"
+    },
     "kedar-joshi": {
       "total": 2,
       "merged": 0,
@@ -3681,7 +3686,7 @@
   },
   "datePRInfos": {
     "Février-2018": {
-      "total": 69,
+      "total": 70,
       "merged": 0
     },
     "Janvier-2018": {
