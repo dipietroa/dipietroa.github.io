@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-02-24T21:41:27.088Z",
+  "lastUpdate": "2018-02-24T22:41:45.799Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2425,
+  "totalPR": 2426,
   "lastPR": {
-    "createdAt": "2018-02-24T20:46:30Z",
-    "username": "aheritier"
+    "createdAt": "2018-02-24T21:51:44Z",
+    "username": "igor-suhorukov"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "igor-suhorukov": {
+      "total": 12,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/10332206?v=4"
+    },
     "aheritier": {
       "total": 1,
       "merged": 0,
@@ -97,11 +102,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/15372565?v=4"
-    },
-    "igor-suhorukov": {
-      "total": 11,
-      "merged": 0,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/10332206?v=4"
     },
     "vpavic": {
       "total": 124,
@@ -3691,7 +3691,7 @@
   },
   "datePRInfos": {
     "Février-2018": {
-      "total": 71,
+      "total": 72,
       "merged": 0
     },
     "Janvier-2018": {
