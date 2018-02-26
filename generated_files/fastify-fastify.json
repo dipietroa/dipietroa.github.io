@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-02-26T15:44:00.532Z",
+  "lastUpdate": "2018-02-26T16:43:32.265Z",
   "cowner": "fastify",
   "crepo": "fastify",
-  "totalPR": 483,
+  "totalPR": 484,
   "lastPR": {
-    "createdAt": "2018-02-26T14:35:51Z",
-    "username": "chanlito"
+    "createdAt": "2018-02-26T15:56:08Z",
+    "username": "shuperry"
   },
   "bestPR": {
     "user": "delvedor",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/1280477?v=4"
   },
   "userPRInfos": {
+    "shuperry": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/12183336?v=4"
+    },
     "chanlito": {
       "total": 1,
       "merged": 0,
@@ -416,7 +421,7 @@
   },
   "datePRInfos": {
     "Février-2018": {
-      "total": 50,
+      "total": 51,
       "merged": 36
     },
     "Janvier-2018": {
