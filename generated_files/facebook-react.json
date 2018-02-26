@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-02-26T22:45:55.524Z",
+  "lastUpdate": "2018-02-26T23:45:40.990Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6550,
+  "totalPR": 6551,
   "lastPR": {
-    "createdAt": "2018-02-26T19:30:48Z",
-    "username": "aweary"
+    "createdAt": "2018-02-26T23:38:54Z",
+    "username": "hartzis"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars2.githubusercontent.com/u/1095866?v=4"
   },
   "userPRInfos": {
+    "hartzis": {
+      "total": 2,
+      "merged": 1,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/5378707?v=4"
+    },
     "aweary": {
       "total": 60,
       "merged": 50,
@@ -1557,11 +1562,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/28896001?v=4"
-    },
-    "hartzis": {
-      "total": 1,
-      "merged": 1,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/5378707?v=4"
     },
     "madnight": {
       "total": 1,
@@ -9711,7 +9711,7 @@
   },
   "datePRInfos": {
     "Février-2018": {
-      "total": 62,
+      "total": 63,
       "merged": 36
     },
     "Janvier-2018": {
