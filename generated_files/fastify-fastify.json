@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-02-26T21:42:54.916Z",
+  "lastUpdate": "2018-02-26T22:42:56.039Z",
   "cowner": "fastify",
   "crepo": "fastify",
-  "totalPR": 484,
+  "totalPR": 486,
   "lastPR": {
-    "createdAt": "2018-02-26T15:56:08Z",
-    "username": "shuperry"
+    "createdAt": "2018-02-26T22:40:43Z",
+    "username": "jeromemacias"
   },
   "bestPR": {
     "user": "delvedor",
@@ -23,6 +23,16 @@
     "image": "https://avatars1.githubusercontent.com/u/1280477?v=4"
   },
   "userPRInfos": {
+    "jeromemacias": {
+      "total": 8,
+      "merged": 7,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/582446?v=4"
+    },
+    "mcollina": {
+      "total": 60,
+      "merged": 56,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/52195?v=4"
+    },
     "shuperry": {
       "total": 1,
       "merged": 0,
@@ -53,11 +63,6 @@
       "merged": 24,
       "avatarUrl": "https://avatars3.githubusercontent.com/in/505?v=4"
     },
-    "jeromemacias": {
-      "total": 7,
-      "merged": 7,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/582446?v=4"
-    },
     "jsumners": {
       "total": 31,
       "merged": 30,
@@ -72,11 +77,6 @@
       "total": 45,
       "merged": 36,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/1054125?v=4"
-    },
-    "mcollina": {
-      "total": 59,
-      "merged": 56,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/52195?v=4"
     },
     "amitguptagwl": {
       "total": 2,
@@ -421,7 +421,7 @@
   },
   "datePRInfos": {
     "Février-2018": {
-      "total": 51,
+      "total": 53,
       "merged": 36
     },
     "Janvier-2018": {
