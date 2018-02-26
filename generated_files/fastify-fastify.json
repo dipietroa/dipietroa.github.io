@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-02-26T11:43:15.278Z",
+  "lastUpdate": "2018-02-26T12:42:54.925Z",
   "cowner": "fastify",
   "crepo": "fastify",
   "totalPR": 482,
@@ -40,12 +40,12 @@
     },
     "greenkeeper[bot]": {
       "total": 48,
-      "merged": 23,
+      "merged": 24,
       "avatarUrl": "https://avatars3.githubusercontent.com/in/505?v=4"
     },
     "jeromemacias": {
       "total": 7,
-      "merged": 6,
+      "merged": 7,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/582446?v=4"
     },
     "jsumners": {
@@ -412,7 +412,7 @@
   "datePRInfos": {
     "Février-2018": {
       "total": 49,
-      "merged": 34
+      "merged": 36
     },
     "Janvier-2018": {
       "total": 93,
