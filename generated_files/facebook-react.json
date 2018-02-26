@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-02-26T04:45:09.364Z",
+  "lastUpdate": "2018-02-26T05:45:26.927Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6547,
+  "totalPR": 6548,
   "lastPR": {
-    "createdAt": "2018-02-26T03:55:56Z",
-    "username": "sompylasar"
+    "createdAt": "2018-02-26T04:50:16Z",
+    "username": "diasbruno"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/23662329?v=4"
   },
   "userPRInfos": {
+    "diasbruno": {
+      "total": 2,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/362368?v=4"
+    },
     "sompylasar": {
       "total": 3,
       "merged": 1,
@@ -32,11 +37,6 @@
       "total": 173,
       "merged": 138,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/3624098?v=4"
-    },
-    "diasbruno": {
-      "total": 1,
-      "merged": 0,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/362368?v=4"
     },
     "monkindey": {
       "total": 5,
@@ -9711,7 +9711,7 @@
   },
   "datePRInfos": {
     "Février-2018": {
-      "total": 59,
+      "total": 60,
       "merged": 35
     },
     "Janvier-2018": {
