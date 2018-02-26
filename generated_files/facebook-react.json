@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-02-26T17:46:20.864Z",
+  "lastUpdate": "2018-02-26T18:46:28.548Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6548,
+  "totalPR": 6549,
   "lastPR": {
-    "createdAt": "2018-02-26T04:50:16Z",
-    "username": "diasbruno"
+    "createdAt": "2018-02-26T18:28:53Z",
+    "username": "raunofreiberg"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -18,11 +18,16 @@
     "image": "https://avatars2.githubusercontent.com/u/6820?v=4"
   },
   "bestRatio": {
-    "user": "raunofreiberg",
+    "user": "fkgozali",
     "ratio": 1,
-    "image": "https://avatars1.githubusercontent.com/u/23662329?v=4"
+    "image": "https://avatars2.githubusercontent.com/u/1095866?v=4"
   },
   "userPRInfos": {
+    "raunofreiberg": {
+      "total": 2,
+      "merged": 1,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/23662329?v=4"
+    },
     "diasbruno": {
       "total": 2,
       "merged": 0,
@@ -42,11 +47,6 @@
       "total": 5,
       "merged": 3,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/6913898?v=4"
-    },
-    "raunofreiberg": {
-      "total": 1,
-      "merged": 1,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/23662329?v=4"
     },
     "fkgozali": {
       "total": 1,
@@ -9711,7 +9711,7 @@
   },
   "datePRInfos": {
     "Février-2018": {
-      "total": 60,
+      "total": 61,
       "merged": 35
     },
     "Janvier-2018": {
