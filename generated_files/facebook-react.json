@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-02-26T23:45:40.990Z",
+  "lastUpdate": "2018-02-27T00:45:17.273Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6551,
+  "totalPR": 6554,
   "lastPR": {
-    "createdAt": "2018-02-26T23:38:54Z",
-    "username": "hartzis"
+    "createdAt": "2018-02-27T00:21:47Z",
+    "username": "aweary"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,15 +23,25 @@
     "image": "https://avatars2.githubusercontent.com/u/1095866?v=4"
   },
   "userPRInfos": {
+    "aweary": {
+      "total": 61,
+      "merged": 51,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/6886061?v=4"
+    },
+    "hramos": {
+      "total": 18,
+      "merged": 15,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/165856?v=4"
+    },
+    "acdlite": {
+      "total": 174,
+      "merged": 138,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/3624098?v=4"
+    },
     "hartzis": {
       "total": 2,
       "merged": 1,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/5378707?v=4"
-    },
-    "aweary": {
-      "total": 60,
-      "merged": 50,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/6886061?v=4"
     },
     "raunofreiberg": {
       "total": 2,
@@ -47,11 +57,6 @@
       "total": 3,
       "merged": 1,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/498274?v=4"
-    },
-    "acdlite": {
-      "total": 173,
-      "merged": 138,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/3624098?v=4"
     },
     "monkindey": {
       "total": 5,
@@ -1632,11 +1637,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/20908024?v=4"
-    },
-    "hramos": {
-      "total": 17,
-      "merged": 14,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/165856?v=4"
     },
     "ilyagelman": {
       "total": 2,
@@ -9711,8 +9711,8 @@
   },
   "datePRInfos": {
     "Février-2018": {
-      "total": 63,
-      "merged": 36
+      "total": 66,
+      "merged": 38
     },
     "Janvier-2018": {
       "total": 80,
