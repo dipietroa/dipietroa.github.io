@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-02-27T08:42:47.023Z",
+  "lastUpdate": "2018-02-27T09:43:06.360Z",
   "cowner": "nuclio",
   "crepo": "nuclio",
   "totalPR": 423,
@@ -35,7 +35,7 @@
     },
     "texnichnyi": {
       "total": 3,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/16348425?v=4"
     },
     "ilaykav": {
@@ -107,7 +107,7 @@
   "datePRInfos": {
     "Février-2018": {
       "total": 28,
-      "merged": 19
+      "merged": 20
     },
     "Janvier-2018": {
       "total": 70,
