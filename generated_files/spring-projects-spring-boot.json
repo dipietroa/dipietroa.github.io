@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-02-28T16:42:40.964Z",
+  "lastUpdate": "2018-02-28T17:41:38.037Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2434,
+  "totalPR": 2436,
   "lastPR": {
-    "createdAt": "2018-02-28T13:13:36Z",
-    "username": "izeye"
+    "createdAt": "2018-02-28T16:49:24Z",
+    "username": "jkschneider"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,16 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "jkschneider": {
+      "total": 24,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/1697736?v=4"
+    },
+    "garyrussell": {
+      "total": 45,
+      "merged": 1,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/483832?v=4"
+    },
     "izeye": {
       "total": 364,
       "merged": 1,
@@ -68,11 +78,6 @@
       "merged": 0,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/6304496?v=4"
     },
-    "garyrussell": {
-      "total": 44,
-      "merged": 1,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/483832?v=4"
-    },
     "rajadilipkolli": {
       "total": 26,
       "merged": 0,
@@ -97,11 +102,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/2701536?v=4"
-    },
-    "jkschneider": {
-      "total": 23,
-      "merged": 0,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/1697736?v=4"
     },
     "mtrejo": {
       "total": 1,
@@ -3701,7 +3701,7 @@
   },
   "datePRInfos": {
     "Février-2018": {
-      "total": 80,
+      "total": 82,
       "merged": 0
     },
     "Janvier-2018": {
