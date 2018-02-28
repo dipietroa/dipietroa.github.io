@@ -1,8 +1,8 @@
 {
-  "lastUpdate": "2018-02-28T15:46:53.068Z",
+  "lastUpdate": "2018-02-28T16:46:49.709Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6558,
+  "totalPR": 6559,
   "lastPR": {
     "createdAt": "2018-02-28T04:43:08Z",
     "username": "acdlite"
@@ -4998,6 +4998,11 @@
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/17993994?v=4"
     },
+    "adius": {
+      "total": 1,
+      "merged": 1,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/969983?v=4"
+    },
     "jyang22": {
       "total": 1,
       "merged": 0,
@@ -9799,8 +9804,8 @@
       "merged": 99
     },
     "Avril-2016": {
-      "total": 130,
-      "merged": 82
+      "total": 131,
+      "merged": 83
     },
     "Mars-2016": {
       "total": 117,
