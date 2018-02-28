@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-02-27T23:41:34.475Z",
+  "lastUpdate": "2018-02-28T00:41:38.127Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2430,
+  "totalPR": 2431,
   "lastPR": {
-    "createdAt": "2018-02-26T22:09:39Z",
-    "username": "igor-suhorukov"
+    "createdAt": "2018-02-28T00:21:15Z",
+    "username": "smaldini"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "smaldini": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/76718?v=4"
+    },
     "igor-suhorukov": {
       "total": 14,
       "merged": 0,
@@ -3691,7 +3696,7 @@
   },
   "datePRInfos": {
     "Février-2018": {
-      "total": 76,
+      "total": 77,
       "merged": 0
     },
     "Janvier-2018": {
