@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "2018-02-28T04:44:53.902Z",
+  "lastUpdate": "2018-02-28T05:46:10.603Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 6558,
   "lastPR": {
-    "createdAt": "2018-02-28T03:23:37Z",
+    "createdAt": "2018-02-28T04:43:08Z",
     "username": "acdlite"
   },
   "bestPR": {
@@ -24,7 +24,7 @@
   },
   "userPRInfos": {
     "acdlite": {
-      "total": 175,
+      "total": 176,
       "merged": 140,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/3624098?v=4"
     },
@@ -114,8 +114,8 @@
       "avatarUrl": "https://avatars0.githubusercontent.com/u/29597?v=4"
     },
     "gaearon": {
-      "total": 530,
-      "merged": 454,
+      "total": 529,
+      "merged": 453,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/810438?v=4"
     },
     "SadPandaBear": {
@@ -9711,7 +9711,7 @@
   },
   "datePRInfos": {
     "Février-2018": {
-      "total": 69,
+      "total": 70,
       "merged": 42
     },
     "Janvier-2018": {
@@ -9767,8 +9767,8 @@
       "merged": 109
     },
     "Décembre-2016": {
-      "total": 124,
-      "merged": 88
+      "total": 123,
+      "merged": 87
     },
     "Novembre-2016": {
       "total": 197,
