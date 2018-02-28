@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-02-28T17:45:41.085Z",
+  "lastUpdate": "2018-02-28T18:46:56.892Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 6559,
@@ -25,7 +25,7 @@
   "userPRInfos": {
     "acdlite": {
       "total": 176,
-      "merged": 140,
+      "merged": 141,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/3624098?v=4"
     },
     "sebmarkbage": {
@@ -9717,7 +9717,7 @@
   "datePRInfos": {
     "Février-2018": {
       "total": 70,
-      "merged": 42
+      "merged": 43
     },
     "Janvier-2018": {
       "total": 80,
