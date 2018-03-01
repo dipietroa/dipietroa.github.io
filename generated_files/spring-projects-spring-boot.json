@@ -1,15 +1,15 @@
 {
-  "lastUpdate": "2018-03-01T10:41:29.053Z",
+  "lastUpdate": "2018-03-01T11:41:40.652Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2436,
+  "totalPR": 2437,
   "lastPR": {
-    "createdAt": "2018-02-28T16:49:24Z",
-    "username": "jkschneider"
+    "createdAt": "2018-03-01T11:08:43Z",
+    "username": "izeye"
   },
   "bestPR": {
     "user": "izeye",
-    "nbPR": 364,
+    "nbPR": 365,
     "image": "https://avatars3.githubusercontent.com/u/1059363?v=4"
   },
   "bestMerged": {
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "izeye": {
+      "total": 365,
+      "merged": 1,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/1059363?v=4"
+    },
     "jkschneider": {
       "total": 24,
       "merged": 0,
@@ -32,11 +37,6 @@
       "total": 45,
       "merged": 1,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/483832?v=4"
-    },
-    "izeye": {
-      "total": 364,
-      "merged": 1,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/1059363?v=4"
     },
     "evernat": {
       "total": 1,
@@ -3700,6 +3700,10 @@
     }
   },
   "datePRInfos": {
+    "Mars-2018": {
+      "total": 1,
+      "merged": 0
+    },
     "Février-2018": {
       "total": 82,
       "merged": 0
