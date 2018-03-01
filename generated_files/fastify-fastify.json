@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-03-01T12:43:10.159Z",
+  "lastUpdate": "2018-03-01T13:42:59.317Z",
   "cowner": "fastify",
   "crepo": "fastify",
-  "totalPR": 489,
+  "totalPR": 490,
   "lastPR": {
-    "createdAt": "2018-02-28T08:56:05Z",
-    "username": "mcollina"
+    "createdAt": "2018-03-01T12:58:00Z",
+    "username": "jsumners"
   },
   "bestPR": {
     "user": "delvedor",
@@ -18,11 +18,16 @@
     "image": "https://avatars0.githubusercontent.com/u/4865608?v=4"
   },
   "bestRatio": {
-    "user": "jeromemacias",
+    "user": "jsumners",
     "ratio": 1,
-    "image": "https://avatars3.githubusercontent.com/u/582446?v=4"
+    "image": "https://avatars1.githubusercontent.com/u/321201?v=4"
   },
   "userPRInfos": {
+    "jsumners": {
+      "total": 32,
+      "merged": 32,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/321201?v=4"
+    },
     "mcollina": {
       "total": 61,
       "merged": 58,
@@ -30,7 +35,7 @@
     },
     "allevo": {
       "total": 46,
-      "merged": 37,
+      "merged": 38,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/1054125?v=4"
     },
     "chang0022": {
@@ -72,11 +77,6 @@
       "total": 48,
       "merged": 25,
       "avatarUrl": "https://avatars3.githubusercontent.com/in/505?v=4"
-    },
-    "jsumners": {
-      "total": 31,
-      "merged": 31,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/321201?v=4"
     },
     "delvedor": {
       "total": 90,
@@ -425,9 +425,13 @@
     }
   },
   "datePRInfos": {
+    "Mars-2018": {
+      "total": 1,
+      "merged": 1
+    },
     "Février-2018": {
       "total": 56,
-      "merged": 42
+      "merged": 43
     },
     "Janvier-2018": {
       "total": 93,
