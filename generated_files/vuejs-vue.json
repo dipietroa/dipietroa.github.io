@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-03-01T20:42:26.801Z",
+  "lastUpdate": "2018-03-01T21:42:29.269Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 1067,
+  "totalPR": 1068,
   "lastPR": {
-    "createdAt": "2018-02-26T08:34:46Z",
-    "username": "ktsn"
+    "createdAt": "2018-03-01T20:54:32Z",
+    "username": "LarsStegman"
   },
   "bestPR": {
     "user": "kazupon",
@@ -27,6 +27,11 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/28888508?v=4"
+    },
+    "LarsStegman": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/9332816?v=4"
     },
     "ktsn": {
       "total": 22,
@@ -2330,6 +2335,10 @@
     }
   },
   "datePRInfos": {
+    "Mars-2018": {
+      "total": 1,
+      "merged": 0
+    },
     "Février-2018": {
       "total": 23,
       "merged": 3
