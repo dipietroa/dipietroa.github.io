@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-03-01T09:45:48.001Z",
+  "lastUpdate": "2018-03-01T10:45:35.650Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6560,
+  "totalPR": 6561,
   "lastPR": {
-    "createdAt": "2018-03-01T02:08:34Z",
-    "username": "brainee"
+    "createdAt": "2018-03-01T10:13:00Z",
+    "username": "gusaiani"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars2.githubusercontent.com/u/1095866?v=4"
   },
   "userPRInfos": {
+    "gusaiani": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/380816?v=4"
+    },
     "brainee": {
       "total": 1,
       "merged": 0,
@@ -9721,7 +9726,7 @@
   },
   "datePRInfos": {
     "Mars-2018": {
-      "total": 1,
+      "total": 2,
       "merged": 0
     },
     "Février-2018": {
