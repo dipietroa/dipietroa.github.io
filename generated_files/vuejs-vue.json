@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-03-02T11:43:04.292Z",
+  "lastUpdate": "2018-03-02T12:43:01.653Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 1071,
+  "totalPR": 1072,
   "lastPR": {
-    "createdAt": "2018-03-02T02:26:54Z",
-    "username": "HerringtonDarkholme"
+    "createdAt": "2018-03-02T12:00:12Z",
+    "username": "Leocardoso94"
   },
   "bestPR": {
     "user": "kazupon",
@@ -27,6 +27,11 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/28888508?v=4"
+    },
+    "Leocardoso94": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/12713314?v=4"
     },
     "HerringtonDarkholme": {
       "total": 26,
@@ -2346,7 +2351,7 @@
   },
   "datePRInfos": {
     "Mars-2018": {
-      "total": 4,
+      "total": 5,
       "merged": 0
     },
     "Février-2018": {
