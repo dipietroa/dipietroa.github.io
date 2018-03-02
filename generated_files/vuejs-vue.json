@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-03-02T01:42:23.492Z",
+  "lastUpdate": "2018-03-02T02:42:15.319Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 1069,
+  "totalPR": 1071,
   "lastPR": {
-    "createdAt": "2018-03-01T21:51:10Z",
-    "username": "imbozhang"
+    "createdAt": "2018-03-02T02:26:54Z",
+    "username": "HerringtonDarkholme"
   },
   "bestPR": {
     "user": "kazupon",
@@ -27,6 +27,16 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/28888508?v=4"
+    },
+    "HerringtonDarkholme": {
+      "total": 26,
+      "merged": 21,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/2883231?v=4"
+    },
+    "cheapsteak": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/743976?v=4"
     },
     "imbozhang": {
       "total": 1,
@@ -57,11 +67,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/3625026?v=4"
-    },
-    "HerringtonDarkholme": {
-      "total": 25,
-      "merged": 21,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/2883231?v=4"
     },
     "t0mburton": {
       "total": 1,
@@ -2341,7 +2346,7 @@
   },
   "datePRInfos": {
     "Mars-2018": {
-      "total": 2,
+      "total": 4,
       "merged": 0
     },
     "Février-2018": {
