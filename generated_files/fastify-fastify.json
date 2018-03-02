@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-03-02T15:44:17.106Z",
+  "lastUpdate": "2018-03-02T16:43:54.644Z",
   "cowner": "fastify",
   "crepo": "fastify",
-  "totalPR": 491,
+  "totalPR": 492,
   "lastPR": {
-    "createdAt": "2018-03-01T13:48:19Z",
-    "username": "jsumners"
+    "createdAt": "2018-03-02T15:50:31Z",
+    "username": "allevo"
   },
   "bestPR": {
     "user": "delvedor",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/321201?v=4"
   },
   "userPRInfos": {
+    "allevo": {
+      "total": 47,
+      "merged": 38,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/1054125?v=4"
+    },
     "jsumners": {
       "total": 33,
       "merged": 33,
@@ -32,11 +37,6 @@
       "total": 61,
       "merged": 58,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/52195?v=4"
-    },
-    "allevo": {
-      "total": 46,
-      "merged": 38,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/1054125?v=4"
     },
     "chang0022": {
       "total": 1,
@@ -426,7 +426,7 @@
   },
   "datePRInfos": {
     "Mars-2018": {
-      "total": 2,
+      "total": 3,
       "merged": 2
     },
     "Février-2018": {
