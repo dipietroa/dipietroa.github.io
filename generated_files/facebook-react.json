@@ -1,28 +1,33 @@
 {
-  "lastUpdate": "2018-03-03T17:45:19.164Z",
+  "lastUpdate": "2018-03-03T18:45:40.767Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6562,
+  "totalPR": 6563,
   "lastPR": {
-    "createdAt": "2018-03-01T21:59:52Z",
-    "username": "istarkov"
+    "createdAt": "2018-03-03T17:51:14Z",
+    "username": "sophiebits"
   },
   "bestPR": {
     "user": "sophiebits",
-    "nbPR": 656,
+    "nbPR": 657,
     "image": "https://avatars2.githubusercontent.com/u/6820?v=4"
   },
   "bestMerged": {
     "user": "sophiebits",
-    "nbPR": 582,
+    "nbPR": 583,
     "image": "https://avatars2.githubusercontent.com/u/6820?v=4"
   },
   "bestRatio": {
-    "user": "fkgozali",
+    "user": "gusaiani",
     "ratio": 1,
-    "image": "https://avatars2.githubusercontent.com/u/1095866?v=4"
+    "image": "https://avatars2.githubusercontent.com/u/380816?v=4"
   },
   "userPRInfos": {
+    "sophiebits": {
+      "total": 657,
+      "merged": 583,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/6820?v=4"
+    },
     "istarkov": {
       "total": 2,
       "merged": 1,
@@ -30,7 +35,7 @@
     },
     "gusaiani": {
       "total": 1,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/380816?v=4"
     },
     "brainee": {
@@ -87,11 +92,6 @@
       "total": 1,
       "merged": 1,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/1095866?v=4"
-    },
-    "sophiebits": {
-      "total": 656,
-      "merged": 582,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/6820?v=4"
     },
     "Swieckowski": {
       "total": 1,
@@ -9726,8 +9726,8 @@
   },
   "datePRInfos": {
     "Mars-2018": {
-      "total": 3,
-      "merged": 0
+      "total": 4,
+      "merged": 2
     },
     "Février-2018": {
       "total": 70,
