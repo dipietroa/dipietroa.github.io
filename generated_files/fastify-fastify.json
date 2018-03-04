@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-03-04T18:42:44.161Z",
+  "lastUpdate": "2018-03-04T19:42:49.825Z",
   "cowner": "fastify",
   "crepo": "fastify",
   "totalPR": 496,
@@ -25,12 +25,12 @@
   "userPRInfos": {
     "nwoltman": {
       "total": 49,
-      "merged": 45,
+      "merged": 46,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/5128013?v=4"
     },
     "mcollina": {
       "total": 62,
-      "merged": 58,
+      "merged": 59,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/52195?v=4"
     },
     "allevo": {
@@ -427,7 +427,7 @@
   "datePRInfos": {
     "Mars-2018": {
       "total": 7,
-      "merged": 5
+      "merged": 7
     },
     "Février-2018": {
       "total": 56,
