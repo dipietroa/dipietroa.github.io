@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-03-04T09:42:42.596Z",
+  "lastUpdate": "2018-03-04T10:42:13.277Z",
   "cowner": "nuclio",
   "crepo": "nuclio",
-  "totalPR": 431,
+  "totalPR": 432,
   "lastPR": {
-    "createdAt": "2018-03-02T16:55:26Z",
-    "username": "pavius"
+    "createdAt": "2018-03-04T09:52:02Z",
+    "username": "balster1123"
   },
   "bestPR": {
     "user": "pavius",
@@ -18,11 +18,16 @@
     "image": "https://avatars2.githubusercontent.com/u/423987?v=4"
   },
   "bestRatio": {
-    "user": "balster1123",
+    "user": "sbkoth",
     "ratio": 1,
-    "image": "https://avatars1.githubusercontent.com/u/5636945?v=4"
+    "image": "https://avatars0.githubusercontent.com/u/18405855?v=4"
   },
   "userPRInfos": {
+    "balster1123": {
+      "total": 21,
+      "merged": 20,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/5636945?v=4"
+    },
     "pavius": {
       "total": 226,
       "merged": 223,
@@ -32,11 +37,6 @@
       "total": 5,
       "merged": 1,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/16348425?v=4"
-    },
-    "balster1123": {
-      "total": 20,
-      "merged": 20,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/5636945?v=4"
     },
     "ilaykav": {
       "total": 7,
@@ -106,7 +106,7 @@
   },
   "datePRInfos": {
     "Mars-2018": {
-      "total": 3,
+      "total": 4,
       "merged": 2
     },
     "Février-2018": {
