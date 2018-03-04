@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-03-04T10:42:04.009Z",
+  "lastUpdate": "2018-03-04T11:42:15.466Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 1072,
+  "totalPR": 1073,
   "lastPR": {
-    "createdAt": "2018-03-02T12:00:12Z",
-    "username": "Leocardoso94"
+    "createdAt": "2018-03-04T10:55:17Z",
+    "username": "posva"
   },
   "bestPR": {
     "user": "kazupon",
@@ -27,6 +27,11 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/28888508?v=4"
+    },
+    "posva": {
+      "total": 33,
+      "merged": 23,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/664177?v=4"
     },
     "Leocardoso94": {
       "total": 1,
@@ -77,11 +82,6 @@
       "total": 1,
       "merged": 1,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/5889956?v=4"
-    },
-    "posva": {
-      "total": 32,
-      "merged": 23,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/664177?v=4"
     },
     "sis0k0": {
       "total": 1,
@@ -2351,7 +2351,7 @@
   },
   "datePRInfos": {
     "Mars-2018": {
-      "total": 5,
+      "total": 6,
       "merged": 0
     },
     "Février-2018": {
