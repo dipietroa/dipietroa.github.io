@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-03-04T17:45:17.513Z",
+  "lastUpdate": "2018-03-04T18:45:22.154Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6564,
+  "totalPR": 6565,
   "lastPR": {
-    "createdAt": "2018-03-04T04:12:28Z",
-    "username": "bvaughn"
+    "createdAt": "2018-03-04T18:05:11Z",
+    "username": "ArtemFitiskin"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars2.githubusercontent.com/u/380816?v=4"
   },
   "userPRInfos": {
+    "ArtemFitiskin": {
+      "total": 2,
+      "merged": 1,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/5507542?v=4"
+    },
     "bvaughn": {
       "total": 189,
       "merged": 173,
@@ -527,11 +532,6 @@
       "total": 1,
       "merged": 1,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/18336304?v=4"
-    },
-    "ArtemFitiskin": {
-      "total": 1,
-      "merged": 1,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/5507542?v=4"
     },
     "gkal19": {
       "total": 1,
@@ -9726,7 +9726,7 @@
   },
   "datePRInfos": {
     "Mars-2018": {
-      "total": 5,
+      "total": 6,
       "merged": 2
     },
     "Février-2018": {
