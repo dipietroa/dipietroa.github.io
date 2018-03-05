@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-03-05T18:41:38.630Z",
+  "lastUpdate": "2018-03-05T19:41:24.213Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2445,
+  "totalPR": 2446,
   "lastPR": {
-    "createdAt": "2018-03-05T11:44:37Z",
-    "username": "cristiangreco"
+    "createdAt": "2018-03-05T19:12:04Z",
+    "username": "inabajunmr"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "inabajunmr": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/10000393?v=4"
+    },
     "cristiangreco": {
       "total": 2,
       "merged": 0,
@@ -3711,7 +3716,7 @@
   },
   "datePRInfos": {
     "Mars-2018": {
-      "total": 9,
+      "total": 10,
       "merged": 0
     },
     "Février-2018": {
