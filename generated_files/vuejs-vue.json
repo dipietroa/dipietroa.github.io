@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-03-05T03:42:59.231Z",
+  "lastUpdate": "2018-03-05T04:42:40.470Z",
   "cowner": "vuejs",
   "crepo": "vue",
   "totalPR": 1075,
@@ -105,7 +105,7 @@
     },
     "Hanks10100": {
       "total": 36,
-      "merged": 31,
+      "merged": 33,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/8401776?v=4"
     },
     "commonstarling": {
@@ -2361,11 +2361,11 @@
     },
     "Février-2018": {
       "total": 23,
-      "merged": 3
+      "merged": 4
     },
     "Janvier-2018": {
       "total": 32,
-      "merged": 4
+      "merged": 5
     },
     "Décembre-2017": {
       "total": 34,
