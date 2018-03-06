@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-03-06T11:25:33.042Z",
+  "lastUpdate": "2018-03-06T12:37:00.044Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 1075,
+  "totalPR": 1076,
   "lastPR": {
-    "createdAt": "2018-03-04T13:44:38Z",
-    "username": "LarsStegman"
+    "createdAt": "2018-03-06T11:41:44Z",
+    "username": "Gcaufy"
   },
   "bestPR": {
     "user": "kazupon",
@@ -27,6 +27,11 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/28888508?v=4"
+    },
+    "Gcaufy": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/2182004?v=4"
     },
     "LarsStegman": {
       "total": 2,
@@ -2356,7 +2361,7 @@
   },
   "datePRInfos": {
     "Mars-2018": {
-      "total": 8,
+      "total": 9,
       "merged": 0
     },
     "Février-2018": {
