@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-03-06T17:45:41.589Z",
+  "lastUpdate": "2018-03-06T18:45:37.726Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6566,
+  "totalPR": 6567,
   "lastPR": {
-    "createdAt": "2018-03-06T07:46:16Z",
-    "username": "yungsters"
+    "createdAt": "2018-03-06T18:07:33Z",
+    "username": "FlorisXll"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars2.githubusercontent.com/u/380816?v=4"
   },
   "userPRInfos": {
+    "FlorisXll": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/9715282?v=4"
+    },
     "yungsters": {
       "total": 25,
       "merged": 20,
@@ -9726,7 +9731,7 @@
   },
   "datePRInfos": {
     "Mars-2018": {
-      "total": 7,
+      "total": 8,
       "merged": 2
     },
     "Février-2018": {
