@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-03-06T15:57:38.873Z",
+  "lastUpdate": "2018-03-06T16:41:39.277Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2446,
+  "totalPR": 2447,
   "lastPR": {
-    "createdAt": "2018-03-05T19:12:04Z",
-    "username": "inabajunmr"
+    "createdAt": "2018-03-06T16:10:09Z",
+    "username": "jacobis"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "jacobis": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/1303461?v=4"
+    },
     "inabajunmr": {
       "total": 1,
       "merged": 0,
@@ -3716,7 +3721,7 @@
   },
   "datePRInfos": {
     "Mars-2018": {
-      "total": 10,
+      "total": 11,
       "merged": 0
     },
     "Février-2018": {
