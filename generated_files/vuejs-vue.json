@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-03-07T13:42:31.044Z",
+  "lastUpdate": "2018-03-07T14:43:07.755Z",
   "cowner": "vuejs",
   "crepo": "vue",
   "totalPR": 1077,
@@ -18,9 +18,9 @@
     "image": "https://avatars1.githubusercontent.com/u/72989?v=4"
   },
   "bestRatio": {
-    "user": "t0mburton",
+    "user": "dennisgarrn",
     "ratio": 1,
-    "image": "https://avatars2.githubusercontent.com/u/5889956?v=4"
+    "image": "https://avatars0.githubusercontent.com/u/3625026?v=4"
   },
   "userPRInfos": {
     "957685677": {
@@ -90,7 +90,7 @@
     },
     "dennisgarrn": {
       "total": 1,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/3625026?v=4"
     },
     "t0mburton": {
@@ -2366,7 +2366,7 @@
     },
     "Février-2018": {
       "total": 23,
-      "merged": 4
+      "merged": 5
     },
     "Janvier-2018": {
       "total": 32,
