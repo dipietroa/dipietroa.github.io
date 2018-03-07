@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-03-07T19:42:20.520Z",
+  "lastUpdate": "2018-03-07T20:42:44.262Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 1077,
+  "totalPR": 1078,
   "lastPR": {
-    "createdAt": "2018-03-07T13:31:11Z",
-    "username": "HcySunYang"
+    "createdAt": "2018-03-07T20:31:30Z",
+    "username": "yyx990803"
   },
   "bestPR": {
     "user": "kazupon",
@@ -27,6 +27,11 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/28888508?v=4"
+    },
+    "yyx990803": {
+      "total": 5,
+      "merged": 2,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/499550?v=4"
     },
     "HcySunYang": {
       "total": 5,
@@ -115,7 +120,7 @@
     },
     "Hanks10100": {
       "total": 36,
-      "merged": 33,
+      "merged": 34,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/8401776?v=4"
     },
     "commonstarling": {
@@ -295,7 +300,7 @@
     },
     "DeyLak": {
       "total": 1,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/1286563?v=4"
     },
     "QingWei-Li": {
@@ -372,11 +377,6 @@
       "total": 1,
       "merged": 1,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/1463553?v=4"
-    },
-    "yyx990803": {
-      "total": 4,
-      "merged": 2,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/499550?v=4"
     },
     "ssshooter": {
       "total": 1,
@@ -2361,7 +2361,7 @@
   },
   "datePRInfos": {
     "Mars-2018": {
-      "total": 10,
+      "total": 11,
       "merged": 0
     },
     "Février-2018": {
@@ -2370,11 +2370,11 @@
     },
     "Janvier-2018": {
       "total": 32,
-      "merged": 5
+      "merged": 6
     },
     "Décembre-2017": {
       "total": 34,
-      "merged": 19
+      "merged": 20
     },
     "Novembre-2017": {
       "total": 37,
