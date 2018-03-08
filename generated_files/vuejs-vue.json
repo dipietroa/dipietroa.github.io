@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-03-08T18:42:37.130Z",
+  "lastUpdate": "2018-03-08T19:42:24.374Z",
   "cowner": "vuejs",
   "crepo": "vue",
   "totalPR": 1078,
@@ -65,7 +65,7 @@
     },
     "HerringtonDarkholme": {
       "total": 26,
-      "merged": 21,
+      "merged": 22,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/2883231?v=4"
     },
     "cheapsteak": {
@@ -873,7 +873,7 @@
       "merged": 1,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/13343726?v=4"
     },
-    "JimRottinger": {
+    "JimRottingerOld": {
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/3096277?v=4"
@@ -2366,7 +2366,7 @@
     },
     "Février-2018": {
       "total": 23,
-      "merged": 11
+      "merged": 12
     },
     "Janvier-2018": {
       "total": 32,
