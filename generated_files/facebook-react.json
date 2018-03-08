@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-03-07T23:45:46.723Z",
+  "lastUpdate": "2018-03-08T00:45:08.280Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6567,
+  "totalPR": 6568,
   "lastPR": {
-    "createdAt": "2018-03-06T18:07:33Z",
-    "username": "FlorisXll"
+    "createdAt": "2018-03-08T00:34:08Z",
+    "username": "acdlite"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars2.githubusercontent.com/u/380816?v=4"
   },
   "userPRInfos": {
+    "acdlite": {
+      "total": 177,
+      "merged": 141,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/3624098?v=4"
+    },
     "FlorisXll": {
       "total": 1,
       "merged": 0,
@@ -62,11 +67,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/5361813?v=4"
-    },
-    "acdlite": {
-      "total": 176,
-      "merged": 141,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/3624098?v=4"
     },
     "sebmarkbage": {
       "total": 245,
@@ -9731,7 +9731,7 @@
   },
   "datePRInfos": {
     "Mars-2018": {
-      "total": 8,
+      "total": 9,
       "merged": 3
     },
     "Février-2018": {
