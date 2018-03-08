@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-03-08T14:43:17.389Z",
+  "lastUpdate": "2018-03-08T15:44:19.482Z",
   "cowner": "vuejs",
   "crepo": "vue",
   "totalPR": 1078,
@@ -170,7 +170,7 @@
     },
     "dmitry-vakhnenko": {
       "total": 2,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/33278950?v=4"
     },
     "CarterLi": {
@@ -205,7 +205,7 @@
     },
     "ismailarilik": {
       "total": 1,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/17585121?v=4"
     },
     "clarkdo": {
@@ -2370,7 +2370,7 @@
     },
     "Janvier-2018": {
       "total": 32,
-      "merged": 7
+      "merged": 9
     },
     "Décembre-2017": {
       "total": 34,
