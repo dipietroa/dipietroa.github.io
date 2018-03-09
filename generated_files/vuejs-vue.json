@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-03-09T17:42:05.352Z",
+  "lastUpdate": "2018-03-09T18:42:38.369Z",
   "cowner": "vuejs",
   "crepo": "vue",
   "totalPR": 1079,
@@ -140,7 +140,7 @@
     },
     "javoski": {
       "total": 28,
-      "merged": 21,
+      "merged": 22,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/5391892?v=4"
     },
     "ArStah": {
@@ -873,10 +873,10 @@
       "merged": 1,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/13343726?v=4"
     },
-    "JimRottingerOld": {
-      "total": 1,
-      "merged": 0,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/3096277?v=4"
+    "ghost": {
+      "total": 4,
+      "merged": 1,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/10137?v=4"
     },
     "Peter-WF": {
       "total": 1,
@@ -1357,11 +1357,6 @@
       "total": 1,
       "merged": 1,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/5779055?v=4"
-    },
-    "ghost": {
-      "total": 3,
-      "merged": 1,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/10137?v=4"
     },
     "lgabster": {
       "total": 2,
@@ -2366,7 +2361,7 @@
     },
     "Février-2018": {
       "total": 23,
-      "merged": 14
+      "merged": 15
     },
     "Janvier-2018": {
       "total": 32,
