@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-03-09T11:42:22.763Z",
+  "lastUpdate": "2018-03-09T12:42:33.158Z",
   "cowner": "nuclio",
   "crepo": "nuclio",
-  "totalPR": 435,
+  "totalPR": 436,
   "lastPR": {
-    "createdAt": "2018-03-06T14:30:56Z",
-    "username": "pavius"
+    "createdAt": "2018-03-09T12:14:18Z",
+    "username": "sony2"
   },
   "bestPR": {
     "user": "pavius",
@@ -23,6 +23,11 @@
     "image": "https://avatars0.githubusercontent.com/u/18405855?v=4"
   },
   "userPRInfos": {
+    "sony2": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/5164117?v=4"
+    },
     "pavius": {
       "total": 229,
       "merged": 226,
@@ -106,7 +111,7 @@
   },
   "datePRInfos": {
     "Mars-2018": {
-      "total": 7,
+      "total": 8,
       "merged": 5
     },
     "Février-2018": {
