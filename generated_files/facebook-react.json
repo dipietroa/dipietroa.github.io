@@ -1,15 +1,15 @@
 {
-  "lastUpdate": "2018-03-08T23:45:18.158Z",
+  "lastUpdate": "2018-03-09T00:45:39.666Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6569,
+  "totalPR": 6571,
   "lastPR": {
-    "createdAt": "2018-03-08T02:32:00Z",
-    "username": "acdlite"
+    "createdAt": "2018-03-09T00:02:05Z",
+    "username": "sophiebits"
   },
   "bestPR": {
     "user": "sophiebits",
-    "nbPR": 657,
+    "nbPR": 658,
     "image": "https://avatars2.githubusercontent.com/u/6820?v=4"
   },
   "bestMerged": {
@@ -23,6 +23,16 @@
     "image": "https://avatars2.githubusercontent.com/u/380816?v=4"
   },
   "userPRInfos": {
+    "sophiebits": {
+      "total": 658,
+      "merged": 583,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/6820?v=4"
+    },
+    "bvaughn": {
+      "total": 190,
+      "merged": 173,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/29597?v=4"
+    },
     "acdlite": {
       "total": 178,
       "merged": 141,
@@ -42,16 +52,6 @@
       "total": 2,
       "merged": 1,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/5507542?v=4"
-    },
-    "bvaughn": {
-      "total": 189,
-      "merged": 173,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/29597?v=4"
-    },
-    "sophiebits": {
-      "total": 657,
-      "merged": 583,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/6820?v=4"
     },
     "istarkov": {
       "total": 2,
@@ -9731,7 +9731,7 @@
   },
   "datePRInfos": {
     "Mars-2018": {
-      "total": 10,
+      "total": 12,
       "merged": 3
     },
     "Février-2018": {
