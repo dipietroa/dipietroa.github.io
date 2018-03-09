@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-03-08T23:41:27.744Z",
+  "lastUpdate": "2018-03-09T00:41:43.012Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2449,
+  "totalPR": 2450,
   "lastPR": {
-    "createdAt": "2018-03-08T19:12:30Z",
-    "username": "igor-suhorukov"
+    "createdAt": "2018-03-09T00:02:29Z",
+    "username": "TwinProduction"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "TwinProduction": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/15699766?v=4"
+    },
     "igor-suhorukov": {
       "total": 17,
       "merged": 0,
@@ -3721,7 +3726,7 @@
   },
   "datePRInfos": {
     "Mars-2018": {
-      "total": 13,
+      "total": 14,
       "merged": 0
     },
     "Février-2018": {
