@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-03-09T13:42:24.291Z",
+  "lastUpdate": "2018-03-09T14:42:39.270Z",
   "cowner": "vuejs",
   "crepo": "vue",
   "totalPR": 1079,
@@ -18,9 +18,9 @@
     "image": "https://avatars1.githubusercontent.com/u/72989?v=4"
   },
   "bestRatio": {
-    "user": "Gcaufy",
+    "user": "g-plane",
     "ratio": 1,
-    "image": "https://avatars1.githubusercontent.com/u/2182004?v=4"
+    "image": "https://avatars1.githubusercontent.com/u/17216317?v=4"
   },
   "userPRInfos": {
     "957685677": {
@@ -30,7 +30,7 @@
     },
     "g-plane": {
       "total": 2,
-      "merged": 1,
+      "merged": 2,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/17216317?v=4"
     },
     "yyx990803": {
@@ -2362,7 +2362,7 @@
   "datePRInfos": {
     "Mars-2018": {
       "total": 12,
-      "merged": 6
+      "merged": 7
     },
     "Février-2018": {
       "total": 23,
