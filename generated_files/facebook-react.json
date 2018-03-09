@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-03-09T19:45:29.405Z",
+  "lastUpdate": "2018-03-09T20:46:17.678Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6571,
+  "totalPR": 6572,
   "lastPR": {
-    "createdAt": "2018-03-09T00:02:05Z",
-    "username": "sophiebits"
+    "createdAt": "2018-03-09T20:25:17Z",
+    "username": "klamping"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars2.githubusercontent.com/u/380816?v=4"
   },
   "userPRInfos": {
+    "klamping": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/706039?v=4"
+    },
     "sophiebits": {
       "total": 658,
       "merged": 583,
@@ -9731,7 +9736,7 @@
   },
   "datePRInfos": {
     "Mars-2018": {
-      "total": 12,
+      "total": 13,
       "merged": 3
     },
     "Février-2018": {
