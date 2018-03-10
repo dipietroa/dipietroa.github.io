@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-03-10T04:42:56.774Z",
+  "lastUpdate": "2018-03-10T05:42:02.066Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 1079,
+  "totalPR": 1080,
   "lastPR": {
-    "createdAt": "2018-03-09T12:13:03Z",
-    "username": "g-plane"
+    "createdAt": "2018-03-10T05:23:24Z",
+    "username": "chrisvfritz"
   },
   "bestPR": {
     "user": "kazupon",
@@ -27,6 +27,11 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/28888508?v=4"
+    },
+    "chrisvfritz": {
+      "total": 12,
+      "merged": 10,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/2327556?v=4"
     },
     "g-plane": {
       "total": 2,
@@ -757,11 +762,6 @@
       "total": 7,
       "merged": 4,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/1633826?v=4"
-    },
-    "chrisvfritz": {
-      "total": 11,
-      "merged": 10,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/2327556?v=4"
     },
     "pdanpdan": {
       "total": 1,
@@ -2356,7 +2356,7 @@
   },
   "datePRInfos": {
     "Mars-2018": {
-      "total": 12,
+      "total": 13,
       "merged": 7
     },
     "Février-2018": {
