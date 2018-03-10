@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-03-10T22:41:32.900Z",
+  "lastUpdate": "2018-03-10T23:41:11.727Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2456,
+  "totalPR": 2457,
   "lastPR": {
-    "createdAt": "2018-03-10T14:05:09Z",
-    "username": "vincent-fuchs"
+    "createdAt": "2018-03-10T23:13:31Z",
+    "username": "atelechev"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "atelechev": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/5637552?v=4"
+    },
     "vincent-fuchs": {
       "total": 1,
       "merged": 0,
@@ -3731,7 +3736,7 @@
   },
   "datePRInfos": {
     "Mars-2018": {
-      "total": 20,
+      "total": 21,
       "merged": 0
     },
     "Février-2018": {
