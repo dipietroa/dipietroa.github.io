@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-03-10T07:42:30.214Z",
+  "lastUpdate": "2018-03-10T08:42:02.924Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
-  "totalPR": 354,
+  "totalPR": 355,
   "lastPR": {
-    "createdAt": "2018-03-03T14:54:57Z",
-    "username": "Oreldm"
+    "createdAt": "2018-03-10T08:05:37Z",
+    "username": "hmangukia"
   },
   "bestPR": {
     "user": "theycallmemac",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/22871961?v=4"
   },
   "userPRInfos": {
+    "hmangukia": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/32035224?v=4"
+    },
     "Oreldm": {
       "total": 1,
       "merged": 0,
@@ -911,7 +916,7 @@
   },
   "datePRInfos": {
     "Mars-2018": {
-      "total": 1,
+      "total": 2,
       "merged": 0
     },
     "Février-2018": {
