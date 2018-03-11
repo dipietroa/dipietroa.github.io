@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-03-11T15:42:32.753Z",
+  "lastUpdate": "2018-03-11T16:42:06.832Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 1080,
+  "totalPR": 1081,
   "lastPR": {
-    "createdAt": "2018-03-10T05:23:24Z",
-    "username": "chrisvfritz"
+    "createdAt": "2018-03-11T16:17:48Z",
+    "username": "jkzing"
   },
   "bestPR": {
     "user": "kazupon",
@@ -27,6 +27,11 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/28888508?v=4"
+    },
+    "jkzing": {
+      "total": 16,
+      "merged": 13,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/2851517?v=4"
     },
     "chrisvfritz": {
       "total": 12,
@@ -252,11 +257,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/7701575?v=4"
-    },
-    "jkzing": {
-      "total": 15,
-      "merged": 13,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/2851517?v=4"
     },
     "lopugit": {
       "total": 1,
@@ -2356,7 +2356,7 @@
   },
   "datePRInfos": {
     "Mars-2018": {
-      "total": 13,
+      "total": 14,
       "merged": 7
     },
     "Février-2018": {
