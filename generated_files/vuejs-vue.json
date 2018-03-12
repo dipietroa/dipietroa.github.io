@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-03-12T12:43:05.860Z",
+  "lastUpdate": "2018-03-12T13:43:24.961Z",
   "cowner": "vuejs",
   "crepo": "vue",
   "totalPR": 1084,
@@ -30,7 +30,7 @@
     },
     "jkzing": {
       "total": 18,
-      "merged": 14,
+      "merged": 15,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/2851517?v=4"
     },
     "HerringtonDarkholme": {
@@ -2357,7 +2357,7 @@
   "datePRInfos": {
     "Mars-2018": {
       "total": 17,
-      "merged": 8
+      "merged": 9
     },
     "Février-2018": {
       "total": 23,
