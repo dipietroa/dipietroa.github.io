@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-03-12T07:42:26.543Z",
+  "lastUpdate": "2018-03-12T08:42:51.427Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 1082,
+  "totalPR": 1083,
   "lastPR": {
-    "createdAt": "2018-03-12T03:04:35Z",
-    "username": "HerringtonDarkholme"
+    "createdAt": "2018-03-12T08:08:25Z",
+    "username": "jkzing"
   },
   "bestPR": {
     "user": "kazupon",
@@ -28,15 +28,15 @@
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/28888508?v=4"
     },
+    "jkzing": {
+      "total": 17,
+      "merged": 14,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/2851517?v=4"
+    },
     "HerringtonDarkholme": {
       "total": 27,
       "merged": 22,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/2883231?v=4"
-    },
-    "jkzing": {
-      "total": 16,
-      "merged": 14,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/2851517?v=4"
     },
     "chrisvfritz": {
       "total": 12,
@@ -2356,7 +2356,7 @@
   },
   "datePRInfos": {
     "Mars-2018": {
-      "total": 15,
+      "total": 16,
       "merged": 8
     },
     "Février-2018": {
