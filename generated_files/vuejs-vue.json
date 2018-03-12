@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "2018-03-12T08:42:51.427Z",
+  "lastUpdate": "2018-03-12T09:42:50.736Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 1083,
+  "totalPR": 1084,
   "lastPR": {
-    "createdAt": "2018-03-12T08:08:25Z",
+    "createdAt": "2018-03-12T09:29:50Z",
     "username": "jkzing"
   },
   "bestPR": {
@@ -29,7 +29,7 @@
       "avatarUrl": "https://avatars1.githubusercontent.com/u/28888508?v=4"
     },
     "jkzing": {
-      "total": 17,
+      "total": 18,
       "merged": 14,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/2851517?v=4"
     },
@@ -2356,7 +2356,7 @@
   },
   "datePRInfos": {
     "Mars-2018": {
-      "total": 16,
+      "total": 17,
       "merged": 8
     },
     "Février-2018": {
