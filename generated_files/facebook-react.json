@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-03-13T18:48:01.998Z",
+  "lastUpdate": "2018-03-13T19:47:04.423Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6578,
+  "totalPR": 6579,
   "lastPR": {
-    "createdAt": "2018-03-13T00:10:06Z",
-    "username": "acdlite"
+    "createdAt": "2018-03-13T19:38:50Z",
+    "username": "zapashcanon"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars2.githubusercontent.com/u/380816?v=4"
   },
   "userPRInfos": {
+    "zapashcanon": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/16472988?v=4"
+    },
     "acdlite": {
       "total": 181,
       "merged": 144,
@@ -9741,7 +9746,7 @@
   },
   "datePRInfos": {
     "Mars-2018": {
-      "total": 19,
+      "total": 20,
       "merged": 6
     },
     "Février-2018": {
