@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-03-13T06:43:26.834Z",
+  "lastUpdate": "2018-03-13T07:43:32.053Z",
   "cowner": "fastify",
   "crepo": "fastify",
-  "totalPR": 503,
+  "totalPR": 504,
   "lastPR": {
-    "createdAt": "2018-03-07T23:42:09Z",
-    "username": "nwoltman"
+    "createdAt": "2018-03-13T07:14:38Z",
+    "username": "shuperry"
   },
   "bestPR": {
     "user": "delvedor",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/321201?v=4"
   },
   "userPRInfos": {
+    "shuperry": {
+      "total": 2,
+      "merged": 0,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/12183336?v=4"
+    },
     "nwoltman": {
       "total": 52,
       "merged": 49,
@@ -57,11 +62,6 @@
       "total": 8,
       "merged": 8,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/582446?v=4"
-    },
-    "shuperry": {
-      "total": 1,
-      "merged": 0,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/12183336?v=4"
     },
     "chanlito": {
       "total": 1,
@@ -426,7 +426,7 @@
   },
   "datePRInfos": {
     "Mars-2018": {
-      "total": 14,
+      "total": 15,
       "merged": 13
     },
     "Février-2018": {
