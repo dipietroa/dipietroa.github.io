@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-03-13T15:43:24.926Z",
+  "lastUpdate": "2018-03-13T16:43:17.099Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 1087,
+  "totalPR": 1090,
   "lastPR": {
-    "createdAt": "2018-03-13T09:08:20Z",
-    "username": "hirokiosame"
+    "createdAt": "2018-03-13T15:48:22Z",
+    "username": "yyx990803"
   },
   "bestPR": {
     "user": "kazupon",
@@ -27,6 +27,11 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/28888508?v=4"
+    },
+    "yyx990803": {
+      "total": 8,
+      "merged": 2,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/499550?v=4"
     },
     "hirokiosame": {
       "total": 2,
@@ -62,11 +67,6 @@
       "total": 2,
       "merged": 2,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/17216317?v=4"
-    },
-    "yyx990803": {
-      "total": 5,
-      "merged": 2,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/499550?v=4"
     },
     "HcySunYang": {
       "total": 5,
@@ -2361,7 +2361,7 @@
   },
   "datePRInfos": {
     "Mars-2018": {
-      "total": 20,
+      "total": 23,
       "merged": 12
     },
     "Février-2018": {
