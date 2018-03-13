@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-03-13T07:43:08.692Z",
+  "lastUpdate": "2018-03-13T08:42:26.790Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 1085,
+  "totalPR": 1086,
   "lastPR": {
-    "createdAt": "2018-03-13T04:34:27Z",
-    "username": "jinzhubaofu"
+    "createdAt": "2018-03-13T07:48:30Z",
+    "username": "pkaminski"
   },
   "bestPR": {
     "user": "kazupon",
@@ -27,6 +27,11 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/28888508?v=4"
+    },
+    "pkaminski": {
+      "total": 2,
+      "merged": 1,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/1646896?v=4"
     },
     "jinzhubaofu": {
       "total": 1,
@@ -1082,11 +1087,6 @@
       "total": 2,
       "merged": 1,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/5570853?v=4"
-    },
-    "pkaminski": {
-      "total": 1,
-      "merged": 1,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/1646896?v=4"
     },
     "JxJayden": {
       "total": 2,
@@ -2361,7 +2361,7 @@
   },
   "datePRInfos": {
     "Mars-2018": {
-      "total": 18,
+      "total": 19,
       "merged": 9
     },
     "Février-2018": {
