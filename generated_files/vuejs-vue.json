@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-03-13T19:42:58.764Z",
+  "lastUpdate": "2018-03-13T20:43:19.505Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 1090,
+  "totalPR": 1091,
   "lastPR": {
-    "createdAt": "2018-03-13T15:48:22Z",
-    "username": "yyx990803"
+    "createdAt": "2018-03-13T20:15:28Z",
+    "username": "zapashcanon"
   },
   "bestPR": {
     "user": "kazupon",
@@ -27,6 +27,11 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/28888508?v=4"
+    },
+    "zapashcanon": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/16472988?v=4"
     },
     "yyx990803": {
       "total": 8,
@@ -2361,7 +2366,7 @@
   },
   "datePRInfos": {
     "Mars-2018": {
-      "total": 23,
+      "total": 24,
       "merged": 12
     },
     "Février-2018": {
