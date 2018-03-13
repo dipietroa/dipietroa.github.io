@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-03-13T03:42:35.601Z",
+  "lastUpdate": "2018-03-13T04:42:00.531Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 1084,
+  "totalPR": 1085,
   "lastPR": {
-    "createdAt": "2018-03-12T09:29:50Z",
-    "username": "jkzing"
+    "createdAt": "2018-03-13T04:34:27Z",
+    "username": "jinzhubaofu"
   },
   "bestPR": {
     "user": "kazupon",
@@ -27,6 +27,11 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/28888508?v=4"
+    },
+    "jinzhubaofu": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/811195?v=4"
     },
     "jkzing": {
       "total": 18,
@@ -2356,7 +2361,7 @@
   },
   "datePRInfos": {
     "Mars-2018": {
-      "total": 17,
+      "total": 18,
       "merged": 9
     },
     "Février-2018": {
