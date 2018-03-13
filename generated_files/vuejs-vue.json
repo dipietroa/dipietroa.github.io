@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-03-13T14:43:06.469Z",
+  "lastUpdate": "2018-03-13T15:43:24.926Z",
   "cowner": "vuejs",
   "crepo": "vue",
   "totalPR": 1087,
@@ -18,9 +18,9 @@
     "image": "https://avatars1.githubusercontent.com/u/72989?v=4"
   },
   "bestRatio": {
-    "user": "g-plane",
+    "user": "hirokiosame",
     "ratio": 1,
-    "image": "https://avatars1.githubusercontent.com/u/17216317?v=4"
+    "image": "https://avatars0.githubusercontent.com/u/1075694?v=4"
   },
   "userPRInfos": {
     "957685677": {
@@ -30,17 +30,17 @@
     },
     "hirokiosame": {
       "total": 2,
-      "merged": 1,
+      "merged": 2,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/1075694?v=4"
     },
     "pkaminski": {
       "total": 2,
-      "merged": 1,
+      "merged": 2,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/1646896?v=4"
     },
     "jinzhubaofu": {
       "total": 1,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/811195?v=4"
     },
     "jkzing": {
@@ -2362,7 +2362,7 @@
   "datePRInfos": {
     "Mars-2018": {
       "total": 20,
-      "merged": 9
+      "merged": 12
     },
     "Février-2018": {
       "total": 23,
