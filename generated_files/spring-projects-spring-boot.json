@@ -1,15 +1,15 @@
 {
-  "lastUpdate": "2018-03-13T06:42:20.590Z",
+  "lastUpdate": "2018-03-13T07:42:21.731Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2465,
+  "totalPR": 2466,
   "lastPR": {
-    "createdAt": "2018-03-12T22:22:08Z",
-    "username": "dreis2211"
+    "createdAt": "2018-03-13T07:08:20Z",
+    "username": "izeye"
   },
   "bestPR": {
     "user": "izeye",
-    "nbPR": 367,
+    "nbPR": 368,
     "image": "https://avatars3.githubusercontent.com/u/1059363?v=4"
   },
   "bestMerged": {
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "izeye": {
+      "total": 368,
+      "merged": 1,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/1059363?v=4"
+    },
     "dreis2211": {
       "total": 53,
       "merged": 0,
@@ -47,11 +52,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/9657583?v=4"
-    },
-    "izeye": {
-      "total": 367,
-      "merged": 1,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/1059363?v=4"
     },
     "TwinProduction": {
       "total": 1,
@@ -3741,7 +3741,7 @@
   },
   "datePRInfos": {
     "Mars-2018": {
-      "total": 29,
+      "total": 30,
       "merged": 0
     },
     "Février-2018": {
