@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-03-13T21:47:17.949Z",
+  "lastUpdate": "2018-03-13T22:46:43.497Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6579,
+  "totalPR": 6580,
   "lastPR": {
-    "createdAt": "2018-03-13T19:38:50Z",
-    "username": "zapashcanon"
+    "createdAt": "2018-03-13T22:39:21Z",
+    "username": "Deraen"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars2.githubusercontent.com/u/380816?v=4"
   },
   "userPRInfos": {
+    "Deraen": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/648087?v=4"
+    },
     "zapashcanon": {
       "total": 1,
       "merged": 0,
@@ -9746,7 +9751,7 @@
   },
   "datePRInfos": {
     "Mars-2018": {
-      "total": 20,
+      "total": 21,
       "merged": 7
     },
     "Février-2018": {
