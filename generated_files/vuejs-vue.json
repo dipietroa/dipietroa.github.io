@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-03-13T08:42:26.790Z",
+  "lastUpdate": "2018-03-13T09:43:03.730Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 1086,
+  "totalPR": 1087,
   "lastPR": {
-    "createdAt": "2018-03-13T07:48:30Z",
-    "username": "pkaminski"
+    "createdAt": "2018-03-13T09:08:20Z",
+    "username": "hirokiosame"
   },
   "bestPR": {
     "user": "kazupon",
@@ -27,6 +27,11 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/28888508?v=4"
+    },
+    "hirokiosame": {
+      "total": 2,
+      "merged": 1,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/1075694?v=4"
     },
     "pkaminski": {
       "total": 2,
@@ -207,11 +212,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/3385679?v=4"
-    },
-    "hirokiosame": {
-      "total": 1,
-      "merged": 1,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/1075694?v=4"
     },
     "KingMario": {
       "total": 9,
@@ -2361,7 +2361,7 @@
   },
   "datePRInfos": {
     "Mars-2018": {
-      "total": 19,
+      "total": 20,
       "merged": 9
     },
     "Février-2018": {
