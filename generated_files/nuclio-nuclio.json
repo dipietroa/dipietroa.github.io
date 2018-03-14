@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "2018-03-14T14:43:21.682Z",
+  "lastUpdate": "2018-03-14T15:43:13.215Z",
   "cowner": "nuclio",
   "crepo": "nuclio",
-  "totalPR": 448,
+  "totalPR": 449,
   "lastPR": {
-    "createdAt": "2018-03-14T14:21:35Z",
+    "createdAt": "2018-03-14T14:46:43Z",
     "username": "texnichnyi"
   },
   "bestPR": {
@@ -24,7 +24,7 @@
   },
   "userPRInfos": {
     "texnichnyi": {
-      "total": 7,
+      "total": 8,
       "merged": 1,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/16348425?v=4"
     },
@@ -111,7 +111,7 @@
   },
   "datePRInfos": {
     "Mars-2018": {
-      "total": 20,
+      "total": 21,
       "merged": 14
     },
     "Février-2018": {
