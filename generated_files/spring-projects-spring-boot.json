@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-03-15T18:42:42.293Z",
+  "lastUpdate": "2018-03-15T19:42:44.246Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2479,
+  "totalPR": 2480,
   "lastPR": {
-    "createdAt": "2018-03-15T11:54:44Z",
-    "username": "dreis2211"
+    "createdAt": "2018-03-15T19:24:38Z",
+    "username": "okohub"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "okohub": {
+      "total": 2,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/4178365?v=4"
+    },
     "dreis2211": {
       "total": 57,
       "merged": 0,
@@ -2948,11 +2953,6 @@
       "merged": 0,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/372512?v=4"
     },
-    "okohub": {
-      "total": 1,
-      "merged": 0,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/4178365?v=4"
-    },
     "dgomesbr": {
       "total": 3,
       "merged": 0,
@@ -3751,7 +3751,7 @@
   },
   "datePRInfos": {
     "Mars-2018": {
-      "total": 43,
+      "total": 44,
       "merged": 0
     },
     "Février-2018": {
