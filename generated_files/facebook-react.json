@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-03-15T06:46:16.049Z",
+  "lastUpdate": "2018-03-15T07:46:18.957Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6582,
+  "totalPR": 6583,
   "lastPR": {
-    "createdAt": "2018-03-14T16:03:26Z",
-    "username": "bvaughn"
+    "createdAt": "2018-03-15T07:20:45Z",
+    "username": "RomanGotsiy"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars2.githubusercontent.com/u/380816?v=4"
   },
   "userPRInfos": {
+    "RomanGotsiy": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/3975738?v=4"
+    },
     "bvaughn": {
       "total": 191,
       "merged": 176,
@@ -9751,7 +9756,7 @@
   },
   "datePRInfos": {
     "Mars-2018": {
-      "total": 23,
+      "total": 24,
       "merged": 10
     },
     "Février-2018": {
