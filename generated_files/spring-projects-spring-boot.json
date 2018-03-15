@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-03-15T06:41:57.790Z",
+  "lastUpdate": "2018-03-15T07:41:53.685Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2475,
+  "totalPR": 2477,
   "lastPR": {
-    "createdAt": "2018-03-15T06:38:54Z",
-    "username": "igor-suhorukov"
+    "createdAt": "2018-03-15T07:18:12Z",
+    "username": "denisw"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,16 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "denisw": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/1032624?v=4"
+    },
+    "eddumelendez": {
+      "total": 135,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/1810547?v=4"
+    },
     "igor-suhorukov": {
       "total": 29,
       "merged": 0,
@@ -287,11 +297,6 @@
       "total": 23,
       "merged": 0,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/659135?v=4"
-    },
-    "eddumelendez": {
-      "total": 134,
-      "merged": 0,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/1810547?v=4"
     },
     "DominicGunn": {
       "total": 1,
@@ -643,7 +648,7 @@
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/50398?v=4"
     },
-    "eliteofindia": {
+    "zdesk": {
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/17291142?v=4"
@@ -3746,7 +3751,7 @@
   },
   "datePRInfos": {
     "Mars-2018": {
-      "total": 39,
+      "total": 41,
       "merged": 0
     },
     "Février-2018": {
