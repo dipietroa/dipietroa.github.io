@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-03-15T07:41:53.685Z",
+  "lastUpdate": "2018-03-15T08:41:51.600Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2477,
+  "totalPR": 2478,
   "lastPR": {
-    "createdAt": "2018-03-15T07:18:12Z",
-    "username": "denisw"
+    "createdAt": "2018-03-15T08:18:49Z",
+    "username": "tsachev"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "tsachev": {
+      "total": 12,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/142505?v=4"
+    },
     "denisw": {
       "total": 1,
       "merged": 0,
@@ -1102,11 +1107,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/8436010?v=4"
-    },
-    "tsachev": {
-      "total": 11,
-      "merged": 0,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/142505?v=4"
     },
     "artembilan": {
       "total": 25,
@@ -3751,7 +3751,7 @@
   },
   "datePRInfos": {
     "Mars-2018": {
-      "total": 41,
+      "total": 42,
       "merged": 0
     },
     "Février-2018": {
