@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-03-16T09:41:49.598Z",
+  "lastUpdate": "2018-03-16T10:41:58.141Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2480,
+  "totalPR": 2481,
   "lastPR": {
-    "createdAt": "2018-03-15T19:24:38Z",
-    "username": "okohub"
+    "createdAt": "2018-03-16T10:15:19Z",
+    "username": "atelechev"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "atelechev": {
+      "total": 2,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/5637552?v=4"
+    },
     "okohub": {
       "total": 2,
       "merged": 0,
@@ -72,11 +77,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/2135309?v=4"
-    },
-    "atelechev": {
-      "total": 1,
-      "merged": 0,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/5637552?v=4"
     },
     "vincent-fuchs": {
       "total": 1,
@@ -3751,7 +3751,7 @@
   },
   "datePRInfos": {
     "Mars-2018": {
-      "total": 44,
+      "total": 45,
       "merged": 0
     },
     "Février-2018": {
