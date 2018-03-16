@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-03-16T02:45:42.542Z",
+  "lastUpdate": "2018-03-16T03:45:48.414Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6589,
+  "totalPR": 6590,
   "lastPR": {
-    "createdAt": "2018-03-16T02:08:28Z",
-    "username": "acdlite"
+    "createdAt": "2018-03-16T02:54:52Z",
+    "username": "SUpermin6u"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars0.githubusercontent.com/u/3975738?v=4"
   },
   "userPRInfos": {
+    "SUpermin6u": {
+      "total": 4,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/15664614?v=4"
+    },
     "acdlite": {
       "total": 183,
       "merged": 147,
@@ -37,11 +42,6 @@
       "total": 192,
       "merged": 177,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/29597?v=4"
-    },
-    "SUpermin6u": {
-      "total": 3,
-      "merged": 0,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/15664614?v=4"
     },
     "RomanGotsiy": {
       "total": 1,
@@ -9761,7 +9761,7 @@
   },
   "datePRInfos": {
     "Mars-2018": {
-      "total": 30,
+      "total": 31,
       "merged": 14
     },
     "Février-2018": {
