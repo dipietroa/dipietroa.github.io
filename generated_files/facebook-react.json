@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-03-16T12:46:38.770Z",
+  "lastUpdate": "2018-03-16T13:47:12.804Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6591,
+  "totalPR": 6592,
   "lastPR": {
-    "createdAt": "2018-03-16T04:15:55Z",
-    "username": "SUpermin6u"
+    "createdAt": "2018-03-16T13:19:19Z",
+    "username": "AlicanC"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars0.githubusercontent.com/u/3975738?v=4"
   },
   "userPRInfos": {
+    "AlicanC": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/412180?v=4"
+    },
     "SUpermin6u": {
       "total": 5,
       "merged": 0,
@@ -9761,7 +9766,7 @@
   },
   "datePRInfos": {
     "Mars-2018": {
-      "total": 32,
+      "total": 33,
       "merged": 14
     },
     "Février-2018": {
