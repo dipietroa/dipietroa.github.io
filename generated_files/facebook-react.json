@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "2018-03-16T03:45:48.414Z",
+  "lastUpdate": "2018-03-16T04:46:03.382Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6590,
+  "totalPR": 6591,
   "lastPR": {
-    "createdAt": "2018-03-16T02:54:52Z",
+    "createdAt": "2018-03-16T04:15:55Z",
     "username": "SUpermin6u"
   },
   "bestPR": {
@@ -24,7 +24,7 @@
   },
   "userPRInfos": {
     "SUpermin6u": {
-      "total": 4,
+      "total": 5,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/15664614?v=4"
     },
@@ -9761,7 +9761,7 @@
   },
   "datePRInfos": {
     "Mars-2018": {
-      "total": 31,
+      "total": 32,
       "merged": 14
     },
     "Février-2018": {
