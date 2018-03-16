@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "2018-03-16T21:42:20.808Z",
+  "lastUpdate": "2018-03-16T22:41:45.603Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2482,
+  "totalPR": 2483,
   "lastPR": {
-    "createdAt": "2018-03-16T21:11:02Z",
+    "createdAt": "2018-03-16T22:32:59Z",
     "username": "igor-suhorukov"
   },
   "bestPR": {
@@ -24,7 +24,7 @@
   },
   "userPRInfos": {
     "igor-suhorukov": {
-      "total": 30,
+      "total": 31,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/10332206?v=4"
     },
@@ -3751,7 +3751,7 @@
   },
   "datePRInfos": {
     "Mars-2018": {
-      "total": 46,
+      "total": 47,
       "merged": 0
     },
     "Février-2018": {
