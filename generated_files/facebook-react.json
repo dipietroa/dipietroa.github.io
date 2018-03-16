@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-03-16T17:47:27.769Z",
+  "lastUpdate": "2018-03-16T18:47:46.771Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 6593,
@@ -25,7 +25,7 @@
   "userPRInfos": {
     "jquense": {
       "total": 37,
-      "merged": 18,
+      "merged": 19,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/339286?v=4"
     },
     "AlicanC": {
@@ -9767,7 +9767,7 @@
   "datePRInfos": {
     "Mars-2018": {
       "total": 34,
-      "merged": 14
+      "merged": 15
     },
     "Février-2018": {
       "total": 70,
