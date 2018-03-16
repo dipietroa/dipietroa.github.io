@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-03-16T09:42:56.379Z",
+  "lastUpdate": "2018-03-16T10:42:56.266Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 1093,
+  "totalPR": 1095,
   "lastPR": {
-    "createdAt": "2018-03-16T07:14:12Z",
-    "username": "pi0"
+    "createdAt": "2018-03-16T10:07:43Z",
+    "username": "Hanks10100"
   },
   "bestPR": {
     "user": "kazupon",
@@ -27,6 +27,16 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/28888508?v=4"
+    },
+    "Hanks10100": {
+      "total": 37,
+      "merged": 34,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/8401776?v=4"
+    },
+    "Uzere": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/3975328?v=4"
     },
     "pi0": {
       "total": 2,
@@ -157,11 +167,6 @@
       "total": 2,
       "merged": 0,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/24426655?v=4"
-    },
-    "Hanks10100": {
-      "total": 36,
-      "merged": 34,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/8401776?v=4"
     },
     "commonstarling": {
       "total": 1,
@@ -2366,7 +2371,7 @@
   },
   "datePRInfos": {
     "Mars-2018": {
-      "total": 26,
+      "total": 28,
       "merged": 12
     },
     "Février-2018": {
