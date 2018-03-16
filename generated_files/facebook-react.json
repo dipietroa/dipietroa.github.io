@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-03-16T14:47:58.555Z",
+  "lastUpdate": "2018-03-16T15:47:59.133Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6592,
+  "totalPR": 6593,
   "lastPR": {
-    "createdAt": "2018-03-16T13:19:19Z",
-    "username": "AlicanC"
+    "createdAt": "2018-03-16T15:16:39Z",
+    "username": "jquense"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars0.githubusercontent.com/u/3975738?v=4"
   },
   "userPRInfos": {
+    "jquense": {
+      "total": 37,
+      "merged": 18,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/339286?v=4"
+    },
     "AlicanC": {
       "total": 1,
       "merged": 0,
@@ -372,11 +377,6 @@
       "total": 2,
       "merged": 0,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/541603?v=4"
-    },
-    "jquense": {
-      "total": 36,
-      "merged": 18,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/339286?v=4"
     },
     "chrisdieckhaus": {
       "total": 1,
@@ -9766,7 +9766,7 @@
   },
   "datePRInfos": {
     "Mars-2018": {
-      "total": 33,
+      "total": 34,
       "merged": 14
     },
     "Février-2018": {
