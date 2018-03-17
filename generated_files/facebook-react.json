@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-03-17T07:45:50.280Z",
+  "lastUpdate": "2018-03-17T08:45:21.861Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 6594,
   "lastPR": {
-    "createdAt": "2018-03-16T15:16:39Z",
-    "username": "jquense"
+    "createdAt": "2018-03-17T07:43:16Z",
+    "username": "barrymichaeldoyle"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars0.githubusercontent.com/u/3975738?v=4"
   },
   "userPRInfos": {
+    "barrymichaeldoyle": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/4674486?v=4"
+    },
     "jquense": {
       "total": 37,
       "merged": 19,
@@ -69,8 +74,8 @@
       "avatarUrl": "https://avatars1.githubusercontent.com/u/16472988?v=4"
     },
     "aweary": {
-      "total": 63,
-      "merged": 53,
+      "total": 62,
+      "merged": 52,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/6886061?v=4"
     },
     "pravi": {
@@ -9766,7 +9771,7 @@
   },
   "datePRInfos": {
     "Mars-2018": {
-      "total": 34,
+      "total": 35,
       "merged": 15
     },
     "Février-2018": {
@@ -9786,8 +9791,8 @@
       "merged": 126
     },
     "Octobre-2017": {
-      "total": 213,
-      "merged": 161
+      "total": 212,
+      "merged": 160
     },
     "Septembre-2017": {
       "total": 236,
