@@ -1,8 +1,8 @@
 {
-  "lastUpdate": "2018-03-17T06:46:03.284Z",
+  "lastUpdate": "2018-03-17T07:45:50.280Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6593,
+  "totalPR": 6594,
   "lastPR": {
     "createdAt": "2018-03-16T15:16:39Z",
     "username": "jquense"
@@ -69,8 +69,8 @@
       "avatarUrl": "https://avatars1.githubusercontent.com/u/16472988?v=4"
     },
     "aweary": {
-      "total": 62,
-      "merged": 52,
+      "total": 63,
+      "merged": 53,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/6886061?v=4"
     },
     "pravi": {
@@ -9786,8 +9786,8 @@
       "merged": 126
     },
     "Octobre-2017": {
-      "total": 212,
-      "merged": 160
+      "total": 213,
+      "merged": 161
     },
     "Septembre-2017": {
       "total": 236,
