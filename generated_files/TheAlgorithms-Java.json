@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-03-18T14:42:10.714Z",
+  "lastUpdate": "2018-03-18T15:42:04.944Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
-  "totalPR": 355,
+  "totalPR": 356,
   "lastPR": {
-    "createdAt": "2018-03-10T08:05:37Z",
-    "username": "hmangukia"
+    "createdAt": "2018-03-18T15:23:13Z",
+    "username": "ayushnagar123"
   },
   "bestPR": {
     "user": "theycallmemac",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/22871961?v=4"
   },
   "userPRInfos": {
+    "ayushnagar123": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/32647423?v=4"
+    },
     "hmangukia": {
       "total": 1,
       "merged": 0,
@@ -916,7 +921,7 @@
   },
   "datePRInfos": {
     "Mars-2018": {
-      "total": 2,
+      "total": 3,
       "merged": 0
     },
     "Février-2018": {
