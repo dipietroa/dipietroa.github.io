@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-03-19T13:48:26.686Z",
+  "lastUpdate": "2018-03-19T14:48:15.392Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6595,
+  "totalPR": 6596,
   "lastPR": {
-    "createdAt": "2018-03-19T03:42:26Z",
-    "username": "alexzherdev"
+    "createdAt": "2018-03-19T14:42:36Z",
+    "username": "JoeCortopassi"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars0.githubusercontent.com/u/3975738?v=4"
   },
   "userPRInfos": {
+    "JoeCortopassi": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/943606?v=4"
+    },
     "alexzherdev": {
       "total": 13,
       "merged": 3,
@@ -9771,7 +9776,7 @@
   },
   "datePRInfos": {
     "Mars-2018": {
-      "total": 36,
+      "total": 37,
       "merged": 15
     },
     "Février-2018": {
