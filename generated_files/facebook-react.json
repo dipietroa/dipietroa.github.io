@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-03-19T02:46:27.731Z",
+  "lastUpdate": "2018-03-19T03:45:39.915Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6594,
+  "totalPR": 6595,
   "lastPR": {
-    "createdAt": "2018-03-17T07:43:16Z",
-    "username": "barrymichaeldoyle"
+    "createdAt": "2018-03-19T03:42:26Z",
+    "username": "alexzherdev"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars0.githubusercontent.com/u/3975738?v=4"
   },
   "userPRInfos": {
+    "alexzherdev": {
+      "total": 13,
+      "merged": 3,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/93752?v=4"
+    },
     "barrymichaeldoyle": {
       "total": 1,
       "merged": 0,
@@ -4182,11 +4187,6 @@
       "total": 3,
       "merged": 3,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/182219?v=4"
-    },
-    "alexzherdev": {
-      "total": 12,
-      "merged": 3,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/93752?v=4"
     },
     "jesstelford": {
       "total": 1,
@@ -9771,7 +9771,7 @@
   },
   "datePRInfos": {
     "Mars-2018": {
-      "total": 35,
+      "total": 36,
       "merged": 15
     },
     "Février-2018": {
