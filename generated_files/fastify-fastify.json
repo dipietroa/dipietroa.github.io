@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-03-19T05:43:13.453Z",
+  "lastUpdate": "2018-03-19T06:43:43.932Z",
   "cowner": "fastify",
   "crepo": "fastify",
   "totalPR": 508,
@@ -18,14 +18,14 @@
     "image": "https://avatars0.githubusercontent.com/u/4865608?v=4"
   },
   "bestRatio": {
-    "user": "jsumners",
+    "user": "dberesford",
     "ratio": 1,
-    "image": "https://avatars1.githubusercontent.com/u/321201?v=4"
+    "image": "https://avatars0.githubusercontent.com/u/602445?v=4"
   },
   "userPRInfos": {
     "dberesford": {
       "total": 1,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/602445?v=4"
     },
     "allevo": {
@@ -432,7 +432,7 @@
   "datePRInfos": {
     "Mars-2018": {
       "total": 19,
-      "merged": 13
+      "merged": 14
     },
     "Février-2018": {
       "total": 56,
