@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-03-19T20:42:12.151Z",
+  "lastUpdate": "2018-03-19T21:42:37.763Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2487,
+  "totalPR": 2488,
   "lastPR": {
-    "createdAt": "2018-03-19T12:19:59Z",
-    "username": "andreysaksonov"
+    "createdAt": "2018-03-19T21:10:14Z",
+    "username": "ruifigueira"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "ruifigueira": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/1374559?v=4"
+    },
     "andreysaksonov": {
       "total": 2,
       "merged": 0,
@@ -3761,7 +3766,7 @@
   },
   "datePRInfos": {
     "Mars-2018": {
-      "total": 51,
+      "total": 52,
       "merged": 0
     },
     "Février-2018": {
