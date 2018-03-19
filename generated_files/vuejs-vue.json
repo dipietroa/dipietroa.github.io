@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-03-19T13:43:49.706Z",
+  "lastUpdate": "2018-03-19T14:43:24.976Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 1095,
+  "totalPR": 1096,
   "lastPR": {
-    "createdAt": "2018-03-16T10:07:43Z",
-    "username": "Hanks10100"
+    "createdAt": "2018-03-19T14:11:02Z",
+    "username": "superMDguy"
   },
   "bestPR": {
     "user": "kazupon",
@@ -27,6 +27,11 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/28888508?v=4"
+    },
+    "superMDguy": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/19691288?v=4"
     },
     "Hanks10100": {
       "total": 37,
@@ -2371,7 +2376,7 @@
   },
   "datePRInfos": {
     "Mars-2018": {
-      "total": 28,
+      "total": 29,
       "merged": 12
     },
     "Février-2018": {
