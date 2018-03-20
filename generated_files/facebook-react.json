@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-03-19T23:46:49.095Z",
+  "lastUpdate": "2018-03-20T00:46:25.265Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6598,
+  "totalPR": 6599,
   "lastPR": {
-    "createdAt": "2018-03-19T21:17:46Z",
-    "username": "bvaughn"
+    "createdAt": "2018-03-20T00:23:00Z",
+    "username": "fkgozali"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars0.githubusercontent.com/u/3975738?v=4"
   },
   "userPRInfos": {
+    "fkgozali": {
+      "total": 2,
+      "merged": 1,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/1095866?v=4"
+    },
     "bvaughn": {
       "total": 193,
       "merged": 177,
@@ -172,11 +177,6 @@
       "total": 5,
       "merged": 4,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/6913898?v=4"
-    },
-    "fkgozali": {
-      "total": 1,
-      "merged": 1,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/1095866?v=4"
     },
     "Swieckowski": {
       "total": 1,
@@ -9776,7 +9776,7 @@
   },
   "datePRInfos": {
     "Mars-2018": {
-      "total": 39,
+      "total": 40,
       "merged": 15
     },
     "Février-2018": {
