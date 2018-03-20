@@ -1,15 +1,15 @@
 {
-  "lastUpdate": "2018-03-20T06:43:25.138Z",
+  "lastUpdate": "2018-03-20T07:43:12.295Z",
   "cowner": "fastify",
   "crepo": "fastify",
-  "totalPR": 509,
+  "totalPR": 510,
   "lastPR": {
-    "createdAt": "2018-03-19T11:01:08Z",
-    "username": "lmammino"
+    "createdAt": "2018-03-20T07:30:05Z",
+    "username": "delvedor"
   },
   "bestPR": {
     "user": "delvedor",
-    "nbPR": 90,
+    "nbPR": 91,
     "image": "https://avatars0.githubusercontent.com/u/4865608?v=4"
   },
   "bestMerged": {
@@ -23,6 +23,11 @@
     "image": "https://avatars0.githubusercontent.com/u/602445?v=4"
   },
   "userPRInfos": {
+    "delvedor": {
+      "total": 91,
+      "merged": 87,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/4865608?v=4"
+    },
     "lmammino": {
       "total": 5,
       "merged": 4,
@@ -87,11 +92,6 @@
       "total": 1,
       "merged": 1,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/1280477?v=4"
-    },
-    "delvedor": {
-      "total": 90,
-      "merged": 87,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/4865608?v=4"
     },
     "amitguptagwl": {
       "total": 2,
@@ -431,7 +431,7 @@
   },
   "datePRInfos": {
     "Mars-2018": {
-      "total": 20,
+      "total": 21,
       "merged": 16
     },
     "Février-2018": {
