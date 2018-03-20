@@ -1,20 +1,20 @@
 {
-  "lastUpdate": "2018-03-20T20:43:45.633Z",
+  "lastUpdate": "2018-03-20T21:43:17.210Z",
   "cowner": "nuclio",
   "crepo": "nuclio",
-  "totalPR": 456,
+  "totalPR": 458,
   "lastPR": {
-    "createdAt": "2018-03-20T08:08:42Z",
+    "createdAt": "2018-03-20T21:26:06Z",
     "username": "pavius"
   },
   "bestPR": {
     "user": "pavius",
-    "nbPR": 244,
+    "nbPR": 246,
     "image": "https://avatars2.githubusercontent.com/u/423987?v=4"
   },
   "bestMerged": {
     "user": "pavius",
-    "nbPR": 241,
+    "nbPR": 243,
     "image": "https://avatars2.githubusercontent.com/u/423987?v=4"
   },
   "bestRatio": {
@@ -24,8 +24,8 @@
   },
   "userPRInfos": {
     "pavius": {
-      "total": 244,
-      "merged": 241,
+      "total": 246,
+      "merged": 243,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/423987?v=4"
     },
     "texnichnyi": {
@@ -111,8 +111,8 @@
   },
   "datePRInfos": {
     "Mars-2018": {
-      "total": 28,
-      "merged": 21
+      "total": 30,
+      "merged": 23
     },
     "Février-2018": {
       "total": 33,
