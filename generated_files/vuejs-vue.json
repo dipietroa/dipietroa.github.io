@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-03-20T07:42:45.300Z",
+  "lastUpdate": "2018-03-20T08:43:17.456Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 1096,
+  "totalPR": 1097,
   "lastPR": {
-    "createdAt": "2018-03-19T14:11:02Z",
-    "username": "superMDguy"
+    "createdAt": "2018-03-20T07:52:22Z",
+    "username": "luisatmaniak"
   },
   "bestPR": {
     "user": "kazupon",
@@ -27,6 +27,11 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/28888508?v=4"
+    },
+    "luisatmaniak": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/26146234?v=4"
     },
     "superMDguy": {
       "total": 1,
@@ -2376,7 +2381,7 @@
   },
   "datePRInfos": {
     "Mars-2018": {
-      "total": 29,
+      "total": 30,
       "merged": 12
     },
     "Février-2018": {
