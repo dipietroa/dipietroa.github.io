@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-03-20T15:48:53.664Z",
+  "lastUpdate": "2018-03-20T16:47:22.995Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6599,
+  "totalPR": 6601,
   "lastPR": {
-    "createdAt": "2018-03-20T00:23:00Z",
-    "username": "fkgozali"
+    "createdAt": "2018-03-20T15:58:06Z",
+    "username": "bvaughn"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,15 +23,20 @@
     "image": "https://avatars2.githubusercontent.com/u/1095866?v=4"
   },
   "userPRInfos": {
+    "bvaughn": {
+      "total": 194,
+      "merged": 177,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/29597?v=4"
+    },
+    "Yeti-or": {
+      "total": 3,
+      "merged": 2,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/1813468?v=4"
+    },
     "fkgozali": {
       "total": 2,
       "merged": 2,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/1095866?v=4"
-    },
-    "bvaughn": {
-      "total": 193,
-      "merged": 177,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/29597?v=4"
     },
     "gaearon": {
       "total": 530,
@@ -6853,11 +6858,6 @@
       "merged": 1,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/749374?v=4"
     },
-    "Yeti-or": {
-      "total": 2,
-      "merged": 2,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/1813468?v=4"
-    },
     "KevinTCoughlin": {
       "total": 1,
       "merged": 1,
@@ -9776,7 +9776,7 @@
   },
   "datePRInfos": {
     "Mars-2018": {
-      "total": 40,
+      "total": 42,
       "merged": 17
     },
     "Février-2018": {
