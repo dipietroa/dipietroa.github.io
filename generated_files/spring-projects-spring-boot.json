@@ -1,15 +1,15 @@
 {
-  "lastUpdate": "2018-03-20T05:42:29.574Z",
+  "lastUpdate": "2018-03-20T06:42:07.837Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2489,
+  "totalPR": 2490,
   "lastPR": {
-    "createdAt": "2018-03-19T22:34:00Z",
-    "username": "igor-suhorukov"
+    "createdAt": "2018-03-20T05:47:48Z",
+    "username": "izeye"
   },
   "bestPR": {
     "user": "izeye",
-    "nbPR": 369,
+    "nbPR": 370,
     "image": "https://avatars3.githubusercontent.com/u/1059363?v=4"
   },
   "bestMerged": {
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "izeye": {
+      "total": 370,
+      "merged": 1,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/1059363?v=4"
+    },
     "igor-suhorukov": {
       "total": 32,
       "merged": 0,
@@ -87,11 +92,6 @@
       "total": 27,
       "merged": 0,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/1697736?v=4"
-    },
-    "izeye": {
-      "total": 369,
-      "merged": 1,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/1059363?v=4"
     },
     "vincent-fuchs": {
       "total": 1,
@@ -3766,7 +3766,7 @@
   },
   "datePRInfos": {
     "Mars-2018": {
-      "total": 53,
+      "total": 54,
       "merged": 0
     },
     "Février-2018": {
