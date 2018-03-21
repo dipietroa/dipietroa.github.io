@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-03-21T15:49:58.596Z",
+  "lastUpdate": "2018-03-21T16:49:54.143Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 6604,
@@ -25,7 +25,7 @@
   "userPRInfos": {
     "gaearon": {
       "total": 531,
-      "merged": 454,
+      "merged": 455,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/810438?v=4"
     },
     "barrymichaeldoyle": {
@@ -100,7 +100,7 @@
     },
     "zapashcanon": {
       "total": 1,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/16472988?v=4"
     },
     "aweary": {
@@ -9777,7 +9777,7 @@
   "datePRInfos": {
     "Mars-2018": {
       "total": 45,
-      "merged": 19
+      "merged": 21
     },
     "Février-2018": {
       "total": 70,
