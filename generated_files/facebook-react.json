@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-03-21T17:48:23.674Z",
+  "lastUpdate": "2018-03-21T18:48:01.788Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 6604,
@@ -40,7 +40,7 @@
     },
     "bvaughn": {
       "total": 194,
-      "merged": 177,
+      "merged": 178,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/29597?v=4"
     },
     "Yeti-or": {
@@ -9777,7 +9777,7 @@
   "datePRInfos": {
     "Mars-2018": {
       "total": 45,
-      "merged": 21
+      "merged": 22
     },
     "Février-2018": {
       "total": 70,
