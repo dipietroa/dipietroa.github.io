@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-03-21T10:47:15.419Z",
+  "lastUpdate": "2018-03-21T11:47:57.410Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6601,
+  "totalPR": 6602,
   "lastPR": {
-    "createdAt": "2018-03-20T15:58:06Z",
-    "username": "bvaughn"
+    "createdAt": "2018-03-21T11:08:04Z",
+    "username": "raunofreiberg"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars0.githubusercontent.com/u/1813468?v=4"
   },
   "userPRInfos": {
+    "raunofreiberg": {
+      "total": 3,
+      "merged": 1,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/23662329?v=4"
+    },
     "bvaughn": {
       "total": 194,
       "merged": 177,
@@ -162,11 +167,6 @@
       "total": 2,
       "merged": 2,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/5378707?v=4"
-    },
-    "raunofreiberg": {
-      "total": 2,
-      "merged": 1,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/23662329?v=4"
     },
     "diasbruno": {
       "total": 2,
@@ -9776,7 +9776,7 @@
   },
   "datePRInfos": {
     "Mars-2018": {
-      "total": 42,
+      "total": 43,
       "merged": 18
     },
     "Février-2018": {
