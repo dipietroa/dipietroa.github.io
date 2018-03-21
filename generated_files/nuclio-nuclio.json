@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-03-21T21:42:55.669Z",
+  "lastUpdate": "2018-03-21T22:43:19.228Z",
   "cowner": "nuclio",
   "crepo": "nuclio",
   "totalPR": 461,
@@ -18,14 +18,14 @@
     "image": "https://avatars2.githubusercontent.com/u/423987?v=4"
   },
   "bestRatio": {
-    "user": "sony2",
+    "user": "stuartleeks",
     "ratio": 1,
-    "image": "https://avatars2.githubusercontent.com/u/5164117?v=4"
+    "image": "https://avatars1.githubusercontent.com/u/1824461?v=4"
   },
   "userPRInfos": {
     "stuartleeks": {
       "total": 2,
-      "merged": 1,
+      "merged": 2,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/1824461?v=4"
     },
     "pavius": {
@@ -117,7 +117,7 @@
   "datePRInfos": {
     "Mars-2018": {
       "total": 33,
-      "merged": 25
+      "merged": 26
     },
     "Février-2018": {
       "total": 33,
