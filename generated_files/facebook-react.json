@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-03-21T11:47:57.410Z",
+  "lastUpdate": "2018-03-21T12:47:06.881Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6602,
+  "totalPR": 6603,
   "lastPR": {
-    "createdAt": "2018-03-21T11:08:04Z",
-    "username": "raunofreiberg"
+    "createdAt": "2018-03-21T11:58:45Z",
+    "username": "barrymichaeldoyle"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars0.githubusercontent.com/u/1813468?v=4"
   },
   "userPRInfos": {
+    "barrymichaeldoyle": {
+      "total": 2,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/4674486?v=4"
+    },
     "raunofreiberg": {
       "total": 3,
       "merged": 1,
@@ -57,11 +62,6 @@
       "total": 13,
       "merged": 3,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/93752?v=4"
-    },
-    "barrymichaeldoyle": {
-      "total": 1,
-      "merged": 0,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/4674486?v=4"
     },
     "jquense": {
       "total": 37,
@@ -9776,7 +9776,7 @@
   },
   "datePRInfos": {
     "Mars-2018": {
-      "total": 43,
+      "total": 44,
       "merged": 18
     },
     "Février-2018": {
