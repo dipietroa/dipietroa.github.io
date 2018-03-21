@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-03-20T23:42:43.004Z",
+  "lastUpdate": "2018-03-21T00:43:01.318Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 1097,
+  "totalPR": 1098,
   "lastPR": {
-    "createdAt": "2018-03-20T07:52:22Z",
-    "username": "luisatmaniak"
+    "createdAt": "2018-03-21T00:14:25Z",
+    "username": "RyanCavanaugh"
   },
   "bestPR": {
     "user": "kazupon",
@@ -27,6 +27,11 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/28888508?v=4"
+    },
+    "RyanCavanaugh": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/6685088?v=4"
     },
     "luisatmaniak": {
       "total": 1,
@@ -2381,7 +2386,7 @@
   },
   "datePRInfos": {
     "Mars-2018": {
-      "total": 30,
+      "total": 31,
       "merged": 12
     },
     "Février-2018": {
