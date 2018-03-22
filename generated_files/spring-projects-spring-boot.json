@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-03-22T15:42:19.727Z",
+  "lastUpdate": "2018-03-22T16:42:42.211Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2499,
+  "totalPR": 2500,
   "lastPR": {
-    "createdAt": "2018-03-22T14:29:33Z",
-    "username": "garyrussell"
+    "createdAt": "2018-03-22T16:02:58Z",
+    "username": "kedar-joshi"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "kedar-joshi": {
+      "total": 3,
+      "merged": 0,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/13585883?v=4"
+    },
     "garyrussell": {
       "total": 47,
       "merged": 1,
@@ -177,11 +182,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/255721?v=4"
-    },
-    "kedar-joshi": {
-      "total": 2,
-      "merged": 0,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/13585883?v=4"
     },
     "rajadilipkolli": {
       "total": 26,
@@ -3776,7 +3776,7 @@
   },
   "datePRInfos": {
     "Mars-2018": {
-      "total": 63,
+      "total": 64,
       "merged": 0
     },
     "Février-2018": {
