@@ -1,15 +1,15 @@
 {
-  "lastUpdate": "2018-03-22T07:41:51.778Z",
+  "lastUpdate": "2018-03-22T08:41:51.922Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2496,
+  "totalPR": 2497,
   "lastPR": {
-    "createdAt": "2018-03-22T01:41:27Z",
-    "username": "mveitas"
+    "createdAt": "2018-03-22T08:00:53Z",
+    "username": "izeye"
   },
   "bestPR": {
     "user": "izeye",
-    "nbPR": 372,
+    "nbPR": 373,
     "image": "https://avatars3.githubusercontent.com/u/1059363?v=4"
   },
   "bestMerged": {
@@ -23,15 +23,15 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "izeye": {
+      "total": 373,
+      "merged": 1,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/1059363?v=4"
+    },
     "mveitas": {
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/439521?v=4"
-    },
-    "izeye": {
-      "total": 372,
-      "merged": 1,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/1059363?v=4"
     },
     "htynkn": {
       "total": 24,
@@ -3776,7 +3776,7 @@
   },
   "datePRInfos": {
     "Mars-2018": {
-      "total": 60,
+      "total": 61,
       "merged": 0
     },
     "Février-2018": {
