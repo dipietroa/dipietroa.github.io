@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-03-22T19:47:24.453Z",
+  "lastUpdate": "2018-03-22T20:46:40.776Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6613,
+  "totalPR": 6614,
   "lastPR": {
-    "createdAt": "2018-03-22T18:21:00Z",
-    "username": "bvaughn"
+    "createdAt": "2018-03-22T20:18:40Z",
+    "username": "LeonYuAng3NT"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars0.githubusercontent.com/u/7589596?v=4"
   },
   "userPRInfos": {
+    "LeonYuAng3NT": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/14916912?v=4"
+    },
     "bvaughn": {
       "total": 197,
       "merged": 181,
@@ -9781,7 +9786,7 @@
   },
   "datePRInfos": {
     "Mars-2018": {
-      "total": 54,
+      "total": 55,
       "merged": 29
     },
     "Février-2018": {
