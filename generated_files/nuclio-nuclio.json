@@ -1,36 +1,36 @@
 {
-  "lastUpdate": "2018-03-22T15:43:50.865Z",
+  "lastUpdate": "2018-03-22T16:44:02.381Z",
   "cowner": "nuclio",
   "crepo": "nuclio",
-  "totalPR": 466,
+  "totalPR": 468,
   "lastPR": {
-    "createdAt": "2018-03-22T14:55:10Z",
+    "createdAt": "2018-03-22T16:13:07Z",
     "username": "stuartleeks"
   },
   "bestPR": {
     "user": "pavius",
-    "nbPR": 248,
+    "nbPR": 249,
     "image": "https://avatars2.githubusercontent.com/u/423987?v=4"
   },
   "bestMerged": {
     "user": "pavius",
-    "nbPR": 245,
+    "nbPR": 246,
     "image": "https://avatars2.githubusercontent.com/u/423987?v=4"
   },
   "bestRatio": {
-    "user": "Ilanak",
+    "user": "stuartleeks",
     "ratio": 1,
-    "image": "https://avatars2.githubusercontent.com/u/13463870?v=4"
+    "image": "https://avatars1.githubusercontent.com/u/1824461?v=4"
   },
   "userPRInfos": {
     "stuartleeks": {
-      "total": 3,
-      "merged": 2,
+      "total": 4,
+      "merged": 4,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/1824461?v=4"
     },
     "pavius": {
-      "total": 248,
-      "merged": 245,
+      "total": 249,
+      "merged": 246,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/423987?v=4"
     },
     "torosent": {
@@ -121,8 +121,8 @@
   },
   "datePRInfos": {
     "Mars-2018": {
-      "total": 38,
-      "merged": 30
+      "total": 40,
+      "merged": 33
     },
     "Février-2018": {
       "total": 33,
