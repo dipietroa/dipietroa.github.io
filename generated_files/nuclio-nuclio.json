@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-03-22T07:43:03.482Z",
+  "lastUpdate": "2018-03-22T08:43:04.015Z",
   "cowner": "nuclio",
   "crepo": "nuclio",
-  "totalPR": 463,
+  "totalPR": 464,
   "lastPR": {
-    "createdAt": "2018-03-22T07:13:44Z",
-    "username": "Ilanak"
+    "createdAt": "2018-03-22T08:00:42Z",
+    "username": "torosent"
   },
   "bestPR": {
     "user": "pavius",
@@ -23,15 +23,15 @@
     "image": "https://avatars2.githubusercontent.com/u/13463870?v=4"
   },
   "userPRInfos": {
+    "torosent": {
+      "total": 7,
+      "merged": 6,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/17064840?v=4"
+    },
     "Ilanak": {
       "total": 1,
       "merged": 1,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/13463870?v=4"
-    },
-    "torosent": {
-      "total": 6,
-      "merged": 5,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/17064840?v=4"
     },
     "stuartleeks": {
       "total": 2,
@@ -121,8 +121,8 @@
   },
   "datePRInfos": {
     "Mars-2018": {
-      "total": 35,
-      "merged": 28
+      "total": 36,
+      "merged": 29
     },
     "Février-2018": {
       "total": 33,
