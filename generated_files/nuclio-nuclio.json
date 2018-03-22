@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-03-22T14:44:25.879Z",
+  "lastUpdate": "2018-03-22T15:43:50.865Z",
   "cowner": "nuclio",
   "crepo": "nuclio",
-  "totalPR": 465,
+  "totalPR": 466,
   "lastPR": {
-    "createdAt": "2018-03-22T08:49:08Z",
-    "username": "pavius"
+    "createdAt": "2018-03-22T14:55:10Z",
+    "username": "stuartleeks"
   },
   "bestPR": {
     "user": "pavius",
@@ -23,6 +23,11 @@
     "image": "https://avatars2.githubusercontent.com/u/13463870?v=4"
   },
   "userPRInfos": {
+    "stuartleeks": {
+      "total": 3,
+      "merged": 2,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/1824461?v=4"
+    },
     "pavius": {
       "total": 248,
       "merged": 245,
@@ -37,11 +42,6 @@
       "total": 1,
       "merged": 1,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/13463870?v=4"
-    },
-    "stuartleeks": {
-      "total": 2,
-      "merged": 2,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/1824461?v=4"
     },
     "texnichnyi": {
       "total": 8,
@@ -121,7 +121,7 @@
   },
   "datePRInfos": {
     "Mars-2018": {
-      "total": 37,
+      "total": 38,
       "merged": 30
     },
     "Février-2018": {
