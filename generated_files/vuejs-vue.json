@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-03-22T13:44:27.315Z",
+  "lastUpdate": "2018-03-22T14:44:09.767Z",
   "cowner": "vuejs",
   "crepo": "vue",
   "totalPR": 1100,
@@ -18,9 +18,9 @@
     "image": "https://avatars1.githubusercontent.com/u/72989?v=4"
   },
   "bestRatio": {
-    "user": "hirokiosame",
+    "user": "dcherman",
     "ratio": 1,
-    "image": "https://avatars0.githubusercontent.com/u/1075694?v=4"
+    "image": "https://avatars0.githubusercontent.com/u/976608?v=4"
   },
   "userPRInfos": {
     "957685677": {
@@ -30,17 +30,17 @@
     },
     "dcherman": {
       "total": 1,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/976608?v=4"
     },
     "HcySunYang": {
       "total": 6,
-      "merged": 4,
+      "merged": 5,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/14146560?v=4"
     },
     "RyanCavanaugh": {
       "total": 1,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/6685088?v=4"
     },
     "luisatmaniak": {
@@ -75,7 +75,7 @@
     },
     "zapashcanon": {
       "total": 1,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/16472988?v=4"
     },
     "yyx990803": {
@@ -2392,7 +2392,7 @@
   "datePRInfos": {
     "Mars-2018": {
       "total": 33,
-      "merged": 12
+      "merged": 16
     },
     "Février-2018": {
       "total": 23,
