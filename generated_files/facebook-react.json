@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-03-23T19:46:49.779Z",
+  "lastUpdate": "2018-03-23T20:47:41.300Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 6617,
@@ -18,14 +18,14 @@
     "image": "https://avatars2.githubusercontent.com/u/6820?v=4"
   },
   "bestRatio": {
-    "user": "rhmoller",
+    "user": "arcanis",
     "ratio": 1,
-    "image": "https://avatars1.githubusercontent.com/u/451010?v=4"
+    "image": "https://avatars2.githubusercontent.com/u/1037931?v=4"
   },
   "userPRInfos": {
     "arcanis": {
       "total": 3,
-      "merged": 2,
+      "merged": 3,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/1037931?v=4"
     },
     "rhmoller": {
@@ -9792,7 +9792,7 @@
   "datePRInfos": {
     "Mars-2018": {
       "total": 58,
-      "merged": 31
+      "merged": 32
     },
     "Février-2018": {
       "total": 70,
