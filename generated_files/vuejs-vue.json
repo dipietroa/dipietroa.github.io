@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-03-23T22:42:39.921Z",
+  "lastUpdate": "2018-03-23T23:42:57.384Z",
   "cowner": "vuejs",
   "crepo": "vue",
   "totalPR": 1102,
@@ -18,9 +18,9 @@
     "image": "https://avatars1.githubusercontent.com/u/72989?v=4"
   },
   "bestRatio": {
-    "user": "dcherman",
+    "user": "matheusazzi",
     "ratio": 1,
-    "image": "https://avatars0.githubusercontent.com/u/976608?v=4"
+    "image": "https://avatars1.githubusercontent.com/u/1292945?v=4"
   },
   "userPRInfos": {
     "957685677": {
@@ -30,7 +30,7 @@
     },
     "matheusazzi": {
       "total": 1,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/1292945?v=4"
     },
     "yuriyalekseyev": {
@@ -55,7 +55,7 @@
     },
     "luisatmaniak": {
       "total": 1,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/26146234?v=4"
     },
     "superMDguy": {
@@ -80,7 +80,7 @@
     },
     "pkaminski": {
       "total": 3,
-      "merged": 2,
+      "merged": 3,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/1646896?v=4"
     },
     "zapashcanon": {
@@ -90,7 +90,7 @@
     },
     "yyx990803": {
       "total": 8,
-      "merged": 2,
+      "merged": 5,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/499550?v=4"
     },
     "hirokiosame": {
@@ -2402,7 +2402,7 @@
   "datePRInfos": {
     "Mars-2018": {
       "total": 35,
-      "merged": 16
+      "merged": 22
     },
     "Février-2018": {
       "total": 23,
