@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-03-23T15:43:34.966Z",
+  "lastUpdate": "2018-03-23T16:43:42.492Z",
   "cowner": "fastify",
   "crepo": "fastify",
-  "totalPR": 511,
+  "totalPR": 512,
   "lastPR": {
-    "createdAt": "2018-03-20T22:30:21Z",
-    "username": "Ethan-Arrowood"
+    "createdAt": "2018-03-23T16:24:14Z",
+    "username": "StarpTech"
   },
   "bestPR": {
     "user": "delvedor",
@@ -23,6 +23,11 @@
     "image": "https://avatars0.githubusercontent.com/u/602445?v=4"
   },
   "userPRInfos": {
+    "StarpTech": {
+      "total": 25,
+      "merged": 19,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/1764424?v=4"
+    },
     "Ethan-Arrowood": {
       "total": 4,
       "merged": 3,
@@ -137,11 +142,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/6907399?v=4"
-    },
-    "StarpTech": {
-      "total": 24,
-      "merged": 19,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/1764424?v=4"
     },
     "jtlapp": {
       "total": 1,
@@ -431,7 +431,7 @@
   },
   "datePRInfos": {
     "Mars-2018": {
-      "total": 22,
+      "total": 23,
       "merged": 17
     },
     "Février-2018": {
