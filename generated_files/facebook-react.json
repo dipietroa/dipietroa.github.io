@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-03-23T15:47:29.511Z",
+  "lastUpdate": "2018-03-23T16:47:20.042Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 6615,
@@ -18,14 +18,14 @@
     "image": "https://avatars2.githubusercontent.com/u/6820?v=4"
   },
   "bestRatio": {
-    "user": "rajendraarora16",
+    "user": "rhmoller",
     "ratio": 1,
-    "image": "https://avatars0.githubusercontent.com/u/7589596?v=4"
+    "image": "https://avatars1.githubusercontent.com/u/451010?v=4"
   },
   "userPRInfos": {
     "rhmoller": {
       "total": 1,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/451010?v=4"
     },
     "LeonYuAng3NT": {
@@ -9792,7 +9792,7 @@
   "datePRInfos": {
     "Mars-2018": {
       "total": 56,
-      "merged": 29
+      "merged": 30
     },
     "Février-2018": {
       "total": 70,
