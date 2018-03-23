@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-03-23T13:46:32.762Z",
+  "lastUpdate": "2018-03-23T14:47:28.439Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6614,
+  "totalPR": 6615,
   "lastPR": {
-    "createdAt": "2018-03-22T20:18:40Z",
-    "username": "LeonYuAng3NT"
+    "createdAt": "2018-03-23T14:27:58Z",
+    "username": "rhmoller"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars0.githubusercontent.com/u/7589596?v=4"
   },
   "userPRInfos": {
+    "rhmoller": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/451010?v=4"
+    },
     "LeonYuAng3NT": {
       "total": 1,
       "merged": 0,
@@ -9786,7 +9791,7 @@
   },
   "datePRInfos": {
     "Mars-2018": {
-      "total": 55,
+      "total": 56,
       "merged": 29
     },
     "Février-2018": {
