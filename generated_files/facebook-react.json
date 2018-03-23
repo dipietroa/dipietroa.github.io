@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-03-23T18:47:05.575Z",
+  "lastUpdate": "2018-03-23T19:46:49.779Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6615,
+  "totalPR": 6617,
   "lastPR": {
-    "createdAt": "2018-03-23T14:27:58Z",
-    "username": "rhmoller"
+    "createdAt": "2018-03-23T19:22:00Z",
+    "username": "arcanis"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/451010?v=4"
   },
   "userPRInfos": {
+    "arcanis": {
+      "total": 3,
+      "merged": 2,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/1037931?v=4"
+    },
     "rhmoller": {
       "total": 1,
       "merged": 1,
@@ -302,11 +307,6 @@
       "total": 1,
       "merged": 1,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/761683?v=4"
-    },
-    "arcanis": {
-      "total": 1,
-      "merged": 1,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/1037931?v=4"
     },
     "NE-SmallTown": {
       "total": 2,
@@ -9791,8 +9791,8 @@
   },
   "datePRInfos": {
     "Mars-2018": {
-      "total": 56,
-      "merged": 30
+      "total": 58,
+      "merged": 31
     },
     "Février-2018": {
       "total": 70,
