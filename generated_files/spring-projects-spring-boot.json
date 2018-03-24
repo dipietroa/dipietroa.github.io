@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-03-24T15:42:25.252Z",
+  "lastUpdate": "2018-03-24T16:42:14.032Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2504,
+  "totalPR": 2505,
   "lastPR": {
-    "createdAt": "2018-03-24T06:20:35Z",
-    "username": "igor-suhorukov"
+    "createdAt": "2018-03-24T15:45:25Z",
+    "username": "rlippolis"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "rlippolis": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/6574772?v=4"
+    },
     "igor-suhorukov": {
       "total": 33,
       "merged": 0,
@@ -1754,7 +1759,7 @@
       "avatarUrl": "https://avatars2.githubusercontent.com/u/159684?v=4"
     },
     "ghost": {
-      "total": 2,
+      "total": 3,
       "merged": 0,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/10137?v=4"
     },
@@ -2692,11 +2697,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/989424?v=4"
-    },
-    "r11runner": {
-      "total": 1,
-      "merged": 0,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/8597439?v=4"
     },
     "spacanowski": {
       "total": 1,
@@ -3776,7 +3776,7 @@
   },
   "datePRInfos": {
     "Mars-2018": {
-      "total": 68,
+      "total": 69,
       "merged": 0
     },
     "Février-2018": {
