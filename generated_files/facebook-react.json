@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-03-24T16:46:09.301Z",
+  "lastUpdate": "2018-03-24T17:46:05.871Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6619,
+  "totalPR": 6620,
   "lastPR": {
-    "createdAt": "2018-03-24T01:37:47Z",
-    "username": "faceyspacey"
+    "createdAt": "2018-03-24T16:52:31Z",
+    "username": "jquense"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars2.githubusercontent.com/u/1037931?v=4"
   },
   "userPRInfos": {
+    "jquense": {
+      "total": 38,
+      "merged": 20,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/339286?v=4"
+    },
     "faceyspacey": {
       "total": 1,
       "merged": 0,
@@ -92,11 +97,6 @@
       "total": 13,
       "merged": 3,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/93752?v=4"
-    },
-    "jquense": {
-      "total": 37,
-      "merged": 19,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/339286?v=4"
     },
     "AlicanC": {
       "total": 1,
@@ -9796,8 +9796,8 @@
   },
   "datePRInfos": {
     "Mars-2018": {
-      "total": 60,
-      "merged": 33
+      "total": 61,
+      "merged": 34
     },
     "Février-2018": {
       "total": 70,
