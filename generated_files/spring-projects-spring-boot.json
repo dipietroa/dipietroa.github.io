@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-03-24T18:42:29.143Z",
+  "lastUpdate": "2018-03-24T19:41:56.423Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2506,
+  "totalPR": 2507,
   "lastPR": {
-    "createdAt": "2018-03-24T16:44:01Z",
-    "username": "AlexFalappa"
+    "createdAt": "2018-03-24T18:59:47Z",
+    "username": "oflebbe"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "oflebbe": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/1179001?v=4"
+    },
     "AlexFalappa": {
       "total": 3,
       "merged": 0,
@@ -3776,7 +3781,7 @@
   },
   "datePRInfos": {
     "Mars-2018": {
-      "total": 70,
+      "total": 71,
       "merged": 0
     },
     "Février-2018": {
