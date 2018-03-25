@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-03-25T10:46:10.500Z",
+  "lastUpdate": "2018-03-25T11:46:14.076Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6620,
+  "totalPR": 6621,
   "lastPR": {
-    "createdAt": "2018-03-24T16:52:31Z",
-    "username": "jquense"
+    "createdAt": "2018-03-25T11:35:18Z",
+    "username": "antoaravinth"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars2.githubusercontent.com/u/1037931?v=4"
   },
   "userPRInfos": {
+    "antoaravinth": {
+      "total": 4,
+      "merged": 3,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/1241511?v=4"
+    },
     "jquense": {
       "total": 38,
       "merged": 20,
@@ -5338,11 +5343,6 @@
       "merged": 1,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/5347023?v=4"
     },
-    "antoaravinth": {
-      "total": 3,
-      "merged": 3,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/1241511?v=4"
-    },
     "WebReflection": {
       "total": 1,
       "merged": 0,
@@ -9796,7 +9796,7 @@
   },
   "datePRInfos": {
     "Mars-2018": {
-      "total": 61,
+      "total": 62,
       "merged": 34
     },
     "Février-2018": {
