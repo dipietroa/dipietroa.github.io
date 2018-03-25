@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-03-25T13:46:11.842Z",
+  "lastUpdate": "2018-03-25T14:46:04.426Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6621,
+  "totalPR": 6622,
   "lastPR": {
-    "createdAt": "2018-03-25T11:35:18Z",
-    "username": "antoaravinth"
+    "createdAt": "2018-03-25T14:22:51Z",
+    "username": "kaushik94"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars2.githubusercontent.com/u/1037931?v=4"
   },
   "userPRInfos": {
+    "kaushik94": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/6545467?v=4"
+    },
     "antoaravinth": {
       "total": 4,
       "merged": 3,
@@ -9796,7 +9801,7 @@
   },
   "datePRInfos": {
     "Mars-2018": {
-      "total": 62,
+      "total": 63,
       "merged": 34
     },
     "Février-2018": {
