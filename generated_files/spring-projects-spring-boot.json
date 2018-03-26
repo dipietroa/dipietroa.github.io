@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-03-26T08:41:35.794Z",
+  "lastUpdate": "2018-03-26T09:42:34.070Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2509,
+  "totalPR": 2510,
   "lastPR": {
-    "createdAt": "2018-03-26T07:13:28Z",
-    "username": "sdeleuze"
+    "createdAt": "2018-03-26T08:52:30Z",
+    "username": "clemstoquart"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "clemstoquart": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/1222144?v=4"
+    },
     "sdeleuze": {
       "total": 23,
       "merged": 1,
@@ -3781,7 +3786,7 @@
   },
   "datePRInfos": {
     "Mars-2018": {
-      "total": 73,
+      "total": 74,
       "merged": 0
     },
     "Février-2018": {
