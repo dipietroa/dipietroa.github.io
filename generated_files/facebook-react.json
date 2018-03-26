@@ -1,8 +1,8 @@
 {
-  "lastUpdate": "2018-03-26T21:46:25.688Z",
+  "lastUpdate": "2018-03-26T22:46:05.699Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6624,
+  "totalPR": 6625,
   "lastPR": {
     "createdAt": "2018-03-26T20:15:27Z",
     "username": "bvaughn"
@@ -2334,8 +2334,8 @@
       "avatarUrl": "https://avatars1.githubusercontent.com/u/10525104?v=4"
     },
     "jackmarchant": {
-      "total": 1,
-      "merged": 1,
+      "total": 2,
+      "merged": 2,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/7701695?v=4"
     },
     "lukebelliveau": {
@@ -9845,8 +9845,8 @@
       "merged": 94
     },
     "Avril-2017": {
-      "total": 153,
-      "merged": 103
+      "total": 154,
+      "merged": 104
     },
     "Mars-2017": {
       "total": 125,
