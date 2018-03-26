@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-03-26T17:47:32.460Z",
+  "lastUpdate": "2018-03-26T18:47:34.108Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 6623,
@@ -25,7 +25,7 @@
   "userPRInfos": {
     "bvaughn": {
       "total": 198,
-      "merged": 181,
+      "merged": 182,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/29597?v=4"
     },
     "kaushik94": {
@@ -9802,7 +9802,7 @@
   "datePRInfos": {
     "Mars-2018": {
       "total": 64,
-      "merged": 34
+      "merged": 35
     },
     "Février-2018": {
       "total": 70,
