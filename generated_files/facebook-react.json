@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "2018-03-26T22:46:05.699Z",
+  "lastUpdate": "2018-03-26T23:45:52.010Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 6625,
   "lastPR": {
-    "createdAt": "2018-03-26T20:15:27Z",
+    "createdAt": "2018-03-26T22:43:42Z",
     "username": "bvaughn"
   },
   "bestPR": {
@@ -24,7 +24,7 @@
   },
   "userPRInfos": {
     "bvaughn": {
-      "total": 199,
+      "total": 200,
       "merged": 183,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/29597?v=4"
     },
@@ -2334,8 +2334,8 @@
       "avatarUrl": "https://avatars1.githubusercontent.com/u/10525104?v=4"
     },
     "jackmarchant": {
-      "total": 2,
-      "merged": 2,
+      "total": 1,
+      "merged": 1,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/7701695?v=4"
     },
     "lukebelliveau": {
@@ -9801,7 +9801,7 @@
   },
   "datePRInfos": {
     "Mars-2018": {
-      "total": 65,
+      "total": 66,
       "merged": 36
     },
     "Février-2018": {
@@ -9845,8 +9845,8 @@
       "merged": 94
     },
     "Avril-2017": {
-      "total": 154,
-      "merged": 104
+      "total": 153,
+      "merged": 103
     },
     "Mars-2017": {
       "total": 125,
