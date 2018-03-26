@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-03-26T15:41:51.276Z",
+  "lastUpdate": "2018-03-26T16:41:39.164Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2511,
+  "totalPR": 2512,
   "lastPR": {
-    "createdAt": "2018-03-26T10:30:55Z",
-    "username": "jmkgreen"
+    "createdAt": "2018-03-26T16:19:51Z",
+    "username": "devnied"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "devnied": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/995890?v=4"
+    },
     "jmkgreen": {
       "total": 2,
       "merged": 0,
@@ -3786,7 +3791,7 @@
   },
   "datePRInfos": {
     "Mars-2018": {
-      "total": 75,
+      "total": 76,
       "merged": 0
     },
     "Février-2018": {
