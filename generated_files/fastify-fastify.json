@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-03-26T07:43:22.375Z",
+  "lastUpdate": "2018-03-26T08:42:56.702Z",
   "cowner": "fastify",
   "crepo": "fastify",
   "totalPR": 514,
@@ -14,7 +14,7 @@
   },
   "bestMerged": {
     "user": "delvedor",
-    "nbPR": 88,
+    "nbPR": 89,
     "image": "https://avatars0.githubusercontent.com/u/4865608?v=4"
   },
   "bestRatio": {
@@ -25,7 +25,7 @@
   "userPRInfos": {
     "delvedor": {
       "total": 92,
-      "merged": 88,
+      "merged": 89,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/4865608?v=4"
     },
     "Ethan-Arrowood": {
@@ -432,7 +432,7 @@
   "datePRInfos": {
     "Mars-2018": {
       "total": 25,
-      "merged": 19
+      "merged": 20
     },
     "Février-2018": {
       "total": 56,
