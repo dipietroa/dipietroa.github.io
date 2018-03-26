@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-03-26T09:42:34.070Z",
+  "lastUpdate": "2018-03-26T10:42:14.963Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2510,
+  "totalPR": 2511,
   "lastPR": {
-    "createdAt": "2018-03-26T08:52:30Z",
-    "username": "clemstoquart"
+    "createdAt": "2018-03-26T10:30:55Z",
+    "username": "jmkgreen"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "jmkgreen": {
+      "total": 2,
+      "merged": 0,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/105936?v=4"
+    },
     "clemstoquart": {
       "total": 1,
       "merged": 0,
@@ -1822,11 +1827,6 @@
       "total": 3,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/1714978?v=4"
-    },
-    "jmkgreen": {
-      "total": 1,
-      "merged": 0,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/105936?v=4"
     },
     "bilak": {
       "total": 1,
@@ -3786,7 +3786,7 @@
   },
   "datePRInfos": {
     "Mars-2018": {
-      "total": 74,
+      "total": 75,
       "merged": 0
     },
     "Février-2018": {
