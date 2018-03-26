@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "2018-03-26T19:47:08.215Z",
+  "lastUpdate": "2018-03-26T20:46:32.453Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6623,
+  "totalPR": 6624,
   "lastPR": {
-    "createdAt": "2018-03-26T16:58:12Z",
+    "createdAt": "2018-03-26T20:15:27Z",
     "username": "bvaughn"
   },
   "bestPR": {
@@ -24,8 +24,8 @@
   },
   "userPRInfos": {
     "bvaughn": {
-      "total": 198,
-      "merged": 182,
+      "total": 199,
+      "merged": 183,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/29597?v=4"
     },
     "kaushik94": {
@@ -9801,8 +9801,8 @@
   },
   "datePRInfos": {
     "Mars-2018": {
-      "total": 64,
-      "merged": 35
+      "total": 65,
+      "merged": 36
     },
     "Février-2018": {
       "total": 70,
