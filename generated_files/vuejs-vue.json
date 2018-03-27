@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-03-27T04:43:00.664Z",
+  "lastUpdate": "2018-03-27T05:42:51.615Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 1102,
+  "totalPR": 1103,
   "lastPR": {
-    "createdAt": "2018-03-23T16:07:42Z",
-    "username": "matheusazzi"
+    "createdAt": "2018-03-27T04:59:08Z",
+    "username": "Relucent"
   },
   "bestPR": {
     "user": "kazupon",
@@ -27,6 +27,11 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/28888508?v=4"
+    },
+    "Relucent": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/3929082?v=4"
     },
     "matheusazzi": {
       "total": 1,
@@ -2401,7 +2406,7 @@
   },
   "datePRInfos": {
     "Mars-2018": {
-      "total": 35,
+      "total": 36,
       "merged": 22
     },
     "Février-2018": {
