@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "2018-03-27T12:43:04.868Z",
+  "lastUpdate": "2018-03-27T13:43:18.333Z",
   "cowner": "nuclio",
   "crepo": "nuclio",
-  "totalPR": 475,
+  "totalPR": 476,
   "lastPR": {
-    "createdAt": "2018-03-27T07:37:44Z",
+    "createdAt": "2018-03-27T13:23:23Z",
     "username": "tebeka"
   },
   "bestPR": {
@@ -24,7 +24,7 @@
   },
   "userPRInfos": {
     "tebeka": {
-      "total": 70,
+      "total": 71,
       "merged": 42,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/87697?v=4"
     },
@@ -121,7 +121,7 @@
   },
   "datePRInfos": {
     "Mars-2018": {
-      "total": 47,
+      "total": 48,
       "merged": 39
     },
     "Février-2018": {
