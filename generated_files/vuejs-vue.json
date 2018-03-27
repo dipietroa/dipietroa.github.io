@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-03-27T06:42:29.103Z",
+  "lastUpdate": "2018-03-27T07:42:53.204Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 1103,
+  "totalPR": 1104,
   "lastPR": {
-    "createdAt": "2018-03-27T04:59:08Z",
-    "username": "Relucent"
+    "createdAt": "2018-03-27T07:39:12Z",
+    "username": "pengchongfu"
   },
   "bestPR": {
     "user": "kazupon",
@@ -27,6 +27,11 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/28888508?v=4"
+    },
+    "pengchongfu": {
+      "total": 3,
+      "merged": 1,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/13997305?v=4"
     },
     "Relucent": {
       "total": 1,
@@ -1042,11 +1047,6 @@
       "total": 1,
       "merged": 1,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/25554416?v=4"
-    },
-    "pengchongfu": {
-      "total": 2,
-      "merged": 1,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/13997305?v=4"
     },
     "maggiehe": {
       "total": 2,
@@ -2406,7 +2406,7 @@
   },
   "datePRInfos": {
     "Mars-2018": {
-      "total": 36,
+      "total": 37,
       "merged": 22
     },
     "Février-2018": {
