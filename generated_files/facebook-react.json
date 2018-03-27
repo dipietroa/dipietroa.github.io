@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-03-27T14:48:00.695Z",
+  "lastUpdate": "2018-03-27T15:48:33.296Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6626,
+  "totalPR": 6627,
   "lastPR": {
-    "createdAt": "2018-03-27T00:41:58Z",
-    "username": "bvaughn"
+    "createdAt": "2018-03-27T15:44:33Z",
+    "username": "istack-robel"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars2.githubusercontent.com/u/1037931?v=4"
   },
   "userPRInfos": {
+    "istack-robel": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/34746617?v=4"
+    },
     "bvaughn": {
       "total": 201,
       "merged": 184,
@@ -9801,7 +9806,7 @@
   },
   "datePRInfos": {
     "Mars-2018": {
-      "total": 67,
+      "total": 68,
       "merged": 37
     },
     "Février-2018": {
