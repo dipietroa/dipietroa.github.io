@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-03-28T11:46:32.697Z",
+  "lastUpdate": "2018-03-28T12:47:32.563Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6632,
+  "totalPR": 6633,
   "lastPR": {
-    "createdAt": "2018-03-28T02:04:13Z",
-    "username": "bvaughn"
+    "createdAt": "2018-03-28T12:28:55Z",
+    "username": "catamphetamine"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars2.githubusercontent.com/u/1037931?v=4"
   },
   "userPRInfos": {
+    "catamphetamine": {
+      "total": 2,
+      "merged": 0,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/477167?v=4"
+    },
     "bvaughn": {
       "total": 203,
       "merged": 187,
@@ -4372,11 +4377,6 @@
       "total": 2,
       "merged": 2,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/3725821?v=4"
-    },
-    "catamphetamine": {
-      "total": 1,
-      "merged": 0,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/477167?v=4"
     },
     "elodszopos": {
       "total": 1,
@@ -9806,7 +9806,7 @@
   },
   "datePRInfos": {
     "Mars-2018": {
-      "total": 73,
+      "total": 74,
       "merged": 41
     },
     "Février-2018": {
