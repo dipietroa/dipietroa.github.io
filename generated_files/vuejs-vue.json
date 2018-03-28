@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-03-28T01:42:31.974Z",
+  "lastUpdate": "2018-03-28T02:42:19.229Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 1107,
+  "totalPR": 1108,
   "lastPR": {
-    "createdAt": "2018-03-27T14:52:18Z",
-    "username": "pengchongfu"
+    "createdAt": "2018-03-28T02:07:36Z",
+    "username": "Relucent"
   },
   "bestPR": {
     "user": "kazupon",
@@ -28,6 +28,11 @@
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/28888508?v=4"
     },
+    "Relucent": {
+      "total": 2,
+      "merged": 0,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/3929082?v=4"
+    },
     "pengchongfu": {
       "total": 4,
       "merged": 1,
@@ -42,11 +47,6 @@
       "total": 8,
       "merged": 4,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/4312154?v=4"
-    },
-    "Relucent": {
-      "total": 1,
-      "merged": 0,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/3929082?v=4"
     },
     "matheusazzi": {
       "total": 1,
@@ -2411,7 +2411,7 @@
   },
   "datePRInfos": {
     "Mars-2018": {
-      "total": 40,
+      "total": 41,
       "merged": 22
     },
     "Février-2018": {
