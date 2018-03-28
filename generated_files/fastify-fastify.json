@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-03-28T10:42:43.954Z",
+  "lastUpdate": "2018-03-28T11:43:01.335Z",
   "cowner": "fastify",
   "crepo": "fastify",
-  "totalPR": 515,
+  "totalPR": 516,
   "lastPR": {
-    "createdAt": "2018-03-28T07:24:13Z",
-    "username": "fralonra"
+    "createdAt": "2018-03-28T11:32:57Z",
+    "username": "ShogunPanda"
   },
   "bestPR": {
     "user": "delvedor",
@@ -23,6 +23,11 @@
     "image": "https://avatars0.githubusercontent.com/u/602445?v=4"
   },
   "userPRInfos": {
+    "ShogunPanda": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/201101?v=4"
+    },
     "fralonra": {
       "total": 1,
       "merged": 0,
@@ -436,7 +441,7 @@
   },
   "datePRInfos": {
     "Mars-2018": {
-      "total": 26,
+      "total": 27,
       "merged": 20
     },
     "Février-2018": {
