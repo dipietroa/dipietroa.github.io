@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-03-28T00:45:58.527Z",
+  "lastUpdate": "2018-03-28T01:46:00.480Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6630,
+  "totalPR": 6631,
   "lastPR": {
-    "createdAt": "2018-03-27T22:50:08Z",
-    "username": "acdlite"
+    "createdAt": "2018-03-28T01:39:19Z",
+    "username": "iamdustan"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars2.githubusercontent.com/u/1037931?v=4"
   },
   "userPRInfos": {
+    "iamdustan": {
+      "total": 24,
+      "merged": 16,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/227879?v=4"
+    },
     "acdlite": {
       "total": 184,
       "merged": 148,
@@ -812,11 +817,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/11631898?v=4"
-    },
-    "iamdustan": {
-      "total": 23,
-      "merged": 16,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/227879?v=4"
     },
     "d4rky-pl": {
       "total": 2,
@@ -9806,7 +9806,7 @@
   },
   "datePRInfos": {
     "Mars-2018": {
-      "total": 71,
+      "total": 72,
       "merged": 40
     },
     "Février-2018": {
