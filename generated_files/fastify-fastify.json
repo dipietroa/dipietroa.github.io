@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-03-28T06:43:29.402Z",
+  "lastUpdate": "2018-03-28T07:43:22.412Z",
   "cowner": "fastify",
   "crepo": "fastify",
-  "totalPR": 514,
+  "totalPR": 515,
   "lastPR": {
-    "createdAt": "2018-03-25T13:25:05Z",
-    "username": "delvedor"
+    "createdAt": "2018-03-28T07:24:13Z",
+    "username": "fralonra"
   },
   "bestPR": {
     "user": "delvedor",
@@ -23,6 +23,11 @@
     "image": "https://avatars0.githubusercontent.com/u/602445?v=4"
   },
   "userPRInfos": {
+    "fralonra": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/20400873?v=4"
+    },
     "delvedor": {
       "total": 92,
       "merged": 89,
@@ -431,7 +436,7 @@
   },
   "datePRInfos": {
     "Mars-2018": {
-      "total": 25,
+      "total": 26,
       "merged": 20
     },
     "Février-2018": {
