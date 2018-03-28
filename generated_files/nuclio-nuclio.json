@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-03-28T20:43:19.712Z",
+  "lastUpdate": "2018-03-28T21:43:16.529Z",
   "cowner": "nuclio",
   "crepo": "nuclio",
   "totalPR": 478,
@@ -25,12 +25,12 @@
   "userPRInfos": {
     "itye-msft": {
       "total": 6,
-      "merged": 3,
+      "merged": 4,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/26870839?v=4"
     },
     "tebeka": {
       "total": 72,
-      "merged": 42,
+      "merged": 43,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/87697?v=4"
     },
     "pavius": {
@@ -122,7 +122,7 @@
   "datePRInfos": {
     "Mars-2018": {
       "total": 50,
-      "merged": 39
+      "merged": 41
     },
     "Février-2018": {
       "total": 33,
