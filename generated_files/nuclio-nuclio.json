@@ -1,20 +1,20 @@
 {
-  "lastUpdate": "2018-03-29T19:42:59.604Z",
+  "lastUpdate": "2018-03-29T20:43:32.984Z",
   "cowner": "nuclio",
   "crepo": "nuclio",
-  "totalPR": 479,
+  "totalPR": 480,
   "lastPR": {
-    "createdAt": "2018-03-29T10:47:30Z",
-    "username": "omriharel"
+    "createdAt": "2018-03-29T20:17:26Z",
+    "username": "pavius"
   },
   "bestPR": {
     "user": "pavius",
-    "nbPR": 254,
+    "nbPR": 255,
     "image": "https://avatars2.githubusercontent.com/u/423987?v=4"
   },
   "bestMerged": {
     "user": "pavius",
-    "nbPR": 251,
+    "nbPR": 252,
     "image": "https://avatars2.githubusercontent.com/u/423987?v=4"
   },
   "bestRatio": {
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/1824461?v=4"
   },
   "userPRInfos": {
+    "pavius": {
+      "total": 255,
+      "merged": 252,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/423987?v=4"
+    },
     "omriharel": {
       "total": 11,
       "merged": 9,
@@ -37,11 +42,6 @@
       "total": 72,
       "merged": 43,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/87697?v=4"
-    },
-    "pavius": {
-      "total": 254,
-      "merged": 251,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/423987?v=4"
     },
     "stuartleeks": {
       "total": 4,
@@ -121,8 +121,8 @@
   },
   "datePRInfos": {
     "Mars-2018": {
-      "total": 51,
-      "merged": 41
+      "total": 52,
+      "merged": 42
     },
     "Février-2018": {
       "total": 33,
