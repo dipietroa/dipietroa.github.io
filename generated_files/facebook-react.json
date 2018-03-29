@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-03-29T14:47:58.392Z",
+  "lastUpdate": "2018-03-29T15:48:28.934Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 6637,
@@ -14,7 +14,7 @@
   },
   "bestMerged": {
     "user": "sophiebits",
-    "nbPR": 583,
+    "nbPR": 584,
     "image": "https://avatars2.githubusercontent.com/u/6820?v=4"
   },
   "bestRatio": {
@@ -175,7 +175,7 @@
     },
     "sophiebits": {
       "total": 658,
-      "merged": 583,
+      "merged": 584,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/6820?v=4"
     },
     "FlorisXll": {
@@ -9807,7 +9807,7 @@
   "datePRInfos": {
     "Mars-2018": {
       "total": 78,
-      "merged": 46
+      "merged": 47
     },
     "Février-2018": {
       "total": 70,
