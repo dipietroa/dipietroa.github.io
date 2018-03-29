@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-03-29T18:46:51.687Z",
+  "lastUpdate": "2018-03-29T19:47:11.239Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6638,
+  "totalPR": 6640,
   "lastPR": {
-    "createdAt": "2018-03-29T17:31:22Z",
-    "username": "jamesreggio"
+    "createdAt": "2018-03-29T19:42:02Z",
+    "username": "bvaughn"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -18,14 +18,24 @@
     "image": "https://avatars2.githubusercontent.com/u/6820?v=4"
   },
   "bestRatio": {
-    "user": "arcanis",
+    "user": "jamesreggio",
     "ratio": 1,
-    "image": "https://avatars2.githubusercontent.com/u/1037931?v=4"
+    "image": "https://avatars1.githubusercontent.com/u/822205?v=4"
   },
   "userPRInfos": {
+    "bvaughn": {
+      "total": 205,
+      "merged": 188,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/29597?v=4"
+    },
+    "gaearon": {
+      "total": 537,
+      "merged": 461,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/810438?v=4"
+    },
     "jamesreggio": {
       "total": 1,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/822205?v=4"
     },
     "acdlite": {
@@ -38,11 +48,6 @@
       "merged": 70,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/1114467?v=4"
     },
-    "bvaughn": {
-      "total": 204,
-      "merged": 188,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/29597?v=4"
-    },
     "catamphetamine": {
       "total": 2,
       "merged": 1,
@@ -52,11 +57,6 @@
       "total": 24,
       "merged": 17,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/227879?v=4"
-    },
-    "gaearon": {
-      "total": 536,
-      "merged": 460,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/810438?v=4"
     },
     "istack-robel": {
       "total": 1,
@@ -9811,8 +9811,8 @@
   },
   "datePRInfos": {
     "Mars-2018": {
-      "total": 79,
-      "merged": 49
+      "total": 81,
+      "merged": 51
     },
     "Février-2018": {
       "total": 70,
