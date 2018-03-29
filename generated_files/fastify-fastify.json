@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-03-29T09:43:13.285Z",
+  "lastUpdate": "2018-03-29T10:43:36.488Z",
   "cowner": "fastify",
   "crepo": "fastify",
-  "totalPR": 516,
+  "totalPR": 517,
   "lastPR": {
-    "createdAt": "2018-03-28T11:32:57Z",
-    "username": "ShogunPanda"
+    "createdAt": "2018-03-29T09:45:51Z",
+    "username": "danielberndt"
   },
   "bestPR": {
     "user": "delvedor",
@@ -18,11 +18,16 @@
     "image": "https://avatars0.githubusercontent.com/u/4865608?v=4"
   },
   "bestRatio": {
-    "user": "dberesford",
+    "user": "danielberndt",
     "ratio": 1,
-    "image": "https://avatars0.githubusercontent.com/u/602445?v=4"
+    "image": "https://avatars3.githubusercontent.com/u/856386?v=4"
   },
   "userPRInfos": {
+    "danielberndt": {
+      "total": 2,
+      "merged": 2,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/856386?v=4"
+    },
     "ShogunPanda": {
       "total": 1,
       "merged": 0,
@@ -177,11 +182,6 @@
       "total": 2,
       "merged": 1,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/376661?v=4"
-    },
-    "danielberndt": {
-      "total": 1,
-      "merged": 1,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/856386?v=4"
     },
     "gillesdemey": {
       "total": 3,
@@ -441,8 +441,8 @@
   },
   "datePRInfos": {
     "Mars-2018": {
-      "total": 27,
-      "merged": 20
+      "total": 28,
+      "merged": 21
     },
     "Février-2018": {
       "total": 56,
