@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-03-29T07:42:27.257Z",
+  "lastUpdate": "2018-03-29T08:41:57.048Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2516,
+  "totalPR": 2517,
   "lastPR": {
-    "createdAt": "2018-03-29T06:14:12Z",
-    "username": "geo-m"
+    "createdAt": "2018-03-29T07:55:50Z",
+    "username": "komu"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "komu": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/3473?v=4"
+    },
     "geo-m": {
       "total": 1,
       "merged": 0,
@@ -3801,7 +3806,7 @@
   },
   "datePRInfos": {
     "Mars-2018": {
-      "total": 80,
+      "total": 81,
       "merged": 0
     },
     "Février-2018": {
