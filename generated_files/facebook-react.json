@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-03-29T16:46:41.929Z",
+  "lastUpdate": "2018-03-29T17:48:07.393Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6637,
+  "totalPR": 6638,
   "lastPR": {
-    "createdAt": "2018-03-29T01:02:58Z",
-    "username": "acdlite"
+    "createdAt": "2018-03-29T17:31:22Z",
+    "username": "jamesreggio"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars2.githubusercontent.com/u/1037931?v=4"
   },
   "userPRInfos": {
+    "jamesreggio": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/822205?v=4"
+    },
     "acdlite": {
       "total": 186,
       "merged": 150,
@@ -9806,7 +9811,7 @@
   },
   "datePRInfos": {
     "Mars-2018": {
-      "total": 78,
+      "total": 79,
       "merged": 47
     },
     "Février-2018": {
