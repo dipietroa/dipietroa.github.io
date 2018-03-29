@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-03-29T12:42:37.451Z",
+  "lastUpdate": "2018-03-29T13:42:34.319Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2517,
+  "totalPR": 2518,
   "lastPR": {
-    "createdAt": "2018-03-29T07:55:50Z",
-    "username": "komu"
+    "createdAt": "2018-03-29T13:11:39Z",
+    "username": "graben"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "graben": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/1685573?v=4"
+    },
     "komu": {
       "total": 1,
       "merged": 0,
@@ -3806,7 +3811,7 @@
   },
   "datePRInfos": {
     "Mars-2018": {
-      "total": 81,
+      "total": 82,
       "merged": 0
     },
     "Février-2018": {
