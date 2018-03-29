@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-03-29T00:41:27.832Z",
+  "lastUpdate": "2018-03-29T01:41:54.551Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2514,
+  "totalPR": 2515,
   "lastPR": {
-    "createdAt": "2018-03-28T05:14:12Z",
-    "username": "qinnnyul"
+    "createdAt": "2018-03-29T01:39:00Z",
+    "username": "yamkazu"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "yamkazu": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/231908?v=4"
+    },
     "qinnnyul": {
       "total": 3,
       "merged": 0,
@@ -3791,7 +3796,7 @@
   },
   "datePRInfos": {
     "Mars-2018": {
-      "total": 78,
+      "total": 79,
       "merged": 0
     },
     "Février-2018": {
