@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-03-30T05:42:42.928Z",
+  "lastUpdate": "2018-03-30T06:42:22.509Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 1111,
+  "totalPR": 1112,
   "lastPR": {
-    "createdAt": "2018-03-29T15:16:30Z",
-    "username": "wangyi7099"
+    "createdAt": "2018-03-30T06:16:00Z",
+    "username": "w3cj"
   },
   "bestPR": {
     "user": "kazupon",
@@ -27,6 +27,11 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/28888508?v=4"
+    },
+    "w3cj": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/14241866?v=4"
     },
     "wangyi7099": {
       "total": 3,
@@ -2411,7 +2416,7 @@
   },
   "datePRInfos": {
     "Mars-2018": {
-      "total": 44,
+      "total": 45,
       "merged": 22
     },
     "Février-2018": {
