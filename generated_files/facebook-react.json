@@ -1,8 +1,8 @@
 {
-  "lastUpdate": "2018-03-30T20:47:32.798Z",
+  "lastUpdate": "2018-03-30T21:47:11.019Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6641,
+  "totalPR": 6642,
   "lastPR": {
     "createdAt": "2018-03-29T20:54:53Z",
     "username": "gaearon"
@@ -5494,8 +5494,8 @@
       "avatarUrl": "https://avatars3.githubusercontent.com/u/2290052?v=4"
     },
     "benjycui": {
-      "total": 1,
-      "merged": 1,
+      "total": 2,
+      "merged": 2,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/3580607?v=4"
     },
     "Andrew8xx8": {
@@ -9911,8 +9911,8 @@
       "merged": 82
     },
     "Février-2016": {
-      "total": 92,
-      "merged": 57
+      "total": 93,
+      "merged": 58
     },
     "Janvier-2016": {
       "total": 86,
