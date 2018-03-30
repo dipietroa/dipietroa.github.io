@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-03-30T09:42:17.163Z",
+  "lastUpdate": "2018-03-30T10:42:29.349Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 1113,
+  "totalPR": 1114,
   "lastPR": {
-    "createdAt": "2018-03-30T09:21:43Z",
-    "username": "imyzf"
+    "createdAt": "2018-03-30T09:47:27Z",
+    "username": "nickname-sb"
   },
   "bestPR": {
     "user": "kazupon",
@@ -27,6 +27,11 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/28888508?v=4"
+    },
+    "nickname-sb": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/36065190?v=4"
     },
     "imyzf": {
       "total": 4,
@@ -2416,7 +2421,7 @@
   },
   "datePRInfos": {
     "Mars-2018": {
-      "total": 46,
+      "total": 47,
       "merged": 22
     },
     "Février-2018": {
