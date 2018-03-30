@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-03-30T18:43:40.907Z",
+  "lastUpdate": "2018-03-30T19:43:34.763Z",
   "cowner": "nuclio",
   "crepo": "nuclio",
   "totalPR": 483,
@@ -18,14 +18,14 @@
     "image": "https://avatars2.githubusercontent.com/u/423987?v=4"
   },
   "bestRatio": {
-    "user": "stuartleeks",
+    "user": "ferhatelmas",
     "ratio": 1,
-    "image": "https://avatars1.githubusercontent.com/u/1824461?v=4"
+    "image": "https://avatars1.githubusercontent.com/u/648018?v=4"
   },
   "userPRInfos": {
     "ferhatelmas": {
       "total": 1,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/648018?v=4"
     },
     "margarytaSadovets": {
@@ -132,7 +132,7 @@
   "datePRInfos": {
     "Mars-2018": {
       "total": 55,
-      "merged": 43
+      "merged": 44
     },
     "Février-2018": {
       "total": 33,
