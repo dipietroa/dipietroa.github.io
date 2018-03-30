@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-03-30T10:42:41.405Z",
+  "lastUpdate": "2018-03-30T11:42:27.913Z",
   "cowner": "nuclio",
   "crepo": "nuclio",
-  "totalPR": 481,
+  "totalPR": 482,
   "lastPR": {
-    "createdAt": "2018-03-30T06:35:15Z",
-    "username": "pavius"
+    "createdAt": "2018-03-30T10:51:23Z",
+    "username": "margarytaSadovets"
   },
   "bestPR": {
     "user": "pavius",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/1824461?v=4"
   },
   "userPRInfos": {
+    "margarytaSadovets": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/25221844?v=4"
+    },
     "pavius": {
       "total": 256,
       "merged": 253,
@@ -121,7 +126,7 @@
   },
   "datePRInfos": {
     "Mars-2018": {
-      "total": 53,
+      "total": 54,
       "merged": 43
     },
     "Février-2018": {
