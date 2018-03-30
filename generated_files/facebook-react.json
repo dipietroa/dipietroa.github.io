@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-03-30T21:47:11.019Z",
+  "lastUpdate": "2018-03-30T22:46:45.036Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 6642,
   "lastPR": {
-    "createdAt": "2018-03-29T20:54:53Z",
-    "username": "gaearon"
+    "createdAt": "2018-03-30T21:45:35Z",
+    "username": "NMinhNguyen"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -18,11 +18,16 @@
     "image": "https://avatars2.githubusercontent.com/u/6820?v=4"
   },
   "bestRatio": {
-    "user": "jamesreggio",
+    "user": "NMinhNguyen",
     "ratio": 1,
-    "image": "https://avatars1.githubusercontent.com/u/822205?v=4"
+    "image": "https://avatars3.githubusercontent.com/u/2852660?v=4"
   },
   "userPRInfos": {
+    "NMinhNguyen": {
+      "total": 1,
+      "merged": 1,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/2852660?v=4"
+    },
     "gaearon": {
       "total": 538,
       "merged": 462,
@@ -5494,8 +5499,8 @@
       "avatarUrl": "https://avatars3.githubusercontent.com/u/2290052?v=4"
     },
     "benjycui": {
-      "total": 2,
-      "merged": 2,
+      "total": 1,
+      "merged": 1,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/3580607?v=4"
     },
     "Andrew8xx8": {
@@ -5923,7 +5928,7 @@
       "merged": 2,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/76098?v=4"
     },
-    "lovisas": {
+    "biglovisa": {
       "total": 2,
       "merged": 1,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/10555255?v=4"
@@ -9811,8 +9816,8 @@
   },
   "datePRInfos": {
     "Mars-2018": {
-      "total": 82,
-      "merged": 53
+      "total": 83,
+      "merged": 54
     },
     "Février-2018": {
       "total": 70,
@@ -9911,8 +9916,8 @@
       "merged": 82
     },
     "Février-2016": {
-      "total": 93,
-      "merged": 58
+      "total": 92,
+      "merged": 57
     },
     "Janvier-2016": {
       "total": 86,
