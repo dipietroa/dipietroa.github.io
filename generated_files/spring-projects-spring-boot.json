@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-03-31T11:41:30.442Z",
+  "lastUpdate": "2018-03-31T12:41:48.518Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2521,
+  "totalPR": 2522,
   "lastPR": {
-    "createdAt": "2018-03-30T19:15:13Z",
-    "username": "mjustin"
+    "createdAt": "2018-03-31T12:11:14Z",
+    "username": "nosan"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "nosan": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/5054994?v=4"
+    },
     "mjustin": {
       "total": 1,
       "merged": 0,
@@ -3816,7 +3821,7 @@
   },
   "datePRInfos": {
     "Mars-2018": {
-      "total": 85,
+      "total": 86,
       "merged": 0
     },
     "Février-2018": {
