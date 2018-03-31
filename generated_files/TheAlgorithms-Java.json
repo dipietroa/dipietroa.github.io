@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-03-31T13:42:38.570Z",
+  "lastUpdate": "2018-03-31T14:42:12.836Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
   "totalPR": 357,
@@ -145,7 +145,7 @@
     },
     "Phil-Schmidt": {
       "total": 1,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/7570771?v=4"
     },
     "flow85": {
@@ -210,7 +210,7 @@
     },
     "Piyush13y": {
       "total": 1,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/14886942?v=4"
     },
     "ghn2650": {
@@ -220,7 +220,7 @@
     },
     "sahilb2": {
       "total": 3,
-      "merged": 2,
+      "merged": 3,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/21992243?v=4"
     },
     "teerapat1739": {
@@ -943,11 +943,11 @@
     },
     "Novembre-2017": {
       "total": 30,
-      "merged": 9
+      "merged": 10
     },
     "Octobre-2017": {
       "total": 180,
-      "merged": 48
+      "merged": 50
     },
     "Septembre-2017": {
       "total": 21,
