@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-03-31T13:46:30.229Z",
+  "lastUpdate": "2018-03-31T14:46:03.504Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6643,
+  "totalPR": 6646,
   "lastPR": {
-    "createdAt": "2018-03-31T11:18:27Z",
-    "username": "Andarist"
+    "createdAt": "2018-03-31T13:57:16Z",
+    "username": "nhunzaker"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,21 @@
     "image": "https://avatars3.githubusercontent.com/u/2852660?v=4"
   },
   "userPRInfos": {
+    "nhunzaker": {
+      "total": 87,
+      "merged": 50,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/590904?v=4"
+    },
+    "heikkilamarko": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/3757314?v=4"
+    },
+    "kaushik94": {
+      "total": 2,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/6545467?v=4"
+    },
     "Andarist": {
       "total": 7,
       "merged": 4,
@@ -72,11 +87,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/34746617?v=4"
-    },
-    "kaushik94": {
-      "total": 1,
-      "merged": 0,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/6545467?v=4"
     },
     "antoaravinth": {
       "total": 4,
@@ -432,11 +442,6 @@
       "total": 2,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/926648?v=4"
-    },
-    "nhunzaker": {
-      "total": 86,
-      "merged": 50,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/590904?v=4"
     },
     "SimenB": {
       "total": 7,
@@ -9816,7 +9821,7 @@
   },
   "datePRInfos": {
     "Mars-2018": {
-      "total": 84,
+      "total": 87,
       "merged": 54
     },
     "Février-2018": {
