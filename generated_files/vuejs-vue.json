@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "2018-04-01T14:42:29.706Z",
+  "lastUpdate": "2018-04-01T15:42:40.978Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 1117,
+  "totalPR": 1118,
   "lastPR": {
-    "createdAt": "2018-03-31T18:15:33Z",
+    "createdAt": "2018-04-01T15:07:15Z",
     "username": "posva"
   },
   "bestPR": {
@@ -29,7 +29,7 @@
       "avatarUrl": "https://avatars1.githubusercontent.com/u/28888508?v=4"
     },
     "posva": {
-      "total": 34,
+      "total": 35,
       "merged": 28,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/664177?v=4"
     },
@@ -2430,6 +2430,10 @@
     }
   },
   "datePRInfos": {
+    "Avril-2018": {
+      "total": 1,
+      "merged": 0
+    },
     "Mars-2018": {
       "total": 50,
       "merged": 22
