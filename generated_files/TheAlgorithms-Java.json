@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-03-31T23:41:54.824Z",
+  "lastUpdate": "2018-04-01T00:41:51.178Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
-  "totalPR": 357,
+  "totalPR": 358,
   "lastPR": {
-    "createdAt": "2018-03-29T10:47:57Z",
-    "username": "khongta0932488598"
+    "createdAt": "2018-03-31T23:42:04Z",
+    "username": "code-with-binyam"
   },
   "bestPR": {
     "user": "theycallmemac",
@@ -23,6 +23,11 @@
     "image": "https://avatars0.githubusercontent.com/u/37770805?v=4"
   },
   "userPRInfos": {
+    "code-with-binyam": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/37966269?v=4"
+    },
     "khongta0932488598": {
       "total": 1,
       "merged": 1,
@@ -926,7 +931,7 @@
   },
   "datePRInfos": {
     "Mars-2018": {
-      "total": 4,
+      "total": 5,
       "merged": 1
     },
     "Février-2018": {
