@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-04-01T07:42:39.631Z",
+  "lastUpdate": "2018-04-01T08:43:28.513Z",
   "cowner": "fastify",
   "crepo": "fastify",
   "totalPR": 519,
@@ -18,9 +18,9 @@
     "image": "https://avatars0.githubusercontent.com/u/4865608?v=4"
   },
   "bestRatio": {
-    "user": "danielberndt",
+    "user": "kevinrambaud",
     "ratio": 1,
-    "image": "https://avatars3.githubusercontent.com/u/856386?v=4"
+    "image": "https://avatars1.githubusercontent.com/u/7501477?v=4"
   },
   "userPRInfos": {
     "nwoltman": {
@@ -30,7 +30,7 @@
     },
     "kevinrambaud": {
       "total": 1,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/7501477?v=4"
     },
     "danielberndt": {
@@ -447,7 +447,7 @@
   "datePRInfos": {
     "Avril-2018": {
       "total": 2,
-      "merged": 0
+      "merged": 1
     },
     "Mars-2018": {
       "total": 28,
