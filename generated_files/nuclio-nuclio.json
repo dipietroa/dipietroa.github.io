@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-04-01T10:43:39.987Z",
+  "lastUpdate": "2018-04-01T11:43:23.882Z",
   "cowner": "nuclio",
   "crepo": "nuclio",
   "totalPR": 483,
@@ -40,7 +40,7 @@
     },
     "omriharel": {
       "total": 11,
-      "merged": 9,
+      "merged": 10,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/10298151?v=4"
     },
     "itye-msft": {
@@ -132,7 +132,7 @@
   "datePRInfos": {
     "Mars-2018": {
       "total": 55,
-      "merged": 44
+      "merged": 45
     },
     "Février-2018": {
       "total": 33,
