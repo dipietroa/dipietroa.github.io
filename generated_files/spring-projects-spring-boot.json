@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-04-02T03:42:13.165Z",
+  "lastUpdate": "2018-04-02T04:41:33.027Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2523,
+  "totalPR": 2525,
   "lastPR": {
-    "createdAt": "2018-04-01T15:56:23Z",
-    "username": "ruifigueira"
+    "createdAt": "2018-04-02T04:08:27Z",
+    "username": "vivimice"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "vivimice": {
+      "total": 2,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/6984817?v=4"
+    },
     "ruifigueira": {
       "total": 3,
       "merged": 0,
@@ -3821,7 +3826,7 @@
   },
   "datePRInfos": {
     "Avril-2018": {
-      "total": 1,
+      "total": 3,
       "merged": 0
     },
     "Mars-2018": {
