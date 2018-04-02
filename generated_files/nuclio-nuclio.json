@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-04-02T10:43:32.731Z",
+  "lastUpdate": "2018-04-02T11:43:29.861Z",
   "cowner": "nuclio",
   "crepo": "nuclio",
-  "totalPR": 483,
+  "totalPR": 484,
   "lastPR": {
-    "createdAt": "2018-03-30T13:27:21Z",
-    "username": "ferhatelmas"
+    "createdAt": "2018-04-02T10:56:10Z",
+    "username": "yaronha"
   },
   "bestPR": {
     "user": "pavius",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/648018?v=4"
   },
   "userPRInfos": {
+    "yaronha": {
+      "total": 7,
+      "merged": 4,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/6298833?v=4"
+    },
     "ferhatelmas": {
       "total": 1,
       "merged": 1,
@@ -108,11 +113,6 @@
       "merged": 17,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/530883?v=4"
     },
-    "yaronha": {
-      "total": 6,
-      "merged": 4,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/6298833?v=4"
-    },
     "sbkoth": {
       "total": 1,
       "merged": 1,
@@ -130,6 +130,10 @@
     }
   },
   "datePRInfos": {
+    "Avril-2018": {
+      "total": 1,
+      "merged": 0
+    },
     "Mars-2018": {
       "total": 55,
       "merged": 45
