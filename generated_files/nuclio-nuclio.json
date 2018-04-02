@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-04-02T16:44:34.644Z",
+  "lastUpdate": "2018-04-02T18:43:42.472Z",
   "cowner": "nuclio",
   "crepo": "nuclio",
   "totalPR": 485,
@@ -14,7 +14,7 @@
   },
   "bestMerged": {
     "user": "pavius",
-    "nbPR": 253,
+    "nbPR": 254,
     "image": "https://avatars2.githubusercontent.com/u/423987?v=4"
   },
   "bestRatio": {
@@ -25,12 +25,12 @@
   "userPRInfos": {
     "pavius": {
       "total": 257,
-      "merged": 253,
+      "merged": 254,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/423987?v=4"
     },
     "yaronha": {
       "total": 7,
-      "merged": 4,
+      "merged": 5,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/6298833?v=4"
     },
     "ferhatelmas": {
@@ -132,7 +132,7 @@
   "datePRInfos": {
     "Avril-2018": {
       "total": 2,
-      "merged": 0
+      "merged": 2
     },
     "Mars-2018": {
       "total": 55,
