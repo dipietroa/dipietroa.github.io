@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-04-02T12:43:01.900Z",
+  "lastUpdate": "2018-04-02T13:42:11.810Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
   "totalPR": 360,
@@ -18,14 +18,14 @@
     "image": "https://avatars1.githubusercontent.com/u/16108563?v=4"
   },
   "bestRatio": {
-    "user": "khongta0932488598",
+    "user": "khalil2535",
     "ratio": 1,
-    "image": "https://avatars0.githubusercontent.com/u/37770805?v=4"
+    "image": "https://avatars2.githubusercontent.com/u/26520106?v=4"
   },
   "userPRInfos": {
     "khalil2535": {
       "total": 2,
-      "merged": 1,
+      "merged": 2,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/26520106?v=4"
     },
     "code-with-binyam": {
@@ -937,7 +937,7 @@
   "datePRInfos": {
     "Avril-2018": {
       "total": 2,
-      "merged": 1
+      "merged": 2
     },
     "Mars-2018": {
       "total": 5,
