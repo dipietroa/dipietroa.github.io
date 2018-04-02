@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-04-02T19:42:33.253Z",
+  "lastUpdate": "2018-04-02T20:43:14.739Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2526,
+  "totalPR": 2527,
   "lastPR": {
-    "createdAt": "2018-04-02T19:39:03Z",
-    "username": "SteKoe"
+    "createdAt": "2018-04-02T20:26:33Z",
+    "username": "attilapapai"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "attilapapai": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/25108393?v=4"
+    },
     "SteKoe": {
       "total": 1,
       "merged": 0,
@@ -3831,7 +3836,7 @@
   },
   "datePRInfos": {
     "Avril-2018": {
-      "total": 4,
+      "total": 5,
       "merged": 0
     },
     "Mars-2018": {
