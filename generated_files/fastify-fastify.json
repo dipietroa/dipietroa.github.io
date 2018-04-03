@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-04-03T06:42:50.770Z",
+  "lastUpdate": "2018-04-03T07:43:05.956Z",
   "cowner": "fastify",
   "crepo": "fastify",
   "totalPR": 519,
@@ -25,7 +25,7 @@
   "userPRInfos": {
     "nwoltman": {
       "total": 53,
-      "merged": 49,
+      "merged": 50,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/5128013?v=4"
     },
     "kevinrambaud": {
@@ -447,7 +447,7 @@
   "datePRInfos": {
     "Avril-2018": {
       "total": 2,
-      "merged": 1
+      "merged": 2
     },
     "Mars-2018": {
       "total": 28,
