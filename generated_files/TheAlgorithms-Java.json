@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "2018-04-03T12:42:17.584Z",
+  "lastUpdate": "2018-04-03T13:42:18.565Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
-  "totalPR": 360,
+  "totalPR": 361,
   "lastPR": {
-    "createdAt": "2018-04-01T19:22:44Z",
+    "createdAt": "2018-04-03T12:50:50Z",
     "username": "khalil2535"
   },
   "bestPR": {
@@ -18,13 +18,13 @@
     "image": "https://avatars1.githubusercontent.com/u/16108563?v=4"
   },
   "bestRatio": {
-    "user": "khalil2535",
+    "user": "khongta0932488598",
     "ratio": 1,
-    "image": "https://avatars2.githubusercontent.com/u/26520106?v=4"
+    "image": "https://avatars0.githubusercontent.com/u/37770805?v=4"
   },
   "userPRInfos": {
     "khalil2535": {
-      "total": 2,
+      "total": 3,
       "merged": 2,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/26520106?v=4"
     },
@@ -936,7 +936,7 @@
   },
   "datePRInfos": {
     "Avril-2018": {
-      "total": 2,
+      "total": 3,
       "merged": 2
     },
     "Mars-2018": {
