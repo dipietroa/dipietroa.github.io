@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-04-03T00:46:23.272Z",
+  "lastUpdate": "2018-04-03T01:46:18.264Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 6650,
@@ -25,7 +25,7 @@
   "userPRInfos": {
     "acdlite": {
       "total": 187,
-      "merged": 150,
+      "merged": 151,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/3624098?v=4"
     },
     "gaearon": {
@@ -55,7 +55,7 @@
     },
     "Andarist": {
       "total": 7,
-      "merged": 4,
+      "merged": 5,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/9800850?v=4"
     },
     "NMinhNguyen": {
@@ -9822,11 +9822,11 @@
   "datePRInfos": {
     "Avril-2018": {
       "total": 3,
-      "merged": 2
+      "merged": 3
     },
     "Mars-2018": {
       "total": 88,
-      "merged": 56
+      "merged": 57
     },
     "Février-2018": {
       "total": 70,
