@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-04-03T19:42:23.018Z",
+  "lastUpdate": "2018-04-03T20:43:16.314Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
-  "totalPR": 362,
+  "totalPR": 363,
   "lastPR": {
-    "createdAt": "2018-04-03T18:02:51Z",
-    "username": "tosirap"
+    "createdAt": "2018-04-03T20:25:58Z",
+    "username": "divyeshjagatiya"
   },
   "bestPR": {
     "user": "theycallmemac",
@@ -23,6 +23,11 @@
     "image": "https://avatars0.githubusercontent.com/u/37770805?v=4"
   },
   "userPRInfos": {
+    "divyeshjagatiya": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/20464047?v=4"
+    },
     "tosirap": {
       "total": 1,
       "merged": 0,
@@ -941,7 +946,7 @@
   },
   "datePRInfos": {
     "Avril-2018": {
-      "total": 4,
+      "total": 5,
       "merged": 2
     },
     "Mars-2018": {
