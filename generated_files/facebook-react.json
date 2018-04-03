@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-04-03T17:48:04.570Z",
+  "lastUpdate": "2018-04-03T18:47:44.932Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 6651,
   "lastPR": {
-    "createdAt": "2018-04-03T00:19:59Z",
-    "username": "acdlite"
+    "createdAt": "2018-04-03T17:46:35Z",
+    "username": "bvaughn"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/3757314?v=4"
   },
   "userPRInfos": {
+    "bvaughn": {
+      "total": 206,
+      "merged": 190,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/29597?v=4"
+    },
     "acdlite": {
       "total": 187,
       "merged": 151,
@@ -62,11 +67,6 @@
       "total": 1,
       "merged": 1,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/2852660?v=4"
-    },
-    "bvaughn": {
-      "total": 205,
-      "merged": 189,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/29597?v=4"
     },
     "jamesreggio": {
       "total": 1,
@@ -564,8 +564,8 @@
       "avatarUrl": "https://avatars3.githubusercontent.com/u/33876854?v=4"
     },
     "tbroadley": {
-      "total": 5,
-      "merged": 4,
+      "total": 4,
+      "merged": 3,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/8731922?v=4"
     },
     "mannanali413": {
@@ -9821,8 +9821,8 @@
   },
   "datePRInfos": {
     "Avril-2018": {
-      "total": 3,
-      "merged": 3
+      "total": 4,
+      "merged": 4
     },
     "Mars-2018": {
       "total": 88,
@@ -9941,8 +9941,8 @@
       "merged": 66
     },
     "Octobre-2015": {
-      "total": 163,
-      "merged": 122
+      "total": 162,
+      "merged": 121
     },
     "Septembre-2015": {
       "total": 117,
