@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-04-03T13:42:57.802Z",
+  "lastUpdate": "2018-04-03T14:43:11.601Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 1122,
+  "totalPR": 1123,
   "lastPR": {
-    "createdAt": "2018-04-03T06:37:24Z",
-    "username": "narumi18wa"
+    "createdAt": "2018-04-03T14:17:58Z",
+    "username": "gtobio11"
   },
   "bestPR": {
     "user": "kazupon",
@@ -27,6 +27,11 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/28888508?v=4"
+    },
+    "gtobio11": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/29172388?v=4"
     },
     "narumi18wa": {
       "total": 1,
@@ -2451,7 +2456,7 @@
   },
   "datePRInfos": {
     "Avril-2018": {
-      "total": 5,
+      "total": 6,
       "merged": 0
     },
     "Mars-2018": {
