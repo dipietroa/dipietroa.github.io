@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-04-03T02:43:03.267Z",
+  "lastUpdate": "2018-04-03T03:42:45.379Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 1119,
+  "totalPR": 1121,
   "lastPR": {
-    "createdAt": "2018-04-02T16:27:29Z",
-    "username": "8uurg"
+    "createdAt": "2018-04-03T03:06:27Z",
+    "username": "chenym1992"
   },
   "bestPR": {
     "user": "kazupon",
@@ -27,6 +27,16 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/28888508?v=4"
+    },
+    "chenym1992": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/16012505?v=4"
+    },
+    "jwc1": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/29109047?v=4"
     },
     "8uurg": {
       "total": 1,
@@ -2436,7 +2446,7 @@
   },
   "datePRInfos": {
     "Avril-2018": {
-      "total": 2,
+      "total": 4,
       "merged": 0
     },
     "Mars-2018": {
