@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-04-04T15:43:08.519Z",
+  "lastUpdate": "2018-04-04T16:43:33.195Z",
   "cowner": "nuclio",
   "crepo": "nuclio",
-  "totalPR": 487,
+  "totalPR": 488,
   "lastPR": {
-    "createdAt": "2018-04-04T11:56:21Z",
-    "username": "omriharel"
+    "createdAt": "2018-04-04T16:09:44Z",
+    "username": "ilaykav"
   },
   "bestPR": {
     "user": "pavius",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/648018?v=4"
   },
   "userPRInfos": {
+    "ilaykav": {
+      "total": 8,
+      "merged": 5,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/16291067?v=4"
+    },
     "omriharel": {
       "total": 12,
       "merged": 10,
@@ -88,11 +93,6 @@
       "merged": 20,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/5636945?v=4"
     },
-    "ilaykav": {
-      "total": 7,
-      "merged": 5,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/16291067?v=4"
-    },
     "eran-nussbaum": {
       "total": 34,
       "merged": 33,
@@ -131,7 +131,7 @@
   },
   "datePRInfos": {
     "Avril-2018": {
-      "total": 4,
+      "total": 5,
       "merged": 3
     },
     "Mars-2018": {
