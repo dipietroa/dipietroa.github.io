@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-04-04T21:41:59.578Z",
+  "lastUpdate": "2018-04-04T22:41:54.306Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
-  "totalPR": 363,
+  "totalPR": 364,
   "lastPR": {
-    "createdAt": "2018-04-03T20:25:58Z",
-    "username": "divyeshjagatiya"
+    "createdAt": "2018-04-04T21:50:36Z",
+    "username": "Lisanaaa"
   },
   "bestPR": {
     "user": "theycallmemac",
@@ -18,14 +18,19 @@
     "image": "https://avatars1.githubusercontent.com/u/16108563?v=4"
   },
   "bestRatio": {
-    "user": "khongta0932488598",
+    "user": "divyeshjagatiya",
     "ratio": 1,
-    "image": "https://avatars0.githubusercontent.com/u/37770805?v=4"
+    "image": "https://avatars3.githubusercontent.com/u/20464047?v=4"
   },
   "userPRInfos": {
-    "divyeshjagatiya": {
+    "Lisanaaa": {
       "total": 1,
       "merged": 0,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/28261876?v=4"
+    },
+    "divyeshjagatiya": {
+      "total": 1,
+      "merged": 1,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/20464047?v=4"
     },
     "tosirap": {
@@ -946,8 +951,8 @@
   },
   "datePRInfos": {
     "Avril-2018": {
-      "total": 5,
-      "merged": 2
+      "total": 6,
+      "merged": 3
     },
     "Mars-2018": {
       "total": 5,
