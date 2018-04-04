@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-04-04T19:46:22.895Z",
+  "lastUpdate": "2018-04-04T20:47:27.439Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6665,
+  "totalPR": 6667,
   "lastPR": {
-    "createdAt": "2018-04-04T19:38:16Z",
-    "username": "gaearon"
+    "createdAt": "2018-04-04T20:25:27Z",
+    "username": "bvaughn"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,20 +23,20 @@
     "image": "https://avatars1.githubusercontent.com/u/3757314?v=4"
   },
   "userPRInfos": {
+    "bvaughn": {
+      "total": 208,
+      "merged": 191,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/29597?v=4"
+    },
     "gaearon": {
-      "total": 547,
-      "merged": 469,
+      "total": 548,
+      "merged": 470,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/810438?v=4"
     },
     "EnoahNetzach": {
       "total": 2,
       "merged": 1,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/663755?v=4"
-    },
-    "bvaughn": {
-      "total": 207,
-      "merged": 190,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/29597?v=4"
     },
     "pmunin": {
       "total": 1,
@@ -9831,8 +9831,8 @@
   },
   "datePRInfos": {
     "Avril-2018": {
-      "total": 18,
-      "merged": 10
+      "total": 20,
+      "merged": 12
     },
     "Mars-2018": {
       "total": 88,
