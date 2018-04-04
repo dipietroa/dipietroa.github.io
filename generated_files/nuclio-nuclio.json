@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-04-04T16:43:33.195Z",
+  "lastUpdate": "2018-04-04T17:43:41.796Z",
   "cowner": "nuclio",
   "crepo": "nuclio",
   "totalPR": 488,
@@ -25,7 +25,7 @@
   "userPRInfos": {
     "ilaykav": {
       "total": 8,
-      "merged": 5,
+      "merged": 6,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/16291067?v=4"
     },
     "omriharel": {
@@ -132,7 +132,7 @@
   "datePRInfos": {
     "Avril-2018": {
       "total": 5,
-      "merged": 3
+      "merged": 4
     },
     "Mars-2018": {
       "total": 55,
