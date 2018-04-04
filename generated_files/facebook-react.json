@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-04-03T23:46:36.421Z",
+  "lastUpdate": "2018-04-04T00:45:59.380Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6656,
+  "totalPR": 6657,
   "lastPR": {
-    "createdAt": "2018-04-03T20:54:29Z",
-    "username": "gaearon"
+    "createdAt": "2018-04-03T23:47:20Z",
+    "username": "nicolevy"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/3757314?v=4"
   },
   "userPRInfos": {
+    "nicolevy": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/24465189?v=4"
+    },
     "gaearon": {
       "total": 543,
       "merged": 467,
@@ -9821,7 +9826,7 @@
   },
   "datePRInfos": {
     "Avril-2018": {
-      "total": 9,
+      "total": 10,
       "merged": 8
     },
     "Mars-2018": {
