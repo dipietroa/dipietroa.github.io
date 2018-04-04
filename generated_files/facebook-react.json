@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "2018-04-04T02:45:47.710Z",
+  "lastUpdate": "2018-04-04T03:45:43.581Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 6658,
   "lastPR": {
-    "createdAt": "2018-04-03T23:47:20Z",
+    "createdAt": "2018-04-04T02:44:45Z",
     "username": "nicolevy"
   },
   "bestPR": {
@@ -24,7 +24,7 @@
   },
   "userPRInfos": {
     "nicolevy": {
-      "total": 1,
+      "total": 2,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/24465189?v=4"
     },
@@ -6794,8 +6794,8 @@
       "avatarUrl": "https://avatars3.githubusercontent.com/u/3027415?v=4"
     },
     "kohei-takata": {
-      "total": 39,
-      "merged": 39,
+      "total": 38,
+      "merged": 38,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/7623979?v=4"
     },
     "yoshuki": {
@@ -9826,7 +9826,7 @@
   },
   "datePRInfos": {
     "Avril-2018": {
-      "total": 10,
+      "total": 11,
       "merged": 8
     },
     "Mars-2018": {
@@ -9962,8 +9962,8 @@
       "merged": 109
     },
     "Juin-2015": {
-      "total": 147,
-      "merged": 110
+      "total": 146,
+      "merged": 109
     },
     "Mai-2015": {
       "total": 100,
