@@ -1,8 +1,8 @@
 {
-  "lastUpdate": "2018-04-04T01:46:44.935Z",
+  "lastUpdate": "2018-04-04T02:45:47.710Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6657,
+  "totalPR": 6658,
   "lastPR": {
     "createdAt": "2018-04-03T23:47:20Z",
     "username": "nicolevy"
@@ -6794,8 +6794,8 @@
       "avatarUrl": "https://avatars3.githubusercontent.com/u/3027415?v=4"
     },
     "kohei-takata": {
-      "total": 38,
-      "merged": 38,
+      "total": 39,
+      "merged": 39,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/7623979?v=4"
     },
     "yoshuki": {
@@ -9962,8 +9962,8 @@
       "merged": 109
     },
     "Juin-2015": {
-      "total": 146,
-      "merged": 109
+      "total": 147,
+      "merged": 110
     },
     "Mai-2015": {
       "total": 100,
