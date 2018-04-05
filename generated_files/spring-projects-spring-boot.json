@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-04-05T21:41:28.952Z",
+  "lastUpdate": "2018-04-05T22:41:28.516Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2533,
+  "totalPR": 2534,
   "lastPR": {
-    "createdAt": "2018-04-05T07:02:32Z",
-    "username": "jankovd"
+    "createdAt": "2018-04-05T21:51:23Z",
+    "username": "danhyun"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "danhyun": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/1033018?v=4"
+    },
     "jankovd": {
       "total": 1,
       "merged": 0,
@@ -983,7 +988,7 @@
       "merged": 0,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/7432362?v=4"
     },
-    "blasd": {
+    "blacelle": {
       "total": 4,
       "merged": 0,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/2117911?v=4"
@@ -3846,7 +3851,7 @@
   },
   "datePRInfos": {
     "Avril-2018": {
-      "total": 11,
+      "total": 12,
       "merged": 0
     },
     "Mars-2018": {
