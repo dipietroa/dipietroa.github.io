@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-04-05T04:42:28.926Z",
+  "lastUpdate": "2018-04-05T05:42:32.076Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
-  "totalPR": 364,
+  "totalPR": 365,
   "lastPR": {
-    "createdAt": "2018-04-04T21:50:36Z",
-    "username": "Lisanaaa"
+    "createdAt": "2018-04-05T05:18:33Z",
+    "username": "khalil2535"
   },
   "bestPR": {
     "user": "theycallmemac",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/20464047?v=4"
   },
   "userPRInfos": {
+    "khalil2535": {
+      "total": 4,
+      "merged": 2,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/26520106?v=4"
+    },
     "Lisanaaa": {
       "total": 1,
       "merged": 0,
@@ -37,11 +42,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/15668701?v=4"
-    },
-    "khalil2535": {
-      "total": 3,
-      "merged": 2,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/26520106?v=4"
     },
     "code-with-binyam": {
       "total": 1,
@@ -951,7 +951,7 @@
   },
   "datePRInfos": {
     "Avril-2018": {
-      "total": 6,
+      "total": 7,
       "merged": 3
     },
     "Mars-2018": {
