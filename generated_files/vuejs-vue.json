@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-04-06T07:43:11.354Z",
+  "lastUpdate": "2018-04-06T08:43:21.323Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 1123,
+  "totalPR": 1124,
   "lastPR": {
-    "createdAt": "2018-04-03T14:17:58Z",
-    "username": "gtobio11"
+    "createdAt": "2018-04-06T08:41:46Z",
+    "username": "yassipad"
   },
   "bestPR": {
     "user": "kazupon",
@@ -27,6 +27,11 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/28888508?v=4"
+    },
+    "yassipad": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/13403295?v=4"
     },
     "gtobio11": {
       "total": 1,
@@ -2456,7 +2461,7 @@
   },
   "datePRInfos": {
     "Avril-2018": {
-      "total": 6,
+      "total": 7,
       "merged": 0
     },
     "Mars-2018": {
