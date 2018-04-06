@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-04-06T13:47:26.563Z",
+  "lastUpdate": "2018-04-06T14:46:56.159Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6671,
+  "totalPR": 6672,
   "lastPR": {
-    "createdAt": "2018-04-06T06:11:11Z",
-    "username": "sebmarkbage"
+    "createdAt": "2018-04-06T14:42:57Z",
+    "username": "crux153"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/3757314?v=4"
   },
   "userPRInfos": {
+    "crux153": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/10908841?v=4"
+    },
     "sebmarkbage": {
       "total": 249,
       "merged": 230,
@@ -9831,7 +9836,7 @@
   },
   "datePRInfos": {
     "Avril-2018": {
-      "total": 24,
+      "total": 25,
       "merged": 16
     },
     "Mars-2018": {
