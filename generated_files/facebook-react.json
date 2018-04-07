@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-04-07T20:45:45.372Z",
+  "lastUpdate": "2018-04-07T21:45:30.637Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6674,
+  "totalPR": 6675,
   "lastPR": {
-    "createdAt": "2018-04-06T23:34:51Z",
-    "username": "sebmarkbage"
+    "createdAt": "2018-04-07T21:15:25Z",
+    "username": "dfrankland"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/3757314?v=4"
   },
   "userPRInfos": {
+    "dfrankland": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/2488926?v=4"
+    },
     "sebmarkbage": {
       "total": 250,
       "merged": 231,
@@ -9836,7 +9841,7 @@
   },
   "datePRInfos": {
     "Avril-2018": {
-      "total": 27,
+      "total": 28,
       "merged": 17
     },
     "Mars-2018": {
