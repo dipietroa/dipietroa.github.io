@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-04-07T21:45:30.637Z",
+  "lastUpdate": "2018-04-07T22:45:52.810Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6675,
+  "totalPR": 6676,
   "lastPR": {
-    "createdAt": "2018-04-07T21:15:25Z",
-    "username": "dfrankland"
+    "createdAt": "2018-04-07T22:37:27Z",
+    "username": "sebmarkbage"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,15 +23,15 @@
     "image": "https://avatars1.githubusercontent.com/u/3757314?v=4"
   },
   "userPRInfos": {
+    "sebmarkbage": {
+      "total": 251,
+      "merged": 231,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/63648?v=4"
+    },
     "dfrankland": {
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/2488926?v=4"
-    },
-    "sebmarkbage": {
-      "total": 250,
-      "merged": 231,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/63648?v=4"
     },
     "gaearon": {
       "total": 549,
@@ -9841,7 +9841,7 @@
   },
   "datePRInfos": {
     "Avril-2018": {
-      "total": 28,
+      "total": 29,
       "merged": 17
     },
     "Mars-2018": {
