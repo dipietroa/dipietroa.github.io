@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-04-08T12:45:12.977Z",
+  "lastUpdate": "2018-04-08T13:46:19.462Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6680,
+  "totalPR": 6681,
   "lastPR": {
-    "createdAt": "2018-04-08T08:06:21Z",
-    "username": "sebmarkbage"
+    "createdAt": "2018-04-08T12:56:23Z",
+    "username": "bishwenduk029"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/3757314?v=4"
   },
   "userPRInfos": {
+    "bishwenduk029": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/4037621?v=4"
+    },
     "sebmarkbage": {
       "total": 255,
       "merged": 233,
@@ -9841,7 +9846,7 @@
   },
   "datePRInfos": {
     "Avril-2018": {
-      "total": 33,
+      "total": 34,
       "merged": 19
     },
     "Mars-2018": {
