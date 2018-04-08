@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-04-08T04:42:44.547Z",
+  "lastUpdate": "2018-04-08T05:42:36.431Z",
   "cowner": "fastify",
   "crepo": "fastify",
-  "totalPR": 521,
+  "totalPR": 522,
   "lastPR": {
-    "createdAt": "2018-04-07T18:36:48Z",
-    "username": "StarpTech"
+    "createdAt": "2018-04-08T05:22:01Z",
+    "username": "tswayne"
   },
   "bestPR": {
     "user": "delvedor",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/7501477?v=4"
   },
   "userPRInfos": {
+    "tswayne": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/4225904?v=4"
+    },
     "StarpTech": {
       "total": 26,
       "merged": 20,
@@ -446,7 +451,7 @@
   },
   "datePRInfos": {
     "Avril-2018": {
-      "total": 4,
+      "total": 5,
       "merged": 3
     },
     "Mars-2018": {
