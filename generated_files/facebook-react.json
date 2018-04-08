@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-04-08T16:46:01.734Z",
+  "lastUpdate": "2018-04-08T17:45:26.416Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 6683,
@@ -18,14 +18,14 @@
     "image": "https://avatars2.githubusercontent.com/u/6820?v=4"
   },
   "bestRatio": {
-    "user": "heikkilamarko",
+    "user": "hosembafer",
     "ratio": 1,
-    "image": "https://avatars1.githubusercontent.com/u/3757314?v=4"
+    "image": "https://avatars3.githubusercontent.com/u/5071289?v=4"
   },
   "userPRInfos": {
     "hosembafer": {
       "total": 1,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/5071289?v=4"
     },
     "NE-SmallTown": {
@@ -9852,7 +9852,7 @@
   "datePRInfos": {
     "Avril-2018": {
       "total": 36,
-      "merged": 20
+      "merged": 21
     },
     "Mars-2018": {
       "total": 88,
