@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-04-08T15:42:20.114Z",
+  "lastUpdate": "2018-04-08T16:42:48.337Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 1126,
+  "totalPR": 1127,
   "lastPR": {
-    "createdAt": "2018-04-07T15:39:02Z",
-    "username": "sodatea"
+    "createdAt": "2018-04-08T16:03:20Z",
+    "username": "HcySunYang"
   },
   "bestPR": {
     "user": "kazupon",
@@ -27,6 +27,11 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/28888508?v=4"
+    },
+    "HcySunYang": {
+      "total": 7,
+      "merged": 5,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/14146560?v=4"
     },
     "sodatea": {
       "total": 1,
@@ -147,11 +152,6 @@
       "total": 1,
       "merged": 1,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/976608?v=4"
-    },
-    "HcySunYang": {
-      "total": 6,
-      "merged": 5,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/14146560?v=4"
     },
     "RyanCavanaugh": {
       "total": 1,
@@ -2471,7 +2471,7 @@
   },
   "datePRInfos": {
     "Avril-2018": {
-      "total": 9,
+      "total": 10,
       "merged": 0
     },
     "Mars-2018": {
