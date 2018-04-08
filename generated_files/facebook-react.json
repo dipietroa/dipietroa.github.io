@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-04-08T15:45:39.144Z",
+  "lastUpdate": "2018-04-08T16:46:01.734Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6682,
+  "totalPR": 6683,
   "lastPR": {
-    "createdAt": "2018-04-08T15:15:47Z",
-    "username": "NE-SmallTown"
+    "createdAt": "2018-04-08T16:40:06Z",
+    "username": "hosembafer"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,9 +23,14 @@
     "image": "https://avatars1.githubusercontent.com/u/3757314?v=4"
   },
   "userPRInfos": {
+    "hosembafer": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/5071289?v=4"
+    },
     "NE-SmallTown": {
       "total": 3,
-      "merged": 1,
+      "merged": 2,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/18418010?v=4"
     },
     "bishwenduk029": {
@@ -9846,8 +9851,8 @@
   },
   "datePRInfos": {
     "Avril-2018": {
-      "total": 35,
-      "merged": 19
+      "total": 36,
+      "merged": 20
     },
     "Mars-2018": {
       "total": 88,
