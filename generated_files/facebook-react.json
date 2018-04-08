@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-04-08T04:45:34.755Z",
+  "lastUpdate": "2018-04-08T05:45:25.635Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 6679,
@@ -25,7 +25,7 @@
   "userPRInfos": {
     "sebmarkbage": {
       "total": 254,
-      "merged": 231,
+      "merged": 232,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/63648?v=4"
     },
     "dfrankland": {
@@ -9842,7 +9842,7 @@
   "datePRInfos": {
     "Avril-2018": {
       "total": 32,
-      "merged": 17
+      "merged": 18
     },
     "Mars-2018": {
       "total": 88,
