@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-04-09T18:42:22.127Z",
+  "lastUpdate": "2018-04-09T19:42:28.678Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
-  "totalPR": 369,
+  "totalPR": 370,
   "lastPR": {
-    "createdAt": "2018-04-09T13:54:00Z",
-    "username": "nikitap492"
+    "createdAt": "2018-04-09T19:00:25Z",
+    "username": "khalil2535"
   },
   "bestPR": {
     "user": "theycallmemac",
@@ -23,15 +23,15 @@
     "image": "https://avatars3.githubusercontent.com/u/35406071?v=4"
   },
   "userPRInfos": {
+    "khalil2535": {
+      "total": 6,
+      "merged": 4,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/26520106?v=4"
+    },
     "nikitap492": {
       "total": 2,
       "merged": 1,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/18111582?v=4"
-    },
-    "khalil2535": {
-      "total": 5,
-      "merged": 4,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/26520106?v=4"
     },
     "thegabriele97": {
       "total": 1,
@@ -961,7 +961,7 @@
   },
   "datePRInfos": {
     "Avril-2018": {
-      "total": 11,
+      "total": 12,
       "merged": 7
     },
     "Mars-2018": {
