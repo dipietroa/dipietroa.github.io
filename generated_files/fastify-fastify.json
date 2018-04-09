@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-04-09T20:43:05.861Z",
+  "lastUpdate": "2018-04-09T21:43:10.904Z",
   "cowner": "fastify",
   "crepo": "fastify",
-  "totalPR": 523,
+  "totalPR": 524,
   "lastPR": {
-    "createdAt": "2018-04-09T19:15:58Z",
-    "username": "Siilwyn"
+    "createdAt": "2018-04-09T20:44:42Z",
+    "username": "puchesjr"
   },
   "bestPR": {
     "user": "delvedor",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/7501477?v=4"
   },
   "userPRInfos": {
+    "puchesjr": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/29741112?v=4"
+    },
     "Siilwyn": {
       "total": 1,
       "merged": 0,
@@ -456,7 +461,7 @@
   },
   "datePRInfos": {
     "Avril-2018": {
-      "total": 6,
+      "total": 7,
       "merged": 4
     },
     "Mars-2018": {
