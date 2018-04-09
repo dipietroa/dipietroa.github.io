@@ -1,20 +1,20 @@
 {
-  "lastUpdate": "2018-04-09T19:43:19.092Z",
+  "lastUpdate": "2018-04-09T20:42:50.375Z",
   "cowner": "nuclio",
   "crepo": "nuclio",
-  "totalPR": 493,
+  "totalPR": 494,
   "lastPR": {
-    "createdAt": "2018-04-09T14:35:59Z",
-    "username": "omriharel"
+    "createdAt": "2018-04-09T19:52:05Z",
+    "username": "pavius"
   },
   "bestPR": {
     "user": "pavius",
-    "nbPR": 260,
+    "nbPR": 261,
     "image": "https://avatars2.githubusercontent.com/u/423987?v=4"
   },
   "bestMerged": {
     "user": "pavius",
-    "nbPR": 257,
+    "nbPR": 258,
     "image": "https://avatars2.githubusercontent.com/u/423987?v=4"
   },
   "bestRatio": {
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/648018?v=4"
   },
   "userPRInfos": {
+    "pavius": {
+      "total": 261,
+      "merged": 258,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/423987?v=4"
+    },
     "omriharel": {
       "total": 13,
       "merged": 11,
@@ -32,11 +37,6 @@
       "total": 73,
       "merged": 45,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/87697?v=4"
-    },
-    "pavius": {
-      "total": 260,
-      "merged": 257,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/423987?v=4"
     },
     "maksym-kyselytsia": {
       "total": 1,
@@ -136,8 +136,8 @@
   },
   "datePRInfos": {
     "Avril-2018": {
-      "total": 10,
-      "merged": 8
+      "total": 11,
+      "merged": 9
     },
     "Mars-2018": {
       "total": 55,
