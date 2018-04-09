@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-04-09T02:42:22.502Z",
+  "lastUpdate": "2018-04-09T03:42:15.837Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 1127,
+  "totalPR": 1128,
   "lastPR": {
-    "createdAt": "2018-04-08T16:03:20Z",
-    "username": "HcySunYang"
+    "createdAt": "2018-04-09T02:44:14Z",
+    "username": "1402-chenchongzuan"
   },
   "bestPR": {
     "user": "kazupon",
@@ -27,6 +27,11 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/28888508?v=4"
+    },
+    "1402-chenchongzuan": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/14230248?v=4"
     },
     "HcySunYang": {
       "total": 7,
@@ -2471,7 +2476,7 @@
   },
   "datePRInfos": {
     "Avril-2018": {
-      "total": 10,
+      "total": 11,
       "merged": 0
     },
     "Mars-2018": {
