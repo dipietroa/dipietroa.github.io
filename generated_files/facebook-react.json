@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-04-10T00:45:50.392Z",
+  "lastUpdate": "2018-04-10T01:45:52.774Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6685,
+  "totalPR": 6686,
   "lastPR": {
-    "createdAt": "2018-04-09T22:10:34Z",
-    "username": "gaearon"
+    "createdAt": "2018-04-10T01:03:51Z",
+    "username": "sebmarkbage"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/5071289?v=4"
   },
   "userPRInfos": {
+    "sebmarkbage": {
+      "total": 256,
+      "merged": 234,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/63648?v=4"
+    },
     "gaearon": {
       "total": 551,
       "merged": 472,
@@ -42,11 +47,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/4037621?v=4"
-    },
-    "sebmarkbage": {
-      "total": 255,
-      "merged": 233,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/63648?v=4"
     },
     "dfrankland": {
       "total": 1,
@@ -75,7 +75,7 @@
     },
     "nicolevy": {
       "total": 2,
-      "merged": 1,
+      "merged": 2,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/24465189?v=4"
     },
     "Deraen": {
@@ -9851,8 +9851,8 @@
   },
   "datePRInfos": {
     "Avril-2018": {
-      "total": 38,
-      "merged": 23
+      "total": 39,
+      "merged": 25
     },
     "Mars-2018": {
       "total": 88,
