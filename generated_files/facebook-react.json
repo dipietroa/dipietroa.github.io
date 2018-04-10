@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-04-10T01:45:52.774Z",
+  "lastUpdate": "2018-04-10T02:46:03.350Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 6686,
@@ -25,7 +25,7 @@
   "userPRInfos": {
     "sebmarkbage": {
       "total": 256,
-      "merged": 234,
+      "merged": 237,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/63648?v=4"
     },
     "gaearon": {
@@ -9852,7 +9852,7 @@
   "datePRInfos": {
     "Avril-2018": {
       "total": 39,
-      "merged": 25
+      "merged": 28
     },
     "Mars-2018": {
       "total": 88,
