@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-04-10T19:47:45.184Z",
+  "lastUpdate": "2018-04-10T20:46:58.758Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6689,
+  "totalPR": 6691,
   "lastPR": {
-    "createdAt": "2018-04-10T14:38:38Z",
-    "username": "bvaughn"
+    "createdAt": "2018-04-10T20:06:38Z",
+    "username": "flarnie"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,16 @@
     "image": "https://avatars3.githubusercontent.com/u/15187179?v=4"
   },
   "userPRInfos": {
+    "flarnie": {
+      "total": 91,
+      "merged": 71,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/1114467?v=4"
+    },
+    "nateq314": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/1175921?v=4"
+    },
     "bvaughn": {
       "total": 209,
       "merged": 193,
@@ -132,11 +142,6 @@
       "total": 1,
       "merged": 1,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/822205?v=4"
-    },
-    "flarnie": {
-      "total": 90,
-      "merged": 71,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/1114467?v=4"
     },
     "catamphetamine": {
       "total": 2,
@@ -9861,7 +9866,7 @@
   },
   "datePRInfos": {
     "Avril-2018": {
-      "total": 42,
+      "total": 44,
       "merged": 32
     },
     "Mars-2018": {
