@@ -1,15 +1,15 @@
 {
-  "lastUpdate": "2018-04-10T15:43:49.538Z",
+  "lastUpdate": "2018-04-10T16:43:49.287Z",
   "cowner": "nuclio",
   "crepo": "nuclio",
-  "totalPR": 495,
+  "totalPR": 496,
   "lastPR": {
-    "createdAt": "2018-04-10T10:09:19Z",
-    "username": "torosent"
+    "createdAt": "2018-04-10T16:40:55Z",
+    "username": "pavius"
   },
   "bestPR": {
     "user": "pavius",
-    "nbPR": 261,
+    "nbPR": 262,
     "image": "https://avatars2.githubusercontent.com/u/423987?v=4"
   },
   "bestMerged": {
@@ -23,15 +23,15 @@
     "image": "https://avatars1.githubusercontent.com/u/25031243?v=4"
   },
   "userPRInfos": {
+    "pavius": {
+      "total": 262,
+      "merged": 258,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/423987?v=4"
+    },
     "torosent": {
       "total": 8,
       "merged": 6,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/17064840?v=4"
-    },
-    "pavius": {
-      "total": 261,
-      "merged": 258,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/423987?v=4"
     },
     "omriharel": {
       "total": 13,
@@ -136,7 +136,7 @@
   },
   "datePRInfos": {
     "Avril-2018": {
-      "total": 12,
+      "total": 13,
       "merged": 11
     },
     "Mars-2018": {
