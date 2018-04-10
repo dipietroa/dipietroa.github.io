@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-04-10T13:47:30.714Z",
+  "lastUpdate": "2018-04-10T14:48:09.709Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6688,
+  "totalPR": 6689,
   "lastPR": {
-    "createdAt": "2018-04-10T10:05:08Z",
-    "username": "sfrieson"
+    "createdAt": "2018-04-10T14:38:38Z",
+    "username": "bvaughn"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -18,14 +18,24 @@
     "image": "https://avatars2.githubusercontent.com/u/6820?v=4"
   },
   "bestRatio": {
-    "user": "hosembafer",
+    "user": "sfrieson",
     "ratio": 1,
-    "image": "https://avatars3.githubusercontent.com/u/5071289?v=4"
+    "image": "https://avatars3.githubusercontent.com/u/15187179?v=4"
   },
   "userPRInfos": {
-    "sfrieson": {
+    "bvaughn": {
+      "total": 209,
+      "merged": 192,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/29597?v=4"
+    },
+    "tmm2018": {
       "total": 1,
       "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/35421983?v=4"
+    },
+    "sfrieson": {
+      "total": 1,
+      "merged": 1,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/15187179?v=4"
     },
     "sebmarkbage": {
@@ -34,8 +44,8 @@
       "avatarUrl": "https://avatars2.githubusercontent.com/u/63648?v=4"
     },
     "gaearon": {
-      "total": 552,
-      "merged": 473,
+      "total": 551,
+      "merged": 472,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/810438?v=4"
     },
     "hosembafer": {
@@ -62,11 +72,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/10908841?v=4"
-    },
-    "bvaughn": {
-      "total": 208,
-      "merged": 192,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/29597?v=4"
     },
     "EnoahNetzach": {
       "total": 2,
@@ -9856,8 +9861,8 @@
   },
   "datePRInfos": {
     "Avril-2018": {
-      "total": 40,
-      "merged": 30
+      "total": 42,
+      "merged": 31
     },
     "Mars-2018": {
       "total": 88,
@@ -9936,8 +9941,8 @@
       "merged": 74
     },
     "Août-2016": {
-      "total": 139,
-      "merged": 102
+      "total": 138,
+      "merged": 101
     },
     "Juillet-2016": {
       "total": 112,
