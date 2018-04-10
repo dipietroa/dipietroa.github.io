@@ -1,15 +1,15 @@
 {
-  "lastUpdate": "2018-04-10T01:41:28.600Z",
+  "lastUpdate": "2018-04-10T02:41:33.510Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2535,
+  "totalPR": 2536,
   "lastPR": {
-    "createdAt": "2018-04-08T21:14:28Z",
-    "username": "nosan"
+    "createdAt": "2018-04-10T02:06:23Z",
+    "username": "izeye"
   },
   "bestPR": {
     "user": "izeye",
-    "nbPR": 375,
+    "nbPR": 376,
     "image": "https://avatars3.githubusercontent.com/u/1059363?v=4"
   },
   "bestMerged": {
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "izeye": {
+      "total": 376,
+      "merged": 1,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/1059363?v=4"
+    },
     "nosan": {
       "total": 2,
       "merged": 0,
@@ -52,11 +57,6 @@
       "total": 61,
       "merged": 0,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/6304496?v=4"
-    },
-    "izeye": {
-      "total": 375,
-      "merged": 1,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/1059363?v=4"
     },
     "attilapapai": {
       "total": 1,
@@ -3851,7 +3851,7 @@
   },
   "datePRInfos": {
     "Avril-2018": {
-      "total": 13,
+      "total": 14,
       "merged": 0
     },
     "Mars-2018": {
