@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-04-10T15:43:33.141Z",
+  "lastUpdate": "2018-04-10T16:43:33.655Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 1130,
+  "totalPR": 1131,
   "lastPR": {
-    "createdAt": "2018-04-09T04:42:52Z",
-    "username": "lyhper"
+    "createdAt": "2018-04-10T15:59:46Z",
+    "username": "jonkofee"
   },
   "bestPR": {
     "user": "kazupon",
@@ -18,15 +18,20 @@
     "image": "https://avatars1.githubusercontent.com/u/72989?v=4"
   },
   "bestRatio": {
-    "user": "matheusazzi",
+    "user": "jonkofee",
     "ratio": 1,
-    "image": "https://avatars1.githubusercontent.com/u/1292945?v=4"
+    "image": "https://avatars2.githubusercontent.com/u/9060043?v=4"
   },
   "userPRInfos": {
     "957685677": {
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/28888508?v=4"
+    },
+    "jonkofee": {
+      "total": 1,
+      "merged": 1,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/9060043?v=4"
     },
     "lyhper": {
       "total": 3,
@@ -2476,8 +2481,8 @@
   },
   "datePRInfos": {
     "Avril-2018": {
-      "total": 13,
-      "merged": 0
+      "total": 14,
+      "merged": 1
     },
     "Mars-2018": {
       "total": 50,
