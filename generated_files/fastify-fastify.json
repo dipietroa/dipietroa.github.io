@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-04-10T18:43:30.999Z",
+  "lastUpdate": "2018-04-10T19:43:55.295Z",
   "cowner": "fastify",
   "crepo": "fastify",
-  "totalPR": 524,
+  "totalPR": 525,
   "lastPR": {
-    "createdAt": "2018-04-09T20:44:42Z",
-    "username": "puchesjr"
+    "createdAt": "2018-04-10T19:39:13Z",
+    "username": "kroltan"
   },
   "bestPR": {
     "user": "delvedor",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/7501477?v=4"
   },
   "userPRInfos": {
+    "kroltan": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/978042?v=4"
+    },
     "puchesjr": {
       "total": 1,
       "merged": 0,
@@ -461,7 +466,7 @@
   },
   "datePRInfos": {
     "Avril-2018": {
-      "total": 7,
+      "total": 8,
       "merged": 4
     },
     "Mars-2018": {
