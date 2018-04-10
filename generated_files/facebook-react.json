@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-04-10T09:47:18.215Z",
+  "lastUpdate": "2018-04-10T10:47:39.013Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6686,
+  "totalPR": 6687,
   "lastPR": {
-    "createdAt": "2018-04-10T01:03:51Z",
-    "username": "sebmarkbage"
+    "createdAt": "2018-04-10T10:05:08Z",
+    "username": "sfrieson"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/5071289?v=4"
   },
   "userPRInfos": {
+    "sfrieson": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/15187179?v=4"
+    },
     "sebmarkbage": {
       "total": 256,
       "merged": 239,
@@ -9851,7 +9856,7 @@
   },
   "datePRInfos": {
     "Avril-2018": {
-      "total": 39,
+      "total": 40,
       "merged": 30
     },
     "Mars-2018": {
