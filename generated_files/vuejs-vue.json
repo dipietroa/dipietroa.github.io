@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-04-11T07:42:49.817Z",
+  "lastUpdate": "2018-04-11T08:43:02.654Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 1132,
+  "totalPR": 1133,
   "lastPR": {
-    "createdAt": "2018-04-11T03:18:36Z",
-    "username": "mapleeit"
+    "createdAt": "2018-04-11T08:06:35Z",
+    "username": "levi1994"
   },
   "bestPR": {
     "user": "kazupon",
@@ -27,6 +27,11 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/28888508?v=4"
+    },
+    "levi1994": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/11837762?v=4"
     },
     "mapleeit": {
       "total": 1,
@@ -2486,7 +2491,7 @@
   },
   "datePRInfos": {
     "Avril-2018": {
-      "total": 15,
+      "total": 16,
       "merged": 1
     },
     "Mars-2018": {
