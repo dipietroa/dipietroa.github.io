@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-04-11T01:46:46.305Z",
+  "lastUpdate": "2018-04-11T02:45:51.091Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6692,
+  "totalPR": 6693,
   "lastPR": {
-    "createdAt": "2018-04-10T21:01:12Z",
-    "username": "acdlite"
+    "createdAt": "2018-04-11T01:47:12Z",
+    "username": "nicolevy"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/15187179?v=4"
   },
   "userPRInfos": {
+    "nicolevy": {
+      "total": 3,
+      "merged": 2,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/24465189?v=4"
+    },
     "acdlite": {
       "total": 189,
       "merged": 152,
@@ -97,11 +102,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/7120440?v=4"
-    },
-    "nicolevy": {
-      "total": 2,
-      "merged": 2,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/24465189?v=4"
     },
     "Deraen": {
       "total": 2,
@@ -9866,7 +9866,7 @@
   },
   "datePRInfos": {
     "Avril-2018": {
-      "total": 45,
+      "total": 46,
       "merged": 32
     },
     "Mars-2018": {
