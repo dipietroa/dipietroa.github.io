@@ -1,20 +1,20 @@
 {
-  "lastUpdate": "2018-04-11T16:48:50.950Z",
+  "lastUpdate": "2018-04-11T17:48:17.074Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6693,
+  "totalPR": 6695,
   "lastPR": {
-    "createdAt": "2018-04-11T01:47:12Z",
-    "username": "nicolevy"
+    "createdAt": "2018-04-11T17:24:39Z",
+    "username": "gaearon"
   },
   "bestPR": {
     "user": "sophiebits",
-    "nbPR": 658,
+    "nbPR": 659,
     "image": "https://avatars2.githubusercontent.com/u/6820?v=4"
   },
   "bestMerged": {
     "user": "sophiebits",
-    "nbPR": 584,
+    "nbPR": 585,
     "image": "https://avatars2.githubusercontent.com/u/6820?v=4"
   },
   "bestRatio": {
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/15187179?v=4"
   },
   "userPRInfos": {
+    "gaearon": {
+      "total": 552,
+      "merged": 472,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/810438?v=4"
+    },
     "nicolevy": {
       "total": 3,
       "merged": 2,
@@ -62,11 +67,6 @@
       "total": 256,
       "merged": 239,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/63648?v=4"
-    },
-    "gaearon": {
-      "total": 551,
-      "merged": 472,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/810438?v=4"
     },
     "hosembafer": {
       "total": 1,
@@ -264,8 +264,8 @@
       "avatarUrl": "https://avatars2.githubusercontent.com/u/706039?v=4"
     },
     "sophiebits": {
-      "total": 658,
-      "merged": 584,
+      "total": 659,
+      "merged": 585,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/6820?v=4"
     },
     "FlorisXll": {
@@ -9866,7 +9866,7 @@
   },
   "datePRInfos": {
     "Avril-2018": {
-      "total": 46,
+      "total": 47,
       "merged": 33
     },
     "Mars-2018": {
@@ -10030,8 +10030,8 @@
       "merged": 57
     },
     "Novembre-2014": {
-      "total": 95,
-      "merged": 71
+      "total": 96,
+      "merged": 72
     },
     "Octobre-2014": {
       "total": 83,
