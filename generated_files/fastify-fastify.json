@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-04-11T05:42:58.431Z",
+  "lastUpdate": "2018-04-11T06:43:02.743Z",
   "cowner": "fastify",
   "crepo": "fastify",
-  "totalPR": 526,
+  "totalPR": 527,
   "lastPR": {
-    "createdAt": "2018-04-10T23:52:13Z",
-    "username": "deividasjackus"
+    "createdAt": "2018-04-11T06:41:11Z",
+    "username": "mcollina"
   },
   "bestPR": {
     "user": "delvedor",
@@ -18,14 +18,19 @@
     "image": "https://avatars0.githubusercontent.com/u/4865608?v=4"
   },
   "bestRatio": {
-    "user": "kevinrambaud",
+    "user": "deividasjackus",
     "ratio": 1,
-    "image": "https://avatars1.githubusercontent.com/u/7501477?v=4"
+    "image": "https://avatars0.githubusercontent.com/u/8995502?v=4"
   },
   "userPRInfos": {
+    "mcollina": {
+      "total": 64,
+      "merged": 60,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/52195?v=4"
+    },
     "deividasjackus": {
       "total": 1,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/8995502?v=4"
     },
     "kroltan": {
@@ -75,7 +80,7 @@
     },
     "ShogunPanda": {
       "total": 1,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/201101?v=4"
     },
     "fralonra": {
@@ -112,11 +117,6 @@
       "total": 35,
       "merged": 35,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/321201?v=4"
-    },
-    "mcollina": {
-      "total": 63,
-      "merged": 60,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/52195?v=4"
     },
     "greenkeeper[bot]": {
       "total": 49,
@@ -471,12 +471,12 @@
   },
   "datePRInfos": {
     "Avril-2018": {
-      "total": 9,
-      "merged": 4
+      "total": 10,
+      "merged": 5
     },
     "Mars-2018": {
       "total": 28,
-      "merged": 21
+      "merged": 22
     },
     "Février-2018": {
       "total": 56,
