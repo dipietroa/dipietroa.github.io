@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-04-11T13:48:32.403Z",
+  "lastUpdate": "2018-04-11T15:49:00.249Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 6693,
@@ -35,7 +35,7 @@
     },
     "flarnie": {
       "total": 91,
-      "merged": 71,
+      "merged": 72,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/1114467?v=4"
     },
     "nateq314": {
@@ -9867,7 +9867,7 @@
   "datePRInfos": {
     "Avril-2018": {
       "total": 46,
-      "merged": 32
+      "merged": 33
     },
     "Mars-2018": {
       "total": 88,
