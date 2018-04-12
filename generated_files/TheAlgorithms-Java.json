@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "2018-04-12T13:42:28.666Z",
+  "lastUpdate": "2018-04-12T14:42:46.115Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
-  "totalPR": 372,
+  "totalPR": 373,
   "lastPR": {
-    "createdAt": "2018-04-12T07:20:22Z",
+    "createdAt": "2018-04-12T14:36:56Z",
     "username": "nikitap492"
   },
   "bestPR": {
@@ -24,7 +24,7 @@
   },
   "userPRInfos": {
     "nikitap492": {
-      "total": 3,
+      "total": 4,
       "merged": 2,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/18111582?v=4"
     },
@@ -966,7 +966,7 @@
   },
   "datePRInfos": {
     "Avril-2018": {
-      "total": 14,
+      "total": 15,
       "merged": 9
     },
     "Mars-2018": {
