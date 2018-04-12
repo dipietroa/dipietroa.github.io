@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-04-12T02:42:07.915Z",
+  "lastUpdate": "2018-04-12T03:41:57.536Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2540,
+  "totalPR": 2541,
   "lastPR": {
-    "createdAt": "2018-04-11T09:07:53Z",
-    "username": "JagmohanSharma"
+    "createdAt": "2018-04-12T03:27:47Z",
+    "username": "origoni"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "origoni": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/5846518?v=4"
+    },
     "JagmohanSharma": {
       "total": 1,
       "merged": 0,
@@ -3861,7 +3866,7 @@
   },
   "datePRInfos": {
     "Avril-2018": {
-      "total": 18,
+      "total": 19,
       "merged": 0
     },
     "Mars-2018": {
