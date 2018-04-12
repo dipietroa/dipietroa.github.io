@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-04-12T06:42:43.873Z",
+  "lastUpdate": "2018-04-12T07:42:40.061Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 1134,
+  "totalPR": 1135,
   "lastPR": {
-    "createdAt": "2018-04-11T10:26:50Z",
-    "username": "KaelWD"
+    "createdAt": "2018-04-12T07:31:11Z",
+    "username": "imyzf"
   },
   "bestPR": {
     "user": "kazupon",
@@ -27,6 +27,11 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/28888508?v=4"
+    },
+    "imyzf": {
+      "total": 5,
+      "merged": 2,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/8298849?v=4"
     },
     "KaelWD": {
       "total": 1,
@@ -122,11 +127,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/36065190?v=4"
-    },
-    "imyzf": {
-      "total": 4,
-      "merged": 2,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/8298849?v=4"
     },
     "w3cj": {
       "total": 1,
@@ -2496,7 +2496,7 @@
   },
   "datePRInfos": {
     "Avril-2018": {
-      "total": 17,
+      "total": 18,
       "merged": 1
     },
     "Mars-2018": {
