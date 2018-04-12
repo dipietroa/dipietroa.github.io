@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-04-12T21:42:00.016Z",
+  "lastUpdate": "2018-04-12T22:42:35.528Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
   "totalPR": 373,
@@ -18,14 +18,14 @@
     "image": "https://avatars1.githubusercontent.com/u/16108563?v=4"
   },
   "bestRatio": {
-    "user": "thegabriele97",
+    "user": "nikitap492",
     "ratio": 1,
-    "image": "https://avatars3.githubusercontent.com/u/35406071?v=4"
+    "image": "https://avatars3.githubusercontent.com/u/18111582?v=4"
   },
   "userPRInfos": {
     "nikitap492": {
       "total": 4,
-      "merged": 2,
+      "merged": 4,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/18111582?v=4"
     },
     "Mani9723": {
@@ -35,7 +35,7 @@
     },
     "khalil2535": {
       "total": 6,
-      "merged": 4,
+      "merged": 5,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/26520106?v=4"
     },
     "thegabriele97": {
@@ -967,7 +967,7 @@
   "datePRInfos": {
     "Avril-2018": {
       "total": 15,
-      "merged": 9
+      "merged": 12
     },
     "Mars-2018": {
       "total": 5,
