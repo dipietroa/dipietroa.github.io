@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-04-13T17:41:43.838Z",
+  "lastUpdate": "2018-04-13T18:42:12.755Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2541,
+  "totalPR": 2542,
   "lastPR": {
-    "createdAt": "2018-04-12T03:27:47Z",
-    "username": "origoni"
+    "createdAt": "2018-04-13T18:10:02Z",
+    "username": "ralenmdp"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "ralenmdp": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/32992247?v=4"
+    },
     "origoni": {
       "total": 1,
       "merged": 0,
@@ -3866,7 +3871,7 @@
   },
   "datePRInfos": {
     "Avril-2018": {
-      "total": 19,
+      "total": 20,
       "merged": 0
     },
     "Mars-2018": {
