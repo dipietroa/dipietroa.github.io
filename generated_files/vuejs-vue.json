@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-04-13T18:43:17.526Z",
+  "lastUpdate": "2018-04-13T19:42:52.005Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 1135,
+  "totalPR": 1136,
   "lastPR": {
-    "createdAt": "2018-04-12T07:31:11Z",
-    "username": "imyzf"
+    "createdAt": "2018-04-13T18:51:13Z",
+    "username": "fenduru"
   },
   "bestPR": {
     "user": "kazupon",
@@ -27,6 +27,11 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/28888508?v=4"
+    },
+    "fenduru": {
+      "total": 3,
+      "merged": 2,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/1354771?v=4"
     },
     "imyzf": {
       "total": 5,
@@ -652,11 +657,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/470429?v=4"
-    },
-    "fenduru": {
-      "total": 2,
-      "merged": 2,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/1354771?v=4"
     },
     "cxtom": {
       "total": 1,
@@ -2496,7 +2496,7 @@
   },
   "datePRInfos": {
     "Avril-2018": {
-      "total": 18,
+      "total": 19,
       "merged": 1
     },
     "Mars-2018": {
