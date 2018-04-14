@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-04-14T10:45:59.661Z",
+  "lastUpdate": "2018-04-14T11:45:48.156Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6697,
+  "totalPR": 6698,
   "lastPR": {
-    "createdAt": "2018-04-13T05:22:56Z",
-    "username": "NE-SmallTown"
+    "createdAt": "2018-04-14T11:00:43Z",
+    "username": "timdegroote"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/15187179?v=4"
   },
   "userPRInfos": {
+    "timdegroote": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/1674142?v=4"
+    },
     "NE-SmallTown": {
       "total": 4,
       "merged": 2,
@@ -9866,7 +9871,7 @@
   },
   "datePRInfos": {
     "Avril-2018": {
-      "total": 50,
+      "total": 51,
       "merged": 35
     },
     "Mars-2018": {
