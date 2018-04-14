@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-04-13T23:41:47.108Z",
+  "lastUpdate": "2018-04-14T00:41:49.679Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
-  "totalPR": 374,
+  "totalPR": 375,
   "lastPR": {
-    "createdAt": "2018-04-13T06:43:35Z",
-    "username": "nikitap492"
+    "createdAt": "2018-04-13T23:44:55Z",
+    "username": "straiffix"
   },
   "bestPR": {
     "user": "theycallmemac",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/35406071?v=4"
   },
   "userPRInfos": {
+    "straiffix": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/24612656?v=4"
+    },
     "nikitap492": {
       "total": 5,
       "merged": 4,
@@ -966,7 +971,7 @@
   },
   "datePRInfos": {
     "Avril-2018": {
-      "total": 16,
+      "total": 17,
       "merged": 12
     },
     "Mars-2018": {
