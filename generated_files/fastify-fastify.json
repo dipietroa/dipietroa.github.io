@@ -1,15 +1,15 @@
 {
-  "lastUpdate": "2018-04-15T19:43:26.166Z",
+  "lastUpdate": "2018-04-15T20:43:32.799Z",
   "cowner": "fastify",
   "crepo": "fastify",
-  "totalPR": 531,
+  "totalPR": 532,
   "lastPR": {
-    "createdAt": "2018-04-15T15:04:58Z",
-    "username": "StarpTech"
+    "createdAt": "2018-04-15T20:22:40Z",
+    "username": "delvedor"
   },
   "bestPR": {
     "user": "delvedor",
-    "nbPR": 93,
+    "nbPR": 94,
     "image": "https://avatars0.githubusercontent.com/u/4865608?v=4"
   },
   "bestMerged": {
@@ -23,6 +23,11 @@
     "image": "https://avatars0.githubusercontent.com/u/8995502?v=4"
   },
   "userPRInfos": {
+    "delvedor": {
+      "total": 94,
+      "merged": 90,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/4865608?v=4"
+    },
     "StarpTech": {
       "total": 27,
       "merged": 21,
@@ -67,11 +72,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/4225904?v=4"
-    },
-    "delvedor": {
-      "total": 93,
-      "merged": 90,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/4865608?v=4"
     },
     "nwoltman": {
       "total": 53,
@@ -471,7 +471,7 @@
   },
   "datePRInfos": {
     "Avril-2018": {
-      "total": 14,
+      "total": 15,
       "merged": 7
     },
     "Mars-2018": {
