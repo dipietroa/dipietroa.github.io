@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-04-16T15:43:09.417Z",
+  "lastUpdate": "2018-04-16T16:42:56.632Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 1138,
+  "totalPR": 1139,
   "lastPR": {
-    "createdAt": "2018-04-16T09:35:12Z",
-    "username": "zfeher"
+    "createdAt": "2018-04-16T15:56:01Z",
+    "username": "astronomersiva"
   },
   "bestPR": {
     "user": "kazupon",
@@ -27,6 +27,11 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/28888508?v=4"
+    },
+    "astronomersiva": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/7725225?v=4"
     },
     "zfeher": {
       "total": 1,
@@ -2501,7 +2506,7 @@
   },
   "datePRInfos": {
     "Avril-2018": {
-      "total": 21,
+      "total": 22,
       "merged": 1
     },
     "Mars-2018": {
