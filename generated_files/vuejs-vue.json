@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-04-16T17:42:40.823Z",
+  "lastUpdate": "2018-04-16T18:42:55.455Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 1139,
+  "totalPR": 1141,
   "lastPR": {
-    "createdAt": "2018-04-16T15:56:01Z",
-    "username": "astronomersiva"
+    "createdAt": "2018-04-16T18:28:42Z",
+    "username": "sodatea"
   },
   "bestPR": {
     "user": "kazupon",
@@ -27,6 +27,16 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/28888508?v=4"
+    },
+    "sodatea": {
+      "total": 2,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/3277634?v=4"
+    },
+    "gebilaoxiong": {
+      "total": 21,
+      "merged": 14,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/11804936?v=4"
     },
     "astronomersiva": {
       "total": 1,
@@ -87,11 +97,6 @@
       "total": 7,
       "merged": 5,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/14146560?v=4"
-    },
-    "sodatea": {
-      "total": 1,
-      "merged": 0,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/3277634?v=4"
     },
     "cobafan": {
       "total": 1,
@@ -507,11 +512,6 @@
       "total": 3,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/6931216?v=4"
-    },
-    "gebilaoxiong": {
-      "total": 20,
-      "merged": 14,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/11804936?v=4"
     },
     "Alex-Sokolov": {
       "total": 2,
@@ -2506,7 +2506,7 @@
   },
   "datePRInfos": {
     "Avril-2018": {
-      "total": 22,
+      "total": 24,
       "merged": 1
     },
     "Mars-2018": {
