@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-04-16T19:43:51.538Z",
+  "lastUpdate": "2018-04-16T20:43:33.724Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 1141,
+  "totalPR": 1142,
   "lastPR": {
-    "createdAt": "2018-04-16T18:28:42Z",
-    "username": "sodatea"
+    "createdAt": "2018-04-16T20:30:51Z",
+    "username": "243083df"
   },
   "bestPR": {
     "user": "kazupon",
@@ -27,6 +27,11 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/28888508?v=4"
+    },
+    "243083df": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/29660847?v=4"
     },
     "sodatea": {
       "total": 2,
@@ -2506,7 +2511,7 @@
   },
   "datePRInfos": {
     "Avril-2018": {
-      "total": 24,
+      "total": 25,
       "merged": 1
     },
     "Mars-2018": {
