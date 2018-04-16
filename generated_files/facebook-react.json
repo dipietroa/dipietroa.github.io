@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "2018-04-16T14:49:47.367Z",
+  "lastUpdate": "2018-04-16T15:47:23.626Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6699,
+  "totalPR": 6701,
   "lastPR": {
-    "createdAt": "2018-04-16T14:22:05Z",
+    "createdAt": "2018-04-16T15:31:19Z",
     "username": "gaearon"
   },
   "bestPR": {
@@ -24,19 +24,19 @@
   },
   "userPRInfos": {
     "gaearon": {
-      "total": 554,
-      "merged": 474,
+      "total": 555,
+      "merged": 475,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/810438?v=4"
+    },
+    "NE-SmallTown": {
+      "total": 5,
+      "merged": 3,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/18418010?v=4"
     },
     "timdegroote": {
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/1674142?v=4"
-    },
-    "NE-SmallTown": {
-      "total": 4,
-      "merged": 2,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/18418010?v=4"
     },
     "bvaughn": {
       "total": 210,
@@ -275,7 +275,7 @@
     },
     "FlorisXll": {
       "total": 1,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/9715282?v=4"
     },
     "yungsters": {
@@ -9871,12 +9871,12 @@
   },
   "datePRInfos": {
     "Avril-2018": {
-      "total": 52,
-      "merged": 36
+      "total": 54,
+      "merged": 38
     },
     "Mars-2018": {
       "total": 88,
-      "merged": 59
+      "merged": 60
     },
     "Février-2018": {
       "total": 70,
