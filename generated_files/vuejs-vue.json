@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-04-16T08:43:30.019Z",
+  "lastUpdate": "2018-04-16T09:43:43.893Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 1137,
+  "totalPR": 1138,
   "lastPR": {
-    "createdAt": "2018-04-13T21:46:32Z",
-    "username": "yaodingyd"
+    "createdAt": "2018-04-16T09:35:12Z",
+    "username": "zfeher"
   },
   "bestPR": {
     "user": "kazupon",
@@ -27,6 +27,11 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/28888508?v=4"
+    },
+    "zfeher": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/2802924?v=4"
     },
     "yaodingyd": {
       "total": 2,
@@ -2496,7 +2501,7 @@
   },
   "datePRInfos": {
     "Avril-2018": {
-      "total": 20,
+      "total": 21,
       "merged": 1
     },
     "Mars-2018": {
