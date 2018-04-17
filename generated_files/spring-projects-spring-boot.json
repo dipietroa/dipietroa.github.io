@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-04-17T21:41:41.112Z",
+  "lastUpdate": "2018-04-17T22:42:08.924Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2547,
+  "totalPR": 2548,
   "lastPR": {
-    "createdAt": "2018-04-17T09:23:43Z",
-    "username": "mihhail-lapushkin"
+    "createdAt": "2018-04-17T21:55:01Z",
+    "username": "fpavageau"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "fpavageau": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/800088?v=4"
+    },
     "mihhail-lapushkin": {
       "total": 2,
       "merged": 0,
@@ -3876,7 +3881,7 @@
   },
   "datePRInfos": {
     "Avril-2018": {
-      "total": 25,
+      "total": 26,
       "merged": 0
     },
     "Mars-2018": {
