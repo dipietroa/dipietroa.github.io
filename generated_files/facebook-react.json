@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-04-17T10:47:32.362Z",
+  "lastUpdate": "2018-04-17T11:46:57.296Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6707,
+  "totalPR": 6708,
   "lastPR": {
-    "createdAt": "2018-04-17T09:28:28Z",
-    "username": "philipp-spiess"
+    "createdAt": "2018-04-17T11:04:21Z",
+    "username": "kjirou"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/15187179?v=4"
   },
   "userPRInfos": {
+    "kjirou": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/648041?v=4"
+    },
     "philipp-spiess": {
       "total": 4,
       "merged": 2,
@@ -9871,7 +9876,7 @@
   },
   "datePRInfos": {
     "Avril-2018": {
-      "total": 60,
+      "total": 61,
       "merged": 40
     },
     "Mars-2018": {
