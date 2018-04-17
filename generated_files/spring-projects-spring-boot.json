@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-04-17T08:42:10.259Z",
+  "lastUpdate": "2018-04-17T09:42:29.201Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2546,
+  "totalPR": 2547,
   "lastPR": {
-    "createdAt": "2018-04-17T08:19:00Z",
-    "username": "kwyi"
+    "createdAt": "2018-04-17T09:23:43Z",
+    "username": "mihhail-lapushkin"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "mihhail-lapushkin": {
+      "total": 2,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/2752700?v=4"
+    },
     "kwyi": {
       "total": 1,
       "merged": 0,
@@ -1167,11 +1172,6 @@
       "total": 2,
       "merged": 0,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/12101915?v=4"
-    },
-    "mihhail-lapushkin": {
-      "total": 1,
-      "merged": 0,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/2752700?v=4"
     },
     "zkunming": {
       "total": 1,
@@ -3876,7 +3876,7 @@
   },
   "datePRInfos": {
     "Avril-2018": {
-      "total": 24,
+      "total": 25,
       "merged": 0
     },
     "Mars-2018": {
