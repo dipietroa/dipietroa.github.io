@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-04-17T07:42:25.328Z",
+  "lastUpdate": "2018-04-17T08:42:10.259Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2545,
+  "totalPR": 2546,
   "lastPR": {
-    "createdAt": "2018-04-16T20:26:16Z",
-    "username": "evernat"
+    "createdAt": "2018-04-17T08:19:00Z",
+    "username": "kwyi"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "kwyi": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/4391326?v=4"
+    },
     "evernat": {
       "total": 2,
       "merged": 0,
@@ -3871,7 +3876,7 @@
   },
   "datePRInfos": {
     "Avril-2018": {
-      "total": 23,
+      "total": 24,
       "merged": 0
     },
     "Mars-2018": {
