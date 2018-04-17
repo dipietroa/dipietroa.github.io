@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-04-17T01:45:45.502Z",
+  "lastUpdate": "2018-04-17T02:46:43.611Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6705,
+  "totalPR": 6706,
   "lastPR": {
-    "createdAt": "2018-04-16T22:27:17Z",
-    "username": "bvaughn"
+    "createdAt": "2018-04-17T02:04:11Z",
+    "username": "nicolevy"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/15187179?v=4"
   },
   "userPRInfos": {
+    "nicolevy": {
+      "total": 4,
+      "merged": 2,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/24465189?v=4"
+    },
     "bvaughn": {
       "total": 212,
       "merged": 195,
@@ -47,11 +52,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/1674142?v=4"
-    },
-    "nicolevy": {
-      "total": 3,
-      "merged": 2,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/24465189?v=4"
     },
     "acdlite": {
       "total": 189,
@@ -9871,7 +9871,7 @@
   },
   "datePRInfos": {
     "Avril-2018": {
-      "total": 58,
+      "total": 59,
       "merged": 40
     },
     "Mars-2018": {
