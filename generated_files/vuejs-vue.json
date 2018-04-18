@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-04-18T08:42:40.868Z",
+  "lastUpdate": "2018-04-18T09:42:33.412Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 1143,
+  "totalPR": 1144,
   "lastPR": {
-    "createdAt": "2018-04-16T22:13:52Z",
-    "username": "yringler"
+    "createdAt": "2018-04-18T09:31:47Z",
+    "username": "utatti"
   },
   "bestPR": {
     "user": "kazupon",
@@ -27,6 +27,11 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/28888508?v=4"
+    },
+    "utatti": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/1013641?v=4"
     },
     "yringler": {
       "total": 1,
@@ -2516,7 +2521,7 @@
   },
   "datePRInfos": {
     "Avril-2018": {
-      "total": 26,
+      "total": 27,
       "merged": 1
     },
     "Mars-2018": {
