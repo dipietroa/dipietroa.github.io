@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-04-18T02:42:24.377Z",
+  "lastUpdate": "2018-04-18T03:41:21.622Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2548,
+  "totalPR": 2550,
   "lastPR": {
-    "createdAt": "2018-04-17T21:55:01Z",
-    "username": "fpavageau"
+    "createdAt": "2018-04-18T03:01:55Z",
+    "username": "jnduan"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,16 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "jnduan": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/397101?v=4"
+    },
+    "jkschneider": {
+      "total": 31,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/1697736?v=4"
+    },
     "fpavageau": {
       "total": 1,
       "merged": 0,
@@ -92,11 +102,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/406189?v=4"
-    },
-    "jkschneider": {
-      "total": 30,
-      "merged": 0,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/1697736?v=4"
     },
     "garfailed": {
       "total": 1,
@@ -3881,7 +3886,7 @@
   },
   "datePRInfos": {
     "Avril-2018": {
-      "total": 26,
+      "total": 28,
       "merged": 0
     },
     "Mars-2018": {
