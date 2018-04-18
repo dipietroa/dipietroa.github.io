@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-04-18T01:45:49.471Z",
+  "lastUpdate": "2018-04-18T02:46:45.065Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 6709,
@@ -25,7 +25,7 @@
   "userPRInfos": {
     "sebmarkbage": {
       "total": 257,
-      "merged": 239,
+      "merged": 240,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/63648?v=4"
     },
     "kjirou": {
@@ -9877,7 +9877,7 @@
   "datePRInfos": {
     "Avril-2018": {
       "total": 62,
-      "merged": 40
+      "merged": 41
     },
     "Mars-2018": {
       "total": 88,
