@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-04-18T09:42:46.614Z",
+  "lastUpdate": "2018-04-18T10:42:49.359Z",
   "cowner": "nuclio",
   "crepo": "nuclio",
-  "totalPR": 507,
+  "totalPR": 508,
   "lastPR": {
-    "createdAt": "2018-04-18T08:17:14Z",
-    "username": "YarovoiVadym"
+    "createdAt": "2018-04-18T10:08:00Z",
+    "username": "eran-nussbaum"
   },
   "bestPR": {
     "user": "pavius",
@@ -18,14 +18,19 @@
     "image": "https://avatars2.githubusercontent.com/u/423987?v=4"
   },
   "bestRatio": {
-    "user": "maksym-kyselytsia",
+    "user": "YarovoiVadym",
     "ratio": 1,
-    "image": "https://avatars1.githubusercontent.com/u/25031243?v=4"
+    "image": "https://avatars3.githubusercontent.com/u/37179001?v=4"
   },
   "userPRInfos": {
+    "eran-nussbaum": {
+      "total": 35,
+      "merged": 33,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/13918850?v=4"
+    },
     "YarovoiVadym": {
       "total": 2,
-      "merged": 1,
+      "merged": 2,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/37179001?v=4"
     },
     "omriharel": {
@@ -103,11 +108,6 @@
       "merged": 20,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/5636945?v=4"
     },
-    "eran-nussbaum": {
-      "total": 34,
-      "merged": 33,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/13918850?v=4"
-    },
     "Sharon-iguazio": {
       "total": 22,
       "merged": 21,
@@ -141,8 +141,8 @@
   },
   "datePRInfos": {
     "Avril-2018": {
-      "total": 24,
-      "merged": 22
+      "total": 25,
+      "merged": 23
     },
     "Mars-2018": {
       "total": 55,
