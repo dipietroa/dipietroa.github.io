@@ -1,8 +1,8 @@
 {
-  "lastUpdate": "2018-04-18T22:42:58.563Z",
+  "lastUpdate": "2018-04-18T23:42:37.330Z",
   "cowner": "fastify",
   "crepo": "fastify",
-  "totalPR": 535,
+  "totalPR": 536,
   "lastPR": {
     "createdAt": "2018-04-17T19:46:02Z",
     "username": "StarpTech"
@@ -34,8 +34,8 @@
       "avatarUrl": "https://avatars0.githubusercontent.com/u/4865608?v=4"
     },
     "allevo": {
-      "total": 52,
-      "merged": 39,
+      "total": 53,
+      "merged": 40,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/1054125?v=4"
     },
     "greenkeeper[bot]": {
@@ -487,8 +487,8 @@
       "merged": 78
     },
     "Décembre-2017": {
-      "total": 54,
-      "merged": 46
+      "total": 55,
+      "merged": 47
     },
     "Novembre-2017": {
       "total": 52,
