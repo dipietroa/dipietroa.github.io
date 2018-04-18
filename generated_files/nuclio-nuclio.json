@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-04-18T07:42:55.090Z",
+  "lastUpdate": "2018-04-18T08:42:54.097Z",
   "cowner": "nuclio",
   "crepo": "nuclio",
-  "totalPR": 506,
+  "totalPR": 507,
   "lastPR": {
-    "createdAt": "2018-04-15T16:03:42Z",
-    "username": "omriharel"
+    "createdAt": "2018-04-18T08:17:14Z",
+    "username": "YarovoiVadym"
   },
   "bestPR": {
     "user": "pavius",
@@ -18,11 +18,16 @@
     "image": "https://avatars2.githubusercontent.com/u/423987?v=4"
   },
   "bestRatio": {
-    "user": "YarovoiVadym",
+    "user": "maksym-kyselytsia",
     "ratio": 1,
-    "image": "https://avatars3.githubusercontent.com/u/37179001?v=4"
+    "image": "https://avatars1.githubusercontent.com/u/25031243?v=4"
   },
   "userPRInfos": {
+    "YarovoiVadym": {
+      "total": 2,
+      "merged": 1,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/37179001?v=4"
+    },
     "omriharel": {
       "total": 14,
       "merged": 13,
@@ -37,11 +42,6 @@
       "total": 75,
       "merged": 46,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/87697?v=4"
-    },
-    "YarovoiVadym": {
-      "total": 1,
-      "merged": 1,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/37179001?v=4"
     },
     "torosent": {
       "total": 8,
@@ -141,7 +141,7 @@
   },
   "datePRInfos": {
     "Avril-2018": {
-      "total": 23,
+      "total": 24,
       "merged": 22
     },
     "Mars-2018": {
