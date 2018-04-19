@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "2018-04-19T15:47:18.341Z",
+  "lastUpdate": "2018-04-19T16:47:43.712Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 6711,
   "lastPR": {
-    "createdAt": "2018-04-18T22:51:11Z",
+    "createdAt": "2018-04-19T15:47:15Z",
     "username": "bvaughn"
   },
   "bestPR": {
@@ -24,8 +24,8 @@
   },
   "userPRInfos": {
     "bvaughn": {
-      "total": 213,
-      "merged": 197,
+      "total": 214,
+      "merged": 198,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/29597?v=4"
     },
     "sebmarkbage": {
@@ -50,7 +50,7 @@
     },
     "flarnie": {
       "total": 92,
-      "merged": 72,
+      "merged": 73,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/1114467?v=4"
     },
     "gaearon": {
@@ -1364,8 +1364,8 @@
       "avatarUrl": "https://avatars1.githubusercontent.com/u/539075?v=4"
     },
     "zpao": {
-      "total": 339,
-      "merged": 289,
+      "total": 338,
+      "merged": 288,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/8445?v=4"
     },
     "danielsbird": {
@@ -9876,8 +9876,8 @@
   },
   "datePRInfos": {
     "Avril-2018": {
-      "total": 63,
-      "merged": 43
+      "total": 64,
+      "merged": 45
     },
     "Mars-2018": {
       "total": 88,
@@ -10108,8 +10108,8 @@
       "merged": 37
     },
     "Juin-2013": {
-      "total": 68,
-      "merged": 55
+      "total": 67,
+      "merged": 54
     },
     "Mai-2013": {
       "total": 27,
