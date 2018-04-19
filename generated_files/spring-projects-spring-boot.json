@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-04-19T09:42:44.336Z",
+  "lastUpdate": "2018-04-19T10:41:50.978Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2552,
+  "totalPR": 2553,
   "lastPR": {
-    "createdAt": "2018-04-18T18:47:57Z",
-    "username": "rupert654"
+    "createdAt": "2018-04-19T10:23:10Z",
+    "username": "nosan"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "nosan": {
+      "total": 4,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/5054994?v=4"
+    },
     "rupert654": {
       "total": 3,
       "merged": 0,
@@ -92,11 +97,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/4318017?v=4"
-    },
-    "nosan": {
-      "total": 3,
-      "merged": 0,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/5054994?v=4"
     },
     "izeye": {
       "total": 377,
@@ -3886,7 +3886,7 @@
   },
   "datePRInfos": {
     "Avril-2018": {
-      "total": 30,
+      "total": 31,
       "merged": 0
     },
     "Mars-2018": {
