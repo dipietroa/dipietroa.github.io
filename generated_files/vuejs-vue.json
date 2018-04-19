@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-04-19T01:42:41.578Z",
+  "lastUpdate": "2018-04-19T02:42:26.119Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 1145,
+  "totalPR": 1146,
   "lastPR": {
-    "createdAt": "2018-04-18T13:07:18Z",
-    "username": "posva"
+    "createdAt": "2018-04-19T02:34:47Z",
+    "username": "utatti"
   },
   "bestPR": {
     "user": "kazupon",
@@ -28,15 +28,15 @@
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/28888508?v=4"
     },
+    "utatti": {
+      "total": 2,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/1013641?v=4"
+    },
     "posva": {
       "total": 36,
       "merged": 28,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/664177?v=4"
-    },
-    "utatti": {
-      "total": 1,
-      "merged": 0,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/1013641?v=4"
     },
     "yringler": {
       "total": 1,
@@ -2521,7 +2521,7 @@
   },
   "datePRInfos": {
     "Avril-2018": {
-      "total": 28,
+      "total": 29,
       "merged": 1
     },
     "Mars-2018": {
