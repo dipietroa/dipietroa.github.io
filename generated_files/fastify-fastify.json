@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-04-18T23:42:37.330Z",
+  "lastUpdate": "2018-04-19T00:42:59.928Z",
   "cowner": "fastify",
   "crepo": "fastify",
   "totalPR": 536,
   "lastPR": {
-    "createdAt": "2018-04-17T19:46:02Z",
-    "username": "StarpTech"
+    "createdAt": "2018-04-18T23:42:30Z",
+    "username": "cyberwombat"
   },
   "bestPR": {
     "user": "delvedor",
@@ -23,6 +23,11 @@
     "image": "https://avatars0.githubusercontent.com/u/8995502?v=4"
   },
   "userPRInfos": {
+    "cyberwombat": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/777498?v=4"
+    },
     "StarpTech": {
       "total": 30,
       "merged": 24,
@@ -34,8 +39,8 @@
       "avatarUrl": "https://avatars0.githubusercontent.com/u/4865608?v=4"
     },
     "allevo": {
-      "total": 53,
-      "merged": 40,
+      "total": 52,
+      "merged": 39,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/1054125?v=4"
     },
     "greenkeeper[bot]": {
@@ -471,7 +476,7 @@
   },
   "datePRInfos": {
     "Avril-2018": {
-      "total": 18,
+      "total": 19,
       "merged": 11
     },
     "Mars-2018": {
@@ -487,8 +492,8 @@
       "merged": 78
     },
     "Décembre-2017": {
-      "total": 55,
-      "merged": 47
+      "total": 54,
+      "merged": 46
     },
     "Novembre-2017": {
       "total": 52,
