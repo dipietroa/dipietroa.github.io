@@ -1,8 +1,8 @@
 {
-  "lastUpdate": "2018-04-19T14:47:31.650Z",
+  "lastUpdate": "2018-04-19T15:47:18.341Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6710,
+  "totalPR": 6711,
   "lastPR": {
     "createdAt": "2018-04-18T22:51:11Z",
     "username": "bvaughn"
@@ -1364,8 +1364,8 @@
       "avatarUrl": "https://avatars1.githubusercontent.com/u/539075?v=4"
     },
     "zpao": {
-      "total": 338,
-      "merged": 288,
+      "total": 339,
+      "merged": 289,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/8445?v=4"
     },
     "danielsbird": {
@@ -10108,8 +10108,8 @@
       "merged": 37
     },
     "Juin-2013": {
-      "total": 67,
-      "merged": 54
+      "total": 68,
+      "merged": 55
     },
     "Mai-2013": {
       "total": 27,
