@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-04-19T13:44:07.628Z",
+  "lastUpdate": "2018-04-19T14:43:29.108Z",
   "cowner": "nuclio",
   "crepo": "nuclio",
-  "totalPR": 509,
+  "totalPR": 510,
   "lastPR": {
-    "createdAt": "2018-04-18T18:59:20Z",
-    "username": "pavius"
+    "createdAt": "2018-04-19T14:33:53Z",
+    "username": "LevkoKozak"
   },
   "bestPR": {
     "user": "pavius",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/37179001?v=4"
   },
   "userPRInfos": {
+    "LevkoKozak": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/25303836?v=4"
+    },
     "pavius": {
       "total": 269,
       "merged": 266,
@@ -141,7 +146,7 @@
   },
   "datePRInfos": {
     "Avril-2018": {
-      "total": 26,
+      "total": 27,
       "merged": 25
     },
     "Mars-2018": {
