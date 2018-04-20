@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-04-20T07:43:18.813Z",
+  "lastUpdate": "2018-04-20T08:42:42.799Z",
   "cowner": "nuclio",
   "crepo": "nuclio",
-  "totalPR": 511,
+  "totalPR": 512,
   "lastPR": {
-    "createdAt": "2018-04-19T14:45:21Z",
-    "username": "maksym-kyselytsia"
+    "createdAt": "2018-04-20T08:09:24Z",
+    "username": "eran-nussbaum"
   },
   "bestPR": {
     "user": "pavius",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/25031243?v=4"
   },
   "userPRInfos": {
+    "eran-nussbaum": {
+      "total": 36,
+      "merged": 35,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/13918850?v=4"
+    },
     "maksym-kyselytsia": {
       "total": 2,
       "merged": 2,
@@ -37,11 +42,6 @@
       "total": 269,
       "merged": 266,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/423987?v=4"
-    },
-    "eran-nussbaum": {
-      "total": 35,
-      "merged": 34,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/13918850?v=4"
     },
     "YarovoiVadym": {
       "total": 2,
@@ -146,8 +146,8 @@
   },
   "datePRInfos": {
     "Avril-2018": {
-      "total": 28,
-      "merged": 27
+      "total": 29,
+      "merged": 28
     },
     "Mars-2018": {
       "total": 55,
