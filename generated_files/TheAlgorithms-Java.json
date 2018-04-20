@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-04-20T12:42:07.680Z",
+  "lastUpdate": "2018-04-20T13:42:24.065Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
-  "totalPR": 379,
+  "totalPR": 380,
   "lastPR": {
-    "createdAt": "2018-04-20T01:12:10Z",
-    "username": "dragid10"
+    "createdAt": "2018-04-20T13:27:55Z",
+    "username": "shivg7706"
   },
   "bestPR": {
     "user": "theycallmemac",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/24612656?v=4"
   },
   "userPRInfos": {
+    "shivg7706": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/21190262?v=4"
+    },
     "dragid10": {
       "total": 1,
       "merged": 0,
@@ -976,7 +981,7 @@
   },
   "datePRInfos": {
     "Avril-2018": {
-      "total": 21,
+      "total": 22,
       "merged": 15
     },
     "Mars-2018": {
