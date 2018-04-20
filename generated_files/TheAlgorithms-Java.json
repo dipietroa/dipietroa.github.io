@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-04-20T00:41:44.824Z",
+  "lastUpdate": "2018-04-20T01:41:35.336Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
-  "totalPR": 378,
+  "totalPR": 379,
   "lastPR": {
-    "createdAt": "2018-04-19T12:50:14Z",
-    "username": "nikitap492"
+    "createdAt": "2018-04-20T01:12:10Z",
+    "username": "dragid10"
   },
   "bestPR": {
     "user": "theycallmemac",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/24612656?v=4"
   },
   "userPRInfos": {
+    "dragid10": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/4042877?v=4"
+    },
     "nikitap492": {
       "total": 6,
       "merged": 5,
@@ -971,7 +976,7 @@
   },
   "datePRInfos": {
     "Avril-2018": {
-      "total": 20,
+      "total": 21,
       "merged": 15
     },
     "Mars-2018": {
