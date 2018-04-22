@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-04-22T14:45:51.435Z",
+  "lastUpdate": "2018-04-22T15:46:36.918Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6716,
+  "totalPR": 6717,
   "lastPR": {
-    "createdAt": "2018-04-20T03:36:28Z",
-    "username": "nicolevy"
+    "createdAt": "2018-04-22T15:37:28Z",
+    "username": "bee0060"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/15187179?v=4"
   },
   "userPRInfos": {
+    "bee0060": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/3851968?v=4"
+    },
     "nicolevy": {
       "total": 5,
       "merged": 3,
@@ -9881,7 +9886,7 @@
   },
   "datePRInfos": {
     "Avril-2018": {
-      "total": 69,
+      "total": 70,
       "merged": 47
     },
     "Mars-2018": {
