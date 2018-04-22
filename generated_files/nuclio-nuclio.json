@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-04-22T11:42:21.535Z",
+  "lastUpdate": "2018-04-22T12:43:20.627Z",
   "cowner": "nuclio",
   "crepo": "nuclio",
   "totalPR": 523,
@@ -14,7 +14,7 @@
   },
   "bestMerged": {
     "user": "pavius",
-    "nbPR": 269,
+    "nbPR": 270,
     "image": "https://avatars2.githubusercontent.com/u/423987?v=4"
   },
   "bestRatio": {
@@ -30,7 +30,7 @@
     },
     "pavius": {
       "total": 273,
-      "merged": 269,
+      "merged": 270,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/423987?v=4"
     },
     "eran-nussbaum": {
@@ -147,7 +147,7 @@
   "datePRInfos": {
     "Avril-2018": {
       "total": 40,
-      "merged": 36
+      "merged": 37
     },
     "Mars-2018": {
       "total": 55,
