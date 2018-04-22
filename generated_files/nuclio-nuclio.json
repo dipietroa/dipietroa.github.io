@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-04-22T15:43:24.524Z",
+  "lastUpdate": "2018-04-22T16:42:53.123Z",
   "cowner": "nuclio",
   "crepo": "nuclio",
-  "totalPR": 523,
+  "totalPR": 524,
   "lastPR": {
-    "createdAt": "2018-04-22T09:49:43Z",
-    "username": "tebeka"
+    "createdAt": "2018-04-22T16:08:54Z",
+    "username": "itye-msft"
   },
   "bestPR": {
     "user": "pavius",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/25031243?v=4"
   },
   "userPRInfos": {
+    "itye-msft": {
+      "total": 7,
+      "merged": 4,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/26870839?v=4"
+    },
     "tebeka": {
       "total": 77,
       "merged": 46,
@@ -83,11 +88,6 @@
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/25221844?v=4"
     },
-    "itye-msft": {
-      "total": 6,
-      "merged": 4,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/26870839?v=4"
-    },
     "stuartleeks": {
       "total": 4,
       "merged": 4,
@@ -146,7 +146,7 @@
   },
   "datePRInfos": {
     "Avril-2018": {
-      "total": 40,
+      "total": 41,
       "merged": 37
     },
     "Mars-2018": {
