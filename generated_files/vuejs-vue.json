@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-04-22T08:42:54.424Z",
+  "lastUpdate": "2018-04-22T09:42:11.822Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 1146,
+  "totalPR": 1148,
   "lastPR": {
-    "createdAt": "2018-04-19T02:34:47Z",
-    "username": "utatti"
+    "createdAt": "2018-04-22T09:35:23Z",
+    "username": "lusarz"
   },
   "bestPR": {
     "user": "kazupon",
@@ -27,6 +27,11 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/28888508?v=4"
+    },
+    "lusarz": {
+      "total": 2,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/10059264?v=4"
     },
     "utatti": {
       "total": 2,
@@ -2521,7 +2526,7 @@
   },
   "datePRInfos": {
     "Avril-2018": {
-      "total": 29,
+      "total": 31,
       "merged": 1
     },
     "Mars-2018": {
