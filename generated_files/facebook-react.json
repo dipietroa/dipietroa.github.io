@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-04-23T15:48:25.867Z",
+  "lastUpdate": "2018-04-23T16:47:21.169Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6717,
+  "totalPR": 6718,
   "lastPR": {
-    "createdAt": "2018-04-22T15:37:28Z",
-    "username": "bee0060"
+    "createdAt": "2018-04-23T16:36:06Z",
+    "username": "rnaby"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/15187179?v=4"
   },
   "userPRInfos": {
+    "rnaby": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/6243408?v=4"
+    },
     "bee0060": {
       "total": 1,
       "merged": 0,
@@ -9886,7 +9891,7 @@
   },
   "datePRInfos": {
     "Avril-2018": {
-      "total": 70,
+      "total": 71,
       "merged": 48
     },
     "Mars-2018": {
