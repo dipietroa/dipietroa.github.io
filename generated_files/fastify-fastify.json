@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-04-23T18:43:35.465Z",
+  "lastUpdate": "2018-04-23T19:43:34.441Z",
   "cowner": "fastify",
   "crepo": "fastify",
-  "totalPR": 541,
+  "totalPR": 542,
   "lastPR": {
-    "createdAt": "2018-04-23T13:06:39Z",
-    "username": "smartiniOnGitHub"
+    "createdAt": "2018-04-23T19:33:23Z",
+    "username": "benbender"
   },
   "bestPR": {
     "user": "delvedor",
@@ -23,6 +23,11 @@
     "image": "https://avatars0.githubusercontent.com/u/777498?v=4"
   },
   "userPRInfos": {
+    "benbender": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/462455?v=4"
+    },
     "smartiniOnGitHub": {
       "total": 2,
       "merged": 1,
@@ -481,7 +486,7 @@
   },
   "datePRInfos": {
     "Avril-2018": {
-      "total": 24,
+      "total": 25,
       "merged": 16
     },
     "Mars-2018": {
