@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-04-23T08:42:08.062Z",
+  "lastUpdate": "2018-04-23T09:42:33.810Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2555,
+  "totalPR": 2556,
   "lastPR": {
-    "createdAt": "2018-04-20T06:28:05Z",
-    "username": "izeye"
+    "createdAt": "2018-04-23T09:20:41Z",
+    "username": "LiYing2010"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "LiYing2010": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/4538363?v=4"
+    },
     "izeye": {
       "total": 378,
       "merged": 1,
@@ -3886,7 +3891,7 @@
   },
   "datePRInfos": {
     "Avril-2018": {
-      "total": 33,
+      "total": 34,
       "merged": 0
     },
     "Mars-2018": {
