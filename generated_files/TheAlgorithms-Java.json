@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-04-23T16:42:35.323Z",
+  "lastUpdate": "2018-04-23T17:42:59.645Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
-  "totalPR": 381,
+  "totalPR": 382,
   "lastPR": {
-    "createdAt": "2018-04-20T16:26:02Z",
-    "username": "khairi96"
+    "createdAt": "2018-04-23T17:29:12Z",
+    "username": "amlne"
   },
   "bestPR": {
     "user": "theycallmemac",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/24612656?v=4"
   },
   "userPRInfos": {
+    "amlne": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/36077290?v=4"
+    },
     "khairi96": {
       "total": 1,
       "merged": 0,
@@ -986,7 +991,7 @@
   },
   "datePRInfos": {
     "Avril-2018": {
-      "total": 23,
+      "total": 24,
       "merged": 15
     },
     "Mars-2018": {
