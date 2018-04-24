@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-04-24T17:42:08.538Z",
+  "lastUpdate": "2018-04-24T18:41:52.673Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2558,
+  "totalPR": 2559,
   "lastPR": {
-    "createdAt": "2018-04-24T13:29:17Z",
-    "username": "mithu1236"
+    "createdAt": "2018-04-24T18:13:11Z",
+    "username": "henri-tremblay"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "henri-tremblay": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/1216819?v=4"
+    },
     "mithu1236": {
       "total": 1,
       "merged": 0,
@@ -3896,7 +3901,7 @@
   },
   "datePRInfos": {
     "Avril-2018": {
-      "total": 36,
+      "total": 37,
       "merged": 0
     },
     "Mars-2018": {
