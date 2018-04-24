@@ -1,20 +1,20 @@
 {
-  "lastUpdate": "2018-04-24T18:46:38.913Z",
+  "lastUpdate": "2018-04-24T19:47:04.872Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6721,
+  "totalPR": 6722,
   "lastPR": {
     "createdAt": "2018-04-24T15:28:33Z",
     "username": "flarnie"
   },
   "bestPR": {
     "user": "sophiebits",
-    "nbPR": 658,
+    "nbPR": 659,
     "image": "https://avatars2.githubusercontent.com/u/6820?v=4"
   },
   "bestMerged": {
     "user": "sophiebits",
-    "nbPR": 584,
+    "nbPR": 585,
     "image": "https://avatars2.githubusercontent.com/u/6820?v=4"
   },
   "bestRatio": {
@@ -294,8 +294,8 @@
       "avatarUrl": "https://avatars2.githubusercontent.com/u/706039?v=4"
     },
     "sophiebits": {
-      "total": 658,
-      "merged": 584,
+      "total": 659,
+      "merged": 585,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/6820?v=4"
     },
     "FlorisXll": {
@@ -10055,8 +10055,8 @@
       "merged": 57
     },
     "Novembre-2014": {
-      "total": 95,
-      "merged": 71
+      "total": 96,
+      "merged": 72
     },
     "Octobre-2014": {
       "total": 83,
