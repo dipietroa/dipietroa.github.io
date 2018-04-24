@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "2018-04-24T13:43:53.880Z",
+  "lastUpdate": "2018-04-24T14:43:25.324Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 1148,
+  "totalPR": 1149,
   "lastPR": {
-    "createdAt": "2018-04-22T09:35:23Z",
+    "createdAt": "2018-04-24T13:52:42Z",
     "username": "lusarz"
   },
   "bestPR": {
@@ -24,7 +24,7 @@
   },
   "userPRInfos": {
     "lusarz": {
-      "total": 2,
+      "total": 3,
       "merged": 0,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/10059264?v=4"
     },
@@ -2526,7 +2526,7 @@
   },
   "datePRInfos": {
     "Avril-2018": {
-      "total": 31,
+      "total": 32,
       "merged": 1
     },
     "Mars-2018": {
