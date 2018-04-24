@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "2018-04-24T09:44:02.161Z",
+  "lastUpdate": "2018-04-24T10:42:57.954Z",
   "cowner": "fastify",
   "crepo": "fastify",
-  "totalPR": 542,
+  "totalPR": 543,
   "lastPR": {
-    "createdAt": "2018-04-23T19:33:23Z",
+    "createdAt": "2018-04-24T10:29:14Z",
     "username": "benbender"
   },
   "bestPR": {
@@ -24,7 +24,7 @@
   },
   "userPRInfos": {
     "benbender": {
-      "total": 1,
+      "total": 2,
       "merged": 0,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/462455?v=4"
     },
@@ -486,7 +486,7 @@
   },
   "datePRInfos": {
     "Avril-2018": {
-      "total": 25,
+      "total": 26,
       "merged": 16
     },
     "Mars-2018": {
