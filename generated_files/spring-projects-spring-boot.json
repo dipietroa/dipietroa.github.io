@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-04-24T12:41:36.658Z",
+  "lastUpdate": "2018-04-24T13:42:47.531Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2557,
+  "totalPR": 2558,
   "lastPR": {
-    "createdAt": "2018-04-24T10:01:13Z",
-    "username": "rajadilipkolli"
+    "createdAt": "2018-04-24T13:29:17Z",
+    "username": "mithu1236"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "mithu1236": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/31366582?v=4"
+    },
     "rajadilipkolli": {
       "total": 27,
       "merged": 0,
@@ -3891,7 +3896,7 @@
   },
   "datePRInfos": {
     "Avril-2018": {
-      "total": 35,
+      "total": 36,
       "merged": 0
     },
     "Mars-2018": {
