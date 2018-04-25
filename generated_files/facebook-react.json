@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "2018-04-24T23:45:28.837Z",
+  "lastUpdate": "2018-04-25T00:46:23.712Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6722,
+  "totalPR": 6723,
   "lastPR": {
-    "createdAt": "2018-04-24T19:46:24Z",
+    "createdAt": "2018-04-25T00:03:17Z",
     "username": "flarnie"
   },
   "bestPR": {
@@ -24,7 +24,7 @@
   },
   "userPRInfos": {
     "flarnie": {
-      "total": 95,
+      "total": 96,
       "merged": 75,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/1114467?v=4"
     },
@@ -9891,7 +9891,7 @@
   },
   "datePRInfos": {
     "Avril-2018": {
-      "total": 75,
+      "total": 76,
       "merged": 51
     },
     "Mars-2018": {
