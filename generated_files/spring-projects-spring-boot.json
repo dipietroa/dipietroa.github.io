@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-04-25T21:41:38.195Z",
+  "lastUpdate": "2018-04-25T22:42:25.909Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2561,
+  "totalPR": 2562,
   "lastPR": {
-    "createdAt": "2018-04-25T11:58:48Z",
-    "username": "vkiriushkin"
+    "createdAt": "2018-04-25T22:16:37Z",
+    "username": "HarryEMartland"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "HarryEMartland": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/2979931?v=4"
+    },
     "vkiriushkin": {
       "total": 1,
       "merged": 0,
@@ -3906,7 +3911,7 @@
   },
   "datePRInfos": {
     "Avril-2018": {
-      "total": 39,
+      "total": 40,
       "merged": 0
     },
     "Mars-2018": {
