@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-04-26T21:44:30.285Z",
+  "lastUpdate": "2018-04-26T22:43:27.248Z",
   "cowner": "fastify",
   "crepo": "fastify",
-  "totalPR": 548,
+  "totalPR": 549,
   "lastPR": {
-    "createdAt": "2018-04-25T20:17:12Z",
-    "username": "mcollina"
+    "createdAt": "2018-04-26T22:31:42Z",
+    "username": "JimmyHurrah"
   },
   "bestPR": {
     "user": "delvedor",
@@ -23,6 +23,11 @@
     "image": "https://avatars0.githubusercontent.com/u/777498?v=4"
   },
   "userPRInfos": {
+    "JimmyHurrah": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/6367753?v=4"
+    },
     "mcollina": {
       "total": 68,
       "merged": 65,
@@ -486,7 +491,7 @@
   },
   "datePRInfos": {
     "Avril-2018": {
-      "total": 31,
+      "total": 32,
       "merged": 21
     },
     "Mars-2018": {
