@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-04-26T11:43:59.053Z",
+  "lastUpdate": "2018-04-26T12:43:26.007Z",
   "cowner": "vuejs",
   "crepo": "vue",
   "totalPR": 1151,
@@ -18,14 +18,14 @@
     "image": "https://avatars1.githubusercontent.com/u/72989?v=4"
   },
   "bestRatio": {
-    "user": "jonkofee",
+    "user": "gavrashenko",
     "ratio": 1,
-    "image": "https://avatars2.githubusercontent.com/u/9060043?v=4"
+    "image": "https://avatars1.githubusercontent.com/u/1017197?v=4"
   },
   "userPRInfos": {
     "gavrashenko": {
       "total": 1,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/1017197?v=4"
     },
     "zhouxiongking": {
@@ -2537,7 +2537,7 @@
   "datePRInfos": {
     "Avril-2018": {
       "total": 34,
-      "merged": 1
+      "merged": 2
     },
     "Mars-2018": {
       "total": 50,
