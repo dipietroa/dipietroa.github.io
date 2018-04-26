@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-04-26T21:43:56.676Z",
+  "lastUpdate": "2018-04-26T22:42:52.173Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 1151,
+  "totalPR": 1153,
   "lastPR": {
-    "createdAt": "2018-04-26T10:30:19Z",
-    "username": "gavrashenko"
+    "createdAt": "2018-04-26T22:17:20Z",
+    "username": "championswimmer"
   },
   "bestPR": {
     "user": "kazupon",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/1017197?v=4"
   },
   "userPRInfos": {
+    "championswimmer": {
+      "total": 2,
+      "merged": 0,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/1327050?v=4"
+    },
     "gavrashenko": {
       "total": 1,
       "merged": 1,
@@ -2536,7 +2541,7 @@
   },
   "datePRInfos": {
     "Avril-2018": {
-      "total": 34,
+      "total": 36,
       "merged": 2
     },
     "Mars-2018": {
