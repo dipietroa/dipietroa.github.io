@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-04-26T03:42:42.019Z",
+  "lastUpdate": "2018-04-26T04:41:57.681Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
-  "totalPR": 384,
+  "totalPR": 385,
   "lastPR": {
-    "createdAt": "2018-04-25T11:33:37Z",
-    "username": "Hero22"
+    "createdAt": "2018-04-26T04:37:21Z",
+    "username": "kezhenxu94"
   },
   "bestPR": {
     "user": "theycallmemac",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/24612656?v=4"
   },
   "userPRInfos": {
+    "kezhenxu94": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/15965696?v=4"
+    },
     "Hero22": {
       "total": 1,
       "merged": 0,
@@ -1001,7 +1006,7 @@
   },
   "datePRInfos": {
     "Avril-2018": {
-      "total": 26,
+      "total": 27,
       "merged": 15
     },
     "Mars-2018": {
