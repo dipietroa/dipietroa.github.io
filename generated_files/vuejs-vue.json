@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-04-28T03:43:27.723Z",
+  "lastUpdate": "2018-04-28T04:42:39.081Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 1153,
+  "totalPR": 1154,
   "lastPR": {
-    "createdAt": "2018-04-26T22:17:20Z",
-    "username": "championswimmer"
+    "createdAt": "2018-04-28T04:04:17Z",
+    "username": "TheLarkInn"
   },
   "bestPR": {
     "user": "kazupon",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/1017197?v=4"
   },
   "userPRInfos": {
+    "TheLarkInn": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/3408176?v=4"
+    },
     "championswimmer": {
       "total": 2,
       "merged": 0,
@@ -2541,7 +2546,7 @@
   },
   "datePRInfos": {
     "Avril-2018": {
-      "total": 36,
+      "total": 37,
       "merged": 2
     },
     "Mars-2018": {
