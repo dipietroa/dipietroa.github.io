@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "2018-04-28T19:47:25.753Z",
+  "lastUpdate": "2018-04-28T20:46:42.379Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6728,
+  "totalPR": 6729,
   "lastPR": {
-    "createdAt": "2018-04-27T22:07:18Z",
+    "createdAt": "2018-04-28T19:58:09Z",
     "username": "gaearon"
   },
   "bestPR": {
@@ -18,13 +18,13 @@
     "image": "https://avatars2.githubusercontent.com/u/6820?v=4"
   },
   "bestRatio": {
-    "user": "sfrieson",
+    "user": "airamrguez",
     "ratio": 1,
-    "image": "https://avatars3.githubusercontent.com/u/15187179?v=4"
+    "image": "https://avatars1.githubusercontent.com/u/1159448?v=4"
   },
   "userPRInfos": {
     "gaearon": {
-      "total": 559,
+      "total": 560,
       "merged": 480,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/810438?v=4"
     },
@@ -35,7 +35,7 @@
     },
     "airamrguez": {
       "total": 1,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/1159448?v=4"
     },
     "NE-SmallTown": {
@@ -9896,8 +9896,8 @@
   },
   "datePRInfos": {
     "Avril-2018": {
-      "total": 81,
-      "merged": 55
+      "total": 82,
+      "merged": 56
     },
     "Mars-2018": {
       "total": 88,
