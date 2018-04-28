@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-04-28T14:41:49.811Z",
+  "lastUpdate": "2018-04-28T15:41:48.256Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2566,
+  "totalPR": 2567,
   "lastPR": {
-    "createdAt": "2018-04-27T13:16:11Z",
-    "username": "izeye"
+    "createdAt": "2018-04-28T15:37:18Z",
+    "username": "yaman-jain"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "yaman-jain": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/2263673?v=4"
+    },
     "izeye": {
       "total": 381,
       "merged": 1,
@@ -3911,7 +3916,7 @@
   },
   "datePRInfos": {
     "Avril-2018": {
-      "total": 44,
+      "total": 45,
       "merged": 0
     },
     "Mars-2018": {
