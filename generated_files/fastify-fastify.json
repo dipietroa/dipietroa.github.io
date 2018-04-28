@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-04-28T19:43:40.111Z",
+  "lastUpdate": "2018-04-28T20:43:18.390Z",
   "cowner": "fastify",
   "crepo": "fastify",
-  "totalPR": 550,
+  "totalPR": 551,
   "lastPR": {
-    "createdAt": "2018-04-27T11:49:21Z",
-    "username": "StarpTech"
+    "createdAt": "2018-04-28T20:26:47Z",
+    "username": "israeleriston"
   },
   "bestPR": {
     "user": "delvedor",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/6367753?v=4"
   },
   "userPRInfos": {
+    "israeleriston": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/10285100?v=4"
+    },
     "StarpTech": {
       "total": 31,
       "merged": 24,
@@ -491,7 +496,7 @@
   },
   "datePRInfos": {
     "Avril-2018": {
-      "total": 33,
+      "total": 34,
       "merged": 22
     },
     "Mars-2018": {
