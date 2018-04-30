@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-04-30T20:42:15.526Z",
+  "lastUpdate": "2018-04-30T21:42:25.822Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2569,
+  "totalPR": 2570,
   "lastPR": {
-    "createdAt": "2018-04-30T10:35:20Z",
-    "username": "sdeleuze"
+    "createdAt": "2018-04-30T21:23:30Z",
+    "username": "alek-sys"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "alek-sys": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/1092019?v=4"
+    },
     "sdeleuze": {
       "total": 25,
       "merged": 1,
@@ -3916,7 +3921,7 @@
   },
   "datePRInfos": {
     "Avril-2018": {
-      "total": 47,
+      "total": 48,
       "merged": 0
     },
     "Mars-2018": {
