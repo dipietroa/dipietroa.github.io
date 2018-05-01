@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-05-01T10:43:05.906Z",
+  "lastUpdate": "2018-05-01T11:43:47.444Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 1155,
+  "totalPR": 1156,
   "lastPR": {
-    "createdAt": "2018-05-01T02:06:57Z",
-    "username": "xudaashuai"
+    "createdAt": "2018-05-01T11:00:52Z",
+    "username": "javoski"
   },
   "bestPR": {
     "user": "kazupon",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/1017197?v=4"
   },
   "userPRInfos": {
+    "javoski": {
+      "total": 29,
+      "merged": 22,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/5391892?v=4"
+    },
     "xudaashuai": {
       "total": 1,
       "merged": 0,
@@ -382,11 +387,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/6085124?v=4"
-    },
-    "javoski": {
-      "total": 28,
-      "merged": 22,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/5391892?v=4"
     },
     "ArStah": {
       "total": 1,
@@ -2551,7 +2551,7 @@
   },
   "datePRInfos": {
     "Mai-2018": {
-      "total": 1,
+      "total": 2,
       "merged": 0
     },
     "Avril-2018": {
