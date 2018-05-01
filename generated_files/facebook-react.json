@@ -1,15 +1,15 @@
 {
-  "lastUpdate": "2018-05-01T18:48:30.730Z",
+  "lastUpdate": "2018-05-01T19:48:21.733Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6732,
+  "totalPR": 6733,
   "lastPR": {
-    "createdAt": "2018-05-01T18:20:54Z",
+    "createdAt": "2018-05-01T19:40:59Z",
     "username": "gaearon"
   },
   "bestPR": {
     "user": "sophiebits",
-    "nbPR": 658,
+    "nbPR": 659,
     "image": "https://avatars2.githubusercontent.com/u/6820?v=4"
   },
   "bestMerged": {
@@ -27,6 +27,11 @@
       "total": 562,
       "merged": 482,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/810438?v=4"
+    },
+    "sophiebits": {
+      "total": 659,
+      "merged": 584,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/6820?v=4"
     },
     "nhunzaker": {
       "total": 88,
@@ -297,11 +302,6 @@
       "total": 2,
       "merged": 0,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/706039?v=4"
-    },
-    "sophiebits": {
-      "total": 658,
-      "merged": 584,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/6820?v=4"
     },
     "FlorisXll": {
       "total": 1,
@@ -9896,8 +9896,8 @@
   },
   "datePRInfos": {
     "Mai-2018": {
-      "total": 2,
-      "merged": 0
+      "total": 4,
+      "merged": 1
     },
     "Avril-2018": {
       "total": 82,
@@ -9928,8 +9928,8 @@
       "merged": 160
     },
     "Septembre-2017": {
-      "total": 237,
-      "merged": 162
+      "total": 236,
+      "merged": 161
     },
     "Août-2017": {
       "total": 132,
