@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-05-02T02:42:26.598Z",
+  "lastUpdate": "2018-05-02T03:42:30.209Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2571,
+  "totalPR": 2572,
   "lastPR": {
-    "createdAt": "2018-05-01T19:38:36Z",
-    "username": "garyrussell"
+    "createdAt": "2018-05-02T03:18:01Z",
+    "username": "naah69"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "naah69": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/25682169?v=4"
+    },
     "garyrussell": {
       "total": 48,
       "merged": 1,
@@ -3921,7 +3926,7 @@
   },
   "datePRInfos": {
     "Mai-2018": {
-      "total": 1,
+      "total": 2,
       "merged": 0
     },
     "Avril-2018": {
