@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-05-02T20:43:29.486Z",
+  "lastUpdate": "2018-05-02T21:43:13.212Z",
   "cowner": "vuejs",
   "crepo": "vue",
   "totalPR": 1156,
@@ -18,9 +18,9 @@
     "image": "https://avatars1.githubusercontent.com/u/72989?v=4"
   },
   "bestRatio": {
-    "user": "gavrashenko",
+    "user": "TheLarkInn",
     "ratio": 1,
-    "image": "https://avatars1.githubusercontent.com/u/1017197?v=4"
+    "image": "https://avatars1.githubusercontent.com/u/3408176?v=4"
   },
   "userPRInfos": {
     "javoski": {
@@ -35,7 +35,7 @@
     },
     "TheLarkInn": {
       "total": 1,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/3408176?v=4"
     },
     "championswimmer": {
@@ -2556,7 +2556,7 @@
     },
     "Avril-2018": {
       "total": 37,
-      "merged": 2
+      "merged": 3
     },
     "Mars-2018": {
       "total": 50,
