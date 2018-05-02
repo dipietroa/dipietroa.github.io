@@ -1,15 +1,15 @@
 {
-  "lastUpdate": "2018-05-02T09:42:26.874Z",
+  "lastUpdate": "2018-05-02T10:42:11.181Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2573,
+  "totalPR": 2574,
   "lastPR": {
-    "createdAt": "2018-05-02T03:18:01Z",
-    "username": "naah69"
+    "createdAt": "2018-05-02T10:31:16Z",
+    "username": "izeye"
   },
   "bestPR": {
     "user": "izeye",
-    "nbPR": 382,
+    "nbPR": 384,
     "image": "https://avatars3.githubusercontent.com/u/1059363?v=4"
   },
   "bestMerged": {
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "izeye": {
+      "total": 384,
+      "merged": 1,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/1059363?v=4"
+    },
     "naah69": {
       "total": 1,
       "merged": 0,
@@ -42,11 +47,6 @@
       "total": 25,
       "merged": 1,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/141109?v=4"
-    },
-    "izeye": {
-      "total": 382,
-      "merged": 1,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/1059363?v=4"
     },
     "yaman-jain": {
       "total": 1,
@@ -2569,7 +2569,7 @@
       "avatarUrl": "https://avatars0.githubusercontent.com/u/362503?v=4"
     },
     "dubu": {
-      "total": 7,
+      "total": 6,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/2464016?v=4"
     },
@@ -3926,7 +3926,7 @@
   },
   "datePRInfos": {
     "Mai-2018": {
-      "total": 2,
+      "total": 4,
       "merged": 0
     },
     "Avril-2018": {
@@ -4046,7 +4046,7 @@
       "merged": 0
     },
     "Novembre-2015": {
-      "total": 87,
+      "total": 86,
       "merged": 0
     },
     "Octobre-2015": {
