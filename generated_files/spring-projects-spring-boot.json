@@ -1,8 +1,8 @@
 {
-  "lastUpdate": "2018-05-02T08:42:52.443Z",
+  "lastUpdate": "2018-05-02T09:42:26.874Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2572,
+  "totalPR": 2573,
   "lastPR": {
     "createdAt": "2018-05-02T03:18:01Z",
     "username": "naah69"
@@ -2569,7 +2569,7 @@
       "avatarUrl": "https://avatars0.githubusercontent.com/u/362503?v=4"
     },
     "dubu": {
-      "total": 6,
+      "total": 7,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/2464016?v=4"
     },
@@ -4046,7 +4046,7 @@
       "merged": 0
     },
     "Novembre-2015": {
-      "total": 86,
+      "total": 87,
       "merged": 0
     },
     "Octobre-2015": {
