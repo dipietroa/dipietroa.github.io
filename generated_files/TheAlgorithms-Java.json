@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-05-02T07:42:44.182Z",
+  "lastUpdate": "2018-05-02T08:43:20.605Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
-  "totalPR": 386,
+  "totalPR": 387,
   "lastPR": {
-    "createdAt": "2018-04-29T07:35:49Z",
-    "username": "drpeabody"
+    "createdAt": "2018-05-02T08:17:28Z",
+    "username": "RishiPrakash"
   },
   "bestPR": {
     "user": "theycallmemac",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/24612656?v=4"
   },
   "userPRInfos": {
+    "RishiPrakash": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/12135451?v=4"
+    },
     "drpeabody": {
       "total": 1,
       "merged": 0,
@@ -1010,6 +1015,10 @@
     }
   },
   "datePRInfos": {
+    "Mai-2018": {
+      "total": 1,
+      "merged": 0
+    },
     "Avril-2018": {
       "total": 28,
       "merged": 15
