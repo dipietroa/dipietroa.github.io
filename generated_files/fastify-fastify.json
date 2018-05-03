@@ -1,15 +1,15 @@
 {
-  "lastUpdate": "2018-05-03T19:44:12.466Z",
+  "lastUpdate": "2018-05-03T20:44:35.876Z",
   "cowner": "fastify",
   "crepo": "fastify",
-  "totalPR": 557,
+  "totalPR": 558,
   "lastPR": {
-    "createdAt": "2018-05-03T03:06:17Z",
-    "username": "rafaelrenanpacheco"
+    "createdAt": "2018-05-03T19:56:07Z",
+    "username": "delvedor"
   },
   "bestPR": {
     "user": "delvedor",
-    "nbPR": 94,
+    "nbPR": 95,
     "image": "https://avatars0.githubusercontent.com/u/4865608?v=4"
   },
   "bestMerged": {
@@ -23,6 +23,11 @@
     "image": "https://avatars0.githubusercontent.com/u/12160864?v=4"
   },
   "userPRInfos": {
+    "delvedor": {
+      "total": 95,
+      "merged": 90,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/4865608?v=4"
+    },
     "rafaelrenanpacheco": {
       "total": 1,
       "merged": 1,
@@ -87,11 +92,6 @@
       "total": 1,
       "merged": 1,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/777498?v=4"
-    },
-    "delvedor": {
-      "total": 94,
-      "merged": 90,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/4865608?v=4"
     },
     "deividasjackus": {
       "total": 1,
@@ -501,7 +501,7 @@
   },
   "datePRInfos": {
     "Mai-2018": {
-      "total": 3,
+      "total": 4,
       "merged": 2
     },
     "Avril-2018": {
