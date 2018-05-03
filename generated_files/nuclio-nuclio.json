@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-05-03T13:43:21.616Z",
+  "lastUpdate": "2018-05-03T14:44:07.002Z",
   "cowner": "nuclio",
   "crepo": "nuclio",
-  "totalPR": 560,
+  "totalPR": 561,
   "lastPR": {
-    "createdAt": "2018-05-03T10:36:10Z",
-    "username": "ilaykav"
+    "createdAt": "2018-05-03T14:35:20Z",
+    "username": "torosent"
   },
   "bestPR": {
     "user": "pavius",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/25031243?v=4"
   },
   "userPRInfos": {
+    "torosent": {
+      "total": 9,
+      "merged": 7,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/17064840?v=4"
+    },
     "ilaykav": {
       "total": 9,
       "merged": 6,
@@ -77,11 +82,6 @@
       "total": 14,
       "merged": 13,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/10298151?v=4"
-    },
-    "torosent": {
-      "total": 8,
-      "merged": 7,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/17064840?v=4"
     },
     "yaronha": {
       "total": 7,
@@ -151,7 +151,7 @@
   },
   "datePRInfos": {
     "Mai-2018": {
-      "total": 8,
+      "total": 9,
       "merged": 5
     },
     "Avril-2018": {
