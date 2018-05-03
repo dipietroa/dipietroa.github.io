@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-05-03T19:43:34.881Z",
+  "lastUpdate": "2018-05-03T20:43:56.625Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 1156,
+  "totalPR": 1157,
   "lastPR": {
-    "createdAt": "2018-05-01T11:00:52Z",
-    "username": "javoski"
+    "createdAt": "2018-05-03T20:24:48Z",
+    "username": "carsongee"
   },
   "bestPR": {
     "user": "kazupon",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/3408176?v=4"
   },
   "userPRInfos": {
+    "carsongee": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/596029?v=4"
+    },
     "javoski": {
       "total": 29,
       "merged": 22,
@@ -2551,7 +2556,7 @@
   },
   "datePRInfos": {
     "Mai-2018": {
-      "total": 2,
+      "total": 3,
       "merged": 0
     },
     "Avril-2018": {
