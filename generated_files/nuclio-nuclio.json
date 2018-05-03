@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-05-03T21:43:57.337Z",
+  "lastUpdate": "2018-05-03T22:43:59.622Z",
   "cowner": "nuclio",
   "crepo": "nuclio",
-  "totalPR": 561,
+  "totalPR": 562,
   "lastPR": {
-    "createdAt": "2018-05-03T14:35:20Z",
-    "username": "torosent"
+    "createdAt": "2018-05-03T22:32:46Z",
+    "username": "the0rem"
   },
   "bestPR": {
     "user": "pavius",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/25031243?v=4"
   },
   "userPRInfos": {
+    "the0rem": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/5077986?v=4"
+    },
     "torosent": {
       "total": 9,
       "merged": 8,
@@ -151,7 +156,7 @@
   },
   "datePRInfos": {
     "Mai-2018": {
-      "total": 9,
+      "total": 10,
       "merged": 7
     },
     "Avril-2018": {
