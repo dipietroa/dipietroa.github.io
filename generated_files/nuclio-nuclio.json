@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-05-03T09:44:08.302Z",
+  "lastUpdate": "2018-05-03T10:44:17.493Z",
   "cowner": "nuclio",
   "crepo": "nuclio",
-  "totalPR": 559,
+  "totalPR": 560,
   "lastPR": {
-    "createdAt": "2018-05-02T10:19:14Z",
-    "username": "Sharon-iguazio"
+    "createdAt": "2018-05-03T10:36:10Z",
+    "username": "ilaykav"
   },
   "bestPR": {
     "user": "pavius",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/25031243?v=4"
   },
   "userPRInfos": {
+    "ilaykav": {
+      "total": 9,
+      "merged": 6,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/16291067?v=4"
+    },
     "Sharon-iguazio": {
       "total": 27,
       "merged": 25,
@@ -77,11 +82,6 @@
       "total": 8,
       "merged": 7,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/17064840?v=4"
-    },
-    "ilaykav": {
-      "total": 8,
-      "merged": 6,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/16291067?v=4"
     },
     "yaronha": {
       "total": 7,
@@ -151,7 +151,7 @@
   },
   "datePRInfos": {
     "Mai-2018": {
-      "total": 7,
+      "total": 8,
       "merged": 5
     },
     "Avril-2018": {
