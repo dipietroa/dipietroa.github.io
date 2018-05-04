@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-05-04T10:44:50.350Z",
+  "lastUpdate": "2018-05-04T11:44:13.855Z",
   "cowner": "fastify",
   "crepo": "fastify",
-  "totalPR": 558,
+  "totalPR": 559,
   "lastPR": {
-    "createdAt": "2018-05-03T19:56:07Z",
-    "username": "delvedor"
+    "createdAt": "2018-05-04T11:32:36Z",
+    "username": "israeleriston"
   },
   "bestPR": {
     "user": "delvedor",
@@ -23,6 +23,11 @@
     "image": "https://avatars0.githubusercontent.com/u/12160864?v=4"
   },
   "userPRInfos": {
+    "israeleriston": {
+      "total": 2,
+      "merged": 1,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/10285100?v=4"
+    },
     "delvedor": {
       "total": 95,
       "merged": 91,
@@ -52,11 +57,6 @@
       "total": 32,
       "merged": 25,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/1764424?v=4"
-    },
-    "israeleriston": {
-      "total": 1,
-      "merged": 1,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/10285100?v=4"
     },
     "JimmyHurrah": {
       "total": 1,
@@ -501,7 +501,7 @@
   },
   "datePRInfos": {
     "Mai-2018": {
-      "total": 4,
+      "total": 5,
       "merged": 3
     },
     "Avril-2018": {
