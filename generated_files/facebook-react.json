@@ -1,8 +1,8 @@
 {
-  "lastUpdate": "2018-05-04T16:48:03.963Z",
+  "lastUpdate": "2018-05-04T17:48:30.874Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6738,
+  "totalPR": 6739,
   "lastPR": {
     "createdAt": "2018-05-04T16:15:03Z",
     "username": "flarnie"
@@ -74,8 +74,8 @@
       "avatarUrl": "https://avatars2.githubusercontent.com/u/250407?v=4"
     },
     "bvaughn": {
-      "total": 215,
-      "merged": 199,
+      "total": 216,
+      "merged": 200,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/29597?v=4"
     },
     "rnaby": {
@@ -9929,8 +9929,8 @@
       "merged": 126
     },
     "Octobre-2017": {
-      "total": 212,
-      "merged": 160
+      "total": 213,
+      "merged": 161
     },
     "Septembre-2017": {
       "total": 236,
