@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-05-05T11:43:13.483Z",
+  "lastUpdate": "2018-05-05T12:43:32.971Z",
   "cowner": "fastify",
   "crepo": "fastify",
-  "totalPR": 559,
+  "totalPR": 560,
   "lastPR": {
-    "createdAt": "2018-05-04T11:32:36Z",
-    "username": "israeleriston"
+    "createdAt": "2018-05-05T12:38:17Z",
+    "username": "rjoydip"
   },
   "bestPR": {
     "user": "delvedor",
@@ -23,6 +23,11 @@
     "image": "https://avatars0.githubusercontent.com/u/12160864?v=4"
   },
   "userPRInfos": {
+    "rjoydip": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/15318294?v=4"
+    },
     "israeleriston": {
       "total": 2,
       "merged": 1,
@@ -501,7 +506,7 @@
   },
   "datePRInfos": {
     "Mai-2018": {
-      "total": 5,
+      "total": 6,
       "merged": 3
     },
     "Avril-2018": {
