@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-05-05T00:41:49.010Z",
+  "lastUpdate": "2018-05-05T01:42:38.569Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2583,
+  "totalPR": 2584,
   "lastPR": {
-    "createdAt": "2018-05-04T17:21:37Z",
-    "username": "ideaplugins"
+    "createdAt": "2018-05-05T01:36:17Z",
+    "username": "linjinfeng163"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "linjinfeng163": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/38995208?v=4"
+    },
     "ideaplugins": {
       "total": 1,
       "merged": 0,
@@ -3936,7 +3941,7 @@
   },
   "datePRInfos": {
     "Mai-2018": {
-      "total": 13,
+      "total": 14,
       "merged": 0
     },
     "Avril-2018": {
