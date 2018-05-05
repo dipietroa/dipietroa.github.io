@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-05-05T19:42:25.202Z",
+  "lastUpdate": "2018-05-05T20:41:48.872Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2585,
+  "totalPR": 2586,
   "lastPR": {
-    "createdAt": "2018-05-05T03:57:46Z",
-    "username": "izeye"
+    "createdAt": "2018-05-05T20:20:49Z",
+    "username": "Denashkumar"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "Denashkumar": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/11367076?v=4"
+    },
     "izeye": {
       "total": 386,
       "merged": 1,
@@ -3941,7 +3946,7 @@
   },
   "datePRInfos": {
     "Mai-2018": {
-      "total": 15,
+      "total": 16,
       "merged": 0
     },
     "Avril-2018": {
