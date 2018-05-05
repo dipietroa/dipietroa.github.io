@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-05-05T03:43:49.813Z",
+  "lastUpdate": "2018-05-05T04:43:36.167Z",
   "cowner": "nuclio",
   "crepo": "nuclio",
   "totalPR": 563,
@@ -50,7 +50,7 @@
     },
     "tebeka": {
       "total": 84,
-      "merged": 46,
+      "merged": 52,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/87697?v=4"
     },
     "eran-nussbaum": {
@@ -157,11 +157,11 @@
   "datePRInfos": {
     "Mai-2018": {
       "total": 11,
-      "merged": 9
+      "merged": 10
     },
     "Avril-2018": {
       "total": 69,
-      "merged": 60
+      "merged": 65
     },
     "Mars-2018": {
       "total": 55,
