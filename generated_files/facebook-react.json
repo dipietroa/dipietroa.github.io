@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-05-04T23:47:59.016Z",
+  "lastUpdate": "2018-05-05T00:47:18.748Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6741,
+  "totalPR": 6742,
   "lastPR": {
-    "createdAt": "2018-05-04T23:13:30Z",
-    "username": "flarnie"
+    "createdAt": "2018-05-05T00:09:21Z",
+    "username": "yungsters"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/1159448?v=4"
   },
   "userPRInfos": {
+    "yungsters": {
+      "total": 26,
+      "merged": 21,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/55161?v=4"
+    },
     "flarnie": {
       "total": 100,
       "merged": 75,
@@ -312,11 +317,6 @@
       "total": 1,
       "merged": 1,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/9715282?v=4"
-    },
-    "yungsters": {
-      "total": 25,
-      "merged": 21,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/55161?v=4"
     },
     "ArtemFitiskin": {
       "total": 2,
@@ -9901,7 +9901,7 @@
   },
   "datePRInfos": {
     "Mai-2018": {
-      "total": 12,
+      "total": 13,
       "merged": 4
     },
     "Avril-2018": {
