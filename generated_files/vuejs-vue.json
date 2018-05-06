@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-05-06T14:43:06.210Z",
+  "lastUpdate": "2018-05-06T15:43:26.709Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 1159,
+  "totalPR": 1160,
   "lastPR": {
-    "createdAt": "2018-05-06T00:28:04Z",
-    "username": "bigtunacan"
+    "createdAt": "2018-05-06T14:59:12Z",
+    "username": "clemtrek"
   },
   "bestPR": {
     "user": "kazupon",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/3408176?v=4"
   },
   "userPRInfos": {
+    "clemtrek": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/35649991?v=4"
+    },
     "bigtunacan": {
       "total": 1,
       "merged": 0,
@@ -2566,7 +2571,7 @@
   },
   "datePRInfos": {
     "Mai-2018": {
-      "total": 5,
+      "total": 6,
       "merged": 0
     },
     "Avril-2018": {
