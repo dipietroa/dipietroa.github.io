@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-05-06T10:43:49.303Z",
+  "lastUpdate": "2018-05-06T11:43:59.956Z",
   "cowner": "fastify",
   "crepo": "fastify",
-  "totalPR": 560,
+  "totalPR": 561,
   "lastPR": {
-    "createdAt": "2018-05-05T12:38:17Z",
-    "username": "rjoydip"
+    "createdAt": "2018-05-06T10:57:57Z",
+    "username": "ParvJain"
   },
   "bestPR": {
     "user": "delvedor",
@@ -18,11 +18,16 @@
     "image": "https://avatars0.githubusercontent.com/u/4865608?v=4"
   },
   "bestRatio": {
-    "user": "rafaelrenanpacheco",
+    "user": "ParvJain",
     "ratio": 1,
-    "image": "https://avatars0.githubusercontent.com/u/12160864?v=4"
+    "image": "https://avatars1.githubusercontent.com/u/4404425?v=4"
   },
   "userPRInfos": {
+    "ParvJain": {
+      "total": 1,
+      "merged": 1,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/4404425?v=4"
+    },
     "rjoydip": {
       "total": 1,
       "merged": 0,
@@ -506,8 +511,8 @@
   },
   "datePRInfos": {
     "Mai-2018": {
-      "total": 6,
-      "merged": 3
+      "total": 7,
+      "merged": 4
     },
     "Avril-2018": {
       "total": 37,
