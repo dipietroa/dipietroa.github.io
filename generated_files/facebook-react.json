@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-05-07T09:48:41.338Z",
+  "lastUpdate": "2018-05-07T10:48:01.844Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6743,
+  "totalPR": 6744,
   "lastPR": {
-    "createdAt": "2018-05-07T09:30:34Z",
-    "username": "lidoravitan"
+    "createdAt": "2018-05-07T10:22:55Z",
+    "username": "koba04"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/1159448?v=4"
   },
   "userPRInfos": {
+    "koba04": {
+      "total": 77,
+      "merged": 54,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/250407?v=4"
+    },
     "lidoravitan": {
       "total": 1,
       "merged": 0,
@@ -82,11 +87,6 @@
       "total": 6,
       "merged": 4,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/18418010?v=4"
-    },
-    "koba04": {
-      "total": 76,
-      "merged": 54,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/250407?v=4"
     },
     "rnaby": {
       "total": 1,
@@ -9906,7 +9906,7 @@
   },
   "datePRInfos": {
     "Mai-2018": {
-      "total": 14,
+      "total": 15,
       "merged": 4
     },
     "Avril-2018": {
