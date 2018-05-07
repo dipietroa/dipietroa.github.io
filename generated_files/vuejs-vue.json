@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-05-07T05:42:54.283Z",
+  "lastUpdate": "2018-05-07T06:43:50.977Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 1160,
+  "totalPR": 1161,
   "lastPR": {
-    "createdAt": "2018-05-06T14:59:12Z",
-    "username": "clemtrek"
+    "createdAt": "2018-05-07T06:17:21Z",
+    "username": "donggyu04"
   },
   "bestPR": {
     "user": "kazupon",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/3408176?v=4"
   },
   "userPRInfos": {
+    "donggyu04": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/14273601?v=4"
+    },
     "clemtrek": {
       "total": 1,
       "merged": 0,
@@ -2571,7 +2576,7 @@
   },
   "datePRInfos": {
     "Mai-2018": {
-      "total": 6,
+      "total": 7,
       "merged": 0
     },
     "Avril-2018": {
