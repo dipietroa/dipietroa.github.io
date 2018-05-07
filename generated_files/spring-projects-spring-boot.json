@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-05-07T21:41:48.666Z",
+  "lastUpdate": "2018-05-07T22:42:02.236Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2590,
+  "totalPR": 2591,
   "lastPR": {
-    "createdAt": "2018-05-07T15:40:17Z",
-    "username": "icha024"
+    "createdAt": "2018-05-07T21:45:18Z",
+    "username": "ifigotin"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "ifigotin": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/1366104?v=4"
+    },
     "icha024": {
       "total": 3,
       "merged": 0,
@@ -3946,7 +3951,7 @@
   },
   "datePRInfos": {
     "Mai-2018": {
-      "total": 20,
+      "total": 21,
       "merged": 0
     },
     "Avril-2018": {
