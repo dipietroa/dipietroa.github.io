@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-05-07T08:47:50.727Z",
+  "lastUpdate": "2018-05-07T09:48:41.338Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6742,
+  "totalPR": 6743,
   "lastPR": {
-    "createdAt": "2018-05-05T00:09:21Z",
-    "username": "yungsters"
+    "createdAt": "2018-05-07T09:30:34Z",
+    "username": "lidoravitan"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/1159448?v=4"
   },
   "userPRInfos": {
+    "lidoravitan": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/35113398?v=4"
+    },
     "yungsters": {
       "total": 26,
       "merged": 21,
@@ -9901,7 +9906,7 @@
   },
   "datePRInfos": {
     "Mai-2018": {
-      "total": 13,
+      "total": 14,
       "merged": 4
     },
     "Avril-2018": {
