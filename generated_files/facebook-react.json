@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-05-08T20:48:33.766Z",
+  "lastUpdate": "2018-05-08T21:48:00.245Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6747,
+  "totalPR": 6748,
   "lastPR": {
-    "createdAt": "2018-05-08T16:40:27Z",
-    "username": "bvaughn"
+    "createdAt": "2018-05-08T21:41:38Z",
+    "username": "Andarist"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/1159448?v=4"
   },
   "userPRInfos": {
+    "Andarist": {
+      "total": 8,
+      "merged": 5,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/9800850?v=4"
+    },
     "bvaughn": {
       "total": 217,
       "merged": 199,
@@ -197,11 +202,6 @@
       "total": 2,
       "merged": 0,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/6545467?v=4"
-    },
-    "Andarist": {
-      "total": 7,
-      "merged": 5,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/9800850?v=4"
     },
     "NMinhNguyen": {
       "total": 1,
@@ -9916,7 +9916,7 @@
   },
   "datePRInfos": {
     "Mai-2018": {
-      "total": 18,
+      "total": 19,
       "merged": 5
     },
     "Avril-2018": {
