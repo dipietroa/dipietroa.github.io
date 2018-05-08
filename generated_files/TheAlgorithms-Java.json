@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-05-08T08:42:57.673Z",
+  "lastUpdate": "2018-05-08T09:42:27.836Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
-  "totalPR": 388,
+  "totalPR": 389,
   "lastPR": {
-    "createdAt": "2018-05-06T11:48:01Z",
-    "username": "ayushnagar123"
+    "createdAt": "2018-05-08T09:33:19Z",
+    "username": "suryanshnadda"
   },
   "bestPR": {
     "user": "theycallmemac",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/24612656?v=4"
   },
   "userPRInfos": {
+    "suryanshnadda": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/19181796?v=4"
+    },
     "ayushnagar123": {
       "total": 2,
       "merged": 0,
@@ -1016,7 +1021,7 @@
   },
   "datePRInfos": {
     "Mai-2018": {
-      "total": 2,
+      "total": 3,
       "merged": 0
     },
     "Avril-2018": {
