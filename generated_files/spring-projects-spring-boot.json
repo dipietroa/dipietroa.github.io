@@ -1,15 +1,15 @@
 {
-  "lastUpdate": "2018-05-09T17:42:08.265Z",
+  "lastUpdate": "2018-05-09T18:42:26.940Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2596,
+  "totalPR": 2597,
   "lastPR": {
-    "createdAt": "2018-05-09T17:03:12Z",
-    "username": "lorenzo-nutmeg"
+    "createdAt": "2018-05-09T18:24:52Z",
+    "username": "izeye"
   },
   "bestPR": {
     "user": "izeye",
-    "nbPR": 386,
+    "nbPR": 387,
     "image": "https://avatars3.githubusercontent.com/u/1059363?v=4"
   },
   "bestMerged": {
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "izeye": {
+      "total": 387,
+      "merged": 1,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/1059363?v=4"
+    },
     "lorenzo-nutmeg": {
       "total": 1,
       "merged": 0,
@@ -67,11 +72,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/11367076?v=4"
-    },
-    "izeye": {
-      "total": 386,
-      "merged": 1,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/1059363?v=4"
     },
     "linjinfeng163": {
       "total": 1,
@@ -3971,7 +3971,7 @@
   },
   "datePRInfos": {
     "Mai-2018": {
-      "total": 26,
+      "total": 27,
       "merged": 0
     },
     "Avril-2018": {
