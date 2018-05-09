@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-05-09T15:42:35.661Z",
+  "lastUpdate": "2018-05-09T16:42:37.899Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2594,
+  "totalPR": 2595,
   "lastPR": {
-    "createdAt": "2018-05-09T12:50:15Z",
-    "username": "reegnz"
+    "createdAt": "2018-05-09T16:07:06Z",
+    "username": "gmcouto"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "gmcouto": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/615016?v=4"
+    },
     "reegnz": {
       "total": 1,
       "merged": 0,
@@ -3961,7 +3966,7 @@
   },
   "datePRInfos": {
     "Mai-2018": {
-      "total": 24,
+      "total": 25,
       "merged": 0
     },
     "Avril-2018": {
