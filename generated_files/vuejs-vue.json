@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-05-09T09:43:10.188Z",
+  "lastUpdate": "2018-05-09T10:43:18.098Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 1163,
+  "totalPR": 1164,
   "lastPR": {
-    "createdAt": "2018-05-08T00:08:21Z",
-    "username": "kball"
+    "createdAt": "2018-05-09T09:53:11Z",
+    "username": "banxi1988"
   },
   "bestPR": {
     "user": "kazupon",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/3408176?v=4"
   },
   "userPRInfos": {
+    "banxi1988": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/726774?v=4"
+    },
     "kball": {
       "total": 1,
       "merged": 0,
@@ -2581,7 +2586,7 @@
   },
   "datePRInfos": {
     "Mai-2018": {
-      "total": 9,
+      "total": 10,
       "merged": 0
     },
     "Avril-2018": {
