@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-05-09T14:49:17.448Z",
+  "lastUpdate": "2018-05-09T15:49:05.118Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6748,
+  "totalPR": 6749,
   "lastPR": {
-    "createdAt": "2018-05-08T21:41:38Z",
-    "username": "Andarist"
+    "createdAt": "2018-05-09T15:39:22Z",
+    "username": "theJian"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/1159448?v=4"
   },
   "userPRInfos": {
+    "theJian": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/9625224?v=4"
+    },
     "Andarist": {
       "total": 8,
       "merged": 5,
@@ -9916,7 +9921,7 @@
   },
   "datePRInfos": {
     "Mai-2018": {
-      "total": 19,
+      "total": 20,
       "merged": 5
     },
     "Avril-2018": {
