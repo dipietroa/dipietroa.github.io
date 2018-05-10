@@ -1,20 +1,20 @@
 {
-  "lastUpdate": "2018-05-10T18:44:05.081Z",
+  "lastUpdate": "2018-05-10T19:44:12.443Z",
   "cowner": "nuclio",
   "crepo": "nuclio",
-  "totalPR": 569,
+  "totalPR": 570,
   "lastPR": {
-    "createdAt": "2018-05-10T09:19:03Z",
-    "username": "maksym-kyselytsia"
+    "createdAt": "2018-05-10T18:53:10Z",
+    "username": "pavius"
   },
   "bestPR": {
     "user": "pavius",
-    "nbPR": 295,
+    "nbPR": 296,
     "image": "https://avatars2.githubusercontent.com/u/423987?v=4"
   },
   "bestMerged": {
     "user": "pavius",
-    "nbPR": 292,
+    "nbPR": 293,
     "image": "https://avatars2.githubusercontent.com/u/423987?v=4"
   },
   "bestRatio": {
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/25031243?v=4"
   },
   "userPRInfos": {
+    "pavius": {
+      "total": 296,
+      "merged": 293,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/423987?v=4"
+    },
     "maksym-kyselytsia": {
       "total": 7,
       "merged": 7,
@@ -32,11 +37,6 @@
       "total": 15,
       "merged": 14,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/10298151?v=4"
-    },
-    "pavius": {
-      "total": 295,
-      "merged": 292,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/423987?v=4"
     },
     "the0rem": {
       "total": 1,
@@ -156,8 +156,8 @@
   },
   "datePRInfos": {
     "Mai-2018": {
-      "total": 17,
-      "merged": 17
+      "total": 18,
+      "merged": 18
     },
     "Avril-2018": {
       "total": 69,
