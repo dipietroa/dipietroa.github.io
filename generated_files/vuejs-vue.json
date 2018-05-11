@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-05-11T08:44:24.077Z",
+  "lastUpdate": "2018-05-11T09:43:23.153Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 1165,
+  "totalPR": 1166,
   "lastPR": {
-    "createdAt": "2018-05-09T16:23:09Z",
-    "username": "DavidReinberger"
+    "createdAt": "2018-05-11T09:38:31Z",
+    "username": "noteScript"
   },
   "bestPR": {
     "user": "kazupon",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/3408176?v=4"
   },
   "userPRInfos": {
+    "noteScript": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/25100196?v=4"
+    },
     "DavidReinberger": {
       "total": 1,
       "merged": 0,
@@ -2591,7 +2596,7 @@
   },
   "datePRInfos": {
     "Mai-2018": {
-      "total": 11,
+      "total": 12,
       "merged": 0
     },
     "Avril-2018": {
