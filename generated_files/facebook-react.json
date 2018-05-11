@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-05-11T14:49:01.821Z",
+  "lastUpdate": "2018-05-11T15:49:06.467Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6754,
+  "totalPR": 6755,
   "lastPR": {
-    "createdAt": "2018-05-11T00:43:55Z",
-    "username": "ellsclytn"
+    "createdAt": "2018-05-11T15:08:58Z",
+    "username": "Hypnosphi"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/1159448?v=4"
   },
   "userPRInfos": {
+    "Hypnosphi": {
+      "total": 4,
+      "merged": 1,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/6651625?v=4"
+    },
     "ellsclytn": {
       "total": 1,
       "merged": 0,
@@ -1127,11 +1132,6 @@
       "total": 1,
       "merged": 1,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/8097377?v=4"
-    },
-    "Hypnosphi": {
-      "total": 3,
-      "merged": 1,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/6651625?v=4"
     },
     "lipis": {
       "total": 5,
@@ -9926,7 +9926,7 @@
   },
   "datePRInfos": {
     "Mai-2018": {
-      "total": 25,
+      "total": 26,
       "merged": 8
     },
     "Avril-2018": {
