@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-05-11T00:47:07.155Z",
+  "lastUpdate": "2018-05-11T01:47:14.063Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 6754,
   "lastPR": {
-    "createdAt": "2018-05-11T00:34:49Z",
-    "username": "acdlite"
+    "createdAt": "2018-05-11T00:43:55Z",
+    "username": "ellsclytn"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,9 +23,14 @@
     "image": "https://avatars1.githubusercontent.com/u/1159448?v=4"
   },
   "userPRInfos": {
+    "ellsclytn": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/8725013?v=4"
+    },
     "acdlite": {
       "total": 191,
-      "merged": 153,
+      "merged": 155,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/3624098?v=4"
     },
     "sophiebits": {
@@ -49,7 +54,7 @@
       "avatarUrl": "https://avatars2.githubusercontent.com/u/9800850?v=4"
     },
     "bvaughn": {
-      "total": 218,
+      "total": 217,
       "merged": 200,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/29597?v=4"
     },
@@ -9921,8 +9926,8 @@
   },
   "datePRInfos": {
     "Mai-2018": {
-      "total": 24,
-      "merged": 7
+      "total": 25,
+      "merged": 8
     },
     "Avril-2018": {
       "total": 82,
@@ -9934,7 +9939,7 @@
     },
     "Février-2018": {
       "total": 70,
-      "merged": 47
+      "merged": 48
     },
     "Janvier-2018": {
       "total": 80,
@@ -9953,7 +9958,7 @@
       "merged": 160
     },
     "Septembre-2017": {
-      "total": 237,
+      "total": 236,
       "merged": 161
     },
     "Août-2017": {
