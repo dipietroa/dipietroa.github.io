@@ -1,8 +1,8 @@
 {
-  "lastUpdate": "2018-05-11T19:48:07.558Z",
+  "lastUpdate": "2018-05-11T20:47:47.636Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6756,
+  "totalPR": 6757,
   "lastPR": {
     "createdAt": "2018-05-11T18:44:33Z",
     "username": "bsheikh"
@@ -4619,8 +4619,8 @@
       "avatarUrl": "https://avatars1.githubusercontent.com/u/4420103?v=4"
     },
     "maxdeviant": {
-      "total": 3,
-      "merged": 2,
+      "total": 4,
+      "merged": 3,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/1486634?v=4"
     },
     "batusai513": {
@@ -10019,8 +10019,8 @@
       "merged": 101
     },
     "Juillet-2016": {
-      "total": 112,
-      "merged": 71
+      "total": 113,
+      "merged": 72
     },
     "Juin-2016": {
       "total": 117,
