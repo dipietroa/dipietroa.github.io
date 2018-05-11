@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-05-11T20:47:47.636Z",
+  "lastUpdate": "2018-05-11T21:48:14.731Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 6757,
   "lastPR": {
-    "createdAt": "2018-05-11T18:44:33Z",
-    "username": "bsheikh"
+    "createdAt": "2018-05-11T20:45:35Z",
+    "username": "maximgatilin"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/1159448?v=4"
   },
   "userPRInfos": {
+    "maximgatilin": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/10583797?v=4"
+    },
     "bsheikh": {
       "total": 1,
       "merged": 0,
@@ -4619,8 +4624,8 @@
       "avatarUrl": "https://avatars1.githubusercontent.com/u/4420103?v=4"
     },
     "maxdeviant": {
-      "total": 4,
-      "merged": 3,
+      "total": 3,
+      "merged": 2,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/1486634?v=4"
     },
     "batusai513": {
@@ -9931,7 +9936,7 @@
   },
   "datePRInfos": {
     "Mai-2018": {
-      "total": 27,
+      "total": 28,
       "merged": 9
     },
     "Avril-2018": {
@@ -10019,8 +10024,8 @@
       "merged": 101
     },
     "Juillet-2016": {
-      "total": 113,
-      "merged": 72
+      "total": 112,
+      "merged": 71
     },
     "Juin-2016": {
       "total": 117,
