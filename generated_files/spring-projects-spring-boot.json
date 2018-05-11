@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-05-11T09:42:12.961Z",
+  "lastUpdate": "2018-05-11T10:42:41.144Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2601,
+  "totalPR": 2602,
   "lastPR": {
-    "createdAt": "2018-05-11T09:34:16Z",
-    "username": "vpavic"
+    "createdAt": "2018-05-11T10:07:11Z",
+    "username": "dreis2211"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "dreis2211": {
+      "total": 67,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/6304496?v=4"
+    },
     "vpavic": {
       "total": 128,
       "merged": 1,
@@ -67,11 +72,6 @@
       "total": 3,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/1731854?v=4"
-    },
-    "dreis2211": {
-      "total": 66,
-      "merged": 0,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/6304496?v=4"
     },
     "Denashkumar": {
       "total": 1,
@@ -3971,7 +3971,7 @@
   },
   "datePRInfos": {
     "Mai-2018": {
-      "total": 31,
+      "total": 32,
       "merged": 0
     },
     "Avril-2018": {
