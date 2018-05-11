@@ -1,8 +1,8 @@
 {
-  "lastUpdate": "2018-05-11T17:47:39.929Z",
+  "lastUpdate": "2018-05-11T18:48:26.520Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6755,
+  "totalPR": 6756,
   "lastPR": {
     "createdAt": "2018-05-11T15:08:58Z",
     "username": "Hypnosphi"
@@ -99,8 +99,8 @@
       "avatarUrl": "https://avatars1.githubusercontent.com/u/23662329?v=4"
     },
     "gaearon": {
-      "total": 563,
-      "merged": 484,
+      "total": 564,
+      "merged": 485,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/810438?v=4"
     },
     "nhunzaker": {
@@ -9954,8 +9954,8 @@
       "merged": 126
     },
     "Octobre-2017": {
-      "total": 212,
-      "merged": 160
+      "total": 213,
+      "merged": 161
     },
     "Septembre-2017": {
       "total": 236,
