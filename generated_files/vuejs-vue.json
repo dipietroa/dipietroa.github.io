@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-05-12T11:43:36.827Z",
+  "lastUpdate": "2018-05-12T12:42:38.101Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 1167,
+  "totalPR": 1168,
   "lastPR": {
-    "createdAt": "2018-05-12T06:53:08Z",
-    "username": "HerringtonDarkholme"
+    "createdAt": "2018-05-12T12:10:21Z",
+    "username": "mymyoux"
   },
   "bestPR": {
     "user": "kazupon",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/3408176?v=4"
   },
   "userPRInfos": {
+    "mymyoux": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/1665837?v=4"
+    },
     "HerringtonDarkholme": {
       "total": 28,
       "merged": 22,
@@ -2596,7 +2601,7 @@
   },
   "datePRInfos": {
     "Mai-2018": {
-      "total": 13,
+      "total": 14,
       "merged": 0
     },
     "Avril-2018": {
