@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-05-12T01:47:12.201Z",
+  "lastUpdate": "2018-05-12T02:48:06.066Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6758,
+  "totalPR": 6759,
   "lastPR": {
-    "createdAt": "2018-05-12T01:24:49Z",
-    "username": "acdlite"
+    "createdAt": "2018-05-12T02:43:49Z",
+    "username": "yhirano55"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,9 +23,14 @@
     "image": "https://avatars1.githubusercontent.com/u/1159448?v=4"
   },
   "userPRInfos": {
+    "yhirano55": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/15371677?v=4"
+    },
     "acdlite": {
       "total": 192,
-      "merged": 155,
+      "merged": 156,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/3624098?v=4"
     },
     "maximgatilin": {
@@ -9936,8 +9941,8 @@
   },
   "datePRInfos": {
     "Mai-2018": {
-      "total": 29,
-      "merged": 9
+      "total": 30,
+      "merged": 10
     },
     "Avril-2018": {
       "total": 82,
