@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "2018-05-13T00:47:43.435Z",
+  "lastUpdate": "2018-05-13T01:46:29.070Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6761,
+  "totalPR": 6762,
   "lastPR": {
-    "createdAt": "2018-05-13T00:37:29Z",
+    "createdAt": "2018-05-13T01:21:53Z",
     "username": "gaearon"
   },
   "bestPR": {
@@ -24,7 +24,7 @@
   },
   "userPRInfos": {
     "gaearon": {
-      "total": 565,
+      "total": 566,
       "merged": 484,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/810438?v=4"
     },
@@ -9941,7 +9941,7 @@
   },
   "datePRInfos": {
     "Mai-2018": {
-      "total": 32,
+      "total": 33,
       "merged": 10
     },
     "Avril-2018": {
