@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-05-14T09:47:54.353Z",
+  "lastUpdate": "2018-05-14T10:48:04.048Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 6764,
@@ -25,7 +25,7 @@
   "userPRInfos": {
     "Simek": {
       "total": 19,
-      "merged": 12,
+      "merged": 13,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/719641?v=4"
     },
     "Ende93": {
@@ -9947,7 +9947,7 @@
   "datePRInfos": {
     "Mai-2018": {
       "total": 35,
-      "merged": 10
+      "merged": 11
     },
     "Avril-2018": {
       "total": 82,
