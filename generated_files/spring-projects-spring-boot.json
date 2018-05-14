@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-05-14T08:42:36.192Z",
+  "lastUpdate": "2018-05-14T09:41:57.784Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2603,
+  "totalPR": 2604,
   "lastPR": {
-    "createdAt": "2018-05-11T16:01:33Z",
-    "username": "izeye"
+    "createdAt": "2018-05-14T08:57:15Z",
+    "username": "vkiriushkin"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "vkiriushkin": {
+      "total": 2,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/1554300?v=4"
+    },
     "izeye": {
       "total": 389,
       "merged": 1,
@@ -137,11 +142,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/2979931?v=4"
-    },
-    "vkiriushkin": {
-      "total": 1,
-      "merged": 0,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/1554300?v=4"
     },
     "henri-tremblay": {
       "total": 1,
@@ -3971,7 +3971,7 @@
   },
   "datePRInfos": {
     "Mai-2018": {
-      "total": 33,
+      "total": 34,
       "merged": 0
     },
     "Avril-2018": {
