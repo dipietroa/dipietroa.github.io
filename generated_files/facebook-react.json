@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-05-14T12:48:12.904Z",
+  "lastUpdate": "2018-05-14T13:48:57.317Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 6765,
@@ -40,7 +40,7 @@
     },
     "gaearon": {
       "total": 566,
-      "merged": 484,
+      "merged": 485,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/810438?v=4"
     },
     "yhirano55": {
@@ -9947,7 +9947,7 @@
   "datePRInfos": {
     "Mai-2018": {
       "total": 36,
-      "merged": 12
+      "merged": 13
     },
     "Avril-2018": {
       "total": 82,
