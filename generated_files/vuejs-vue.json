@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-05-13T23:42:32.302Z",
+  "lastUpdate": "2018-05-14T00:42:44.472Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 1168,
+  "totalPR": 1169,
   "lastPR": {
-    "createdAt": "2018-05-12T12:10:21Z",
-    "username": "mymyoux"
+    "createdAt": "2018-05-14T00:40:21Z",
+    "username": "Raikozyz"
   },
   "bestPR": {
     "user": "kazupon",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/3408176?v=4"
   },
   "userPRInfos": {
+    "Raikozyz": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/24835410?v=4"
+    },
     "mymyoux": {
       "total": 1,
       "merged": 0,
@@ -2601,7 +2606,7 @@
   },
   "datePRInfos": {
     "Mai-2018": {
-      "total": 14,
+      "total": 15,
       "merged": 0
     },
     "Avril-2018": {
