@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-05-14T09:43:28.094Z",
+  "lastUpdate": "2018-05-14T10:43:40.021Z",
   "cowner": "nuclio",
   "crepo": "nuclio",
   "totalPR": 579,
@@ -18,14 +18,14 @@
     "image": "https://avatars2.githubusercontent.com/u/423987?v=4"
   },
   "bestRatio": {
-    "user": "LevkoKozak",
+    "user": "YarovoiVadym",
     "ratio": 1,
-    "image": "https://avatars0.githubusercontent.com/u/25303836?v=4"
+    "image": "https://avatars3.githubusercontent.com/u/37179001?v=4"
   },
   "userPRInfos": {
     "YarovoiVadym": {
       "total": 4,
-      "merged": 3,
+      "merged": 4,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/37179001?v=4"
     },
     "pavius": {
@@ -157,7 +157,7 @@
   "datePRInfos": {
     "Mai-2018": {
       "total": 27,
-      "merged": 24
+      "merged": 25
     },
     "Avril-2018": {
       "total": 69,
