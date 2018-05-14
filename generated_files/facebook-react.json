@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-05-14T05:47:14.381Z",
+  "lastUpdate": "2018-05-14T06:47:33.097Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6763,
+  "totalPR": 6764,
   "lastPR": {
-    "createdAt": "2018-05-13T09:27:03Z",
-    "username": "Ende93"
+    "createdAt": "2018-05-14T06:26:19Z",
+    "username": "Simek"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/1159448?v=4"
   },
   "userPRInfos": {
+    "Simek": {
+      "total": 19,
+      "merged": 12,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/719641?v=4"
+    },
     "Ende93": {
       "total": 1,
       "merged": 0,
@@ -2307,11 +2312,6 @@
       "total": 2,
       "merged": 1,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/3891053?v=4"
-    },
-    "Simek": {
-      "total": 18,
-      "merged": 12,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/719641?v=4"
     },
     "ergenekonyigit": {
       "total": 1,
@@ -9946,7 +9946,7 @@
   },
   "datePRInfos": {
     "Mai-2018": {
-      "total": 34,
+      "total": 35,
       "merged": 10
     },
     "Avril-2018": {
