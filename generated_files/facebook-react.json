@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-05-15T12:48:13.762Z",
+  "lastUpdate": "2018-05-15T13:48:28.942Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 6776,
   "lastPR": {
-    "createdAt": "2018-05-15T09:08:44Z",
-    "username": "gaearon"
+    "createdAt": "2018-05-15T12:46:47Z",
+    "username": "philipp-spiess"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars2.githubusercontent.com/u/10583797?v=4"
   },
   "userPRInfos": {
+    "philipp-spiess": {
+      "total": 5,
+      "merged": 3,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/458591?v=4"
+    },
     "gaearon": {
       "total": 568,
       "merged": 488,
@@ -172,11 +177,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/648041?v=4"
-    },
-    "philipp-spiess": {
-      "total": 4,
-      "merged": 3,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/458591?v=4"
     },
     "timdegroote": {
       "total": 1,
@@ -6774,8 +6774,8 @@
       "avatarUrl": "https://avatars2.githubusercontent.com/u/5145369?v=4"
     },
     "gdi2290": {
-      "total": 2,
-      "merged": 2,
+      "total": 1,
+      "merged": 1,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/1016365?v=4"
     },
     "phillipalexander": {
@@ -9946,7 +9946,7 @@
   },
   "datePRInfos": {
     "Mai-2018": {
-      "total": 46,
+      "total": 47,
       "merged": 27
     },
     "Avril-2018": {
@@ -10074,8 +10074,8 @@
       "merged": 121
     },
     "Septembre-2015": {
-      "total": 118,
-      "merged": 95
+      "total": 117,
+      "merged": 94
     },
     "Août-2015": {
       "total": 101,
