@@ -1,8 +1,8 @@
 {
-  "lastUpdate": "2018-05-15T11:47:54.927Z",
+  "lastUpdate": "2018-05-15T12:48:13.762Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6775,
+  "totalPR": 6776,
   "lastPR": {
     "createdAt": "2018-05-15T09:08:44Z",
     "username": "gaearon"
@@ -6774,8 +6774,8 @@
       "avatarUrl": "https://avatars2.githubusercontent.com/u/5145369?v=4"
     },
     "gdi2290": {
-      "total": 1,
-      "merged": 1,
+      "total": 2,
+      "merged": 2,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/1016365?v=4"
     },
     "phillipalexander": {
@@ -10074,8 +10074,8 @@
       "merged": 121
     },
     "Septembre-2015": {
-      "total": 117,
-      "merged": 94
+      "total": 118,
+      "merged": 95
     },
     "Août-2015": {
       "total": 101,
