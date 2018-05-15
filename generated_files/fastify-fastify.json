@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-05-15T19:43:31.896Z",
+  "lastUpdate": "2018-05-15T20:43:42.388Z",
   "cowner": "fastify",
   "crepo": "fastify",
-  "totalPR": 565,
+  "totalPR": 566,
   "lastPR": {
-    "createdAt": "2018-05-15T10:15:23Z",
-    "username": "mixecan"
+    "createdAt": "2018-05-15T19:44:56Z",
+    "username": "allevo"
   },
   "bestPR": {
     "user": "delvedor",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/4404425?v=4"
   },
   "userPRInfos": {
+    "allevo": {
+      "total": 57,
+      "merged": 45,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/1054125?v=4"
+    },
     "mixecan": {
       "total": 1,
       "merged": 0,
@@ -32,11 +37,6 @@
       "total": 97,
       "merged": 92,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/4865608?v=4"
-    },
-    "allevo": {
-      "total": 56,
-      "merged": 45,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/1054125?v=4"
     },
     "ParvJain": {
       "total": 1,
@@ -516,7 +516,7 @@
   },
   "datePRInfos": {
     "Mai-2018": {
-      "total": 11,
+      "total": 12,
       "merged": 7
     },
     "Avril-2018": {
