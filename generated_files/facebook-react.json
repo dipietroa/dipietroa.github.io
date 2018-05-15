@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-05-15T16:47:37.627Z",
+  "lastUpdate": "2018-05-15T17:47:36.904Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6776,
+  "totalPR": 6778,
   "lastPR": {
-    "createdAt": "2018-05-15T12:46:47Z",
-    "username": "philipp-spiess"
+    "createdAt": "2018-05-15T17:39:49Z",
+    "username": "bvaughn"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,15 +23,20 @@
     "image": "https://avatars2.githubusercontent.com/u/10583797?v=4"
   },
   "userPRInfos": {
+    "bvaughn": {
+      "total": 219,
+      "merged": 202,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/29597?v=4"
+    },
+    "gaearon": {
+      "total": 569,
+      "merged": 488,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/810438?v=4"
+    },
     "philipp-spiess": {
       "total": 5,
       "merged": 3,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/458591?v=4"
-    },
-    "gaearon": {
-      "total": 568,
-      "merged": 488,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/810438?v=4"
     },
     "yungsters": {
       "total": 29,
@@ -47,11 +52,6 @@
       "total": 663,
       "merged": 588,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/6820?v=4"
-    },
-    "bvaughn": {
-      "total": 218,
-      "merged": 202,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/29597?v=4"
     },
     "koba04": {
       "total": 78,
@@ -9946,7 +9946,7 @@
   },
   "datePRInfos": {
     "Mai-2018": {
-      "total": 47,
+      "total": 49,
       "merged": 27
     },
     "Avril-2018": {
