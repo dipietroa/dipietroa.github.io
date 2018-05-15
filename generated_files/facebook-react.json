@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-05-15T01:46:31.456Z",
+  "lastUpdate": "2018-05-15T02:46:55.240Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 6773,
   "lastPR": {
-    "createdAt": "2018-05-15T01:36:47Z",
-    "username": "sophiebits"
+    "createdAt": "2018-05-15T01:45:04Z",
+    "username": "acdlite"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -14,7 +14,7 @@
   },
   "bestMerged": {
     "user": "sophiebits",
-    "nbPR": 587,
+    "nbPR": 588,
     "image": "https://avatars2.githubusercontent.com/u/6820?v=4"
   },
   "bestRatio": {
@@ -23,20 +23,20 @@
     "image": "https://avatars1.githubusercontent.com/u/1159448?v=4"
   },
   "userPRInfos": {
+    "acdlite": {
+      "total": 194,
+      "merged": 158,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/3624098?v=4"
+    },
     "sophiebits": {
       "total": 663,
-      "merged": 587,
+      "merged": 588,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/6820?v=4"
     },
     "yungsters": {
       "total": 28,
       "merged": 23,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/55161?v=4"
-    },
-    "acdlite": {
-      "total": 193,
-      "merged": 157,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/3624098?v=4"
     },
     "bvaughn": {
       "total": 218,
@@ -6079,8 +6079,8 @@
       "avatarUrl": "https://avatars1.githubusercontent.com/u/8454658?v=4"
     },
     "AndrewHenderson": {
-      "total": 2,
-      "merged": 2,
+      "total": 1,
+      "merged": 1,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/1031565?v=4"
     },
     "koh-taka": {
@@ -9946,8 +9946,8 @@
   },
   "datePRInfos": {
     "Mai-2018": {
-      "total": 43,
-      "merged": 22
+      "total": 44,
+      "merged": 24
     },
     "Avril-2018": {
       "total": 82,
@@ -10062,8 +10062,8 @@
       "merged": 49
     },
     "Décembre-2015": {
-      "total": 98,
-      "merged": 68
+      "total": 97,
+      "merged": 67
     },
     "Novembre-2015": {
       "total": 104,
