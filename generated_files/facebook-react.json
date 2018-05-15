@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-05-15T08:47:38.258Z",
+  "lastUpdate": "2018-05-15T09:48:05.229Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6774,
+  "totalPR": 6775,
   "lastPR": {
-    "createdAt": "2018-05-15T03:25:05Z",
-    "username": "yungsters"
+    "createdAt": "2018-05-15T09:08:44Z",
+    "username": "gaearon"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -18,11 +18,16 @@
     "image": "https://avatars2.githubusercontent.com/u/6820?v=4"
   },
   "bestRatio": {
-    "user": "airamrguez",
+    "user": "maximgatilin",
     "ratio": 1,
-    "image": "https://avatars1.githubusercontent.com/u/1159448?v=4"
+    "image": "https://avatars2.githubusercontent.com/u/10583797?v=4"
   },
   "userPRInfos": {
+    "gaearon": {
+      "total": 568,
+      "merged": 487,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/810438?v=4"
+    },
     "yungsters": {
       "total": 29,
       "merged": 24,
@@ -42,11 +47,6 @@
       "total": 218,
       "merged": 202,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/29597?v=4"
-    },
-    "gaearon": {
-      "total": 567,
-      "merged": 487,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/810438?v=4"
     },
     "koba04": {
       "total": 78,
@@ -70,7 +70,7 @@
     },
     "maximgatilin": {
       "total": 1,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/10583797?v=4"
     },
     "bsheikh": {
@@ -175,7 +175,7 @@
     },
     "philipp-spiess": {
       "total": 4,
-      "merged": 2,
+      "merged": 3,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/458591?v=4"
     },
     "timdegroote": {
@@ -9946,12 +9946,12 @@
   },
   "datePRInfos": {
     "Mai-2018": {
-      "total": 45,
-      "merged": 25
+      "total": 46,
+      "merged": 26
     },
     "Avril-2018": {
       "total": 82,
-      "merged": 59
+      "merged": 60
     },
     "Mars-2018": {
       "total": 88,
