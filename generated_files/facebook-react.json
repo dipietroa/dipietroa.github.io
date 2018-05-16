@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-05-15T23:46:37.779Z",
+  "lastUpdate": "2018-05-16T00:47:33.529Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6781,
+  "totalPR": 6782,
   "lastPR": {
-    "createdAt": "2018-05-15T21:00:01Z",
-    "username": "sebmarkbage"
+    "createdAt": "2018-05-16T00:05:45Z",
+    "username": "fckt"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars2.githubusercontent.com/u/10583797?v=4"
   },
   "userPRInfos": {
+    "fckt": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/547167?v=4"
+    },
     "sebmarkbage": {
       "total": 258,
       "merged": 241,
@@ -9946,7 +9951,7 @@
   },
   "datePRInfos": {
     "Mai-2018": {
-      "total": 52,
+      "total": 53,
       "merged": 32
     },
     "Avril-2018": {
