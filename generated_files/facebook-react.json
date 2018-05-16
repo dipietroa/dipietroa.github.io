@@ -1,8 +1,8 @@
 {
-  "lastUpdate": "2018-05-16T18:47:10.679Z",
+  "lastUpdate": "2018-05-16T19:47:50.567Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6784,
+  "totalPR": 6785,
   "lastPR": {
     "createdAt": "2018-05-16T15:16:21Z",
     "username": "gaearon"
@@ -24,8 +24,8 @@
   },
   "userPRInfos": {
     "gaearon": {
-      "total": 570,
-      "merged": 489,
+      "total": 571,
+      "merged": 490,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/810438?v=4"
     },
     "flarnie": {
@@ -10003,8 +10003,8 @@
       "merged": 94
     },
     "Avril-2017": {
-      "total": 153,
-      "merged": 103
+      "total": 154,
+      "merged": 104
     },
     "Mars-2017": {
       "total": 125,
