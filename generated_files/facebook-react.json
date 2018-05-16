@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-05-16T12:47:42.934Z",
+  "lastUpdate": "2018-05-16T13:47:27.207Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 6782,
@@ -50,7 +50,7 @@
     },
     "philipp-spiess": {
       "total": 5,
-      "merged": 3,
+      "merged": 4,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/458591?v=4"
     },
     "yungsters": {
@@ -105,7 +105,7 @@
     },
     "flarnie": {
       "total": 101,
-      "merged": 76,
+      "merged": 77,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/1114467?v=4"
     },
     "theJian": {
@@ -9952,7 +9952,7 @@
   "datePRInfos": {
     "Mai-2018": {
       "total": 53,
-      "merged": 32
+      "merged": 33
     },
     "Avril-2018": {
       "total": 82,
@@ -9960,7 +9960,7 @@
     },
     "Mars-2018": {
       "total": 88,
-      "merged": 60
+      "merged": 61
     },
     "Février-2018": {
       "total": 70,
