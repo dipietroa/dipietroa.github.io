@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "2018-05-16T20:47:49.695Z",
+  "lastUpdate": "2018-05-16T21:47:54.027Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6786,
+  "totalPR": 6787,
   "lastPR": {
-    "createdAt": "2018-05-16T19:44:58Z",
+    "createdAt": "2018-05-16T20:50:58Z",
     "username": "flarnie"
   },
   "bestPR": {
@@ -24,9 +24,14 @@
   },
   "userPRInfos": {
     "flarnie": {
-      "total": 103,
-      "merged": 78,
+      "total": 104,
+      "merged": 79,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/1114467?v=4"
+    },
+    "bvaughn": {
+      "total": 221,
+      "merged": 205,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/29597?v=4"
     },
     "gaearon": {
       "total": 570,
@@ -42,11 +47,6 @@
       "total": 258,
       "merged": 241,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/63648?v=4"
-    },
-    "bvaughn": {
-      "total": 220,
-      "merged": 204,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/29597?v=4"
     },
     "acdlite": {
       "total": 195,
@@ -5714,7 +5714,7 @@
       "avatarUrl": "https://avatars2.githubusercontent.com/u/157534?v=4"
     },
     "abutterworth": {
-      "total": 4,
+      "total": 3,
       "merged": 0,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/1615421?v=4"
     },
@@ -9951,8 +9951,8 @@
   },
   "datePRInfos": {
     "Mai-2018": {
-      "total": 56,
-      "merged": 34
+      "total": 58,
+      "merged": 36
     },
     "Avril-2018": {
       "total": 82,
@@ -10059,7 +10059,7 @@
       "merged": 82
     },
     "Février-2016": {
-      "total": 93,
+      "total": 92,
       "merged": 57
     },
     "Janvier-2016": {
