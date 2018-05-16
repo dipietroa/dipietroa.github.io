@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "2018-05-16T14:43:29.943Z",
+  "lastUpdate": "2018-05-16T15:43:11.514Z",
   "cowner": "nuclio",
   "crepo": "nuclio",
-  "totalPR": 579,
+  "totalPR": 581,
   "lastPR": {
-    "createdAt": "2018-05-14T08:22:11Z",
+    "createdAt": "2018-05-16T15:35:31Z",
     "username": "YarovoiVadym"
   },
   "bestPR": {
@@ -18,15 +18,20 @@
     "image": "https://avatars2.githubusercontent.com/u/423987?v=4"
   },
   "bestRatio": {
-    "user": "YarovoiVadym",
+    "user": "LevkoKozak",
     "ratio": 1,
-    "image": "https://avatars3.githubusercontent.com/u/37179001?v=4"
+    "image": "https://avatars0.githubusercontent.com/u/25303836?v=4"
   },
   "userPRInfos": {
     "YarovoiVadym": {
-      "total": 4,
+      "total": 5,
       "merged": 4,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/37179001?v=4"
+    },
+    "eran-nussbaum": {
+      "total": 44,
+      "merged": 43,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/13918850?v=4"
     },
     "pavius": {
       "total": 300,
@@ -37,11 +42,6 @@
       "total": 85,
       "merged": 53,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/87697?v=4"
-    },
-    "eran-nussbaum": {
-      "total": 43,
-      "merged": 42,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/13918850?v=4"
     },
     "LevkoKozak": {
       "total": 2,
@@ -156,8 +156,8 @@
   },
   "datePRInfos": {
     "Mai-2018": {
-      "total": 27,
-      "merged": 27
+      "total": 29,
+      "merged": 28
     },
     "Avril-2018": {
       "total": 69,
