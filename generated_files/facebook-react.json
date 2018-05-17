@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-05-17T15:47:16.577Z",
+  "lastUpdate": "2018-05-17T16:47:20.106Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 6795,
@@ -18,24 +18,24 @@
     "image": "https://avatars2.githubusercontent.com/u/6820?v=4"
   },
   "bestRatio": {
-    "user": "maximgatilin",
+    "user": "webyom",
     "ratio": 1,
-    "image": "https://avatars2.githubusercontent.com/u/10583797?v=4"
+    "image": "https://avatars2.githubusercontent.com/u/899652?v=4"
   },
   "userPRInfos": {
     "bvaughn": {
       "total": 223,
-      "merged": 206,
+      "merged": 207,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/29597?v=4"
     },
     "gaearon": {
       "total": 572,
-      "merged": 490,
+      "merged": 491,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/810438?v=4"
     },
     "webyom": {
       "total": 1,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/899652?v=4"
     },
     "sebmarkbage": {
@@ -45,7 +45,7 @@
     },
     "flarnie": {
       "total": 105,
-      "merged": 79,
+      "merged": 80,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/1114467?v=4"
     },
     "acdlite": {
@@ -9957,7 +9957,7 @@
   "datePRInfos": {
     "Mai-2018": {
       "total": 66,
-      "merged": 39
+      "merged": 43
     },
     "Avril-2018": {
       "total": 82,
