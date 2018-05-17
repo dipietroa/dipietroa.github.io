@@ -1,20 +1,20 @@
 {
-  "lastUpdate": "2018-05-17T15:43:03.948Z",
+  "lastUpdate": "2018-05-17T16:43:20.527Z",
   "cowner": "nuclio",
   "crepo": "nuclio",
-  "totalPR": 584,
+  "totalPR": 586,
   "lastPR": {
-    "createdAt": "2018-05-17T07:54:49Z",
-    "username": "tebeka"
+    "createdAt": "2018-05-17T15:44:53Z",
+    "username": "pavius"
   },
   "bestPR": {
     "user": "pavius",
-    "nbPR": 302,
+    "nbPR": 303,
     "image": "https://avatars2.githubusercontent.com/u/423987?v=4"
   },
   "bestMerged": {
     "user": "pavius",
-    "nbPR": 299,
+    "nbPR": 300,
     "image": "https://avatars2.githubusercontent.com/u/423987?v=4"
   },
   "bestRatio": {
@@ -23,25 +23,25 @@
     "image": "https://avatars0.githubusercontent.com/u/25303836?v=4"
   },
   "userPRInfos": {
+    "pavius": {
+      "total": 303,
+      "merged": 300,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/423987?v=4"
+    },
+    "eran-nussbaum": {
+      "total": 45,
+      "merged": 44,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/13918850?v=4"
+    },
     "tebeka": {
       "total": 86,
       "merged": 53,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/87697?v=4"
     },
-    "pavius": {
-      "total": 302,
-      "merged": 299,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/423987?v=4"
-    },
     "YarovoiVadym": {
       "total": 5,
       "merged": 4,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/37179001?v=4"
-    },
-    "eran-nussbaum": {
-      "total": 44,
-      "merged": 43,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/13918850?v=4"
     },
     "LevkoKozak": {
       "total": 2,
@@ -156,8 +156,8 @@
   },
   "datePRInfos": {
     "Mai-2018": {
-      "total": 32,
-      "merged": 30
+      "total": 34,
+      "merged": 32
     },
     "Avril-2018": {
       "total": 69,
