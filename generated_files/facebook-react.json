@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-05-17T22:46:33.458Z",
+  "lastUpdate": "2018-05-17T23:46:59.570Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6801,
+  "totalPR": 6802,
   "lastPR": {
-    "createdAt": "2018-05-17T21:46:16Z",
-    "username": "veekas"
+    "createdAt": "2018-05-17T23:14:16Z",
+    "username": "acdlite"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars2.githubusercontent.com/u/899652?v=4"
   },
   "userPRInfos": {
+    "acdlite": {
+      "total": 197,
+      "merged": 159,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/3624098?v=4"
+    },
     "veekas": {
       "total": 2,
       "merged": 0,
@@ -57,11 +62,6 @@
       "total": 1,
       "merged": 1,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/899652?v=4"
-    },
-    "acdlite": {
-      "total": 196,
-      "merged": 159,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/3624098?v=4"
     },
     "fckt": {
       "total": 1,
@@ -9956,7 +9956,7 @@
   },
   "datePRInfos": {
     "Mai-2018": {
-      "total": 72,
+      "total": 73,
       "merged": 44
     },
     "Avril-2018": {
