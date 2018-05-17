@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-05-17T02:46:27.407Z",
+  "lastUpdate": "2018-05-17T03:46:40.728Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6791,
+  "totalPR": 6792,
   "lastPR": {
-    "createdAt": "2018-05-16T23:47:45Z",
-    "username": "sebmarkbage"
+    "createdAt": "2018-05-17T02:59:00Z",
+    "username": "webyom"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars2.githubusercontent.com/u/10583797?v=4"
   },
   "userPRInfos": {
+    "webyom": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/899652?v=4"
+    },
     "sebmarkbage": {
       "total": 259,
       "merged": 242,
@@ -9951,7 +9956,7 @@
   },
   "datePRInfos": {
     "Mai-2018": {
-      "total": 62,
+      "total": 63,
       "merged": 38
     },
     "Avril-2018": {
