@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-05-17T21:47:50.804Z",
+  "lastUpdate": "2018-05-17T22:46:33.458Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 6801,
   "lastPR": {
-    "createdAt": "2018-05-17T20:42:44Z",
-    "username": "cyan33"
+    "createdAt": "2018-05-17T21:46:16Z",
+    "username": "veekas"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars2.githubusercontent.com/u/899652?v=4"
   },
   "userPRInfos": {
+    "veekas": {
+      "total": 2,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/3917726?v=4"
+    },
     "cyan33": {
       "total": 2,
       "merged": 1,
@@ -862,11 +867,6 @@
       "total": 3,
       "merged": 2,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/2023165?v=4"
-    },
-    "veekas": {
-      "total": 1,
-      "merged": 0,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/3917726?v=4"
     },
     "Ethan-Arrowood": {
       "total": 4,
@@ -3849,8 +3849,8 @@
       "avatarUrl": "https://avatars1.githubusercontent.com/u/14035529?v=4"
     },
     "goatslacker": {
-      "total": 3,
-      "merged": 3,
+      "total": 2,
+      "merged": 2,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/10632?v=4"
     },
     "wrzasa": {
@@ -9956,7 +9956,7 @@
   },
   "datePRInfos": {
     "Mai-2018": {
-      "total": 71,
+      "total": 72,
       "merged": 44
     },
     "Avril-2018": {
@@ -10068,8 +10068,8 @@
       "merged": 57
     },
     "Janvier-2016": {
-      "total": 87,
-      "merged": 50
+      "total": 86,
+      "merged": 49
     },
     "Décembre-2015": {
       "total": 97,
