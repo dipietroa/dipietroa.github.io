@@ -1,8 +1,8 @@
 {
-  "lastUpdate": "2018-05-17T20:46:56.380Z",
+  "lastUpdate": "2018-05-17T21:47:50.804Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6800,
+  "totalPR": 6801,
   "lastPR": {
     "createdAt": "2018-05-17T20:42:44Z",
     "username": "cyan33"
@@ -3849,8 +3849,8 @@
       "avatarUrl": "https://avatars1.githubusercontent.com/u/14035529?v=4"
     },
     "goatslacker": {
-      "total": 2,
-      "merged": 2,
+      "total": 3,
+      "merged": 3,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/10632?v=4"
     },
     "wrzasa": {
@@ -10068,8 +10068,8 @@
       "merged": 57
     },
     "Janvier-2016": {
-      "total": 86,
-      "merged": 49
+      "total": 87,
+      "merged": 50
     },
     "Décembre-2015": {
       "total": 97,
