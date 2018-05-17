@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-05-17T22:42:49.142Z",
+  "lastUpdate": "2018-05-17T23:43:14.383Z",
   "cowner": "nuclio",
   "crepo": "nuclio",
-  "totalPR": 587,
+  "totalPR": 588,
   "lastPR": {
-    "createdAt": "2018-05-17T20:11:04Z",
-    "username": "pavius"
+    "createdAt": "2018-05-17T22:49:17Z",
+    "username": "vascofernandes"
   },
   "bestPR": {
     "user": "pavius",
@@ -23,6 +23,11 @@
     "image": "https://avatars0.githubusercontent.com/u/25303836?v=4"
   },
   "userPRInfos": {
+    "vascofernandes": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/10337953?v=4"
+    },
     "pavius": {
       "total": 304,
       "merged": 300,
@@ -156,7 +161,7 @@
   },
   "datePRInfos": {
     "Mai-2018": {
-      "total": 35,
+      "total": 36,
       "merged": 32
     },
     "Avril-2018": {
