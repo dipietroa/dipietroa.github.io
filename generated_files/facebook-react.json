@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-05-17T18:47:35.015Z",
+  "lastUpdate": "2018-05-17T19:46:48.501Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6797,
+  "totalPR": 6799,
   "lastPR": {
-    "createdAt": "2018-05-17T18:20:10Z",
-    "username": "bvaughn"
+    "createdAt": "2018-05-17T19:00:30Z",
+    "username": "sebmarkbage"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,16 @@
     "image": "https://avatars2.githubusercontent.com/u/899652?v=4"
   },
   "userPRInfos": {
+    "sebmarkbage": {
+      "total": 260,
+      "merged": 243,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/63648?v=4"
+    },
+    "gaearon": {
+      "total": 573,
+      "merged": 491,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/810438?v=4"
+    },
     "bvaughn": {
       "total": 224,
       "merged": 207,
@@ -33,20 +43,10 @@
       "merged": 80,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/1114467?v=4"
     },
-    "gaearon": {
-      "total": 572,
-      "merged": 491,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/810438?v=4"
-    },
     "webyom": {
       "total": 1,
       "merged": 1,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/899652?v=4"
-    },
-    "sebmarkbage": {
-      "total": 259,
-      "merged": 242,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/63648?v=4"
     },
     "acdlite": {
       "total": 196,
@@ -9956,8 +9956,8 @@
   },
   "datePRInfos": {
     "Mai-2018": {
-      "total": 68,
-      "merged": 43
+      "total": 70,
+      "merged": 44
     },
     "Avril-2018": {
       "total": 82,
