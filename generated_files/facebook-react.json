@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-05-18T07:47:34.325Z",
+  "lastUpdate": "2018-05-18T08:47:50.434Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 6804,
@@ -18,14 +18,14 @@
     "image": "https://avatars2.githubusercontent.com/u/6820?v=4"
   },
   "bestRatio": {
-    "user": "webyom",
+    "user": "petetnt",
     "ratio": 1,
-    "image": "https://avatars2.githubusercontent.com/u/899652?v=4"
+    "image": "https://avatars2.githubusercontent.com/u/7641760?v=4"
   },
   "userPRInfos": {
     "petetnt": {
       "total": 1,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/7641760?v=4"
     },
     "bvaughn": {
@@ -9962,7 +9962,7 @@
   "datePRInfos": {
     "Mai-2018": {
       "total": 75,
-      "merged": 45
+      "merged": 46
     },
     "Avril-2018": {
       "total": 82,
