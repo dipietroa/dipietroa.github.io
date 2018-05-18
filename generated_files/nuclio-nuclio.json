@@ -1,20 +1,20 @@
 {
-  "lastUpdate": "2018-05-18T09:43:51.042Z",
+  "lastUpdate": "2018-05-18T10:44:04.335Z",
   "cowner": "nuclio",
   "crepo": "nuclio",
-  "totalPR": 588,
+  "totalPR": 589,
   "lastPR": {
-    "createdAt": "2018-05-17T22:49:17Z",
-    "username": "vascofernandes"
+    "createdAt": "2018-05-18T10:11:09Z",
+    "username": "pavius"
   },
   "bestPR": {
     "user": "pavius",
-    "nbPR": 304,
+    "nbPR": 305,
     "image": "https://avatars2.githubusercontent.com/u/423987?v=4"
   },
   "bestMerged": {
     "user": "pavius",
-    "nbPR": 301,
+    "nbPR": 302,
     "image": "https://avatars2.githubusercontent.com/u/423987?v=4"
   },
   "bestRatio": {
@@ -23,15 +23,15 @@
     "image": "https://avatars0.githubusercontent.com/u/25303836?v=4"
   },
   "userPRInfos": {
+    "pavius": {
+      "total": 305,
+      "merged": 302,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/423987?v=4"
+    },
     "vascofernandes": {
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/10337953?v=4"
-    },
-    "pavius": {
-      "total": 304,
-      "merged": 301,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/423987?v=4"
     },
     "eran-nussbaum": {
       "total": 45,
@@ -161,8 +161,8 @@
   },
   "datePRInfos": {
     "Mai-2018": {
-      "total": 36,
-      "merged": 33
+      "total": 37,
+      "merged": 34
     },
     "Avril-2018": {
       "total": 69,
