@@ -1,20 +1,20 @@
 {
-  "lastUpdate": "2018-05-19T23:46:22.737Z",
+  "lastUpdate": "2018-05-20T00:46:51.020Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6811,
+  "totalPR": 6812,
   "lastPR": {
-    "createdAt": "2018-05-19T21:50:09Z",
-    "username": "gaearon"
+    "createdAt": "2018-05-20T00:19:06Z",
+    "username": "sophiebits"
   },
   "bestPR": {
     "user": "sophiebits",
-    "nbPR": 663,
+    "nbPR": 664,
     "image": "https://avatars2.githubusercontent.com/u/6820?v=4"
   },
   "bestMerged": {
     "user": "sophiebits",
-    "nbPR": 588,
+    "nbPR": 589,
     "image": "https://avatars2.githubusercontent.com/u/6820?v=4"
   },
   "bestRatio": {
@@ -23,6 +23,11 @@
     "image": "https://avatars2.githubusercontent.com/u/1672482?v=4"
   },
   "userPRInfos": {
+    "sophiebits": {
+      "total": 664,
+      "merged": 589,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/6820?v=4"
+    },
     "gaearon": {
       "total": 576,
       "merged": 493,
@@ -87,11 +92,6 @@
       "total": 29,
       "merged": 24,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/55161?v=4"
-    },
-    "sophiebits": {
-      "total": 663,
-      "merged": 588,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/6820?v=4"
     },
     "koba04": {
       "total": 78,
@@ -9966,8 +9966,8 @@
   },
   "datePRInfos": {
     "Mai-2018": {
-      "total": 82,
-      "merged": 50
+      "total": 83,
+      "merged": 51
     },
     "Avril-2018": {
       "total": 82,
