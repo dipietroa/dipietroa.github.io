@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-05-20T05:42:23.397Z",
+  "lastUpdate": "2018-05-20T06:41:27.520Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2614,
+  "totalPR": 2615,
   "lastPR": {
-    "createdAt": "2018-05-19T23:52:14Z",
-    "username": "alexisgayte"
+    "createdAt": "2018-05-20T06:29:48Z",
+    "username": "localheinz"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "localheinz": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/605483?v=4"
+    },
     "alexisgayte": {
       "total": 1,
       "merged": 0,
@@ -3981,7 +3986,7 @@
   },
   "datePRInfos": {
     "Mai-2018": {
-      "total": 44,
+      "total": 45,
       "merged": 0
     },
     "Avril-2018": {
