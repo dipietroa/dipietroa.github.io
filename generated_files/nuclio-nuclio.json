@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-05-20T18:42:59.886Z",
+  "lastUpdate": "2018-05-20T19:43:08.550Z",
   "cowner": "nuclio",
   "crepo": "nuclio",
   "totalPR": 590,
@@ -18,9 +18,9 @@
     "image": "https://avatars2.githubusercontent.com/u/423987?v=4"
   },
   "bestRatio": {
-    "user": "LevkoKozak",
+    "user": "vascofernandes",
     "ratio": 1,
-    "image": "https://avatars0.githubusercontent.com/u/25303836?v=4"
+    "image": "https://avatars0.githubusercontent.com/u/10337953?v=4"
   },
   "userPRInfos": {
     "eran-nussbaum": {
@@ -35,12 +35,12 @@
     },
     "vascofernandes": {
       "total": 1,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/10337953?v=4"
     },
     "tebeka": {
       "total": 86,
-      "merged": 53,
+      "merged": 54,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/87697?v=4"
     },
     "YarovoiVadym": {
@@ -162,7 +162,7 @@
   "datePRInfos": {
     "Mai-2018": {
       "total": 38,
-      "merged": 35
+      "merged": 37
     },
     "Avril-2018": {
       "total": 69,
