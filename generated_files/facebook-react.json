@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-05-20T00:46:51.020Z",
+  "lastUpdate": "2018-05-20T01:45:56.217Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6812,
+  "totalPR": 6813,
   "lastPR": {
-    "createdAt": "2018-05-20T00:19:06Z",
-    "username": "sophiebits"
+    "createdAt": "2018-05-20T01:15:16Z",
+    "username": "kevinkassimo"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars2.githubusercontent.com/u/1672482?v=4"
   },
   "userPRInfos": {
+    "kevinkassimo": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/15007517?v=4"
+    },
     "sophiebits": {
       "total": 664,
       "merged": 589,
@@ -9966,7 +9971,7 @@
   },
   "datePRInfos": {
     "Mai-2018": {
-      "total": 83,
+      "total": 84,
       "merged": 51
     },
     "Avril-2018": {
