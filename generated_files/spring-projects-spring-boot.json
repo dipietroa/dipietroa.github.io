@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-05-19T23:41:53.382Z",
+  "lastUpdate": "2018-05-20T00:42:19.776Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2613,
+  "totalPR": 2614,
   "lastPR": {
-    "createdAt": "2018-05-19T15:22:17Z",
-    "username": "eddumelendez"
+    "createdAt": "2018-05-19T23:52:14Z",
+    "username": "alexisgayte"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "alexisgayte": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/7965274?v=4"
+    },
     "eddumelendez": {
       "total": 137,
       "merged": 0,
@@ -3976,7 +3981,7 @@
   },
   "datePRInfos": {
     "Mai-2018": {
-      "total": 43,
+      "total": 44,
       "merged": 0
     },
     "Avril-2018": {
