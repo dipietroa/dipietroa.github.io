@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-05-20T19:46:36.292Z",
+  "lastUpdate": "2018-05-20T20:46:19.149Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 6813,
@@ -400,7 +400,7 @@
     },
     "klamping": {
       "total": 2,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/706039?v=4"
     },
     "FlorisXll": {
@@ -9975,7 +9975,7 @@
     },
     "Mars-2018": {
       "total": 88,
-      "merged": 61
+      "merged": 62
     },
     "Février-2018": {
       "total": 70,
