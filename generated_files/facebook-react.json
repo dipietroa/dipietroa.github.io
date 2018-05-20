@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-05-20T04:46:42.356Z",
+  "lastUpdate": "2018-05-20T05:46:49.325Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 6813,
@@ -1249,8 +1249,8 @@
       "avatarUrl": "https://avatars0.githubusercontent.com/u/14318826?v=4"
     },
     "ghost": {
-      "total": 12,
-      "merged": 5,
+      "total": 18,
+      "merged": 8,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/10137?v=4"
     },
     "rreusser": {
@@ -4707,11 +4707,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/6373226?v=4"
-    },
-    "poiuytr098765": {
-      "total": 6,
-      "merged": 3,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/1563447?v=4"
     },
     "alansouzati": {
       "total": 3,
