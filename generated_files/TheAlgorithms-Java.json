@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-05-21T03:41:53.936Z",
+  "lastUpdate": "2018-05-21T04:41:49.726Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
-  "totalPR": 393,
+  "totalPR": 394,
   "lastPR": {
-    "createdAt": "2018-05-21T01:45:58Z",
-    "username": "Goodbam"
+    "createdAt": "2018-05-21T03:51:27Z",
+    "username": "Danpatpang"
   },
   "bestPR": {
     "user": "theycallmemac",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/18592818?v=4"
   },
   "userPRInfos": {
+    "Danpatpang": {
+      "total": 2,
+      "merged": 0,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/19412222?v=4"
+    },
     "Goodbam": {
       "total": 1,
       "merged": 0,
@@ -32,11 +37,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/37880478?v=4"
-    },
-    "Danpatpang": {
-      "total": 1,
-      "merged": 0,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/19412222?v=4"
     },
     "pruebaendex": {
       "total": 1,
@@ -1041,7 +1041,7 @@
   },
   "datePRInfos": {
     "Mai-2018": {
-      "total": 7,
+      "total": 8,
       "merged": 0
     },
     "Avril-2018": {
