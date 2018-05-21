@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-05-21T01:42:44.944Z",
+  "lastUpdate": "2018-05-21T02:42:14.173Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
-  "totalPR": 392,
+  "totalPR": 393,
   "lastPR": {
-    "createdAt": "2018-05-19T20:50:46Z",
-    "username": "Skhwan"
+    "createdAt": "2018-05-21T01:45:58Z",
+    "username": "Goodbam"
   },
   "bestPR": {
     "user": "theycallmemac",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/18592818?v=4"
   },
   "userPRInfos": {
+    "Goodbam": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/38033175?v=4"
+    },
     "Skhwan": {
       "total": 1,
       "merged": 0,
@@ -1036,7 +1041,7 @@
   },
   "datePRInfos": {
     "Mai-2018": {
-      "total": 6,
+      "total": 7,
       "merged": 0
     },
     "Avril-2018": {
