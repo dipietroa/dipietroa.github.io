@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-05-21T07:43:19.326Z",
+  "lastUpdate": "2018-05-21T08:42:44.881Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 1171,
+  "totalPR": 1172,
   "lastPR": {
-    "createdAt": "2018-05-18T08:18:21Z",
-    "username": "TUARAN"
+    "createdAt": "2018-05-21T08:26:33Z",
+    "username": "posva"
   },
   "bestPR": {
     "user": "kazupon",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/3408176?v=4"
   },
   "userPRInfos": {
+    "posva": {
+      "total": 37,
+      "merged": 28,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/664177?v=4"
+    },
     "TUARAN": {
       "total": 1,
       "merged": 0,
@@ -137,11 +142,6 @@
       "total": 2,
       "merged": 0,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/1013641?v=4"
-    },
-    "posva": {
-      "total": 36,
-      "merged": 28,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/664177?v=4"
     },
     "yringler": {
       "total": 1,
@@ -2616,7 +2616,7 @@
   },
   "datePRInfos": {
     "Mai-2018": {
-      "total": 17,
+      "total": 18,
       "merged": 0
     },
     "Avril-2018": {
