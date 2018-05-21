@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-05-21T22:42:27.796Z",
+  "lastUpdate": "2018-05-21T23:42:28.500Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2615,
+  "totalPR": 2616,
   "lastPR": {
-    "createdAt": "2018-05-20T06:29:48Z",
-    "username": "localheinz"
+    "createdAt": "2018-05-21T23:24:29Z",
+    "username": "pengpengli"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "pengpengli": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/10005026?v=4"
+    },
     "localheinz": {
       "total": 1,
       "merged": 0,
@@ -3986,7 +3991,7 @@
   },
   "datePRInfos": {
     "Mai-2018": {
-      "total": 45,
+      "total": 46,
       "merged": 0
     },
     "Avril-2018": {
