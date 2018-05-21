@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "2018-05-21T15:43:11.158Z",
+  "lastUpdate": "2018-05-21T16:43:41.294Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 1172,
+  "totalPR": 1173,
   "lastPR": {
-    "createdAt": "2018-05-21T08:26:33Z",
+    "createdAt": "2018-05-21T16:24:24Z",
     "username": "posva"
   },
   "bestPR": {
@@ -24,7 +24,7 @@
   },
   "userPRInfos": {
     "posva": {
-      "total": 37,
+      "total": 38,
       "merged": 28,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/664177?v=4"
     },
@@ -2616,7 +2616,7 @@
   },
   "datePRInfos": {
     "Mai-2018": {
-      "total": 18,
+      "total": 19,
       "merged": 0
     },
     "Avril-2018": {
