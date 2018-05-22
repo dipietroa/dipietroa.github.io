@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-05-22T17:47:34.372Z",
+  "lastUpdate": "2018-05-22T18:47:19.766Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6819,
+  "totalPR": 6820,
   "lastPR": {
-    "createdAt": "2018-05-22T15:10:24Z",
-    "username": "flarnie"
+    "createdAt": "2018-05-22T18:39:19Z",
+    "username": "cyan33"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars2.githubusercontent.com/u/15007517?v=4"
   },
   "userPRInfos": {
+    "cyan33": {
+      "total": 4,
+      "merged": 1,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/13282699?v=4"
+    },
     "flarnie": {
       "total": 109,
       "merged": 82,
@@ -47,11 +52,6 @@
       "total": 1,
       "merged": 1,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/15007517?v=4"
-    },
-    "cyan33": {
-      "total": 3,
-      "merged": 1,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/13282699?v=4"
     },
     "rhagigi": {
       "total": 1,
@@ -9966,7 +9966,7 @@
   },
   "datePRInfos": {
     "Mai-2018": {
-      "total": 90,
+      "total": 91,
       "merged": 60
     },
     "Avril-2018": {
