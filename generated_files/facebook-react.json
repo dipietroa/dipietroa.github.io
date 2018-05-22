@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-05-22T14:48:59.900Z",
+  "lastUpdate": "2018-05-22T15:48:03.875Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6818,
+  "totalPR": 6819,
   "lastPR": {
-    "createdAt": "2018-05-22T14:34:09Z",
-    "username": "gaearon"
+    "createdAt": "2018-05-22T15:10:24Z",
+    "username": "flarnie"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,16 @@
     "image": "https://avatars2.githubusercontent.com/u/15007517?v=4"
   },
   "userPRInfos": {
+    "flarnie": {
+      "total": 109,
+      "merged": 82,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/1114467?v=4"
+    },
+    "bvaughn": {
+      "total": 226,
+      "merged": 210,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/29597?v=4"
+    },
     "gaearon": {
       "total": 579,
       "merged": 497,
@@ -48,20 +58,10 @@
       "merged": 1,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/1672482?v=4"
     },
-    "flarnie": {
-      "total": 108,
-      "merged": 81,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/1114467?v=4"
-    },
     "petetnt": {
       "total": 1,
       "merged": 1,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/7641760?v=4"
-    },
-    "bvaughn": {
-      "total": 225,
-      "merged": 209,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/29597?v=4"
     },
     "acdlite": {
       "total": 197,
@@ -4504,8 +4504,8 @@
       "avatarUrl": "https://avatars2.githubusercontent.com/u/15162965?v=4"
     },
     "syranide": {
-      "total": 132,
-      "merged": 65,
+      "total": 131,
+      "merged": 64,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/1714255?v=4"
     },
     "battaile": {
@@ -9966,8 +9966,8 @@
   },
   "datePRInfos": {
     "Mai-2018": {
-      "total": 88,
-      "merged": 58
+      "total": 90,
+      "merged": 60
     },
     "Avril-2018": {
       "total": 82,
@@ -10178,8 +10178,8 @@
       "merged": 87
     },
     "Décembre-2013": {
-      "total": 99,
-      "merged": 80
+      "total": 98,
+      "merged": 79
     },
     "Novembre-2013": {
       "total": 89,
