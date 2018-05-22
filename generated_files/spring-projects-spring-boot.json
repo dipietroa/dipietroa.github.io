@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-05-22T21:42:34.392Z",
+  "lastUpdate": "2018-05-22T22:42:16.141Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2616,
+  "totalPR": 2617,
   "lastPR": {
-    "createdAt": "2018-05-21T23:24:29Z",
-    "username": "pengpengli"
+    "createdAt": "2018-05-22T22:15:32Z",
+    "username": "ams340"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "ams340": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/2067379?v=4"
+    },
     "pengpengli": {
       "total": 1,
       "merged": 0,
@@ -3991,7 +3996,7 @@
   },
   "datePRInfos": {
     "Mai-2018": {
-      "total": 46,
+      "total": 47,
       "merged": 0
     },
     "Avril-2018": {
