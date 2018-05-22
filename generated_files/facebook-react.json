@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-05-22T13:48:19.959Z",
+  "lastUpdate": "2018-05-22T14:48:59.900Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6816,
+  "totalPR": 6818,
   "lastPR": {
-    "createdAt": "2018-05-22T00:36:52Z",
-    "username": "sophiebits"
+    "createdAt": "2018-05-22T14:34:09Z",
+    "username": "gaearon"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,15 +23,15 @@
     "image": "https://avatars2.githubusercontent.com/u/15007517?v=4"
   },
   "userPRInfos": {
+    "gaearon": {
+      "total": 579,
+      "merged": 497,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/810438?v=4"
+    },
     "sophiebits": {
       "total": 665,
       "merged": 590,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/6820?v=4"
-    },
-    "gaearon": {
-      "total": 578,
-      "merged": 497,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/810438?v=4"
     },
     "kevinkassimo": {
       "total": 1,
@@ -4504,8 +4504,8 @@
       "avatarUrl": "https://avatars2.githubusercontent.com/u/15162965?v=4"
     },
     "syranide": {
-      "total": 131,
-      "merged": 64,
+      "total": 132,
+      "merged": 65,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/1714255?v=4"
     },
     "battaile": {
@@ -9966,7 +9966,7 @@
   },
   "datePRInfos": {
     "Mai-2018": {
-      "total": 87,
+      "total": 88,
       "merged": 58
     },
     "Avril-2018": {
@@ -10178,8 +10178,8 @@
       "merged": 87
     },
     "Décembre-2013": {
-      "total": 98,
-      "merged": 79
+      "total": 99,
+      "merged": 80
     },
     "Novembre-2013": {
       "total": 89,
