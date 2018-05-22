@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-05-22T06:42:35.548Z",
+  "lastUpdate": "2018-05-22T07:43:39.082Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 1173,
+  "totalPR": 1174,
   "lastPR": {
-    "createdAt": "2018-05-21T16:24:24Z",
-    "username": "posva"
+    "createdAt": "2018-05-22T06:51:05Z",
+    "username": "mathieutu"
   },
   "bestPR": {
     "user": "kazupon",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/3408176?v=4"
   },
   "userPRInfos": {
+    "mathieutu": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/11351322?v=4"
+    },
     "posva": {
       "total": 38,
       "merged": 28,
@@ -2616,7 +2621,7 @@
   },
   "datePRInfos": {
     "Mai-2018": {
-      "total": 19,
+      "total": 20,
       "merged": 0
     },
     "Avril-2018": {
