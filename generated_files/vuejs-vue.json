@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-05-22T16:43:45.133Z",
+  "lastUpdate": "2018-05-22T17:43:00.648Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 1174,
+  "totalPR": 1175,
   "lastPR": {
-    "createdAt": "2018-05-22T06:51:05Z",
-    "username": "mathieutu"
+    "createdAt": "2018-05-22T17:12:41Z",
+    "username": "KaelWD"
   },
   "bestPR": {
     "user": "kazupon",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/3408176?v=4"
   },
   "userPRInfos": {
+    "KaelWD": {
+      "total": 2,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/16421948?v=4"
+    },
     "mathieutu": {
       "total": 1,
       "merged": 0,
@@ -192,11 +197,6 @@
       "total": 5,
       "merged": 2,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/8298849?v=4"
-    },
-    "KaelWD": {
-      "total": 1,
-      "merged": 0,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/16421948?v=4"
     },
     "levi1994": {
       "total": 1,
@@ -2621,7 +2621,7 @@
   },
   "datePRInfos": {
     "Mai-2018": {
-      "total": 20,
+      "total": 21,
       "merged": 0
     },
     "Avril-2018": {
