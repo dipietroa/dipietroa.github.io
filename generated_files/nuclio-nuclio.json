@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-05-22T14:44:25.333Z",
+  "lastUpdate": "2018-05-22T15:43:29.982Z",
   "cowner": "nuclio",
   "crepo": "nuclio",
   "totalPR": 592,
@@ -18,14 +18,14 @@
     "image": "https://avatars2.githubusercontent.com/u/423987?v=4"
   },
   "bestRatio": {
-    "user": "vascofernandes",
+    "user": "maksym-kyselytsia",
     "ratio": 1,
-    "image": "https://avatars0.githubusercontent.com/u/10337953?v=4"
+    "image": "https://avatars1.githubusercontent.com/u/25031243?v=4"
   },
   "userPRInfos": {
     "maksym-kyselytsia": {
       "total": 8,
-      "merged": 7,
+      "merged": 8,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/25031243?v=4"
     },
     "vascofernandes": {
@@ -162,7 +162,7 @@
   "datePRInfos": {
     "Mai-2018": {
       "total": 40,
-      "merged": 38
+      "merged": 39
     },
     "Avril-2018": {
       "total": 69,
