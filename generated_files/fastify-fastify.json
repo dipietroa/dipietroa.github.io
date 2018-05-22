@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-05-22T15:43:52.671Z",
+  "lastUpdate": "2018-05-22T16:44:19.868Z",
   "cowner": "fastify",
   "crepo": "fastify",
-  "totalPR": 570,
+  "totalPR": 571,
   "lastPR": {
-    "createdAt": "2018-05-20T12:50:31Z",
-    "username": "seriousme"
+    "createdAt": "2018-05-22T16:37:50Z",
+    "username": "styfle"
   },
   "bestPR": {
     "user": "delvedor",
@@ -14,7 +14,7 @@
   },
   "bestMerged": {
     "user": "delvedor",
-    "nbPR": 92,
+    "nbPR": 93,
     "image": "https://avatars0.githubusercontent.com/u/4865608?v=4"
   },
   "bestRatio": {
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/3322396?v=4"
   },
   "userPRInfos": {
+    "styfle": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/229881?v=4"
+    },
     "seriousme": {
       "total": 1,
       "merged": 1,
@@ -50,7 +55,7 @@
     },
     "delvedor": {
       "total": 97,
-      "merged": 92,
+      "merged": 93,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/4865608?v=4"
     },
     "ParvJain": {
@@ -526,8 +531,8 @@
   },
   "datePRInfos": {
     "Mai-2018": {
-      "total": 16,
-      "merged": 13
+      "total": 17,
+      "merged": 14
     },
     "Avril-2018": {
       "total": 37,
