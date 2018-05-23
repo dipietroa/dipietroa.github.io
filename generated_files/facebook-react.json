@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-05-23T04:46:55.494Z",
+  "lastUpdate": "2018-05-23T05:47:25.901Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6822,
+  "totalPR": 6823,
   "lastPR": {
-    "createdAt": "2018-05-22T20:26:29Z",
-    "username": "bvaughn"
+    "createdAt": "2018-05-23T04:57:14Z",
+    "username": "gebilaoxiong"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars2.githubusercontent.com/u/15007517?v=4"
   },
   "userPRInfos": {
+    "gebilaoxiong": {
+      "total": 2,
+      "merged": 0,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/11804936?v=4"
+    },
     "bvaughn": {
       "total": 227,
       "merged": 210,
@@ -162,11 +167,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/35113398?v=4"
-    },
-    "gebilaoxiong": {
-      "total": 1,
-      "merged": 0,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/11804936?v=4"
     },
     "raunofreiberg": {
       "total": 5,
@@ -9966,7 +9966,7 @@
   },
   "datePRInfos": {
     "Mai-2018": {
-      "total": 93,
+      "total": 94,
       "merged": 63
     },
     "Avril-2018": {
