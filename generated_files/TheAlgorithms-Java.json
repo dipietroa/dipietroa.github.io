@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-05-23T03:42:37.631Z",
+  "lastUpdate": "2018-05-23T04:42:07.939Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
-  "totalPR": 394,
+  "totalPR": 395,
   "lastPR": {
-    "createdAt": "2018-05-21T03:51:27Z",
-    "username": "Danpatpang"
+    "createdAt": "2018-05-23T04:08:36Z",
+    "username": "hsh0130"
   },
   "bestPR": {
     "user": "theycallmemac",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/18592818?v=4"
   },
   "userPRInfos": {
+    "hsh0130": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/38034956?v=4"
+    },
     "Danpatpang": {
       "total": 2,
       "merged": 0,
@@ -1041,7 +1046,7 @@
   },
   "datePRInfos": {
     "Mai-2018": {
-      "total": 8,
+      "total": 9,
       "merged": 0
     },
     "Avril-2018": {
