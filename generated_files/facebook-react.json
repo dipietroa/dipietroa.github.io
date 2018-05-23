@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-05-23T21:47:34.064Z",
+  "lastUpdate": "2018-05-23T22:47:59.511Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6828,
+  "totalPR": 6830,
   "lastPR": {
-    "createdAt": "2018-05-23T20:40:11Z",
-    "username": "flarnie"
+    "createdAt": "2018-05-23T22:43:36Z",
+    "username": "bvaughn"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,16 @@
     "image": "https://avatars2.githubusercontent.com/u/15007517?v=4"
   },
   "userPRInfos": {
+    "bvaughn": {
+      "total": 229,
+      "merged": 210,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/29597?v=4"
+    },
+    "SimenB": {
+      "total": 8,
+      "merged": 6,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/1404810?v=4"
+    },
     "flarnie": {
       "total": 111,
       "merged": 82,
@@ -32,11 +42,6 @@
       "total": 5,
       "merged": 4,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/13282699?v=4"
-    },
-    "bvaughn": {
-      "total": 228,
-      "merged": 210,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/29597?v=4"
     },
     "koba04": {
       "total": 80,
@@ -622,11 +627,6 @@
       "total": 2,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/926648?v=4"
-    },
-    "SimenB": {
-      "total": 7,
-      "merged": 6,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/1404810?v=4"
     },
     "ss18": {
       "total": 1,
@@ -9966,7 +9966,7 @@
   },
   "datePRInfos": {
     "Mai-2018": {
-      "total": 99,
+      "total": 101,
       "merged": 66
     },
     "Avril-2018": {
