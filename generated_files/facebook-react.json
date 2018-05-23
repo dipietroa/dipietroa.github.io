@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-05-23T20:47:13.392Z",
+  "lastUpdate": "2018-05-23T21:47:34.064Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 6828,
@@ -30,7 +30,7 @@
     },
     "cyan33": {
       "total": 5,
-      "merged": 3,
+      "merged": 4,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/13282699?v=4"
     },
     "bvaughn": {
@@ -9967,7 +9967,7 @@
   "datePRInfos": {
     "Mai-2018": {
       "total": 99,
-      "merged": 65
+      "merged": 66
     },
     "Avril-2018": {
       "total": 82,
