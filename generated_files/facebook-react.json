@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "2018-05-23T16:48:09.984Z",
+  "lastUpdate": "2018-05-23T17:48:54.957Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6824,
+  "totalPR": 6825,
   "lastPR": {
-    "createdAt": "2018-05-23T16:42:45Z",
+    "createdAt": "2018-05-23T17:31:45Z",
     "username": "koba04"
   },
   "bestPR": {
@@ -24,8 +24,8 @@
   },
   "userPRInfos": {
     "koba04": {
-      "total": 79,
-      "merged": 56,
+      "total": 80,
+      "merged": 58,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/250407?v=4"
     },
     "gebilaoxiong": {
@@ -9966,8 +9966,8 @@
   },
   "datePRInfos": {
     "Mai-2018": {
-      "total": 95,
-      "merged": 63
+      "total": 96,
+      "merged": 65
     },
     "Avril-2018": {
       "total": 82,
