@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-05-23T08:43:07.700Z",
+  "lastUpdate": "2018-05-23T09:44:15.193Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 1175,
+  "totalPR": 1176,
   "lastPR": {
-    "createdAt": "2018-05-22T17:12:41Z",
-    "username": "KaelWD"
+    "createdAt": "2018-05-23T08:54:28Z",
+    "username": "yongningfu"
   },
   "bestPR": {
     "user": "kazupon",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/3408176?v=4"
   },
   "userPRInfos": {
+    "yongningfu": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/9846613?v=4"
+    },
     "KaelWD": {
       "total": 2,
       "merged": 0,
@@ -2621,7 +2626,7 @@
   },
   "datePRInfos": {
     "Mai-2018": {
-      "total": 21,
+      "total": 22,
       "merged": 0
     },
     "Avril-2018": {
