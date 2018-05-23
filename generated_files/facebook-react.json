@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-05-23T15:47:51.025Z",
+  "lastUpdate": "2018-05-23T16:48:09.984Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6823,
+  "totalPR": 6824,
   "lastPR": {
-    "createdAt": "2018-05-23T04:57:14Z",
-    "username": "gebilaoxiong"
+    "createdAt": "2018-05-23T16:42:45Z",
+    "username": "koba04"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars2.githubusercontent.com/u/15007517?v=4"
   },
   "userPRInfos": {
+    "koba04": {
+      "total": 79,
+      "merged": 56,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/250407?v=4"
+    },
     "gebilaoxiong": {
       "total": 2,
       "merged": 0,
@@ -102,11 +107,6 @@
       "total": 29,
       "merged": 24,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/55161?v=4"
-    },
-    "koba04": {
-      "total": 78,
-      "merged": 56,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/250407?v=4"
     },
     "Simek": {
       "total": 19,
@@ -9966,7 +9966,7 @@
   },
   "datePRInfos": {
     "Mai-2018": {
-      "total": 94,
+      "total": 95,
       "merged": 63
     },
     "Avril-2018": {
