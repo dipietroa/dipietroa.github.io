@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-05-23T00:43:23.176Z",
+  "lastUpdate": "2018-05-23T03:43:42.611Z",
   "cowner": "fastify",
   "crepo": "fastify",
-  "totalPR": 571,
+  "totalPR": 572,
   "lastPR": {
-    "createdAt": "2018-05-22T16:37:50Z",
-    "username": "styfle"
+    "createdAt": "2018-05-23T02:26:34Z",
+    "username": "freezestudio"
   },
   "bestPR": {
     "user": "delvedor",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/3322396?v=4"
   },
   "userPRInfos": {
+    "freezestudio": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/5157556?v=4"
+    },
     "styfle": {
       "total": 1,
       "merged": 0,
@@ -531,7 +536,7 @@
   },
   "datePRInfos": {
     "Mai-2018": {
-      "total": 17,
+      "total": 18,
       "merged": 14
     },
     "Avril-2018": {
