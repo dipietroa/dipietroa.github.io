@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-05-24T20:47:34.051Z",
+  "lastUpdate": "2018-05-24T21:47:17.242Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6831,
+  "totalPR": 6832,
   "lastPR": {
-    "createdAt": "2018-05-24T15:53:44Z",
-    "username": "flarnie"
+    "createdAt": "2018-05-24T21:06:48Z",
+    "username": "sebmarkbage"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,9 +23,14 @@
     "image": "https://avatars2.githubusercontent.com/u/15007517?v=4"
   },
   "userPRInfos": {
+    "sebmarkbage": {
+      "total": 261,
+      "merged": 243,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/63648?v=4"
+    },
     "flarnie": {
       "total": 112,
-      "merged": 83,
+      "merged": 84,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/1114467?v=4"
     },
     "bvaughn": {
@@ -87,11 +92,6 @@
       "total": 2,
       "merged": 0,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/3917726?v=4"
-    },
-    "sebmarkbage": {
-      "total": 260,
-      "merged": 243,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/63648?v=4"
     },
     "webyom": {
       "total": 1,
@@ -9966,8 +9966,8 @@
   },
   "datePRInfos": {
     "Mai-2018": {
-      "total": 102,
-      "merged": 67
+      "total": 103,
+      "merged": 68
     },
     "Avril-2018": {
       "total": 82,
