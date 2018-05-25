@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-05-25T09:42:22.232Z",
+  "lastUpdate": "2018-05-25T10:42:46.995Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2618,
+  "totalPR": 2619,
   "lastPR": {
-    "createdAt": "2018-05-23T15:02:57Z",
-    "username": "izeye"
+    "createdAt": "2018-05-25T09:48:57Z",
+    "username": "torakiki"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "torakiki": {
+      "total": 2,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/3884479?v=4"
+    },
     "izeye": {
       "total": 394,
       "merged": 1,
@@ -3503,11 +3508,6 @@
       "merged": 0,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/746667?v=4"
     },
-    "torakiki": {
-      "total": 1,
-      "merged": 0,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/3884479?v=4"
-    },
     "cfieber": {
       "total": 1,
       "merged": 0,
@@ -3996,7 +3996,7 @@
   },
   "datePRInfos": {
     "Mai-2018": {
-      "total": 48,
+      "total": 49,
       "merged": 0
     },
     "Avril-2018": {
