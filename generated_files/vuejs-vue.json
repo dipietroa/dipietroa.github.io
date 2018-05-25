@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-05-25T07:43:19.091Z",
+  "lastUpdate": "2018-05-25T08:43:43.729Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 1177,
+  "totalPR": 1178,
   "lastPR": {
-    "createdAt": "2018-05-23T20:51:45Z",
-    "username": "eddyerburgh"
+    "createdAt": "2018-05-25T08:17:35Z",
+    "username": "acccco"
   },
   "bestPR": {
     "user": "kazupon",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/3408176?v=4"
   },
   "userPRInfos": {
+    "acccco": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/12695799?v=4"
+    },
     "eddyerburgh": {
       "total": 3,
       "merged": 1,
@@ -2626,7 +2631,7 @@
   },
   "datePRInfos": {
     "Mai-2018": {
-      "total": 23,
+      "total": 24,
       "merged": 0
     },
     "Avril-2018": {
