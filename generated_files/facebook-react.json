@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-05-26T03:47:31.463Z",
+  "lastUpdate": "2018-05-26T04:47:12.760Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 6836,
@@ -30,7 +30,7 @@
     },
     "sebmarkbage": {
       "total": 261,
-      "merged": 243,
+      "merged": 244,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/63648?v=4"
     },
     "flarnie": {
@@ -9967,7 +9967,7 @@
   "datePRInfos": {
     "Mai-2018": {
       "total": 107,
-      "merged": 70
+      "merged": 71
     },
     "Avril-2018": {
       "total": 82,
