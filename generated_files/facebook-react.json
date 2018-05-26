@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-05-26T18:46:33.527Z",
+  "lastUpdate": "2018-05-26T19:47:05.160Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6836,
+  "totalPR": 6837,
   "lastPR": {
-    "createdAt": "2018-05-25T22:41:31Z",
-    "username": "bvaughn"
+    "createdAt": "2018-05-26T19:04:22Z",
+    "username": "Daniel15"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars2.githubusercontent.com/u/15007517?v=4"
   },
   "userPRInfos": {
+    "Daniel15": {
+      "total": 18,
+      "merged": 10,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/91933?v=4"
+    },
     "bvaughn": {
       "total": 233,
       "merged": 212,
@@ -1832,11 +1837,6 @@
       "total": 31,
       "merged": 25,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/2268452?v=4"
-    },
-    "Daniel15": {
-      "total": 17,
-      "merged": 10,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/91933?v=4"
     },
     "kremuwa": {
       "total": 1,
@@ -9966,7 +9966,7 @@
   },
   "datePRInfos": {
     "Mai-2018": {
-      "total": 107,
+      "total": 108,
       "merged": 71
     },
     "Avril-2018": {
