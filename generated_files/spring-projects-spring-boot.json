@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-05-26T09:42:25.251Z",
+  "lastUpdate": "2018-05-26T10:42:26.266Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2621,
+  "totalPR": 2622,
   "lastPR": {
-    "createdAt": "2018-05-25T15:59:30Z",
-    "username": "aheritier"
+    "createdAt": "2018-05-26T10:38:22Z",
+    "username": "fabriziocucci"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "fabriziocucci": {
+      "total": 5,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/8156463?v=4"
+    },
     "aheritier": {
       "total": 2,
       "merged": 0,
@@ -392,11 +397,6 @@
       "total": 24,
       "merged": 0,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/659135?v=4"
-    },
-    "fabriziocucci": {
-      "total": 4,
-      "merged": 0,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/8156463?v=4"
     },
     "aturkovic": {
       "total": 1,
@@ -3996,7 +3996,7 @@
   },
   "datePRInfos": {
     "Mai-2018": {
-      "total": 51,
+      "total": 52,
       "merged": 0
     },
     "Avril-2018": {
