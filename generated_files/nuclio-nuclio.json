@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-05-27T08:43:05.113Z",
+  "lastUpdate": "2018-05-27T09:43:23.322Z",
   "cowner": "nuclio",
   "crepo": "nuclio",
-  "totalPR": 598,
+  "totalPR": 599,
   "lastPR": {
-    "createdAt": "2018-05-25T15:13:54Z",
-    "username": "eran-nussbaum"
+    "createdAt": "2018-05-27T08:51:24Z",
+    "username": "tebeka"
   },
   "bestPR": {
     "user": "pavius",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/25711177?v=4"
   },
   "userPRInfos": {
+    "tebeka": {
+      "total": 87,
+      "merged": 55,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/87697?v=4"
+    },
     "eran-nussbaum": {
       "total": 48,
       "merged": 47,
@@ -52,11 +57,6 @@
       "total": 2,
       "merged": 2,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/10337953?v=4"
-    },
-    "tebeka": {
-      "total": 86,
-      "merged": 54,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/87697?v=4"
     },
     "YarovoiVadym": {
       "total": 5,
@@ -161,8 +161,8 @@
   },
   "datePRInfos": {
     "Mai-2018": {
-      "total": 46,
-      "merged": 45
+      "total": 47,
+      "merged": 46
     },
     "Avril-2018": {
       "total": 69,
