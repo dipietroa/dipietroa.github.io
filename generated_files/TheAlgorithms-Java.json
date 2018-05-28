@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "2018-05-28T03:42:40.598Z",
+  "lastUpdate": "2018-05-28T04:42:58.867Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
-  "totalPR": 399,
+  "totalPR": 400,
   "lastPR": {
-    "createdAt": "2018-05-28T02:15:47Z",
+    "createdAt": "2018-05-28T03:55:43Z",
     "username": "dnjsndnjs"
   },
   "bestPR": {
@@ -24,7 +24,7 @@
   },
   "userPRInfos": {
     "dnjsndnjs": {
-      "total": 1,
+      "total": 2,
       "merged": 0,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/37894963?v=4"
     },
@@ -1051,7 +1051,7 @@
   },
   "datePRInfos": {
     "Mai-2018": {
-      "total": 13,
+      "total": 14,
       "merged": 0
     },
     "Avril-2018": {
