@@ -1,15 +1,15 @@
 {
-  "lastUpdate": "2018-05-28T20:44:07.355Z",
+  "lastUpdate": "2018-05-28T21:43:14.512Z",
   "cowner": "fastify",
   "crepo": "fastify",
-  "totalPR": 573,
+  "totalPR": 574,
   "lastPR": {
-    "createdAt": "2018-05-28T09:39:31Z",
-    "username": "mcollina"
+    "createdAt": "2018-05-28T20:59:50Z",
+    "username": "delvedor"
   },
   "bestPR": {
     "user": "delvedor",
-    "nbPR": 97,
+    "nbPR": 98,
     "image": "https://avatars0.githubusercontent.com/u/4865608?v=4"
   },
   "bestMerged": {
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/5157556?v=4"
   },
   "userPRInfos": {
+    "delvedor": {
+      "total": 98,
+      "merged": 94,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/4865608?v=4"
+    },
     "mcollina": {
       "total": 71,
       "merged": 67,
@@ -62,11 +67,6 @@
       "total": 1,
       "merged": 1,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/7155749?v=4"
-    },
-    "delvedor": {
-      "total": 97,
-      "merged": 94,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/4865608?v=4"
     },
     "ParvJain": {
       "total": 1,
@@ -536,7 +536,7 @@
   },
   "datePRInfos": {
     "Mai-2018": {
-      "total": 19,
+      "total": 20,
       "merged": 16
     },
     "Avril-2018": {
