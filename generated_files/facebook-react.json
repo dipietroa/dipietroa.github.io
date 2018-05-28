@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-05-28T21:46:32.394Z",
+  "lastUpdate": "2018-05-28T22:47:10.194Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 6839,
@@ -50,7 +50,7 @@
     },
     "SimenB": {
       "total": 8,
-      "merged": 6,
+      "merged": 7,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/1404810?v=4"
     },
     "cyan33": {
@@ -9967,7 +9967,7 @@
   "datePRInfos": {
     "Mai-2018": {
       "total": 110,
-      "merged": 73
+      "merged": 74
     },
     "Avril-2018": {
       "total": 82,
