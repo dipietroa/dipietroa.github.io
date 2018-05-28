@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-05-28T15:43:27.243Z",
+  "lastUpdate": "2018-05-28T16:43:28.052Z",
   "cowner": "vuejs",
   "crepo": "vue",
   "totalPR": 1179,
@@ -113,10 +113,10 @@
       "merged": 0,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/14273601?v=4"
     },
-    "clemtrek": {
-      "total": 1,
-      "merged": 0,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/35649991?v=4"
+    "ghost": {
+      "total": 5,
+      "merged": 1,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/10137?v=4"
     },
     "bigtunacan": {
       "total": 1,
@@ -1162,11 +1162,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/22809997?v=4"
-    },
-    "ghost": {
-      "total": 4,
-      "merged": 1,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/10137?v=4"
     },
     "Peter-WF": {
       "total": 1,
