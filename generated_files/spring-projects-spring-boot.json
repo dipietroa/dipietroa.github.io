@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-05-28T04:42:37.286Z",
+  "lastUpdate": "2018-05-28T05:42:05.061Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2623,
+  "totalPR": 2624,
   "lastPR": {
-    "createdAt": "2018-05-26T10:52:31Z",
-    "username": "hengyunabc"
+    "createdAt": "2018-05-28T04:47:59Z",
+    "username": "eddumelendez"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "eddumelendez": {
+      "total": 138,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/1810547?v=4"
+    },
     "hengyunabc": {
       "total": 8,
       "merged": 0,
@@ -72,11 +77,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/7965274?v=4"
-    },
-    "eddumelendez": {
-      "total": 137,
-      "merged": 0,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/1810547?v=4"
     },
     "filiphr": {
       "total": 2,
@@ -3996,7 +3996,7 @@
   },
   "datePRInfos": {
     "Mai-2018": {
-      "total": 53,
+      "total": 54,
       "merged": 0
     },
     "Avril-2018": {
