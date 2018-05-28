@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-05-28T01:42:11.185Z",
+  "lastUpdate": "2018-05-28T02:41:57.592Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
-  "totalPR": 398,
+  "totalPR": 399,
   "lastPR": {
-    "createdAt": "2018-05-27T12:40:18Z",
-    "username": "hsh0130"
+    "createdAt": "2018-05-28T02:15:47Z",
+    "username": "dnjsndnjs"
   },
   "bestPR": {
     "user": "theycallmemac",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/18592818?v=4"
   },
   "userPRInfos": {
+    "dnjsndnjs": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/37894963?v=4"
+    },
     "hsh0130": {
       "total": 2,
       "merged": 0,
@@ -1046,7 +1051,7 @@
   },
   "datePRInfos": {
     "Mai-2018": {
-      "total": 12,
+      "total": 13,
       "merged": 0
     },
     "Avril-2018": {
