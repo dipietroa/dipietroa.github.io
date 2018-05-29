@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-05-29T19:48:23.623Z",
+  "lastUpdate": "2018-05-29T21:47:54.971Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 6841,
@@ -35,7 +35,7 @@
     },
     "flarnie": {
       "total": 113,
-      "merged": 85,
+      "merged": 86,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/1114467?v=4"
     },
     "Daniel15": {
@@ -45,7 +45,7 @@
     },
     "bvaughn": {
       "total": 233,
-      "merged": 213,
+      "merged": 214,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/29597?v=4"
     },
     "sebmarkbage": {
@@ -9972,7 +9972,7 @@
   "datePRInfos": {
     "Mai-2018": {
       "total": 112,
-      "merged": 76
+      "merged": 78
     },
     "Avril-2018": {
       "total": 82,
