@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-05-29T08:43:51.043Z",
+  "lastUpdate": "2018-05-29T09:43:51.508Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 1179,
+  "totalPR": 1180,
   "lastPR": {
-    "createdAt": "2018-05-26T00:25:06Z",
-    "username": "mpbarlow"
+    "createdAt": "2018-05-29T09:19:16Z",
+    "username": "katallaxie"
   },
   "bestPR": {
     "user": "kazupon",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/3408176?v=4"
   },
   "userPRInfos": {
+    "katallaxie": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/570959?v=4"
+    },
     "mpbarlow": {
       "total": 1,
       "merged": 0,
@@ -2631,7 +2636,7 @@
   },
   "datePRInfos": {
     "Mai-2018": {
-      "total": 25,
+      "total": 26,
       "merged": 0
     },
     "Avril-2018": {
