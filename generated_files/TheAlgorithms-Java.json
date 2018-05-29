@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-05-29T09:43:12.086Z",
+  "lastUpdate": "2018-05-29T10:42:35.680Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
-  "totalPR": 400,
+  "totalPR": 401,
   "lastPR": {
-    "createdAt": "2018-05-28T03:55:43Z",
-    "username": "dnjsndnjs"
+    "createdAt": "2018-05-29T09:44:58Z",
+    "username": "artzok"
   },
   "bestPR": {
     "user": "theycallmemac",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/18592818?v=4"
   },
   "userPRInfos": {
+    "artzok": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/10345124?v=4"
+    },
     "dnjsndnjs": {
       "total": 2,
       "merged": 0,
@@ -1051,7 +1056,7 @@
   },
   "datePRInfos": {
     "Mai-2018": {
-      "total": 14,
+      "total": 15,
       "merged": 0
     },
     "Avril-2018": {
