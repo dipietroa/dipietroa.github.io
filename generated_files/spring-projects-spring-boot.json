@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-05-29T07:42:10.295Z",
+  "lastUpdate": "2018-05-29T08:42:41.299Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2628,
+  "totalPR": 2629,
   "lastPR": {
-    "createdAt": "2018-05-29T04:42:48Z",
-    "username": "izeye"
+    "createdAt": "2018-05-29T08:23:15Z",
+    "username": "nkjackzhang"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "nkjackzhang": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/2102078?v=4"
+    },
     "izeye": {
       "total": 396,
       "merged": 1,
@@ -4001,7 +4006,7 @@
   },
   "datePRInfos": {
     "Mai-2018": {
-      "total": 58,
+      "total": 59,
       "merged": 0
     },
     "Avril-2018": {
