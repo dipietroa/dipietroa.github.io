@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-05-30T11:47:37.348Z",
+  "lastUpdate": "2018-05-30T12:48:40.918Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6843,
+  "totalPR": 6845,
   "lastPR": {
-    "createdAt": "2018-05-29T23:59:00Z",
-    "username": "aweary"
+    "createdAt": "2018-05-30T12:25:32Z",
+    "username": "lanzhiheng"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars2.githubusercontent.com/u/15007517?v=4"
   },
   "userPRInfos": {
+    "lanzhiheng": {
+      "total": 2,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/8858472?v=4"
+    },
     "aweary": {
       "total": 63,
       "merged": 52,
@@ -9971,7 +9976,7 @@
   },
   "datePRInfos": {
     "Mai-2018": {
-      "total": 114,
+      "total": 116,
       "merged": 79
     },
     "Avril-2018": {
