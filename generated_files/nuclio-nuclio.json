@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-05-30T11:43:24.163Z",
+  "lastUpdate": "2018-05-30T12:43:59.149Z",
   "cowner": "nuclio",
   "crepo": "nuclio",
-  "totalPR": 600,
+  "totalPR": 601,
   "lastPR": {
-    "createdAt": "2018-05-27T11:10:41Z",
-    "username": "tebeka"
+    "createdAt": "2018-05-30T12:10:42Z",
+    "username": "ilaykav"
   },
   "bestPR": {
     "user": "pavius",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/25711177?v=4"
   },
   "userPRInfos": {
+    "ilaykav": {
+      "total": 10,
+      "merged": 7,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/16291067?v=4"
+    },
     "tebeka": {
       "total": 88,
       "merged": 56,
@@ -77,11 +82,6 @@
       "total": 9,
       "merged": 8,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/17064840?v=4"
-    },
-    "ilaykav": {
-      "total": 9,
-      "merged": 7,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/16291067?v=4"
     },
     "Sharon-iguazio": {
       "total": 27,
@@ -161,7 +161,7 @@
   },
   "datePRInfos": {
     "Mai-2018": {
-      "total": 48,
+      "total": 49,
       "merged": 47
     },
     "Avril-2018": {
