@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-05-30T10:47:52.222Z",
+  "lastUpdate": "2018-05-30T11:47:37.348Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 6843,
@@ -535,7 +535,7 @@
     },
     "spirosikmd": {
       "total": 1,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/1057324?v=4"
     },
     "giles-v": {
@@ -9984,7 +9984,7 @@
     },
     "Février-2018": {
       "total": 70,
-      "merged": 48
+      "merged": 49
     },
     "Janvier-2018": {
       "total": 80,
