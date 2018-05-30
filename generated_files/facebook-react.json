@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-05-30T21:48:37.789Z",
+  "lastUpdate": "2018-05-30T22:46:47.412Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6846,
+  "totalPR": 6848,
   "lastPR": {
-    "createdAt": "2018-05-30T17:05:29Z",
-    "username": "Illu"
+    "createdAt": "2018-05-30T22:04:23Z",
+    "username": "acdlite"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,16 @@
     "image": "https://avatars2.githubusercontent.com/u/15007517?v=4"
   },
   "userPRInfos": {
+    "acdlite": {
+      "total": 198,
+      "merged": 161,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/3624098?v=4"
+    },
+    "flarnie": {
+      "total": 115,
+      "merged": 89,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/1114467?v=4"
+    },
     "Illu": {
       "total": 1,
       "merged": 0,
@@ -37,11 +47,6 @@
       "total": 63,
       "merged": 52,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/6886061?v=4"
-    },
-    "flarnie": {
-      "total": 114,
-      "merged": 87,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/1114467?v=4"
     },
     "nhunzaker": {
       "total": 90,
@@ -112,11 +117,6 @@
       "total": 1,
       "merged": 1,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/7641760?v=4"
-    },
-    "acdlite": {
-      "total": 197,
-      "merged": 160,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/3624098?v=4"
     },
     "veekas": {
       "total": 2,
@@ -9981,8 +9981,8 @@
   },
   "datePRInfos": {
     "Mai-2018": {
-      "total": 117,
-      "merged": 80
+      "total": 119,
+      "merged": 83
     },
     "Avril-2018": {
       "total": 82,
