@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-05-31T03:46:32.063Z",
+  "lastUpdate": "2018-05-31T04:46:41.272Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6849,
+  "totalPR": 6850,
   "lastPR": {
-    "createdAt": "2018-05-31T00:45:46Z",
-    "username": "petegleeson"
+    "createdAt": "2018-05-31T03:53:58Z",
+    "username": "lanzhiheng"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars2.githubusercontent.com/u/15007517?v=4"
   },
   "userPRInfos": {
+    "lanzhiheng": {
+      "total": 3,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/8858472?v=4"
+    },
     "petegleeson": {
       "total": 1,
       "merged": 0,
@@ -42,11 +47,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/7047255?v=4"
-    },
-    "lanzhiheng": {
-      "total": 2,
-      "merged": 0,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/8858472?v=4"
     },
     "aweary": {
       "total": 63,
@@ -9986,7 +9986,7 @@
   },
   "datePRInfos": {
     "Mai-2018": {
-      "total": 120,
+      "total": 121,
       "merged": 83
     },
     "Avril-2018": {
