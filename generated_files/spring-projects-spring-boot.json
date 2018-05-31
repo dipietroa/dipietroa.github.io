@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "2018-05-31T13:42:04.953Z",
+  "lastUpdate": "2018-05-31T14:42:12.140Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2633,
+  "totalPR": 2634,
   "lastPR": {
-    "createdAt": "2018-05-31T10:00:02Z",
+    "createdAt": "2018-05-31T13:48:56Z",
     "username": "neilstevenson"
   },
   "bestPR": {
@@ -24,7 +24,7 @@
   },
   "userPRInfos": {
     "neilstevenson": {
-      "total": 2,
+      "total": 3,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/1997464?v=4"
     },
@@ -4011,7 +4011,7 @@
   },
   "datePRInfos": {
     "Mai-2018": {
-      "total": 63,
+      "total": 64,
       "merged": 0
     },
     "Avril-2018": {
