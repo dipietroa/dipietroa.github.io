@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-05-31T19:47:47.402Z",
+  "lastUpdate": "2018-05-31T20:48:03.765Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 6853,
@@ -25,7 +25,7 @@
   "userPRInfos": {
     "hramos": {
       "total": 19,
-      "merged": 15,
+      "merged": 16,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/165856?v=4"
     },
     "whs-dot-hk": {
@@ -9997,7 +9997,7 @@
   "datePRInfos": {
     "Mai-2018": {
       "total": 124,
-      "merged": 83
+      "merged": 84
     },
     "Avril-2018": {
       "total": 82,
