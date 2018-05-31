@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-05-31T20:48:03.765Z",
+  "lastUpdate": "2018-05-31T21:47:44.954Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6853,
+  "totalPR": 6854,
   "lastPR": {
-    "createdAt": "2018-05-31T18:27:55Z",
-    "username": "hramos"
+    "createdAt": "2018-05-31T21:30:44Z",
+    "username": "acdlite"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -18,11 +18,16 @@
     "image": "https://avatars2.githubusercontent.com/u/6820?v=4"
   },
   "bestRatio": {
-    "user": "kevinkassimo",
+    "user": "Illu",
     "ratio": 1,
-    "image": "https://avatars2.githubusercontent.com/u/15007517?v=4"
+    "image": "https://avatars3.githubusercontent.com/u/7047255?v=4"
   },
   "userPRInfos": {
+    "acdlite": {
+      "total": 199,
+      "merged": 161,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/3624098?v=4"
+    },
     "hramos": {
       "total": 19,
       "merged": 16,
@@ -48,11 +53,6 @@
       "merged": 0,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/1969329?v=4"
     },
-    "acdlite": {
-      "total": 198,
-      "merged": 161,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/3624098?v=4"
-    },
     "flarnie": {
       "total": 115,
       "merged": 89,
@@ -60,7 +60,7 @@
     },
     "Illu": {
       "total": 1,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/7047255?v=4"
     },
     "aweary": {
@@ -9996,8 +9996,8 @@
   },
   "datePRInfos": {
     "Mai-2018": {
-      "total": 124,
-      "merged": 84
+      "total": 125,
+      "merged": 85
     },
     "Avril-2018": {
       "total": 82,
