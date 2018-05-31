@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-05-31T17:47:12.395Z",
+  "lastUpdate": "2018-05-31T18:48:23.950Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6852,
+  "totalPR": 6853,
   "lastPR": {
-    "createdAt": "2018-05-31T16:06:15Z",
-    "username": "whs-dot-hk"
+    "createdAt": "2018-05-31T18:27:55Z",
+    "username": "hramos"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars2.githubusercontent.com/u/15007517?v=4"
   },
   "userPRInfos": {
+    "hramos": {
+      "total": 19,
+      "merged": 15,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/165856?v=4"
+    },
     "whs-dot-hk": {
       "total": 1,
       "merged": 0,
@@ -467,11 +472,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/5361813?v=4"
-    },
-    "hramos": {
-      "total": 18,
-      "merged": 15,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/165856?v=4"
     },
     "hartzis": {
       "total": 2,
@@ -9996,7 +9996,7 @@
   },
   "datePRInfos": {
     "Mai-2018": {
-      "total": 123,
+      "total": 124,
       "merged": 83
     },
     "Avril-2018": {
