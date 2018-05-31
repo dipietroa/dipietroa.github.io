@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-05-31T09:42:48.760Z",
+  "lastUpdate": "2018-05-31T10:41:56.423Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2631,
+  "totalPR": 2633,
   "lastPR": {
-    "createdAt": "2018-05-31T02:01:04Z",
-    "username": "jmcshane"
+    "createdAt": "2018-05-31T10:00:02Z",
+    "username": "neilstevenson"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,16 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "neilstevenson": {
+      "total": 2,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/1997464?v=4"
+    },
+    "zbstof": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/1374723?v=4"
+    },
     "jmcshane": {
       "total": 3,
       "merged": 0,
@@ -1872,11 +1882,6 @@
       "total": 2,
       "merged": 0,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/1161240?v=4"
-    },
-    "neilstevenson": {
-      "total": 1,
-      "merged": 0,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/1997464?v=4"
     },
     "arnaud-deprez": {
       "total": 1,
@@ -4006,7 +4011,7 @@
   },
   "datePRInfos": {
     "Mai-2018": {
-      "total": 61,
+      "total": 63,
       "merged": 0
     },
     "Avril-2018": {
