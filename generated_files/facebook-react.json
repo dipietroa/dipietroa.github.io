@@ -1,20 +1,20 @@
 {
-  "lastUpdate": "2018-05-31T13:48:27.870Z",
+  "lastUpdate": "2018-05-31T14:48:43.733Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 6851,
   "lastPR": {
-    "createdAt": "2018-05-31T03:53:58Z",
-    "username": "lanzhiheng"
+    "createdAt": "2018-05-31T13:48:23Z",
+    "username": "DemianD"
   },
   "bestPR": {
     "user": "sophiebits",
-    "nbPR": 666,
+    "nbPR": 665,
     "image": "https://avatars2.githubusercontent.com/u/6820?v=4"
   },
   "bestMerged": {
     "user": "sophiebits",
-    "nbPR": 591,
+    "nbPR": 590,
     "image": "https://avatars2.githubusercontent.com/u/6820?v=4"
   },
   "bestRatio": {
@@ -23,6 +23,11 @@
     "image": "https://avatars2.githubusercontent.com/u/15007517?v=4"
   },
   "userPRInfos": {
+    "DemianD": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/5346497?v=4"
+    },
     "lanzhiheng": {
       "total": 3,
       "merged": 0,
@@ -104,8 +109,8 @@
       "avatarUrl": "https://avatars0.githubusercontent.com/u/810438?v=4"
     },
     "sophiebits": {
-      "total": 666,
-      "merged": 591,
+      "total": 665,
+      "merged": 590,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/6820?v=4"
     },
     "kevinkassimo": {
@@ -9986,7 +9991,7 @@
   },
   "datePRInfos": {
     "Mai-2018": {
-      "total": 121,
+      "total": 122,
       "merged": 83
     },
     "Avril-2018": {
@@ -10218,8 +10223,8 @@
       "merged": 21
     },
     "Juillet-2013": {
-      "total": 58,
-      "merged": 38
+      "total": 57,
+      "merged": 37
     },
     "Juin-2013": {
       "total": 67,
