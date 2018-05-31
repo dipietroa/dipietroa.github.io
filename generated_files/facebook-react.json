@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-05-31T15:48:54.078Z",
+  "lastUpdate": "2018-05-31T16:47:42.187Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6851,
+  "totalPR": 6852,
   "lastPR": {
-    "createdAt": "2018-05-31T13:48:23Z",
-    "username": "DemianD"
+    "createdAt": "2018-05-31T16:06:15Z",
+    "username": "whs-dot-hk"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars2.githubusercontent.com/u/15007517?v=4"
   },
   "userPRInfos": {
+    "whs-dot-hk": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/35202375?v=4"
+    },
     "DemianD": {
       "total": 1,
       "merged": 0,
@@ -9991,7 +9996,7 @@
   },
   "datePRInfos": {
     "Mai-2018": {
-      "total": 122,
+      "total": 123,
       "merged": 83
     },
     "Avril-2018": {
