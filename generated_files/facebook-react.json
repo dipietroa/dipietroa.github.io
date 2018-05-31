@@ -1,8 +1,8 @@
 {
-  "lastUpdate": "2018-05-30T23:47:26.439Z",
+  "lastUpdate": "2018-05-31T00:48:11.376Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6848,
+  "totalPR": 6849,
   "lastPR": {
     "createdAt": "2018-05-30T22:04:23Z",
     "username": "acdlite"
@@ -3379,7 +3379,7 @@
       "avatarUrl": "https://avatars2.githubusercontent.com/u/1025241?v=4"
     },
     "fredericmarx": {
-      "total": 1,
+      "total": 2,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/954294?v=4"
     },
@@ -10049,7 +10049,7 @@
       "merged": 109
     },
     "Décembre-2016": {
-      "total": 123,
+      "total": 124,
       "merged": 87
     },
     "Novembre-2016": {
