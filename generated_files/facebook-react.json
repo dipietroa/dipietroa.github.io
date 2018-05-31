@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-05-31T00:48:11.376Z",
+  "lastUpdate": "2018-05-31T01:47:45.584Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 6849,
   "lastPR": {
-    "createdAt": "2018-05-30T22:04:23Z",
-    "username": "acdlite"
+    "createdAt": "2018-05-31T00:45:46Z",
+    "username": "petegleeson"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars2.githubusercontent.com/u/15007517?v=4"
   },
   "userPRInfos": {
+    "petegleeson": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/1969329?v=4"
+    },
     "acdlite": {
       "total": 198,
       "merged": 161,
@@ -3379,7 +3384,7 @@
       "avatarUrl": "https://avatars2.githubusercontent.com/u/1025241?v=4"
     },
     "fredericmarx": {
-      "total": 2,
+      "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/954294?v=4"
     },
@@ -9981,7 +9986,7 @@
   },
   "datePRInfos": {
     "Mai-2018": {
-      "total": 119,
+      "total": 120,
       "merged": 83
     },
     "Avril-2018": {
@@ -10049,7 +10054,7 @@
       "merged": 109
     },
     "Décembre-2016": {
-      "total": 124,
+      "total": 123,
       "merged": 87
     },
     "Novembre-2016": {
