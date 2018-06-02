@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-06-02T12:42:55.950Z",
+  "lastUpdate": "2018-06-02T13:42:12.700Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
-  "totalPR": 401,
+  "totalPR": 402,
   "lastPR": {
-    "createdAt": "2018-05-29T09:44:58Z",
-    "username": "artzok"
+    "createdAt": "2018-06-02T13:33:50Z",
+    "username": "stomaras"
   },
   "bestPR": {
     "user": "theycallmemac",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/18592818?v=4"
   },
   "userPRInfos": {
+    "stomaras": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/22882822?v=4"
+    },
     "artzok": {
       "total": 1,
       "merged": 0,
@@ -1055,6 +1060,10 @@
     }
   },
   "datePRInfos": {
+    "Juin-2018": {
+      "total": 1,
+      "merged": 0
+    },
     "Mai-2018": {
       "total": 15,
       "merged": 0
