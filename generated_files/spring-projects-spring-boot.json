@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-06-03T19:42:08.669Z",
+  "lastUpdate": "2018-06-03T20:42:33.474Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2642,
+  "totalPR": 2643,
   "lastPR": {
-    "createdAt": "2018-06-03T19:11:10Z",
-    "username": "fahimfarookme"
+    "createdAt": "2018-06-03T20:34:58Z",
+    "username": "dreis2211"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,15 +23,15 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "dreis2211": {
+      "total": 70,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/6304496?v=4"
+    },
     "fahimfarookme": {
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/8598585?v=4"
-    },
-    "dreis2211": {
-      "total": 69,
-      "merged": 0,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/6304496?v=4"
     },
     "vkennke": {
       "total": 1,
@@ -4026,7 +4026,7 @@
   },
   "datePRInfos": {
     "Juin-2018": {
-      "total": 6,
+      "total": 7,
       "merged": 0
     },
     "Mai-2018": {
