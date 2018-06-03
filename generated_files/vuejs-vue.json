@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-06-03T08:42:44.994Z",
+  "lastUpdate": "2018-06-03T09:42:41.512Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 1182,
+  "totalPR": 1183,
   "lastPR": {
-    "createdAt": "2018-06-01T09:48:49Z",
-    "username": "hirokiosame"
+    "createdAt": "2018-06-03T08:59:14Z",
+    "username": "tmsh"
   },
   "bestPR": {
     "user": "kazupon",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/3408176?v=4"
   },
   "userPRInfos": {
+    "tmsh": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/179957?v=4"
+    },
     "hirokiosame": {
       "total": 5,
       "merged": 2,
@@ -2641,7 +2646,7 @@
   },
   "datePRInfos": {
     "Juin-2018": {
-      "total": 1,
+      "total": 2,
       "merged": 0
     },
     "Mai-2018": {
