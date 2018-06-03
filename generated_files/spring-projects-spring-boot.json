@@ -1,8 +1,8 @@
 {
-  "lastUpdate": "2018-06-03T08:41:49.799Z",
+  "lastUpdate": "2018-06-03T09:41:45.613Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2639,
+  "totalPR": 2640,
   "lastPR": {
     "createdAt": "2018-06-02T09:52:10Z",
     "username": "mtheiss"
@@ -684,7 +684,7 @@
       "avatarUrl": "https://avatars0.githubusercontent.com/u/16517131?v=4"
     },
     "xsj34567": {
-      "total": 1,
+      "total": 2,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/5569837?v=4"
     },
@@ -4036,7 +4036,7 @@
       "merged": 0
     },
     "Janvier-2018": {
-      "total": 95,
+      "total": 96,
       "merged": 0
     },
     "Décembre-2017": {
