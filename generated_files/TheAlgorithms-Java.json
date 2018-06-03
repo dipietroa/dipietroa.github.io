@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-06-03T17:42:51.125Z",
+  "lastUpdate": "2018-06-03T18:42:45.049Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
-  "totalPR": 402,
+  "totalPR": 403,
   "lastPR": {
-    "createdAt": "2018-06-02T13:33:50Z",
-    "username": "stomaras"
+    "createdAt": "2018-06-03T17:49:35Z",
+    "username": "PalAditya"
   },
   "bestPR": {
     "user": "theycallmemac",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/18592818?v=4"
   },
   "userPRInfos": {
+    "PalAditya": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/25523604?v=4"
+    },
     "stomaras": {
       "total": 1,
       "merged": 0,
@@ -1061,7 +1066,7 @@
   },
   "datePRInfos": {
     "Juin-2018": {
-      "total": 1,
+      "total": 2,
       "merged": 0
     },
     "Mai-2018": {
