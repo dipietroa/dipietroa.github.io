@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-06-04T10:48:04.525Z",
+  "lastUpdate": "2018-06-04T11:47:41.021Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6859,
+  "totalPR": 6860,
   "lastPR": {
-    "createdAt": "2018-06-04T04:12:38Z",
-    "username": "frankleng"
+    "createdAt": "2018-06-04T11:16:48Z",
+    "username": "nhunzaker"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/7047255?v=4"
   },
   "userPRInfos": {
+    "nhunzaker": {
+      "total": 91,
+      "merged": 51,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/590904?v=4"
+    },
     "frankleng": {
       "total": 1,
       "merged": 0,
@@ -82,11 +87,6 @@
       "total": 1,
       "merged": 1,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/7047255?v=4"
-    },
-    "nhunzaker": {
-      "total": 90,
-      "merged": 51,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/590904?v=4"
     },
     "anshung": {
       "total": 1,
@@ -10001,7 +10001,7 @@
   },
   "datePRInfos": {
     "Juin-2018": {
-      "total": 5,
+      "total": 6,
       "merged": 0
     },
     "Mai-2018": {
