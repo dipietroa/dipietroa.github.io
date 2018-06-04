@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-06-04T12:43:45.624Z",
+  "lastUpdate": "2018-06-04T13:45:00.549Z",
   "cowner": "fastify",
   "crepo": "fastify",
-  "totalPR": 577,
+  "totalPR": 579,
   "lastPR": {
-    "createdAt": "2018-06-04T02:32:09Z",
-    "username": "greenkeeper[bot]"
+    "createdAt": "2018-06-04T13:26:55Z",
+    "username": "vincent178"
   },
   "bestPR": {
     "user": "delvedor",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/5157556?v=4"
   },
   "userPRInfos": {
+    "vincent178": {
+      "total": 3,
+      "merged": 1,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/2183720?v=4"
+    },
     "greenkeeper[bot]": {
       "total": 53,
       "merged": 28,
@@ -62,11 +67,6 @@
       "total": 58,
       "merged": 47,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/1054125?v=4"
-    },
-    "vincent178": {
-      "total": 1,
-      "merged": 1,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/2183720?v=4"
     },
     "mixecan": {
       "total": 1,
@@ -536,7 +536,7 @@
   },
   "datePRInfos": {
     "Juin-2018": {
-      "total": 2,
+      "total": 4,
       "merged": 1
     },
     "Mai-2018": {
