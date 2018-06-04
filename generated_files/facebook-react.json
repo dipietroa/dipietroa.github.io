@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-06-04T03:46:28.079Z",
+  "lastUpdate": "2018-06-04T04:47:08.540Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6858,
+  "totalPR": 6859,
   "lastPR": {
-    "createdAt": "2018-06-03T23:04:12Z",
-    "username": "aweary"
+    "createdAt": "2018-06-04T04:12:38Z",
+    "username": "frankleng"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/7047255?v=4"
   },
   "userPRInfos": {
+    "frankleng": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/6145910?v=4"
+    },
     "aweary": {
       "total": 64,
       "merged": 52,
@@ -9996,7 +10001,7 @@
   },
   "datePRInfos": {
     "Juin-2018": {
-      "total": 4,
+      "total": 5,
       "merged": 0
     },
     "Mai-2018": {
