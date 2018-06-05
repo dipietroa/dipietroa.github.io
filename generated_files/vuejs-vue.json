@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-06-05T08:43:37.143Z",
+  "lastUpdate": "2018-06-05T09:43:02.327Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 1184,
+  "totalPR": 1185,
   "lastPR": {
-    "createdAt": "2018-06-05T01:53:10Z",
-    "username": "shortdiv"
+    "createdAt": "2018-06-05T09:41:04Z",
+    "username": "slichlyter12"
   },
   "bestPR": {
     "user": "kazupon",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/3408176?v=4"
   },
   "userPRInfos": {
+    "slichlyter12": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/3687892?v=4"
+    },
     "shortdiv": {
       "total": 1,
       "merged": 0,
@@ -2651,7 +2656,7 @@
   },
   "datePRInfos": {
     "Juin-2018": {
-      "total": 3,
+      "total": 4,
       "merged": 0
     },
     "Mai-2018": {
