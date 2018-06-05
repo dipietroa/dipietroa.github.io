@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-06-05T11:48:18.151Z",
+  "lastUpdate": "2018-06-05T12:47:25.857Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 6861,
@@ -175,7 +175,7 @@
     },
     "Ende93": {
       "total": 1,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/13236245?v=4"
     },
     "yhirano55": {
@@ -10006,7 +10006,7 @@
     },
     "Mai-2018": {
       "total": 125,
-      "merged": 85
+      "merged": 86
     },
     "Avril-2018": {
       "total": 82,
