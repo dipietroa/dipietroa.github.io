@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-06-05T21:47:07.525Z",
+  "lastUpdate": "2018-06-05T22:46:52.114Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6861,
+  "totalPR": 6862,
   "lastPR": {
-    "createdAt": "2018-06-04T18:57:21Z",
-    "username": "flarnie"
+    "createdAt": "2018-06-05T22:33:48Z",
+    "username": "ericsoderberghp"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/7047255?v=4"
   },
   "userPRInfos": {
+    "ericsoderberghp": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/11637956?v=4"
+    },
     "flarnie": {
       "total": 116,
       "merged": 89,
@@ -10001,7 +10006,7 @@
   },
   "datePRInfos": {
     "Juin-2018": {
-      "total": 7,
+      "total": 8,
       "merged": 0
     },
     "Mai-2018": {
