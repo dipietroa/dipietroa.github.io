@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-06-06T16:41:46.661Z",
+  "lastUpdate": "2018-06-06T17:42:17.343Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2651,
+  "totalPR": 2652,
   "lastPR": {
-    "createdAt": "2018-06-06T08:43:55Z",
-    "username": "maximAtanasov"
+    "createdAt": "2018-06-06T17:14:36Z",
+    "username": "rstoyanchev"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "rstoyanchev": {
+      "total": 2,
+      "merged": 1,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/401908?v=4"
+    },
     "maximAtanasov": {
       "total": 1,
       "merged": 0,
@@ -1352,11 +1357,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/21338308?v=4"
-    },
-    "rstoyanchev": {
-      "total": 1,
-      "merged": 1,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/401908?v=4"
     },
     "ZhijunZhao": {
       "total": 1,
@@ -4031,7 +4031,7 @@
   },
   "datePRInfos": {
     "Juin-2018": {
-      "total": 15,
+      "total": 16,
       "merged": 0
     },
     "Mai-2018": {
