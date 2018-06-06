@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-06-06T17:43:22.704Z",
+  "lastUpdate": "2018-06-06T18:43:17.088Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 1186,
+  "totalPR": 1187,
   "lastPR": {
-    "createdAt": "2018-06-05T12:49:55Z",
-    "username": "jiangshanmeta"
+    "createdAt": "2018-06-06T18:21:14Z",
+    "username": "yozman"
   },
   "bestPR": {
     "user": "kazupon",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/3408176?v=4"
   },
   "userPRInfos": {
+    "yozman": {
+      "total": 2,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/11918866?v=4"
+    },
     "jiangshanmeta": {
       "total": 1,
       "merged": 0,
@@ -1147,11 +1152,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/19343?v=4"
-    },
-    "yozman": {
-      "total": 1,
-      "merged": 0,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/11918866?v=4"
     },
     "Richard-zhang": {
       "total": 1,
@@ -2661,7 +2661,7 @@
   },
   "datePRInfos": {
     "Juin-2018": {
-      "total": 5,
+      "total": 6,
       "merged": 0
     },
     "Mai-2018": {
