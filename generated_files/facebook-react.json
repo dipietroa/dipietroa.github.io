@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-06-06T12:48:11.987Z",
+  "lastUpdate": "2018-06-06T13:47:57.244Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 6862,
@@ -18,9 +18,9 @@
     "image": "https://avatars2.githubusercontent.com/u/6820?v=4"
   },
   "bestRatio": {
-    "user": "Illu",
+    "user": "DemianD",
     "ratio": 1,
-    "image": "https://avatars3.githubusercontent.com/u/7047255?v=4"
+    "image": "https://avatars2.githubusercontent.com/u/5346497?v=4"
   },
   "userPRInfos": {
     "ericsoderberghp": {
@@ -75,7 +75,7 @@
     },
     "DemianD": {
       "total": 1,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/5346497?v=4"
     },
     "lanzhiheng": {
@@ -10011,7 +10011,7 @@
     },
     "Mai-2018": {
       "total": 125,
-      "merged": 86
+      "merged": 87
     },
     "Avril-2018": {
       "total": 82,
