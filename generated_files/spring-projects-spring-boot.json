@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-06-07T16:42:03.981Z",
+  "lastUpdate": "2018-06-07T17:42:52.791Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2653,
+  "totalPR": 2654,
   "lastPR": {
-    "createdAt": "2018-06-07T09:56:19Z",
-    "username": "nosan"
+    "createdAt": "2018-06-07T17:15:10Z",
+    "username": "larsgrefer"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "larsgrefer": {
+      "total": 3,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/6069961?v=4"
+    },
     "nosan": {
       "total": 11,
       "merged": 0,
@@ -307,11 +312,6 @@
       "total": 2,
       "merged": 0,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/498950?v=4"
-    },
-    "larsgrefer": {
-      "total": 2,
-      "merged": 0,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/6069961?v=4"
     },
     "ralenmdp": {
       "total": 1,
@@ -4031,7 +4031,7 @@
   },
   "datePRInfos": {
     "Juin-2018": {
-      "total": 17,
+      "total": 18,
       "merged": 0
     },
     "Mai-2018": {
