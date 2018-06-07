@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-06-07T19:47:22.462Z",
+  "lastUpdate": "2018-06-07T20:47:31.177Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6863,
+  "totalPR": 6864,
   "lastPR": {
-    "createdAt": "2018-06-06T21:27:42Z",
-    "username": "nhunzaker"
+    "createdAt": "2018-06-07T19:52:48Z",
+    "username": "nateq314"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars2.githubusercontent.com/u/5346497?v=4"
   },
   "userPRInfos": {
+    "nateq314": {
+      "total": 2,
+      "merged": 1,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/1175921?v=4"
+    },
     "nhunzaker": {
       "total": 92,
       "merged": 51,
@@ -277,11 +282,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/1674142?v=4"
-    },
-    "nateq314": {
-      "total": 1,
-      "merged": 0,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/1175921?v=4"
     },
     "tmm2018": {
       "total": 1,
@@ -10006,8 +10006,8 @@
   },
   "datePRInfos": {
     "Juin-2018": {
-      "total": 9,
-      "merged": 0
+      "total": 10,
+      "merged": 1
     },
     "Mai-2018": {
       "total": 125,
