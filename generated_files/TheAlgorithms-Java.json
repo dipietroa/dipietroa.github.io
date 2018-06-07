@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-06-07T19:42:17.563Z",
+  "lastUpdate": "2018-06-07T20:42:30.316Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
   "totalPR": 403,
@@ -18,14 +18,14 @@
     "image": "https://avatars1.githubusercontent.com/u/16108563?v=4"
   },
   "bestRatio": {
-    "user": "Hero22",
+    "user": "PalAditya",
     "ratio": 1,
-    "image": "https://avatars3.githubusercontent.com/u/18592818?v=4"
+    "image": "https://avatars2.githubusercontent.com/u/25523604?v=4"
   },
   "userPRInfos": {
     "PalAditya": {
       "total": 1,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/25523604?v=4"
     },
     "stomaras": {
@@ -35,17 +35,17 @@
     },
     "artzok": {
       "total": 1,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/10345124?v=4"
     },
     "dnjsndnjs": {
       "total": 2,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/37894963?v=4"
     },
     "hsh0130": {
       "total": 2,
-      "merged": 0,
+      "merged": 2,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/38034956?v=4"
     },
     "Danpatpang": {
@@ -60,7 +60,7 @@
     },
     "Skhwan": {
       "total": 1,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/37880478?v=4"
     },
     "pruebaendex": {
@@ -115,7 +115,7 @@
     },
     "shivg7706": {
       "total": 1,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/21190262?v=4"
     },
     "dragid10": {
@@ -1067,15 +1067,15 @@
   "datePRInfos": {
     "Juin-2018": {
       "total": 2,
-      "merged": 0
+      "merged": 1
     },
     "Mai-2018": {
       "total": 15,
-      "merged": 0
+      "merged": 5
     },
     "Avril-2018": {
       "total": 28,
-      "merged": 17
+      "merged": 18
     },
     "Mars-2018": {
       "total": 5,
