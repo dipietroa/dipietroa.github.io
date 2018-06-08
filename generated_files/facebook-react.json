@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-06-08T07:46:48.775Z",
+  "lastUpdate": "2018-06-08T08:47:41.847Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6865,
+  "totalPR": 6866,
   "lastPR": {
-    "createdAt": "2018-06-08T02:31:19Z",
-    "username": "ThaddeusJiang"
+    "createdAt": "2018-06-08T07:57:25Z",
+    "username": "dexbol"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars2.githubusercontent.com/u/5346497?v=4"
   },
   "userPRInfos": {
+    "dexbol": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/44263?v=4"
+    },
     "ThaddeusJiang": {
       "total": 1,
       "merged": 0,
@@ -10011,7 +10016,7 @@
   },
   "datePRInfos": {
     "Juin-2018": {
-      "total": 11,
+      "total": 12,
       "merged": 1
     },
     "Mai-2018": {
