@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-06-08T16:42:51.705Z",
+  "lastUpdate": "2018-06-08T17:42:15.984Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2656,
+  "totalPR": 2657,
   "lastPR": {
-    "createdAt": "2018-06-08T07:25:47Z",
-    "username": "kflau"
+    "createdAt": "2018-06-08T16:56:20Z",
+    "username": "isopov"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "isopov": {
+      "total": 19,
+      "merged": 2,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/462800?v=4"
+    },
     "kflau": {
       "total": 1,
       "merged": 0,
@@ -1037,11 +1042,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/426959?v=4"
-    },
-    "isopov": {
-      "total": 18,
-      "merged": 2,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/462800?v=4"
     },
     "hannahshanthini": {
       "total": 1,
@@ -4036,7 +4036,7 @@
   },
   "datePRInfos": {
     "Juin-2018": {
-      "total": 20,
+      "total": 21,
       "merged": 0
     },
     "Mai-2018": {
