@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "2018-06-08T12:43:18.387Z",
+  "lastUpdate": "2018-06-08T13:44:17.133Z",
   "cowner": "fastify",
   "crepo": "fastify",
-  "totalPR": 579,
+  "totalPR": 580,
   "lastPR": {
-    "createdAt": "2018-06-04T13:26:55Z",
+    "createdAt": "2018-06-08T13:35:18Z",
     "username": "vincent178"
   },
   "bestPR": {
@@ -24,7 +24,7 @@
   },
   "userPRInfos": {
     "vincent178": {
-      "total": 3,
+      "total": 4,
       "merged": 2,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/2183720?v=4"
     },
@@ -536,7 +536,7 @@
   },
   "datePRInfos": {
     "Juin-2018": {
-      "total": 4,
+      "total": 5,
       "merged": 2
     },
     "Mai-2018": {
