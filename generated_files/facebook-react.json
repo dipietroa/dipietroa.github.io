@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-06-08T01:47:19.953Z",
+  "lastUpdate": "2018-06-08T02:46:40.815Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6864,
+  "totalPR": 6865,
   "lastPR": {
-    "createdAt": "2018-06-07T19:52:48Z",
-    "username": "nateq314"
+    "createdAt": "2018-06-08T02:31:19Z",
+    "username": "ThaddeusJiang"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars2.githubusercontent.com/u/5346497?v=4"
   },
   "userPRInfos": {
+    "ThaddeusJiang": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/17308201?v=4"
+    },
     "nateq314": {
       "total": 2,
       "merged": 1,
@@ -10006,7 +10011,7 @@
   },
   "datePRInfos": {
     "Juin-2018": {
-      "total": 10,
+      "total": 11,
       "merged": 1
     },
     "Mai-2018": {
