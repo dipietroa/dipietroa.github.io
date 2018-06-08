@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-06-08T06:41:51.011Z",
+  "lastUpdate": "2018-06-08T07:41:38.663Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2655,
+  "totalPR": 2656,
   "lastPR": {
-    "createdAt": "2018-06-07T18:52:49Z",
-    "username": "candrews"
+    "createdAt": "2018-06-08T07:25:47Z",
+    "username": "kflau"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "kflau": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/396548?v=4"
+    },
     "candrews": {
       "total": 17,
       "merged": 0,
@@ -4031,7 +4036,7 @@
   },
   "datePRInfos": {
     "Juin-2018": {
-      "total": 19,
+      "total": 20,
       "merged": 0
     },
     "Mai-2018": {
