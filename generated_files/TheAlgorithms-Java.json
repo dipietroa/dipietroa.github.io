@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "2018-06-08T13:42:59.373Z",
+  "lastUpdate": "2018-06-08T14:42:46.166Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
-  "totalPR": 403,
+  "totalPR": 404,
   "lastPR": {
-    "createdAt": "2018-06-03T17:49:35Z",
+    "createdAt": "2018-06-08T14:39:22Z",
     "username": "PalAditya"
   },
   "bestPR": {
@@ -18,13 +18,13 @@
     "image": "https://avatars1.githubusercontent.com/u/16108563?v=4"
   },
   "bestRatio": {
-    "user": "PalAditya",
+    "user": "artzok",
     "ratio": 1,
-    "image": "https://avatars2.githubusercontent.com/u/25523604?v=4"
+    "image": "https://avatars3.githubusercontent.com/u/10345124?v=4"
   },
   "userPRInfos": {
     "PalAditya": {
-      "total": 1,
+      "total": 2,
       "merged": 1,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/25523604?v=4"
     },
@@ -1066,7 +1066,7 @@
   },
   "datePRInfos": {
     "Juin-2018": {
-      "total": 2,
+      "total": 3,
       "merged": 1
     },
     "Mai-2018": {
