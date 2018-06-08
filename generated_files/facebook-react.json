@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-06-08T21:47:19.988Z",
+  "lastUpdate": "2018-06-08T22:46:58.144Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 6870,
@@ -35,7 +35,7 @@
     },
     "sompylasar": {
       "total": 4,
-      "merged": 2,
+      "merged": 3,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/498274?v=4"
     },
     "dexbol": {
@@ -10017,7 +10017,7 @@
   "datePRInfos": {
     "Juin-2018": {
       "total": 16,
-      "merged": 1
+      "merged": 2
     },
     "Mai-2018": {
       "total": 125,
