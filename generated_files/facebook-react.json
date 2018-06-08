@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-06-08T14:47:53.884Z",
+  "lastUpdate": "2018-06-08T15:47:43.321Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6867,
+  "totalPR": 6868,
   "lastPR": {
-    "createdAt": "2018-06-08T13:16:59Z",
-    "username": "nateq314"
+    "createdAt": "2018-06-08T15:30:25Z",
+    "username": "sompylasar"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars2.githubusercontent.com/u/5346497?v=4"
   },
   "userPRInfos": {
+    "sompylasar": {
+      "total": 4,
+      "merged": 2,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/498274?v=4"
+    },
     "nateq314": {
       "total": 3,
       "merged": 1,
@@ -502,11 +507,6 @@
       "total": 2,
       "merged": 0,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/362368?v=4"
-    },
-    "sompylasar": {
-      "total": 3,
-      "merged": 2,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/498274?v=4"
     },
     "monkindey": {
       "total": 5,
@@ -10016,7 +10016,7 @@
   },
   "datePRInfos": {
     "Juin-2018": {
-      "total": 13,
+      "total": 14,
       "merged": 1
     },
     "Mai-2018": {
