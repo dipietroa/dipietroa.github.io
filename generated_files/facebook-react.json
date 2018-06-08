@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-06-08T19:48:04.068Z",
+  "lastUpdate": "2018-06-08T20:46:55.753Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6869,
+  "totalPR": 6870,
   "lastPR": {
-    "createdAt": "2018-06-08T17:49:10Z",
-    "username": "abhaynikam"
+    "createdAt": "2018-06-08T19:52:53Z",
+    "username": "nateq314"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars2.githubusercontent.com/u/5346497?v=4"
   },
   "userPRInfos": {
+    "nateq314": {
+      "total": 4,
+      "merged": 1,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/1175921?v=4"
+    },
     "abhaynikam": {
       "total": 10,
       "merged": 5,
@@ -32,11 +37,6 @@
       "total": 4,
       "merged": 2,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/498274?v=4"
-    },
-    "nateq314": {
-      "total": 3,
-      "merged": 1,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/1175921?v=4"
     },
     "dexbol": {
       "total": 1,
@@ -10016,7 +10016,7 @@
   },
   "datePRInfos": {
     "Juin-2018": {
-      "total": 15,
+      "total": 16,
       "merged": 1
     },
     "Mai-2018": {
