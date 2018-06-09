@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-06-09T15:43:35.073Z",
+  "lastUpdate": "2018-06-09T16:42:59.490Z",
   "cowner": "fastify",
   "crepo": "fastify",
-  "totalPR": 581,
+  "totalPR": 582,
   "lastPR": {
-    "createdAt": "2018-06-09T05:38:33Z",
-    "username": "rjoydip"
+    "createdAt": "2018-06-09T16:25:52Z",
+    "username": "allevo"
   },
   "bestPR": {
     "user": "delvedor",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/5157556?v=4"
   },
   "userPRInfos": {
+    "allevo": {
+      "total": 59,
+      "merged": 47,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/1054125?v=4"
+    },
     "rjoydip": {
       "total": 2,
       "merged": 0,
@@ -67,11 +72,6 @@
       "total": 1,
       "merged": 1,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/3322396?v=4"
-    },
-    "allevo": {
-      "total": 58,
-      "merged": 47,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/1054125?v=4"
     },
     "mixecan": {
       "total": 1,
@@ -536,7 +536,7 @@
   },
   "datePRInfos": {
     "Juin-2018": {
-      "total": 6,
+      "total": 7,
       "merged": 3
     },
     "Mai-2018": {
