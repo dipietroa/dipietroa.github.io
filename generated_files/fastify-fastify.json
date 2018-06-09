@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-06-09T04:43:48.997Z",
+  "lastUpdate": "2018-06-09T05:42:53.701Z",
   "cowner": "fastify",
   "crepo": "fastify",
-  "totalPR": 580,
+  "totalPR": 581,
   "lastPR": {
-    "createdAt": "2018-06-08T13:35:18Z",
-    "username": "vincent178"
+    "createdAt": "2018-06-09T05:38:33Z",
+    "username": "rjoydip"
   },
   "bestPR": {
     "user": "delvedor",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/5157556?v=4"
   },
   "userPRInfos": {
+    "rjoydip": {
+      "total": 2,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/15318294?v=4"
+    },
     "vincent178": {
       "total": 4,
       "merged": 3,
@@ -77,11 +82,6 @@
       "total": 1,
       "merged": 1,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/4404425?v=4"
-    },
-    "rjoydip": {
-      "total": 1,
-      "merged": 0,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/15318294?v=4"
     },
     "israeleriston": {
       "total": 2,
@@ -536,7 +536,7 @@
   },
   "datePRInfos": {
     "Juin-2018": {
-      "total": 5,
+      "total": 6,
       "merged": 3
     },
     "Mai-2018": {
