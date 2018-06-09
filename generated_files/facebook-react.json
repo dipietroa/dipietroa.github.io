@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-06-09T21:46:10.279Z",
+  "lastUpdate": "2018-06-09T22:47:03.888Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 6870,
@@ -25,7 +25,7 @@
   "userPRInfos": {
     "nateq314": {
       "total": 4,
-      "merged": 1,
+      "merged": 2,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/1175921?v=4"
     },
     "abhaynikam": {
@@ -10017,7 +10017,7 @@
   "datePRInfos": {
     "Juin-2018": {
       "total": 16,
-      "merged": 2
+      "merged": 3
     },
     "Mai-2018": {
       "total": 125,
