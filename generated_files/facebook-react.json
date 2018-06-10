@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-06-10T00:46:53.209Z",
+  "lastUpdate": "2018-06-10T01:46:00.144Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6870,
+  "totalPR": 6871,
   "lastPR": {
-    "createdAt": "2018-06-08T19:52:53Z",
-    "username": "nateq314"
+    "createdAt": "2018-06-10T00:48:29Z",
+    "username": "pelotom"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars2.githubusercontent.com/u/5346497?v=4"
   },
   "userPRInfos": {
+    "pelotom": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/128019?v=4"
+    },
     "nateq314": {
       "total": 4,
       "merged": 2,
@@ -10016,7 +10021,7 @@
   },
   "datePRInfos": {
     "Juin-2018": {
-      "total": 16,
+      "total": 17,
       "merged": 3
     },
     "Mai-2018": {
