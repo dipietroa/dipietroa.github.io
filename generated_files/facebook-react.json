@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-06-11T08:47:41.924Z",
+  "lastUpdate": "2018-06-11T09:48:07.455Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6871,
+  "totalPR": 6872,
   "lastPR": {
-    "createdAt": "2018-06-10T00:48:29Z",
-    "username": "pelotom"
+    "createdAt": "2018-06-11T08:51:46Z",
+    "username": "asiniy"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/17308201?v=4"
   },
   "userPRInfos": {
+    "asiniy": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/1296472?v=4"
+    },
     "pelotom": {
       "total": 1,
       "merged": 0,
@@ -10021,7 +10026,7 @@
   },
   "datePRInfos": {
     "Juin-2018": {
-      "total": 17,
+      "total": 18,
       "merged": 4
     },
     "Mai-2018": {
