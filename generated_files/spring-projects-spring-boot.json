@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-06-11T11:42:14.706Z",
+  "lastUpdate": "2018-06-11T12:42:13.361Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2657,
+  "totalPR": 2658,
   "lastPR": {
-    "createdAt": "2018-06-08T16:56:20Z",
-    "username": "isopov"
+    "createdAt": "2018-06-11T11:51:03Z",
+    "username": "vtintillier"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "vtintillier": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/494652?v=4"
+    },
     "isopov": {
       "total": 19,
       "merged": 2,
@@ -4036,7 +4041,7 @@
   },
   "datePRInfos": {
     "Juin-2018": {
-      "total": 21,
+      "total": 22,
       "merged": 0
     },
     "Mai-2018": {
