@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-06-11T09:43:42.597Z",
+  "lastUpdate": "2018-06-11T10:43:26.666Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 1187,
+  "totalPR": 1188,
   "lastPR": {
-    "createdAt": "2018-06-06T18:21:14Z",
-    "username": "yozman"
+    "createdAt": "2018-06-11T10:34:55Z",
+    "username": "liximomo"
   },
   "bestPR": {
     "user": "kazupon",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/3408176?v=4"
   },
   "userPRInfos": {
+    "liximomo": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/9816225?v=4"
+    },
     "yozman": {
       "total": 2,
       "merged": 0,
@@ -2661,7 +2666,7 @@
   },
   "datePRInfos": {
     "Juin-2018": {
-      "total": 6,
+      "total": 7,
       "merged": 0
     },
     "Mai-2018": {
