@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-06-11T22:46:57.365Z",
+  "lastUpdate": "2018-06-11T23:46:31.760Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6875,
+  "totalPR": 6876,
   "lastPR": {
-    "createdAt": "2018-06-11T20:32:59Z",
-    "username": "gaearon"
+    "createdAt": "2018-06-11T23:16:46Z",
+    "username": "flarnie"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/17308201?v=4"
   },
   "userPRInfos": {
+    "flarnie": {
+      "total": 117,
+      "merged": 90,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/1114467?v=4"
+    },
     "gaearon": {
       "total": 582,
       "merged": 501,
@@ -72,11 +77,6 @@
       "total": 1,
       "merged": 1,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/11637956?v=4"
-    },
-    "flarnie": {
-      "total": 116,
-      "merged": 89,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/1114467?v=4"
     },
     "frankleng": {
       "total": 1,
@@ -10026,8 +10026,8 @@
   },
   "datePRInfos": {
     "Juin-2018": {
-      "total": 21,
-      "merged": 11
+      "total": 22,
+      "merged": 12
     },
     "Mai-2018": {
       "total": 125,
