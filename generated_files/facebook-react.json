@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-06-11T12:47:30.542Z",
+  "lastUpdate": "2018-06-11T13:48:17.963Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 6872,
@@ -60,12 +60,12 @@
     },
     "nhunzaker": {
       "total": 92,
-      "merged": 51,
+      "merged": 53,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/590904?v=4"
     },
     "ericsoderberghp": {
       "total": 1,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/11637956?v=4"
     },
     "flarnie": {
@@ -90,7 +90,7 @@
     },
     "philipp-spiess": {
       "total": 6,
-      "merged": 4,
+      "merged": 5,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/458591?v=4"
     },
     "acdlite": {
@@ -10027,7 +10027,7 @@
   "datePRInfos": {
     "Juin-2018": {
       "total": 18,
-      "merged": 4
+      "merged": 8
     },
     "Mai-2018": {
       "total": 125,
