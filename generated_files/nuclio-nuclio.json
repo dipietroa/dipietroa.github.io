@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-06-11T04:42:45.788Z",
+  "lastUpdate": "2018-06-11T05:42:46.253Z",
   "cowner": "nuclio",
   "crepo": "nuclio",
-  "totalPR": 607,
+  "totalPR": 608,
   "lastPR": {
-    "createdAt": "2018-06-10T15:03:05Z",
-    "username": "pavius"
+    "createdAt": "2018-06-11T05:27:47Z",
+    "username": "tebeka"
   },
   "bestPR": {
     "user": "pavius",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/25711177?v=4"
   },
   "userPRInfos": {
+    "tebeka": {
+      "total": 90,
+      "merged": 57,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/87697?v=4"
+    },
     "pavius": {
       "total": 311,
       "merged": 308,
@@ -32,11 +37,6 @@
       "total": 49,
       "merged": 48,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/13918850?v=4"
-    },
-    "tebeka": {
-      "total": 89,
-      "merged": 57,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/87697?v=4"
     },
     "ilaykav": {
       "total": 10,
@@ -161,7 +161,7 @@
   },
   "datePRInfos": {
     "Juin-2018": {
-      "total": 6,
+      "total": 7,
       "merged": 6
     },
     "Mai-2018": {
