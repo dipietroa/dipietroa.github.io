@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-06-12T19:48:25.922Z",
+  "lastUpdate": "2018-06-12T20:47:17.736Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6879,
+  "totalPR": 6880,
   "lastPR": {
-    "createdAt": "2018-06-12T19:27:35Z",
-    "username": "fatfisz"
+    "createdAt": "2018-06-12T20:11:33Z",
+    "username": "sebmarkbage"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,15 +23,15 @@
     "image": "https://avatars3.githubusercontent.com/u/17308201?v=4"
   },
   "userPRInfos": {
+    "sebmarkbage": {
+      "total": 263,
+      "merged": 244,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/63648?v=4"
+    },
     "fatfisz": {
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/6004414?v=4"
-    },
-    "sebmarkbage": {
-      "total": 262,
-      "merged": 244,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/63648?v=4"
     },
     "philipp-spiess": {
       "total": 7,
@@ -10031,7 +10031,7 @@
   },
   "datePRInfos": {
     "Juin-2018": {
-      "total": 25,
+      "total": 26,
       "merged": 12
     },
     "Mai-2018": {
