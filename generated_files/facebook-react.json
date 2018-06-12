@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-06-12T00:46:50.287Z",
+  "lastUpdate": "2018-06-12T01:47:19.546Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6876,
+  "totalPR": 6877,
   "lastPR": {
-    "createdAt": "2018-06-11T23:16:46Z",
-    "username": "flarnie"
+    "createdAt": "2018-06-12T00:50:33Z",
+    "username": "philipp-spiess"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/17308201?v=4"
   },
   "userPRInfos": {
+    "philipp-spiess": {
+      "total": 7,
+      "merged": 5,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/458591?v=4"
+    },
     "flarnie": {
       "total": 117,
       "merged": 90,
@@ -92,11 +97,6 @@
       "total": 81,
       "merged": 58,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/250407?v=4"
-    },
-    "philipp-spiess": {
-      "total": 6,
-      "merged": 5,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/458591?v=4"
     },
     "acdlite": {
       "total": 200,
@@ -10026,7 +10026,7 @@
   },
   "datePRInfos": {
     "Juin-2018": {
-      "total": 22,
+      "total": 23,
       "merged": 12
     },
     "Mai-2018": {
