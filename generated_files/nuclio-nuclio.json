@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-06-12T12:43:28.261Z",
+  "lastUpdate": "2018-06-12T13:43:29.633Z",
   "cowner": "nuclio",
   "crepo": "nuclio",
-  "totalPR": 610,
+  "totalPR": 611,
   "lastPR": {
-    "createdAt": "2018-06-12T07:18:24Z",
-    "username": "Sharon-iguazio"
+    "createdAt": "2018-06-12T13:31:33Z",
+    "username": "omriharel"
   },
   "bestPR": {
     "user": "pavius",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/25711177?v=4"
   },
   "userPRInfos": {
+    "omriharel": {
+      "total": 17,
+      "merged": 15,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/10298151?v=4"
+    },
     "Sharon-iguazio": {
       "total": 28,
       "merged": 26,
@@ -47,11 +52,6 @@
       "total": 10,
       "merged": 7,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/16291067?v=4"
-    },
-    "omriharel": {
-      "total": 16,
-      "merged": 15,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/10298151?v=4"
     },
     "mavdryk": {
       "total": 2,
@@ -161,7 +161,7 @@
   },
   "datePRInfos": {
     "Juin-2018": {
-      "total": 9,
+      "total": 10,
       "merged": 7
     },
     "Mai-2018": {
