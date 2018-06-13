@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-06-13T18:43:34.309Z",
+  "lastUpdate": "2018-06-13T19:44:08.845Z",
   "cowner": "fastify",
   "crepo": "fastify",
   "totalPR": 588,
@@ -45,7 +45,7 @@
     },
     "allevo": {
       "total": 59,
-      "merged": 47,
+      "merged": 48,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/1054125?v=4"
     },
     "rjoydip": {
@@ -537,7 +537,7 @@
   "datePRInfos": {
     "Juin-2018": {
       "total": 13,
-      "merged": 5
+      "merged": 6
     },
     "Mai-2018": {
       "total": 21,
