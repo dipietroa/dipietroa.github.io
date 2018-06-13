@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-06-13T17:46:58.333Z",
+  "lastUpdate": "2018-06-13T18:47:22.418Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 6881,
@@ -45,7 +45,7 @@
     },
     "flarnie": {
       "total": 117,
-      "merged": 90,
+      "merged": 91,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/1114467?v=4"
     },
     "gaearon": {
@@ -115,7 +115,7 @@
     },
     "acdlite": {
       "total": 200,
-      "merged": 161,
+      "merged": 162,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/3624098?v=4"
     },
     "hramos": {
@@ -10032,11 +10032,11 @@
   "datePRInfos": {
     "Juin-2018": {
       "total": 27,
-      "merged": 14
+      "merged": 15
     },
     "Mai-2018": {
       "total": 125,
-      "merged": 88
+      "merged": 89
     },
     "Avril-2018": {
       "total": 82,
