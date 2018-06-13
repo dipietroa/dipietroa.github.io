@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-06-13T08:43:41.549Z",
+  "lastUpdate": "2018-06-13T09:43:07.711Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 1190,
+  "totalPR": 1191,
   "lastPR": {
-    "createdAt": "2018-06-13T03:05:08Z",
-    "username": "freedomcly"
+    "createdAt": "2018-06-13T09:29:42Z",
+    "username": "HcySunYang"
   },
   "bestPR": {
     "user": "kazupon",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/3408176?v=4"
   },
   "userPRInfos": {
+    "HcySunYang": {
+      "total": 8,
+      "merged": 5,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/14146560?v=4"
+    },
     "freedomcly": {
       "total": 1,
       "merged": 0,
@@ -292,11 +297,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/14230248?v=4"
-    },
-    "HcySunYang": {
-      "total": 7,
-      "merged": 5,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/14146560?v=4"
     },
     "cobafan": {
       "total": 1,
@@ -2676,7 +2676,7 @@
   },
   "datePRInfos": {
     "Juin-2018": {
-      "total": 9,
+      "total": 10,
       "merged": 0
     },
     "Mai-2018": {
