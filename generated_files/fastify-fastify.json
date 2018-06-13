@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-06-13T20:43:45.563Z",
+  "lastUpdate": "2018-06-13T21:43:53.095Z",
   "cowner": "fastify",
   "crepo": "fastify",
-  "totalPR": 588,
+  "totalPR": 589,
   "lastPR": {
-    "createdAt": "2018-06-12T10:26:34Z",
-    "username": "mcollina"
+    "createdAt": "2018-06-13T20:57:31Z",
+    "username": "allevo"
   },
   "bestPR": {
     "user": "delvedor",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/5157556?v=4"
   },
   "userPRInfos": {
+    "allevo": {
+      "total": 60,
+      "merged": 48,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/1054125?v=4"
+    },
     "mcollina": {
       "total": 72,
       "merged": 67,
@@ -42,11 +47,6 @@
       "total": 36,
       "merged": 27,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/1764424?v=4"
-    },
-    "allevo": {
-      "total": 59,
-      "merged": 48,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/1054125?v=4"
     },
     "rjoydip": {
       "total": 2,
@@ -536,7 +536,7 @@
   },
   "datePRInfos": {
     "Juin-2018": {
-      "total": 13,
+      "total": 14,
       "merged": 6
     },
     "Mai-2018": {
