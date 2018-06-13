@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-06-13T02:46:59.716Z",
+  "lastUpdate": "2018-06-13T03:47:17.083Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6880,
+  "totalPR": 6881,
   "lastPR": {
-    "createdAt": "2018-06-12T20:11:33Z",
-    "username": "sebmarkbage"
+    "createdAt": "2018-06-13T03:41:36Z",
+    "username": "jddxf"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars0.githubusercontent.com/u/6004414?v=4"
   },
   "userPRInfos": {
+    "jddxf": {
+      "total": 8,
+      "merged": 5,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/11155177?v=4"
+    },
     "sebmarkbage": {
       "total": 263,
       "merged": 244,
@@ -2807,11 +2812,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/13138665?v=4"
-    },
-    "jddxf": {
-      "total": 7,
-      "merged": 5,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/11155177?v=4"
     },
     "stevemao": {
       "total": 3,
@@ -10031,7 +10031,7 @@
   },
   "datePRInfos": {
     "Juin-2018": {
-      "total": 26,
+      "total": 27,
       "merged": 13
     },
     "Mai-2018": {
