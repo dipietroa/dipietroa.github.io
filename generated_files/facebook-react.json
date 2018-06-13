@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-06-13T22:47:26.559Z",
+  "lastUpdate": "2018-06-13T23:46:46.342Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6881,
+  "totalPR": 6882,
   "lastPR": {
-    "createdAt": "2018-06-13T03:41:36Z",
-    "username": "jddxf"
+    "createdAt": "2018-06-13T23:13:57Z",
+    "username": "acdlite"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars0.githubusercontent.com/u/6004414?v=4"
   },
   "userPRInfos": {
+    "acdlite": {
+      "total": 201,
+      "merged": 162,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/3624098?v=4"
+    },
     "jddxf": {
       "total": 8,
       "merged": 5,
@@ -30,7 +35,7 @@
     },
     "sebmarkbage": {
       "total": 263,
-      "merged": 244,
+      "merged": 245,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/63648?v=4"
     },
     "fatfisz": {
@@ -112,11 +117,6 @@
       "total": 81,
       "merged": 58,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/250407?v=4"
-    },
-    "acdlite": {
-      "total": 200,
-      "merged": 162,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/3624098?v=4"
     },
     "hramos": {
       "total": 19,
@@ -10031,8 +10031,8 @@
   },
   "datePRInfos": {
     "Juin-2018": {
-      "total": 27,
-      "merged": 15
+      "total": 28,
+      "merged": 16
     },
     "Mai-2018": {
       "total": 125,
