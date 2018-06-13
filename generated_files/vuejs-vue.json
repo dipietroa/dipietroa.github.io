@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-06-13T01:42:45.697Z",
+  "lastUpdate": "2018-06-13T02:42:59.004Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 1188,
+  "totalPR": 1189,
   "lastPR": {
-    "createdAt": "2018-06-11T10:34:55Z",
-    "username": "liximomo"
+    "createdAt": "2018-06-13T01:54:01Z",
+    "username": "ClickerMonkey"
   },
   "bestPR": {
     "user": "kazupon",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/3408176?v=4"
   },
   "userPRInfos": {
+    "ClickerMonkey": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/421233?v=4"
+    },
     "liximomo": {
       "total": 1,
       "merged": 0,
@@ -2666,7 +2671,7 @@
   },
   "datePRInfos": {
     "Juin-2018": {
-      "total": 7,
+      "total": 8,
       "merged": 0
     },
     "Mai-2018": {
