@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-06-14T14:49:13.738Z",
+  "lastUpdate": "2018-06-14T15:49:05.230Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 6883,
@@ -355,7 +355,7 @@
     },
     "crux153": {
       "total": 1,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/10908841?v=4"
     },
     "EnoahNetzach": {
@@ -10045,7 +10045,7 @@
     },
     "Avril-2018": {
       "total": 82,
-      "merged": 60
+      "merged": 61
     },
     "Mars-2018": {
       "total": 88,
