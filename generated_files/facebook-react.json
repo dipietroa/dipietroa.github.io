@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-06-14T06:47:57.236Z",
+  "lastUpdate": "2018-06-14T07:48:09.321Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6882,
+  "totalPR": 6883,
   "lastPR": {
-    "createdAt": "2018-06-13T23:13:57Z",
-    "username": "acdlite"
+    "createdAt": "2018-06-14T07:13:45Z",
+    "username": "jasonslyvia"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars0.githubusercontent.com/u/6004414?v=4"
   },
   "userPRInfos": {
+    "jasonslyvia": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/1336484?v=4"
+    },
     "acdlite": {
       "total": 201,
       "merged": 162,
@@ -10031,7 +10036,7 @@
   },
   "datePRInfos": {
     "Juin-2018": {
-      "total": 28,
+      "total": 29,
       "merged": 17
     },
     "Mai-2018": {
