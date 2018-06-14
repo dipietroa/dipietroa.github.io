@@ -1,15 +1,15 @@
 {
-  "lastUpdate": "2018-06-14T18:42:27.049Z",
+  "lastUpdate": "2018-06-14T19:41:47.139Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2665,
+  "totalPR": 2666,
   "lastPR": {
-    "createdAt": "2018-06-14T18:10:07Z",
-    "username": "ebussieres"
+    "createdAt": "2018-06-14T18:55:01Z",
+    "username": "izeye"
   },
   "bestPR": {
     "user": "izeye",
-    "nbPR": 405,
+    "nbPR": 406,
     "image": "https://avatars3.githubusercontent.com/u/1059363?v=4"
   },
   "bestMerged": {
@@ -23,15 +23,15 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "izeye": {
+      "total": 406,
+      "merged": 2,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/1059363?v=4"
+    },
     "ebussieres": {
       "total": 2,
       "merged": 0,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/10672519?v=4"
-    },
-    "izeye": {
-      "total": 405,
-      "merged": 2,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/1059363?v=4"
     },
     "jkschneider": {
       "total": 33,
@@ -4041,7 +4041,7 @@
   },
   "datePRInfos": {
     "Juin-2018": {
-      "total": 29,
+      "total": 30,
       "merged": 1
     },
     "Mai-2018": {
