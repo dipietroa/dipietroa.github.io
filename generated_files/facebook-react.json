@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-06-13T23:46:46.342Z",
+  "lastUpdate": "2018-06-14T00:46:43.691Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 6882,
@@ -35,7 +35,7 @@
     },
     "sebmarkbage": {
       "total": 263,
-      "merged": 245,
+      "merged": 246,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/63648?v=4"
     },
     "fatfisz": {
@@ -10032,7 +10032,7 @@
   "datePRInfos": {
     "Juin-2018": {
       "total": 28,
-      "merged": 16
+      "merged": 17
     },
     "Mai-2018": {
       "total": 125,
