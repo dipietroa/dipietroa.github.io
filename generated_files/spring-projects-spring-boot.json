@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-06-15T13:42:30.094Z",
+  "lastUpdate": "2018-06-15T14:42:21.217Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2667,
+  "totalPR": 2668,
   "lastPR": {
-    "createdAt": "2018-06-15T08:22:48Z",
-    "username": "izeye"
+    "createdAt": "2018-06-15T14:09:51Z",
+    "username": "chrisgahlert"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "chrisgahlert": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/1876381?v=4"
+    },
     "izeye": {
       "total": 407,
       "merged": 2,
@@ -4041,7 +4046,7 @@
   },
   "datePRInfos": {
     "Juin-2018": {
-      "total": 31,
+      "total": 32,
       "merged": 1
     },
     "Mai-2018": {
