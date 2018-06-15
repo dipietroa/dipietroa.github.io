@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-06-15T12:48:04.160Z",
+  "lastUpdate": "2018-06-15T13:47:53.516Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 6884,
@@ -2925,7 +2925,7 @@
     },
     "jasonwilliams": {
       "total": 2,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/936006?v=4"
     },
     "davidflanagan": {
@@ -10101,7 +10101,7 @@
     },
     "Février-2017": {
       "total": 115,
-      "merged": 83
+      "merged": 84
     },
     "Janvier-2017": {
       "total": 149,
