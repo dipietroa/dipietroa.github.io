@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-06-15T20:47:20.913Z",
+  "lastUpdate": "2018-06-15T21:47:17.235Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6886,
+  "totalPR": 6887,
   "lastPR": {
-    "createdAt": "2018-06-15T18:33:11Z",
-    "username": "gaearon"
+    "createdAt": "2018-06-15T21:21:08Z",
+    "username": "acdlite"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars0.githubusercontent.com/u/6004414?v=4"
   },
   "userPRInfos": {
+    "acdlite": {
+      "total": 202,
+      "merged": 164,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/3624098?v=4"
+    },
     "gaearon": {
       "total": 585,
       "merged": 503,
@@ -32,11 +37,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/1336484?v=4"
-    },
-    "acdlite": {
-      "total": 201,
-      "merged": 164,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/3624098?v=4"
     },
     "jddxf": {
       "total": 8,
@@ -10036,7 +10036,7 @@
   },
   "datePRInfos": {
     "Juin-2018": {
-      "total": 32,
+      "total": 33,
       "merged": 21
     },
     "Mai-2018": {
