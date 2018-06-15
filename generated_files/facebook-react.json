@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-06-15T22:46:41.509Z",
+  "lastUpdate": "2018-06-15T23:46:53.653Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 6887,
@@ -1329,7 +1329,7 @@
       "avatarUrl": "https://avatars0.githubusercontent.com/u/14318826?v=4"
     },
     "ghost": {
-      "total": 18,
+      "total": 20,
       "merged": 8,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/10137?v=4"
     },
@@ -7327,11 +7327,6 @@
       "total": 2,
       "merged": 1,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/1355481?v=4"
-    },
-    "Lucaslimay": {
-      "total": 2,
-      "merged": 0,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/4366755?v=4"
     },
     "jstoja": {
       "total": 2,
