@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "2018-06-15T17:47:16.821Z",
+  "lastUpdate": "2018-06-15T18:47:12.238Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6885,
+  "totalPR": 6886,
   "lastPR": {
-    "createdAt": "2018-06-15T17:28:26Z",
+    "createdAt": "2018-06-15T18:33:11Z",
     "username": "gaearon"
   },
   "bestPR": {
@@ -24,8 +24,8 @@
   },
   "userPRInfos": {
     "gaearon": {
-      "total": 584,
-      "merged": 502,
+      "total": 585,
+      "merged": 503,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/810438?v=4"
     },
     "jasonslyvia": {
@@ -10036,8 +10036,8 @@
   },
   "datePRInfos": {
     "Juin-2018": {
-      "total": 31,
-      "merged": 20
+      "total": 32,
+      "merged": 21
     },
     "Mai-2018": {
       "total": 125,
