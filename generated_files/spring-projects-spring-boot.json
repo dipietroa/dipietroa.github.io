@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-06-16T05:41:39.705Z",
+  "lastUpdate": "2018-06-16T06:41:30.826Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2668,
+  "totalPR": 2669,
   "lastPR": {
-    "createdAt": "2018-06-15T14:09:51Z",
-    "username": "chrisgahlert"
+    "createdAt": "2018-06-16T05:48:20Z",
+    "username": "ralic"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "ralic": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/6745746?v=4"
+    },
     "chrisgahlert": {
       "total": 1,
       "merged": 0,
@@ -4046,7 +4051,7 @@
   },
   "datePRInfos": {
     "Juin-2018": {
-      "total": 32,
+      "total": 33,
       "merged": 1
     },
     "Mai-2018": {
