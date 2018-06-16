@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-06-16T02:43:12.413Z",
+  "lastUpdate": "2018-06-16T03:42:55.587Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 1194,
+  "totalPR": 1195,
   "lastPR": {
-    "createdAt": "2018-06-15T06:55:34Z",
-    "username": "xiongzixiao"
+    "createdAt": "2018-06-16T03:11:31Z",
+    "username": "yywc"
   },
   "bestPR": {
     "user": "kazupon",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/3408176?v=4"
   },
   "userPRInfos": {
+    "yywc": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/18376480?v=4"
+    },
     "xiongzixiao": {
       "total": 1,
       "merged": 0,
@@ -2686,7 +2691,7 @@
   },
   "datePRInfos": {
     "Juin-2018": {
-      "total": 13,
+      "total": 14,
       "merged": 0
     },
     "Mai-2018": {
