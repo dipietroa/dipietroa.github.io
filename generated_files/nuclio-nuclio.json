@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-06-17T16:43:41.268Z",
+  "lastUpdate": "2018-06-17T17:43:25.061Z",
   "cowner": "nuclio",
   "crepo": "nuclio",
   "totalPR": 621,
@@ -25,7 +25,7 @@
   "userPRInfos": {
     "tebeka": {
       "total": 91,
-      "merged": 57,
+      "merged": 58,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/87697?v=4"
     },
     "pavius": {
@@ -55,7 +55,7 @@
     },
     "Sharon-iguazio": {
       "total": 28,
-      "merged": 26,
+      "merged": 27,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/27913885?v=4"
     },
     "ilaykav": {
@@ -162,7 +162,7 @@
   "datePRInfos": {
     "Juin-2018": {
       "total": 20,
-      "merged": 16
+      "merged": 18
     },
     "Mai-2018": {
       "total": 49,
