@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-06-19T08:43:46.419Z",
+  "lastUpdate": "2018-06-19T09:44:20.793Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 1197,
+  "totalPR": 1198,
   "lastPR": {
-    "createdAt": "2018-06-19T06:17:28Z",
-    "username": "verstoff"
+    "createdAt": "2018-06-19T09:02:19Z",
+    "username": "sodatea"
   },
   "bestPR": {
     "user": "kazupon",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/3408176?v=4"
   },
   "userPRInfos": {
+    "sodatea": {
+      "total": 3,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/3277634?v=4"
+    },
     "verstoff": {
       "total": 1,
       "merged": 0,
@@ -262,11 +267,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/29660847?v=4"
-    },
-    "sodatea": {
-      "total": 2,
-      "merged": 0,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/3277634?v=4"
     },
     "gebilaoxiong": {
       "total": 21,
@@ -2701,7 +2701,7 @@
   },
   "datePRInfos": {
     "Juin-2018": {
-      "total": 16,
+      "total": 17,
       "merged": 0
     },
     "Mai-2018": {
