@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "2018-06-20T05:42:51.634Z",
+  "lastUpdate": "2018-06-20T06:42:55.539Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 1198,
+  "totalPR": 1199,
   "lastPR": {
-    "createdAt": "2018-06-19T09:02:19Z",
+    "createdAt": "2018-06-20T06:31:38Z",
     "username": "sodatea"
   },
   "bestPR": {
@@ -24,7 +24,7 @@
   },
   "userPRInfos": {
     "sodatea": {
-      "total": 3,
+      "total": 4,
       "merged": 0,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/3277634?v=4"
     },
@@ -2701,7 +2701,7 @@
   },
   "datePRInfos": {
     "Juin-2018": {
-      "total": 17,
+      "total": 18,
       "merged": 0
     },
     "Mai-2018": {
