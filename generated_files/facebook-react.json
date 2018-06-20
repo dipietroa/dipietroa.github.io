@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-06-20T04:46:10.576Z",
+  "lastUpdate": "2018-06-20T05:46:51.450Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6894,
+  "totalPR": 6895,
   "lastPR": {
-    "createdAt": "2018-06-20T01:05:12Z",
-    "username": "nateq314"
+    "createdAt": "2018-06-20T05:12:00Z",
+    "username": "mridgway"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars0.githubusercontent.com/u/6004414?v=4"
   },
   "userPRInfos": {
+    "mridgway": {
+      "total": 10,
+      "merged": 5,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/191142?v=4"
+    },
     "nateq314": {
       "total": 6,
       "merged": 2,
@@ -2402,11 +2407,6 @@
       "total": 1,
       "merged": 1,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/10137641?v=4"
-    },
-    "mridgway": {
-      "total": 9,
-      "merged": 5,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/191142?v=4"
     },
     "paulmanta": {
       "total": 2,
@@ -10031,7 +10031,7 @@
   },
   "datePRInfos": {
     "Juin-2018": {
-      "total": 40,
+      "total": 41,
       "merged": 26
     },
     "Mai-2018": {
