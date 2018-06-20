@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "2018-06-20T00:46:26.999Z",
+  "lastUpdate": "2018-06-20T01:47:17.986Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6893,
+  "totalPR": 6894,
   "lastPR": {
-    "createdAt": "2018-06-20T00:10:33Z",
+    "createdAt": "2018-06-20T01:05:12Z",
     "username": "nateq314"
   },
   "bestPR": {
@@ -24,7 +24,7 @@
   },
   "userPRInfos": {
     "nateq314": {
-      "total": 5,
+      "total": 6,
       "merged": 2,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/1175921?v=4"
     },
@@ -10031,7 +10031,7 @@
   },
   "datePRInfos": {
     "Juin-2018": {
-      "total": 39,
+      "total": 40,
       "merged": 26
     },
     "Mai-2018": {
