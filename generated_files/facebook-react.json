@@ -1,8 +1,8 @@
 {
-  "lastUpdate": "2018-06-20T18:48:19.082Z",
+  "lastUpdate": "2018-06-20T19:47:44.795Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6896,
+  "totalPR": 6897,
   "lastPR": {
     "createdAt": "2018-06-20T13:59:09Z",
     "username": "TrySound"
@@ -8404,8 +8404,8 @@
       "avatarUrl": "https://avatars3.githubusercontent.com/u/437517?v=4"
     },
     "kikyous": {
-      "total": 1,
-      "merged": 1,
+      "total": 2,
+      "merged": 2,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/818616?v=4"
     },
     "JoshSGman": {
@@ -10195,8 +10195,8 @@
       "merged": 98
     },
     "Janvier-2015": {
-      "total": 109,
-      "merged": 87
+      "total": 110,
+      "merged": 88
     },
     "Décembre-2014": {
       "total": 77,
