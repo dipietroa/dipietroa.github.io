@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-06-20T13:48:36.532Z",
+  "lastUpdate": "2018-06-20T14:49:50.690Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6895,
+  "totalPR": 6896,
   "lastPR": {
-    "createdAt": "2018-06-20T05:12:00Z",
-    "username": "mridgway"
+    "createdAt": "2018-06-20T13:59:09Z",
+    "username": "TrySound"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars0.githubusercontent.com/u/6004414?v=4"
   },
   "userPRInfos": {
+    "TrySound": {
+      "total": 2,
+      "merged": 1,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/5635476?v=4"
+    },
     "mridgway": {
       "total": 10,
       "merged": 5,
@@ -2157,11 +2162,6 @@
       "total": 1,
       "merged": 1,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/11088128?v=4"
-    },
-    "TrySound": {
-      "total": 1,
-      "merged": 1,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/5635476?v=4"
     },
     "kjarnet": {
       "total": 1,
@@ -10031,7 +10031,7 @@
   },
   "datePRInfos": {
     "Juin-2018": {
-      "total": 41,
+      "total": 42,
       "merged": 26
     },
     "Mai-2018": {
