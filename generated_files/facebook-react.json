@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-06-20T19:47:44.795Z",
+  "lastUpdate": "2018-06-20T20:48:22.070Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 6897,
   "lastPR": {
-    "createdAt": "2018-06-20T13:59:09Z",
-    "username": "TrySound"
+    "createdAt": "2018-06-20T19:46:53Z",
+    "username": "jasonwilliams"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars0.githubusercontent.com/u/6004414?v=4"
   },
   "userPRInfos": {
+    "jasonwilliams": {
+      "total": 3,
+      "merged": 1,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/936006?v=4"
+    },
     "TrySound": {
       "total": 2,
       "merged": 1,
@@ -2922,11 +2927,6 @@
       "total": 2,
       "merged": 1,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/1024980?v=4"
-    },
-    "jasonwilliams": {
-      "total": 2,
-      "merged": 1,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/936006?v=4"
     },
     "davidflanagan": {
       "total": 1,
@@ -8404,8 +8404,8 @@
       "avatarUrl": "https://avatars3.githubusercontent.com/u/437517?v=4"
     },
     "kikyous": {
-      "total": 2,
-      "merged": 2,
+      "total": 1,
+      "merged": 1,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/818616?v=4"
     },
     "JoshSGman": {
@@ -10031,7 +10031,7 @@
   },
   "datePRInfos": {
     "Juin-2018": {
-      "total": 42,
+      "total": 43,
       "merged": 28
     },
     "Mai-2018": {
@@ -10195,8 +10195,8 @@
       "merged": 98
     },
     "Janvier-2015": {
-      "total": 110,
-      "merged": 88
+      "total": 109,
+      "merged": 87
     },
     "Décembre-2014": {
       "total": 77,
