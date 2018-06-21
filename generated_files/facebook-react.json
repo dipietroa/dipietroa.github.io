@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-06-21T20:47:38.725Z",
+  "lastUpdate": "2018-06-21T21:47:40.104Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6900,
+  "totalPR": 6901,
   "lastPR": {
-    "createdAt": "2018-06-21T19:20:38Z",
-    "username": "dustinsoftware"
+    "createdAt": "2018-06-21T21:35:22Z",
+    "username": "jasonwilliams"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars0.githubusercontent.com/u/6004414?v=4"
   },
   "userPRInfos": {
+    "jasonwilliams": {
+      "total": 4,
+      "merged": 2,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/936006?v=4"
+    },
     "dustinsoftware": {
       "total": 1,
       "merged": 0,
@@ -37,11 +42,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/9668104?v=4"
-    },
-    "jasonwilliams": {
-      "total": 3,
-      "merged": 2,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/936006?v=4"
     },
     "TrySound": {
       "total": 2,
@@ -10041,7 +10041,7 @@
   },
   "datePRInfos": {
     "Juin-2018": {
-      "total": 46,
+      "total": 47,
       "merged": 31
     },
     "Mai-2018": {
