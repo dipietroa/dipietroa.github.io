@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-06-21T12:41:43.177Z",
+  "lastUpdate": "2018-06-21T13:42:25.024Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2678,
+  "totalPR": 2679,
   "lastPR": {
-    "createdAt": "2018-06-21T06:50:58Z",
-    "username": "Lisanaaa"
+    "createdAt": "2018-06-21T13:00:08Z",
+    "username": "klu2"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "klu2": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/172195?v=4"
+    },
     "Lisanaaa": {
       "total": 1,
       "merged": 0,
@@ -4061,7 +4066,7 @@
   },
   "datePRInfos": {
     "Juin-2018": {
-      "total": 42,
+      "total": 43,
       "merged": 1
     },
     "Mai-2018": {
