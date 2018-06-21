@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-06-21T16:47:47.603Z",
+  "lastUpdate": "2018-06-21T17:47:20.689Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6898,
+  "totalPR": 6899,
   "lastPR": {
-    "createdAt": "2018-06-21T16:17:19Z",
-    "username": "josephlin55555"
+    "createdAt": "2018-06-21T17:10:13Z",
+    "username": "nateq314"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars0.githubusercontent.com/u/6004414?v=4"
   },
   "userPRInfos": {
+    "nateq314": {
+      "total": 7,
+      "merged": 3,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/1175921?v=4"
+    },
     "josephlin55555": {
       "total": 1,
       "merged": 0,
@@ -42,11 +47,6 @@
       "total": 10,
       "merged": 5,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/191142?v=4"
-    },
-    "nateq314": {
-      "total": 6,
-      "merged": 3,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/1175921?v=4"
     },
     "gaearon": {
       "total": 587,
@@ -10036,7 +10036,7 @@
   },
   "datePRInfos": {
     "Juin-2018": {
-      "total": 44,
+      "total": 45,
       "merged": 29
     },
     "Mai-2018": {
