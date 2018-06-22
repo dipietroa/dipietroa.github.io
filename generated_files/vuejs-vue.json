@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-06-22T09:43:28.029Z",
+  "lastUpdate": "2018-06-22T10:43:15.146Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 1201,
+  "totalPR": 1202,
   "lastPR": {
-    "createdAt": "2018-06-21T21:39:26Z",
-    "username": "enkot"
+    "createdAt": "2018-06-22T10:04:04Z",
+    "username": "xiongzixiao"
   },
   "bestPR": {
     "user": "kazupon",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/3408176?v=4"
   },
   "userPRInfos": {
+    "xiongzixiao": {
+      "total": 2,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/16186659?v=4"
+    },
     "enkot": {
       "total": 1,
       "merged": 0,
@@ -52,11 +57,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/18376480?v=4"
-    },
-    "xiongzixiao": {
-      "total": 1,
-      "merged": 0,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/16186659?v=4"
     },
     "tonyraoul": {
       "total": 2,
@@ -2711,7 +2711,7 @@
   },
   "datePRInfos": {
     "Juin-2018": {
-      "total": 20,
+      "total": 21,
       "merged": 0
     },
     "Mai-2018": {
