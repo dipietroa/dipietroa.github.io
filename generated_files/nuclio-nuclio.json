@@ -1,15 +1,15 @@
 {
-  "lastUpdate": "2018-06-23T06:42:43.087Z",
+  "lastUpdate": "2018-06-23T07:43:01.313Z",
   "cowner": "nuclio",
   "crepo": "nuclio",
-  "totalPR": 623,
+  "totalPR": 624,
   "lastPR": {
-    "createdAt": "2018-06-20T12:08:45Z",
-    "username": "YarovoiVadym"
+    "createdAt": "2018-06-23T07:35:48Z",
+    "username": "pavius"
   },
   "bestPR": {
     "user": "pavius",
-    "nbPR": 316,
+    "nbPR": 317,
     "image": "https://avatars2.githubusercontent.com/u/423987?v=4"
   },
   "bestMerged": {
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/25711177?v=4"
   },
   "userPRInfos": {
+    "pavius": {
+      "total": 317,
+      "merged": 313,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/423987?v=4"
+    },
     "YarovoiVadym": {
       "total": 6,
       "merged": 4,
@@ -37,11 +42,6 @@
       "total": 91,
       "merged": 58,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/87697?v=4"
-    },
-    "pavius": {
-      "total": 316,
-      "merged": 313,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/423987?v=4"
     },
     "maksym-kyselytsia": {
       "total": 9,
@@ -161,7 +161,7 @@
   },
   "datePRInfos": {
     "Juin-2018": {
-      "total": 22,
+      "total": 23,
       "merged": 19
     },
     "Mai-2018": {
