@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-06-24T13:42:38.585Z",
+  "lastUpdate": "2018-06-24T14:43:07.832Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 1202,
+  "totalPR": 1203,
   "lastPR": {
-    "createdAt": "2018-06-22T10:04:04Z",
-    "username": "xiongzixiao"
+    "createdAt": "2018-06-24T14:34:38Z",
+    "username": "wqzwh"
   },
   "bestPR": {
     "user": "kazupon",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/3408176?v=4"
   },
   "userPRInfos": {
+    "wqzwh": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/16662470?v=4"
+    },
     "xiongzixiao": {
       "total": 2,
       "merged": 0,
@@ -2711,7 +2716,7 @@
   },
   "datePRInfos": {
     "Juin-2018": {
-      "total": 21,
+      "total": 22,
       "merged": 0
     },
     "Mai-2018": {
