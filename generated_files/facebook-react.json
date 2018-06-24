@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-06-24T08:46:12.173Z",
+  "lastUpdate": "2018-06-24T09:47:00.734Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 6905,
@@ -40,7 +40,7 @@
     },
     "jasonwilliams": {
       "total": 4,
-      "merged": 2,
+      "merged": 3,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/936006?v=4"
     },
     "dustinsoftware": {
@@ -10047,7 +10047,7 @@
   "datePRInfos": {
     "Juin-2018": {
       "total": 51,
-      "merged": 33
+      "merged": 34
     },
     "Mai-2018": {
       "total": 125,
