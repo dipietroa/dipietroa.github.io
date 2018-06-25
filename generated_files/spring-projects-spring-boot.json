@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-06-25T15:42:04.371Z",
+  "lastUpdate": "2018-06-25T16:42:31.679Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2686,
+  "totalPR": 2687,
   "lastPR": {
-    "createdAt": "2018-06-25T09:50:50Z",
-    "username": "elgcdju"
+    "createdAt": "2018-06-25T16:07:59Z",
+    "username": "galderz"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "galderz": {
+      "total": 3,
+      "merged": 0,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/50187?v=4"
+    },
     "elgcdju": {
       "total": 1,
       "merged": 0,
@@ -1387,11 +1392,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/5882081?v=4"
-    },
-    "galderz": {
-      "total": 2,
-      "merged": 0,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/50187?v=4"
     },
     "blossoms": {
       "total": 1,
@@ -4081,7 +4081,7 @@
   },
   "datePRInfos": {
     "Juin-2018": {
-      "total": 50,
+      "total": 51,
       "merged": 1
     },
     "Mai-2018": {
