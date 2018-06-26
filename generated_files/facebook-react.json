@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-06-26T19:47:21.455Z",
+  "lastUpdate": "2018-06-26T20:47:17.088Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 6909,
@@ -25,7 +25,7 @@
   "userPRInfos": {
     "bvaughn": {
       "total": 235,
-      "merged": 216,
+      "merged": 217,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/29597?v=4"
     },
     "raunofreiberg": {
@@ -10047,7 +10047,7 @@
   "datePRInfos": {
     "Juin-2018": {
       "total": 55,
-      "merged": 35
+      "merged": 36
     },
     "Mai-2018": {
       "total": 125,
