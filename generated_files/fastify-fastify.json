@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-06-26T01:44:05.456Z",
+  "lastUpdate": "2018-06-26T02:44:13.810Z",
   "cowner": "fastify",
   "crepo": "fastify",
-  "totalPR": 598,
+  "totalPR": 599,
   "lastPR": {
-    "createdAt": "2018-06-24T07:13:02Z",
-    "username": "vincent178"
+    "createdAt": "2018-06-26T02:32:37Z",
+    "username": "ishanray"
   },
   "bestPR": {
     "user": "delvedor",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/321201?v=4"
   },
   "userPRInfos": {
+    "ishanray": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/5403397?v=4"
+    },
     "vincent178": {
       "total": 6,
       "merged": 3,
@@ -536,7 +541,7 @@
   },
   "datePRInfos": {
     "Juin-2018": {
-      "total": 23,
+      "total": 24,
       "merged": 18
     },
     "Mai-2018": {
