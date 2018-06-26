@@ -1,20 +1,20 @@
 {
-  "lastUpdate": "2018-06-26T08:48:34.463Z",
+  "lastUpdate": "2018-06-26T09:48:32.150Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 6908,
   "lastPR": {
-    "createdAt": "2018-06-25T22:02:33Z",
-    "username": "flarnie"
+    "createdAt": "2018-06-26T08:47:11Z",
+    "username": "raunofreiberg"
   },
   "bestPR": {
     "user": "sophiebits",
-    "nbPR": 666,
+    "nbPR": 665,
     "image": "https://avatars2.githubusercontent.com/u/6820?v=4"
   },
   "bestMerged": {
     "user": "sophiebits",
-    "nbPR": 591,
+    "nbPR": 590,
     "image": "https://avatars2.githubusercontent.com/u/6820?v=4"
   },
   "bestRatio": {
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/942358?v=4"
   },
   "userPRInfos": {
+    "raunofreiberg": {
+      "total": 6,
+      "merged": 2,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/23662329?v=4"
+    },
     "flarnie": {
       "total": 119,
       "merged": 92,
@@ -214,8 +219,8 @@
       "avatarUrl": "https://avatars0.githubusercontent.com/u/11804936?v=4"
     },
     "sophiebits": {
-      "total": 666,
-      "merged": 591,
+      "total": 665,
+      "merged": 590,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/6820?v=4"
     },
     "kevinkassimo": {
@@ -312,11 +317,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/35113398?v=4"
-    },
-    "raunofreiberg": {
-      "total": 5,
-      "merged": 2,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/23662329?v=4"
     },
     "airamrguez": {
       "total": 1,
@@ -10046,7 +10046,7 @@
   },
   "datePRInfos": {
     "Juin-2018": {
-      "total": 53,
+      "total": 54,
       "merged": 34
     },
     "Mai-2018": {
@@ -10182,8 +10182,8 @@
       "merged": 94
     },
     "Août-2015": {
-      "total": 102,
-      "merged": 79
+      "total": 101,
+      "merged": 78
     },
     "Juillet-2015": {
       "total": 138,
