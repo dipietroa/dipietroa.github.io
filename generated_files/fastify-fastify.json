@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-06-26T23:43:06.061Z",
+  "lastUpdate": "2018-06-27T00:43:19.064Z",
   "cowner": "fastify",
   "crepo": "fastify",
-  "totalPR": 600,
+  "totalPR": 601,
   "lastPR": {
-    "createdAt": "2018-06-26T14:07:36Z",
-    "username": "vincent178"
+    "createdAt": "2018-06-26T23:54:07Z",
+    "username": "jsumners"
   },
   "bestPR": {
     "user": "delvedor",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/321201?v=4"
   },
   "userPRInfos": {
+    "jsumners": {
+      "total": 38,
+      "merged": 38,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/321201?v=4"
+    },
     "vincent178": {
       "total": 7,
       "merged": 4,
@@ -37,11 +42,6 @@
       "total": 63,
       "merged": 52,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/1054125?v=4"
-    },
-    "jsumners": {
-      "total": 37,
-      "merged": 37,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/321201?v=4"
     },
     "delvedor": {
       "total": 102,
@@ -541,8 +541,8 @@
   },
   "datePRInfos": {
     "Juin-2018": {
-      "total": 25,
-      "merged": 19
+      "total": 26,
+      "merged": 20
     },
     "Mai-2018": {
       "total": 21,
