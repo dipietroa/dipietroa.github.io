@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-06-28T04:46:57.113Z",
+  "lastUpdate": "2018-06-28T05:46:41.604Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6911,
+  "totalPR": 6913,
   "lastPR": {
-    "createdAt": "2018-06-27T16:40:45Z",
-    "username": "jquense"
+    "createdAt": "2018-06-28T05:15:25Z",
+    "username": "sw-yx"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,16 @@
     "image": "https://avatars3.githubusercontent.com/u/942358?v=4"
   },
   "userPRInfos": {
+    "sw-yx": {
+      "total": 4,
+      "merged": 1,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/6764957?v=4"
+    },
+    "acdlite": {
+      "total": 208,
+      "merged": 166,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/3624098?v=4"
+    },
     "jquense": {
       "total": 39,
       "merged": 20,
@@ -47,11 +57,6 @@
       "total": 119,
       "merged": 92,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/1114467?v=4"
-    },
-    "acdlite": {
-      "total": 207,
-      "merged": 166,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/3624098?v=4"
     },
     "motiz88": {
       "total": 1,
@@ -1122,11 +1127,6 @@
       "total": 2,
       "merged": 2,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/8238179?v=4"
-    },
-    "sw-yx": {
-      "total": 3,
-      "merged": 1,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/6764957?v=4"
     },
     "BreahnaDavid": {
       "total": 1,
@@ -10051,7 +10051,7 @@
   },
   "datePRInfos": {
     "Juin-2018": {
-      "total": 57,
+      "total": 59,
       "merged": 36
     },
     "Mai-2018": {
