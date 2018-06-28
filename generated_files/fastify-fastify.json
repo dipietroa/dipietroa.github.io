@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-06-28T14:44:09.562Z",
+  "lastUpdate": "2018-06-28T15:44:36.884Z",
   "cowner": "fastify",
   "crepo": "fastify",
-  "totalPR": 604,
+  "totalPR": 605,
   "lastPR": {
-    "createdAt": "2018-06-28T08:48:25Z",
-    "username": "lependu"
+    "createdAt": "2018-06-28T15:12:27Z",
+    "username": "fralonra"
   },
   "bestPR": {
     "user": "delvedor",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/321201?v=4"
   },
   "userPRInfos": {
+    "fralonra": {
+      "total": 2,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/20400873?v=4"
+    },
     "lependu": {
       "total": 4,
       "merged": 3,
@@ -182,11 +187,6 @@
       "total": 1,
       "merged": 1,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/201101?v=4"
-    },
-    "fralonra": {
-      "total": 1,
-      "merged": 0,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/20400873?v=4"
     },
     "Ethan-Arrowood": {
       "total": 5,
@@ -541,7 +541,7 @@
   },
   "datePRInfos": {
     "Juin-2018": {
-      "total": 29,
+      "total": 30,
       "merged": 21
     },
     "Mai-2018": {
