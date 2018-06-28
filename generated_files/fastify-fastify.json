@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-06-28T08:43:26.875Z",
+  "lastUpdate": "2018-06-28T09:44:04.359Z",
   "cowner": "fastify",
   "crepo": "fastify",
-  "totalPR": 603,
+  "totalPR": 604,
   "lastPR": {
-    "createdAt": "2018-06-27T21:16:25Z",
-    "username": "lmammino"
+    "createdAt": "2018-06-28T08:48:25Z",
+    "username": "lependu"
   },
   "bestPR": {
     "user": "delvedor",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/321201?v=4"
   },
   "userPRInfos": {
+    "lependu": {
+      "total": 4,
+      "merged": 3,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/6317507?v=4"
+    },
     "lmammino": {
       "total": 6,
       "merged": 4,
@@ -107,11 +112,6 @@
       "total": 1,
       "merged": 1,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/12160864?v=4"
-    },
-    "lependu": {
-      "total": 3,
-      "merged": 3,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/6317507?v=4"
     },
     "JimmyHurrah": {
       "total": 1,
@@ -541,7 +541,7 @@
   },
   "datePRInfos": {
     "Juin-2018": {
-      "total": 28,
+      "total": 29,
       "merged": 20
     },
     "Mai-2018": {
