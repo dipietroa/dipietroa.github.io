@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-06-28T10:43:46.303Z",
+  "lastUpdate": "2018-06-28T11:43:13.752Z",
   "cowner": "nuclio",
   "crepo": "nuclio",
   "totalPR": 629,
@@ -18,9 +18,9 @@
     "image": "https://avatars2.githubusercontent.com/u/423987?v=4"
   },
   "bestRatio": {
-    "user": "mavdryk",
+    "user": "maksym-kyselytsia",
     "ratio": 1,
-    "image": "https://avatars1.githubusercontent.com/u/25711177?v=4"
+    "image": "https://avatars1.githubusercontent.com/u/25031243?v=4"
   },
   "userPRInfos": {
     "tebeka": {
@@ -45,7 +45,7 @@
     },
     "maksym-kyselytsia": {
       "total": 9,
-      "merged": 8,
+      "merged": 9,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/25031243?v=4"
     },
     "mavdryk": {
@@ -162,7 +162,7 @@
   "datePRInfos": {
     "Juin-2018": {
       "total": 28,
-      "merged": 23
+      "merged": 24
     },
     "Mai-2018": {
       "total": 49,
