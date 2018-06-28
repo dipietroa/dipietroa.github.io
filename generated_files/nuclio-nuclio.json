@@ -1,20 +1,20 @@
 {
-  "lastUpdate": "2018-06-28T19:43:24.815Z",
+  "lastUpdate": "2018-06-28T20:43:43.006Z",
   "cowner": "nuclio",
   "crepo": "nuclio",
-  "totalPR": 632,
+  "totalPR": 633,
   "lastPR": {
-    "createdAt": "2018-06-28T16:33:36Z",
-    "username": "eran-nussbaum"
+    "createdAt": "2018-06-28T20:08:35Z",
+    "username": "pavius"
   },
   "bestPR": {
     "user": "pavius",
-    "nbPR": 319,
+    "nbPR": 320,
     "image": "https://avatars2.githubusercontent.com/u/423987?v=4"
   },
   "bestMerged": {
     "user": "pavius",
-    "nbPR": 316,
+    "nbPR": 317,
     "image": "https://avatars2.githubusercontent.com/u/423987?v=4"
   },
   "bestRatio": {
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/25031243?v=4"
   },
   "userPRInfos": {
+    "pavius": {
+      "total": 320,
+      "merged": 317,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/423987?v=4"
+    },
     "eran-nussbaum": {
       "total": 55,
       "merged": 54,
@@ -32,11 +37,6 @@
       "total": 95,
       "merged": 59,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/87697?v=4"
-    },
-    "pavius": {
-      "total": 319,
-      "merged": 316,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/423987?v=4"
     },
     "YarovoiVadym": {
       "total": 6,
@@ -161,8 +161,8 @@
   },
   "datePRInfos": {
     "Juin-2018": {
-      "total": 31,
-      "merged": 27
+      "total": 32,
+      "merged": 28
     },
     "Mai-2018": {
       "total": 49,
