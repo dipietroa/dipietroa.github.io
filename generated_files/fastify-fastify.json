@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-06-28T17:44:16.259Z",
+  "lastUpdate": "2018-06-28T18:44:01.722Z",
   "cowner": "fastify",
   "crepo": "fastify",
   "totalPR": 605,
@@ -18,19 +18,19 @@
     "image": "https://avatars0.githubusercontent.com/u/4865608?v=4"
   },
   "bestRatio": {
-    "user": "jsumners",
+    "user": "lependu",
     "ratio": 1,
-    "image": "https://avatars1.githubusercontent.com/u/321201?v=4"
+    "image": "https://avatars2.githubusercontent.com/u/6317507?v=4"
   },
   "userPRInfos": {
     "fralonra": {
       "total": 2,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/20400873?v=4"
     },
     "lependu": {
       "total": 4,
-      "merged": 3,
+      "merged": 4,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/6317507?v=4"
     },
     "lmammino": {
@@ -542,7 +542,7 @@
   "datePRInfos": {
     "Juin-2018": {
       "total": 30,
-      "merged": 21
+      "merged": 23
     },
     "Mai-2018": {
       "total": 21,
