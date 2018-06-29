@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-06-29T13:42:32.941Z",
+  "lastUpdate": "2018-06-29T14:42:30.038Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2690,
+  "totalPR": 2691,
   "lastPR": {
-    "createdAt": "2018-06-26T16:37:49Z",
-    "username": "dreis2211"
+    "createdAt": "2018-06-29T13:48:26Z",
+    "username": "chtompki"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "chtompki": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/1291539?v=4"
+    },
     "dreis2211": {
       "total": 75,
       "merged": 0,
@@ -4086,7 +4091,7 @@
   },
   "datePRInfos": {
     "Juin-2018": {
-      "total": 54,
+      "total": 55,
       "merged": 1
     },
     "Mai-2018": {
