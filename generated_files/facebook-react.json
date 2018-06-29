@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-06-29T12:47:14.210Z",
+  "lastUpdate": "2018-06-29T13:48:04.628Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6917,
+  "totalPR": 6918,
   "lastPR": {
-    "createdAt": "2018-06-29T12:05:55Z",
-    "username": "Hilbrand"
+    "createdAt": "2018-06-29T12:51:20Z",
+    "username": "stereobooster"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/1272873?v=4"
   },
   "userPRInfos": {
+    "stereobooster": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/179534?v=4"
+    },
     "Hilbrand": {
       "total": 1,
       "merged": 1,
@@ -10056,7 +10061,7 @@
   },
   "datePRInfos": {
     "Juin-2018": {
-      "total": 63,
+      "total": 64,
       "merged": 37
     },
     "Mai-2018": {
