@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-06-29T20:46:56.916Z",
+  "lastUpdate": "2018-06-29T21:46:57.055Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6918,
+  "totalPR": 6919,
   "lastPR": {
-    "createdAt": "2018-06-29T12:51:20Z",
-    "username": "stereobooster"
+    "createdAt": "2018-06-29T21:14:14Z",
+    "username": "ImanMh"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/1272873?v=4"
   },
   "userPRInfos": {
+    "ImanMh": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/4482199?v=4"
+    },
     "stereobooster": {
       "total": 1,
       "merged": 0,
@@ -10061,7 +10066,7 @@
   },
   "datePRInfos": {
     "Juin-2018": {
-      "total": 64,
+      "total": 65,
       "merged": 38
     },
     "Mai-2018": {
