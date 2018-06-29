@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "2018-06-29T16:43:33.227Z",
+  "lastUpdate": "2018-06-29T17:43:36.134Z",
   "cowner": "fastify",
   "crepo": "fastify",
-  "totalPR": 606,
+  "totalPR": 607,
   "lastPR": {
-    "createdAt": "2018-06-29T15:23:41Z",
+    "createdAt": "2018-06-29T16:57:31Z",
     "username": "lependu"
   },
   "bestPR": {
@@ -24,7 +24,7 @@
   },
   "userPRInfos": {
     "lependu": {
-      "total": 5,
+      "total": 6,
       "merged": 4,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/6317507?v=4"
     },
@@ -541,7 +541,7 @@
   },
   "datePRInfos": {
     "Juin-2018": {
-      "total": 31,
+      "total": 32,
       "merged": 24
     },
     "Mai-2018": {
