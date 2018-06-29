@@ -1,15 +1,15 @@
 {
-  "lastUpdate": "2018-06-29T16:41:49.765Z",
+  "lastUpdate": "2018-06-29T17:41:46.072Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2691,
+  "totalPR": 2692,
   "lastPR": {
-    "createdAt": "2018-06-29T13:48:26Z",
-    "username": "chtompki"
+    "createdAt": "2018-06-29T17:14:44Z",
+    "username": "izeye"
   },
   "bestPR": {
     "user": "izeye",
-    "nbPR": 412,
+    "nbPR": 413,
     "image": "https://avatars3.githubusercontent.com/u/1059363?v=4"
   },
   "bestMerged": {
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "izeye": {
+      "total": 413,
+      "merged": 2,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/1059363?v=4"
+    },
     "chtompki": {
       "total": 1,
       "merged": 0,
@@ -57,11 +62,6 @@
       "total": 2,
       "merged": 0,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/20231084?v=4"
-    },
-    "izeye": {
-      "total": 412,
-      "merged": 2,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/1059363?v=4"
     },
     "klu2": {
       "total": 1,
@@ -4091,7 +4091,7 @@
   },
   "datePRInfos": {
     "Juin-2018": {
-      "total": 55,
+      "total": 56,
       "merged": 1
     },
     "Mai-2018": {
