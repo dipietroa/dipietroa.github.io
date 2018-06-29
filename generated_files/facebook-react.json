@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-06-29T11:47:51.107Z",
+  "lastUpdate": "2018-06-29T12:47:14.210Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6916,
+  "totalPR": 6917,
   "lastPR": {
-    "createdAt": "2018-06-29T04:03:02Z",
-    "username": "sebmarkbage"
+    "createdAt": "2018-06-29T12:05:55Z",
+    "username": "Hilbrand"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -18,11 +18,16 @@
     "image": "https://avatars2.githubusercontent.com/u/6820?v=4"
   },
   "bestRatio": {
-    "user": "dustinsoftware",
+    "user": "Hilbrand",
     "ratio": 1,
-    "image": "https://avatars3.githubusercontent.com/u/942358?v=4"
+    "image": "https://avatars1.githubusercontent.com/u/1272873?v=4"
   },
   "userPRInfos": {
+    "Hilbrand": {
+      "total": 1,
+      "merged": 1,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/1272873?v=4"
+    },
     "sebmarkbage": {
       "total": 265,
       "merged": 246,
@@ -10051,8 +10056,8 @@
   },
   "datePRInfos": {
     "Juin-2018": {
-      "total": 62,
-      "merged": 36
+      "total": 63,
+      "merged": 37
     },
     "Mai-2018": {
       "total": 125,
