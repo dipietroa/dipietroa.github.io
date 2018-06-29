@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-06-29T14:44:24.544Z",
+  "lastUpdate": "2018-06-29T15:43:51.739Z",
   "cowner": "fastify",
   "crepo": "fastify",
-  "totalPR": 605,
+  "totalPR": 606,
   "lastPR": {
-    "createdAt": "2018-06-28T15:12:27Z",
-    "username": "fralonra"
+    "createdAt": "2018-06-29T15:23:41Z",
+    "username": "lependu"
   },
   "bestPR": {
     "user": "delvedor",
@@ -18,20 +18,20 @@
     "image": "https://avatars0.githubusercontent.com/u/4865608?v=4"
   },
   "bestRatio": {
-    "user": "lependu",
+    "user": "jsumners",
     "ratio": 1,
-    "image": "https://avatars2.githubusercontent.com/u/6317507?v=4"
+    "image": "https://avatars1.githubusercontent.com/u/321201?v=4"
   },
   "userPRInfos": {
+    "lependu": {
+      "total": 5,
+      "merged": 4,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/6317507?v=4"
+    },
     "fralonra": {
       "total": 2,
       "merged": 1,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/20400873?v=4"
-    },
-    "lependu": {
-      "total": 4,
-      "merged": 4,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/6317507?v=4"
     },
     "lmammino": {
       "total": 6,
@@ -40,7 +40,7 @@
     },
     "vincent178": {
       "total": 8,
-      "merged": 4,
+      "merged": 5,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/2183720?v=4"
     },
     "jsumners": {
@@ -541,8 +541,8 @@
   },
   "datePRInfos": {
     "Juin-2018": {
-      "total": 30,
-      "merged": 23
+      "total": 31,
+      "merged": 24
     },
     "Mai-2018": {
       "total": 21,
