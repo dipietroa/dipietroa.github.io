@@ -1,8 +1,8 @@
 {
-  "lastUpdate": "2018-06-30T14:42:24.029Z",
+  "lastUpdate": "2018-06-30T15:42:00.120Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2693,
+  "totalPR": 2694,
   "lastPR": {
     "createdAt": "2018-06-30T00:48:54Z",
     "username": "72MiguelGomes"
@@ -834,7 +834,7 @@
       "avatarUrl": "https://avatars3.githubusercontent.com/u/197004?v=4"
     },
     "douglascardoso": {
-      "total": 1,
+      "total": 2,
       "merged": 0,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/13135750?v=4"
     },
@@ -4120,7 +4120,7 @@
       "merged": 0
     },
     "Décembre-2017": {
-      "total": 53,
+      "total": 54,
       "merged": 0
     },
     "Novembre-2017": {
