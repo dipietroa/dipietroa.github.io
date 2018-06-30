@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-06-30T21:43:33.997Z",
+  "lastUpdate": "2018-06-30T22:43:13.103Z",
   "cowner": "fastify",
   "crepo": "fastify",
-  "totalPR": 609,
+  "totalPR": 610,
   "lastPR": {
-    "createdAt": "2018-06-30T20:07:58Z",
-    "username": "seriousme"
+    "createdAt": "2018-06-30T21:45:05Z",
+    "username": "rodrigooler"
   },
   "bestPR": {
     "user": "delvedor",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/321201?v=4"
   },
   "userPRInfos": {
+    "rodrigooler": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/5496931?v=4"
+    },
     "seriousme": {
       "total": 2,
       "merged": 1,
@@ -546,7 +551,7 @@
   },
   "datePRInfos": {
     "Juin-2018": {
-      "total": 34,
+      "total": 35,
       "merged": 24
     },
     "Mai-2018": {
