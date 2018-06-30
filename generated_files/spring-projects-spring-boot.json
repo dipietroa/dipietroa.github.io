@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-06-30T00:42:24.787Z",
+  "lastUpdate": "2018-06-30T01:41:50.654Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2692,
+  "totalPR": 2693,
   "lastPR": {
-    "createdAt": "2018-06-29T17:14:44Z",
-    "username": "izeye"
+    "createdAt": "2018-06-30T00:48:54Z",
+    "username": "72MiguelGomes"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "72MiguelGomes": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/1722247?v=4"
+    },
     "izeye": {
       "total": 413,
       "merged": 2,
@@ -4091,7 +4096,7 @@
   },
   "datePRInfos": {
     "Juin-2018": {
-      "total": 56,
+      "total": 57,
       "merged": 1
     },
     "Mai-2018": {
