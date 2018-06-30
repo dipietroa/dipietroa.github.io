@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-06-30T02:46:10.109Z",
+  "lastUpdate": "2018-06-30T03:46:32.669Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6919,
+  "totalPR": 6920,
   "lastPR": {
-    "createdAt": "2018-06-29T21:14:14Z",
-    "username": "ImanMh"
+    "createdAt": "2018-06-30T03:11:20Z",
+    "username": "DCtheTall"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/1272873?v=4"
   },
   "userPRInfos": {
+    "DCtheTall": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/13906920?v=4"
+    },
     "ImanMh": {
       "total": 1,
       "merged": 0,
@@ -10066,7 +10071,7 @@
   },
   "datePRInfos": {
     "Juin-2018": {
-      "total": 65,
+      "total": 66,
       "merged": 38
     },
     "Mai-2018": {
