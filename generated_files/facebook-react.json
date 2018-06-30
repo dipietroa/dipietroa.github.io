@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-06-30T18:46:06.386Z",
+  "lastUpdate": "2018-06-30T19:47:30.415Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6921,
+  "totalPR": 6922,
   "lastPR": {
-    "createdAt": "2018-06-30T12:16:34Z",
-    "username": "ImanMh"
+    "createdAt": "2018-06-30T19:27:16Z",
+    "username": "realityking"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/1272873?v=4"
   },
   "userPRInfos": {
+    "realityking": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/628508?v=4"
+    },
     "ImanMh": {
       "total": 2,
       "merged": 0,
@@ -10071,7 +10076,7 @@
   },
   "datePRInfos": {
     "Juin-2018": {
-      "total": 67,
+      "total": 68,
       "merged": 38
     },
     "Mai-2018": {
