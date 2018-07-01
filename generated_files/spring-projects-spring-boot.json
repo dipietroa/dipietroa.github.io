@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-07-01T13:41:50.710Z",
+  "lastUpdate": "2018-07-01T14:42:17.084Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2696,
+  "totalPR": 2698,
   "lastPR": {
-    "createdAt": "2018-06-30T20:40:27Z",
-    "username": "72MiguelGomes"
+    "createdAt": "2018-07-01T14:40:07Z",
+    "username": "khmarbaise"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "khmarbaise": {
+      "total": 3,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/42484?v=4"
+    },
     "72MiguelGomes": {
       "total": 3,
       "merged": 0,
@@ -57,11 +62,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/3505477?v=4"
-    },
-    "khmarbaise": {
-      "total": 1,
-      "merged": 0,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/42484?v=4"
     },
     "dmsergeev": {
       "total": 2,
@@ -4095,6 +4095,10 @@
     }
   },
   "datePRInfos": {
+    "Juillet-2018": {
+      "total": 2,
+      "merged": 0
+    },
     "Juin-2018": {
       "total": 60,
       "merged": 1
