@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-07-01T20:43:27.941Z",
+  "lastUpdate": "2018-07-01T21:43:03.915Z",
   "cowner": "fastify",
   "crepo": "fastify",
   "totalPR": 610,
@@ -18,9 +18,9 @@
     "image": "https://avatars0.githubusercontent.com/u/4865608?v=4"
   },
   "bestRatio": {
-    "user": "jsumners",
+    "user": "seriousme",
     "ratio": 1,
-    "image": "https://avatars1.githubusercontent.com/u/321201?v=4"
+    "image": "https://avatars3.githubusercontent.com/u/3322396?v=4"
   },
   "userPRInfos": {
     "rodrigooler": {
@@ -30,7 +30,7 @@
     },
     "seriousme": {
       "total": 2,
-      "merged": 1,
+      "merged": 2,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/3322396?v=4"
     },
     "SarasArya": {
@@ -552,7 +552,7 @@
   "datePRInfos": {
     "Juin-2018": {
       "total": 35,
-      "merged": 24
+      "merged": 25
     },
     "Mai-2018": {
       "total": 21,
