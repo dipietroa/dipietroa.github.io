@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "2018-07-01T14:42:17.084Z",
+  "lastUpdate": "2018-07-01T15:42:00.561Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2698,
+  "totalPR": 2699,
   "lastPR": {
-    "createdAt": "2018-07-01T14:40:07Z",
+    "createdAt": "2018-07-01T14:43:45Z",
     "username": "khmarbaise"
   },
   "bestPR": {
@@ -24,7 +24,7 @@
   },
   "userPRInfos": {
     "khmarbaise": {
-      "total": 3,
+      "total": 4,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/42484?v=4"
     },
@@ -4096,7 +4096,7 @@
   },
   "datePRInfos": {
     "Juillet-2018": {
-      "total": 2,
+      "total": 3,
       "merged": 0
     },
     "Juin-2018": {
