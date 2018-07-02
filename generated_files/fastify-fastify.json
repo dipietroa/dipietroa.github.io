@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-07-02T09:43:52.741Z",
+  "lastUpdate": "2018-07-02T10:43:46.525Z",
   "cowner": "fastify",
   "crepo": "fastify",
   "totalPR": 610,
@@ -40,7 +40,7 @@
     },
     "lependu": {
       "total": 6,
-      "merged": 4,
+      "merged": 6,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/6317507?v=4"
     },
     "fralonra": {
@@ -552,7 +552,7 @@
   "datePRInfos": {
     "Juin-2018": {
       "total": 35,
-      "merged": 25
+      "merged": 27
     },
     "Mai-2018": {
       "total": 21,
