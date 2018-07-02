@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-07-02T20:43:51.466Z",
+  "lastUpdate": "2018-07-02T21:44:22.655Z",
   "cowner": "fastify",
   "crepo": "fastify",
   "totalPR": 611,
@@ -70,7 +70,7 @@
     },
     "ishanray": {
       "total": 1,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/5403397?v=4"
     },
     "allevo": {
@@ -556,7 +556,7 @@
     },
     "Juin-2018": {
       "total": 35,
-      "merged": 27
+      "merged": 28
     },
     "Mai-2018": {
       "total": 21,
