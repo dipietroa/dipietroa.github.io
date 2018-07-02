@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-07-02T12:43:39.107Z",
+  "lastUpdate": "2018-07-02T13:42:55.963Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 1207,
+  "totalPR": 1208,
   "lastPR": {
-    "createdAt": "2018-06-30T13:28:22Z",
-    "username": "TimurKiyivinski"
+    "createdAt": "2018-07-02T13:15:48Z",
+    "username": "dattn"
   },
   "bestPR": {
     "user": "kazupon",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/3408176?v=4"
   },
   "userPRInfos": {
+    "dattn": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/870036?v=4"
+    },
     "TimurKiyivinski": {
       "total": 1,
       "merged": 0,
@@ -2720,6 +2725,10 @@
     }
   },
   "datePRInfos": {
+    "Juillet-2018": {
+      "total": 1,
+      "merged": 0
+    },
     "Juin-2018": {
       "total": 26,
       "merged": 0
