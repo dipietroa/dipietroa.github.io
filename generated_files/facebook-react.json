@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-07-03T05:47:04.744Z",
+  "lastUpdate": "2018-07-03T06:47:51.951Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6923,
+  "totalPR": 6924,
   "lastPR": {
-    "createdAt": "2018-06-30T19:27:16Z",
-    "username": "realityking"
+    "createdAt": "2018-07-03T05:47:33Z",
+    "username": "acdlite"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/1272873?v=4"
   },
   "userPRInfos": {
+    "acdlite": {
+      "total": 210,
+      "merged": 166,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/3624098?v=4"
+    },
     "realityking": {
       "total": 1,
       "merged": 0,
@@ -62,11 +67,6 @@
       "total": 4,
       "merged": 1,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/6764957?v=4"
-    },
-    "acdlite": {
-      "total": 208,
-      "merged": 166,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/3624098?v=4"
     },
     "jquense": {
       "total": 39,
@@ -4839,7 +4839,7 @@
       "avatarUrl": "https://avatars3.githubusercontent.com/u/20097966?v=4"
     },
     "jimfb": {
-      "total": 157,
+      "total": 156,
       "merged": 125,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/9595985?v=4"
     },
@@ -10075,6 +10075,10 @@
     }
   },
   "datePRInfos": {
+    "Juillet-2018": {
+      "total": 2,
+      "merged": 0
+    },
     "Juin-2018": {
       "total": 68,
       "merged": 39
@@ -10176,7 +10180,7 @@
       "merged": 73
     },
     "Mai-2016": {
-      "total": 149,
+      "total": 148,
       "merged": 99
     },
     "Avril-2016": {
