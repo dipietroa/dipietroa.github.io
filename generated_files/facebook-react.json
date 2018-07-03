@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-07-03T14:50:33.517Z",
+  "lastUpdate": "2018-07-03T15:49:47.785Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6925,
+  "totalPR": 6926,
   "lastPR": {
-    "createdAt": "2018-07-03T13:12:13Z",
-    "username": "nateq314"
+    "createdAt": "2018-07-03T15:44:29Z",
+    "username": "koba04"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/1272873?v=4"
   },
   "userPRInfos": {
+    "koba04": {
+      "total": 82,
+      "merged": 58,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/250407?v=4"
+    },
     "nateq314": {
       "total": 8,
       "merged": 4,
@@ -197,11 +202,6 @@
       "total": 64,
       "merged": 52,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/6886061?v=4"
-    },
-    "koba04": {
-      "total": 81,
-      "merged": 58,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/250407?v=4"
     },
     "hramos": {
       "total": 19,
@@ -10076,7 +10076,7 @@
   },
   "datePRInfos": {
     "Juillet-2018": {
-      "total": 3,
+      "total": 4,
       "merged": 0
     },
     "Juin-2018": {
