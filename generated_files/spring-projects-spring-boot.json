@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-07-03T18:42:11.437Z",
+  "lastUpdate": "2018-07-03T19:42:15.327Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2699,
+  "totalPR": 2700,
   "lastPR": {
-    "createdAt": "2018-07-01T14:43:45Z",
-    "username": "khmarbaise"
+    "createdAt": "2018-07-03T19:22:08Z",
+    "username": "kevcodez"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "kevcodez": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/14073399?v=4"
+    },
     "khmarbaise": {
       "total": 4,
       "merged": 0,
@@ -4096,7 +4101,7 @@
   },
   "datePRInfos": {
     "Juillet-2018": {
-      "total": 3,
+      "total": 4,
       "merged": 0
     },
     "Juin-2018": {
