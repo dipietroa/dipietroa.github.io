@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-07-03T16:48:32.326Z",
+  "lastUpdate": "2018-07-03T17:48:27.958Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 6926,
@@ -25,7 +25,7 @@
   "userPRInfos": {
     "koba04": {
       "total": 82,
-      "merged": 58,
+      "merged": 59,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/250407?v=4"
     },
     "nateq314": {
@@ -10077,7 +10077,7 @@
   "datePRInfos": {
     "Juillet-2018": {
       "total": 4,
-      "merged": 0
+      "merged": 1
     },
     "Juin-2018": {
       "total": 68,
