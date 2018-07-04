@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-07-04T00:43:17.988Z",
+  "lastUpdate": "2018-07-04T01:44:18.708Z",
   "cowner": "fastify",
   "crepo": "fastify",
-  "totalPR": 611,
+  "totalPR": 612,
   "lastPR": {
-    "createdAt": "2018-07-02T16:12:23Z",
-    "username": "mcollina"
+    "createdAt": "2018-07-04T00:44:01Z",
+    "username": "astesio"
   },
   "bestPR": {
     "user": "delvedor",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/3322396?v=4"
   },
   "userPRInfos": {
+    "astesio": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/3997471?v=4"
+    },
     "mcollina": {
       "total": 74,
       "merged": 70,
@@ -551,7 +556,7 @@
   },
   "datePRInfos": {
     "Juillet-2018": {
-      "total": 1,
+      "total": 2,
       "merged": 1
     },
     "Juin-2018": {
