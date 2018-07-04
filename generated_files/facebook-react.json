@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-07-04T16:46:56.757Z",
+  "lastUpdate": "2018-07-04T17:46:58.697Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 6927,
@@ -18,9 +18,9 @@
     "image": "https://avatars2.githubusercontent.com/u/6820?v=4"
   },
   "bestRatio": {
-    "user": "Hilbrand",
+    "user": "realityking",
     "ratio": 1,
-    "image": "https://avatars1.githubusercontent.com/u/1272873?v=4"
+    "image": "https://avatars1.githubusercontent.com/u/628508?v=4"
   },
   "userPRInfos": {
     "bvaughn": {
@@ -45,7 +45,7 @@
     },
     "realityking": {
       "total": 1,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/628508?v=4"
     },
     "ImanMh": {
@@ -10081,7 +10081,7 @@
     },
     "Juin-2018": {
       "total": 68,
-      "merged": 42
+      "merged": 43
     },
     "Mai-2018": {
       "total": 125,
