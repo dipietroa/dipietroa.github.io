@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-07-04T19:46:58.573Z",
+  "lastUpdate": "2018-07-04T20:47:39.478Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 6927,
@@ -85,7 +85,7 @@
     },
     "dilidili": {
       "total": 1,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/5905726?v=4"
     },
     "raunofreiberg": {
@@ -10081,7 +10081,7 @@
     },
     "Juin-2018": {
       "total": 68,
-      "merged": 43
+      "merged": 44
     },
     "Mai-2018": {
       "total": 125,
