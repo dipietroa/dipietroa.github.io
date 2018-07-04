@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-07-04T01:43:00.184Z",
+  "lastUpdate": "2018-07-04T02:42:06.807Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
-  "totalPR": 404,
+  "totalPR": 405,
   "lastPR": {
-    "createdAt": "2018-06-08T14:39:22Z",
-    "username": "PalAditya"
+    "createdAt": "2018-07-04T02:25:52Z",
+    "username": "xuchunfa"
   },
   "bestPR": {
     "user": "theycallmemac",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/10345124?v=4"
   },
   "userPRInfos": {
+    "xuchunfa": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/31035850?v=4"
+    },
     "PalAditya": {
       "total": 2,
       "merged": 1,
@@ -1065,6 +1070,10 @@
     }
   },
   "datePRInfos": {
+    "Juillet-2018": {
+      "total": 1,
+      "merged": 0
+    },
     "Juin-2018": {
       "total": 3,
       "merged": 1
