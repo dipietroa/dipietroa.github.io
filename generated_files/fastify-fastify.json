@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-07-05T06:43:52.775Z",
+  "lastUpdate": "2018-07-05T07:43:33.307Z",
   "cowner": "fastify",
   "crepo": "fastify",
   "totalPR": 613,
@@ -18,19 +18,19 @@
     "image": "https://avatars0.githubusercontent.com/u/4865608?v=4"
   },
   "bestRatio": {
-    "user": "seriousme",
+    "user": "astesio",
     "ratio": 1,
-    "image": "https://avatars3.githubusercontent.com/u/3322396?v=4"
+    "image": "https://avatars1.githubusercontent.com/u/3997471?v=4"
   },
   "userPRInfos": {
     "vincent178": {
       "total": 9,
-      "merged": 5,
+      "merged": 6,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/2183720?v=4"
     },
     "astesio": {
       "total": 1,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/3997471?v=4"
     },
     "mcollina": {
@@ -185,7 +185,7 @@
     },
     "tswayne": {
       "total": 1,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/4225904?v=4"
     },
     "kevinrambaud": {
@@ -557,7 +557,7 @@
   "datePRInfos": {
     "Juillet-2018": {
       "total": 3,
-      "merged": 1
+      "merged": 3
     },
     "Juin-2018": {
       "total": 35,
@@ -569,7 +569,7 @@
     },
     "Avril-2018": {
       "total": 37,
-      "merged": 29
+      "merged": 30
     },
     "Mars-2018": {
       "total": 28,
