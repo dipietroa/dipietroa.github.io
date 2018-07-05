@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "2018-07-05T17:48:53.095Z",
+  "lastUpdate": "2018-07-05T18:48:21.622Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6929,
+  "totalPR": 6930,
   "lastPR": {
-    "createdAt": "2018-07-05T17:34:53Z",
+    "createdAt": "2018-07-05T18:06:08Z",
     "username": "gaearon"
   },
   "bestPR": {
@@ -24,8 +24,8 @@
   },
   "userPRInfos": {
     "gaearon": {
-      "total": 588,
-      "merged": 506,
+      "total": 589,
+      "merged": 508,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/810438?v=4"
     },
     "dyun8080": {
@@ -35,7 +35,7 @@
     },
     "bvaughn": {
       "total": 237,
-      "merged": 217,
+      "merged": 218,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/29597?v=4"
     },
     "koba04": {
@@ -10081,12 +10081,12 @@
   },
   "datePRInfos": {
     "Juillet-2018": {
-      "total": 7,
-      "merged": 1
+      "total": 8,
+      "merged": 3
     },
     "Juin-2018": {
       "total": 68,
-      "merged": 44
+      "merged": 45
     },
     "Mai-2018": {
       "total": 125,
