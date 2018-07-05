@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-07-05T13:42:46.867Z",
+  "lastUpdate": "2018-07-05T14:42:09.250Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2704,
+  "totalPR": 2705,
   "lastPR": {
-    "createdAt": "2018-07-05T08:05:40Z",
-    "username": "dsyer"
+    "createdAt": "2018-07-05T14:18:05Z",
+    "username": "weltonrodrigo"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "weltonrodrigo": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/1644644?v=4"
+    },
     "dsyer": {
       "total": 21,
       "merged": 0,
@@ -4101,7 +4106,7 @@
   },
   "datePRInfos": {
     "Juillet-2018": {
-      "total": 8,
+      "total": 9,
       "merged": 0
     },
     "Juin-2018": {
