@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-07-05T22:43:49.829Z",
+  "lastUpdate": "2018-07-05T23:43:07.937Z",
   "cowner": "vuejs",
   "crepo": "vue",
   "totalPR": 1210,
   "lastPR": {
-    "createdAt": "2018-07-04T07:34:43Z",
-    "username": "sodatea"
+    "createdAt": "2018-07-05T22:43:32Z",
+    "username": "poch345"
   },
   "bestPR": {
     "user": "kazupon",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/3408176?v=4"
   },
   "userPRInfos": {
+    "poch345": {
+      "total": 2,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/39390283?v=4"
+    },
     "sodatea": {
       "total": 8,
       "merged": 0,
@@ -52,11 +57,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/10506522?v=4"
-    },
-    "poch345": {
-      "total": 1,
-      "merged": 0,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/39390283?v=4"
     },
     "verstoff": {
       "total": 1,
@@ -1579,8 +1579,8 @@
       "avatarUrl": "https://avatars3.githubusercontent.com/u/2714111?v=4"
     },
     "rixlabs": {
-      "total": 2,
-      "merged": 2,
+      "total": 1,
+      "merged": 1,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/233226?v=4"
     },
     "adamawang": {
@@ -2726,7 +2726,7 @@
   },
   "datePRInfos": {
     "Juillet-2018": {
-      "total": 2,
+      "total": 3,
       "merged": 0
     },
     "Juin-2018": {
@@ -2794,8 +2794,8 @@
       "merged": 42
     },
     "Février-2017": {
-      "total": 49,
-      "merged": 29
+      "total": 48,
+      "merged": 28
     },
     "Janvier-2017": {
       "total": 29,
