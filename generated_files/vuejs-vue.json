@@ -1,8 +1,8 @@
 {
-  "lastUpdate": "2018-07-05T21:43:50.407Z",
+  "lastUpdate": "2018-07-05T22:43:49.829Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 1209,
+  "totalPR": 1210,
   "lastPR": {
     "createdAt": "2018-07-04T07:34:43Z",
     "username": "sodatea"
@@ -1579,8 +1579,8 @@
       "avatarUrl": "https://avatars3.githubusercontent.com/u/2714111?v=4"
     },
     "rixlabs": {
-      "total": 1,
-      "merged": 1,
+      "total": 2,
+      "merged": 2,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/233226?v=4"
     },
     "adamawang": {
@@ -2794,8 +2794,8 @@
       "merged": 42
     },
     "Février-2017": {
-      "total": 48,
-      "merged": 28
+      "total": 49,
+      "merged": 29
     },
     "Janvier-2017": {
       "total": 29,
