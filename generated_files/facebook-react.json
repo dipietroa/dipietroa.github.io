@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "2018-07-06T13:48:38.985Z",
+  "lastUpdate": "2018-07-06T14:47:45.820Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 6931,
   "lastPR": {
-    "createdAt": "2018-07-05T18:06:08Z",
+    "createdAt": "2018-07-06T13:47:09Z",
     "username": "gaearon"
   },
   "bestPR": {
@@ -24,7 +24,7 @@
   },
   "userPRInfos": {
     "gaearon": {
-      "total": 589,
+      "total": 590,
       "merged": 508,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/810438?v=4"
     },
@@ -6649,7 +6649,7 @@
       "avatarUrl": "https://avatars0.githubusercontent.com/u/1163920?v=4"
     },
     "iuriikozuliak": {
-      "total": 2,
+      "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/2077683?v=4"
     },
@@ -10081,7 +10081,7 @@
   },
   "datePRInfos": {
     "Juillet-2018": {
-      "total": 8,
+      "total": 9,
       "merged": 3
     },
     "Juin-2018": {
@@ -10213,7 +10213,7 @@
       "merged": 66
     },
     "Octobre-2015": {
-      "total": 163,
+      "total": 162,
       "merged": 121
     },
     "Septembre-2015": {
