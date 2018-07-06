@@ -1,8 +1,8 @@
 {
-  "lastUpdate": "2018-07-06T12:47:45.633Z",
+  "lastUpdate": "2018-07-06T13:48:38.985Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6930,
+  "totalPR": 6931,
   "lastPR": {
     "createdAt": "2018-07-05T18:06:08Z",
     "username": "gaearon"
@@ -6649,7 +6649,7 @@
       "avatarUrl": "https://avatars0.githubusercontent.com/u/1163920?v=4"
     },
     "iuriikozuliak": {
-      "total": 1,
+      "total": 2,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/2077683?v=4"
     },
@@ -10213,7 +10213,7 @@
       "merged": 66
     },
     "Octobre-2015": {
-      "total": 162,
+      "total": 163,
       "merged": 121
     },
     "Septembre-2015": {
