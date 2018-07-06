@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "2018-07-06T15:43:39.875Z",
+  "lastUpdate": "2018-07-06T16:43:57.923Z",
   "cowner": "fastify",
   "crepo": "fastify",
-  "totalPR": 614,
+  "totalPR": 615,
   "lastPR": {
-    "createdAt": "2018-07-05T22:07:48Z",
+    "createdAt": "2018-07-06T16:02:03Z",
     "username": "allevo"
   },
   "bestPR": {
@@ -24,7 +24,7 @@
   },
   "userPRInfos": {
     "allevo": {
-      "total": 64,
+      "total": 65,
       "merged": 52,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/1054125?v=4"
     },
@@ -556,7 +556,7 @@
   },
   "datePRInfos": {
     "Juillet-2018": {
-      "total": 4,
+      "total": 5,
       "merged": 3
     },
     "Juin-2018": {
