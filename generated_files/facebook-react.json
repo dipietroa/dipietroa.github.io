@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-07-06T19:47:10.183Z",
+  "lastUpdate": "2018-07-06T20:46:58.712Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6935,
+  "totalPR": 6936,
   "lastPR": {
-    "createdAt": "2018-07-06T18:46:29Z",
-    "username": "cyan33"
+    "createdAt": "2018-07-06T20:39:01Z",
+    "username": "acdlite"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,9 +23,14 @@
     "image": "https://avatars1.githubusercontent.com/u/628508?v=4"
   },
   "userPRInfos": {
+    "acdlite": {
+      "total": 211,
+      "merged": 169,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/3624098?v=4"
+    },
     "cyan33": {
       "total": 6,
-      "merged": 4,
+      "merged": 5,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/13282699?v=4"
     },
     "gaearon": {
@@ -52,11 +57,6 @@
       "total": 8,
       "merged": 4,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/1175921?v=4"
-    },
-    "acdlite": {
-      "total": 210,
-      "merged": 169,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/3624098?v=4"
     },
     "realityking": {
       "total": 1,
@@ -10081,8 +10081,8 @@
   },
   "datePRInfos": {
     "Juillet-2018": {
-      "total": 13,
-      "merged": 5
+      "total": 14,
+      "merged": 6
     },
     "Juin-2018": {
       "total": 68,
