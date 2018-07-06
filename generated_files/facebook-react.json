@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-07-06T22:47:11.602Z",
+  "lastUpdate": "2018-07-06T23:46:38.039Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6939,
+  "totalPR": 6940,
   "lastPR": {
-    "createdAt": "2018-07-06T22:26:02Z",
-    "username": "aweary"
+    "createdAt": "2018-07-06T23:09:46Z",
+    "username": "gaearon"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,20 +23,20 @@
     "image": "https://avatars1.githubusercontent.com/u/628508?v=4"
   },
   "userPRInfos": {
+    "gaearon": {
+      "total": 594,
+      "merged": 509,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/810438?v=4"
+    },
     "aweary": {
       "total": 65,
-      "merged": 52,
+      "merged": 53,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/6886061?v=4"
     },
     "acdlite": {
       "total": 212,
-      "merged": 170,
+      "merged": 171,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/3624098?v=4"
-    },
-    "gaearon": {
-      "total": 593,
-      "merged": 509,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/810438?v=4"
     },
     "cyan33": {
       "total": 6,
@@ -10081,8 +10081,8 @@
   },
   "datePRInfos": {
     "Juillet-2018": {
-      "total": 17,
-      "merged": 7
+      "total": 18,
+      "merged": 9
     },
     "Juin-2018": {
       "total": 68,
