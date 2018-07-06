@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-07-06T18:46:44.993Z",
+  "lastUpdate": "2018-07-06T19:47:10.183Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 6935,
   "lastPR": {
-    "createdAt": "2018-07-06T16:38:07Z",
-    "username": "gaearon"
+    "createdAt": "2018-07-06T18:46:29Z",
+    "username": "cyan33"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/628508?v=4"
   },
   "userPRInfos": {
+    "cyan33": {
+      "total": 6,
+      "merged": 4,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/13282699?v=4"
+    },
     "gaearon": {
       "total": 592,
       "merged": 509,
@@ -252,11 +257,6 @@
       "total": 8,
       "merged": 7,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/1404810?v=4"
-    },
-    "cyan33": {
-      "total": 5,
-      "merged": 4,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/13282699?v=4"
     },
     "gebilaoxiong": {
       "total": 2,
@@ -4624,8 +4624,8 @@
       "avatarUrl": "https://avatars2.githubusercontent.com/u/15162965?v=4"
     },
     "syranide": {
-      "total": 132,
-      "merged": 65,
+      "total": 131,
+      "merged": 64,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/1714255?v=4"
     },
     "battaile": {
@@ -10081,7 +10081,7 @@
   },
   "datePRInfos": {
     "Juillet-2018": {
-      "total": 12,
+      "total": 13,
       "merged": 5
     },
     "Juin-2018": {
@@ -10297,8 +10297,8 @@
       "merged": 73
     },
     "Janvier-2014": {
-      "total": 137,
-      "merged": 88
+      "total": 136,
+      "merged": 87
     },
     "Décembre-2013": {
       "total": 98,
