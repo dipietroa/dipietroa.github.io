@@ -1,8 +1,8 @@
 {
-  "lastUpdate": "2018-07-06T17:47:17.328Z",
+  "lastUpdate": "2018-07-06T18:46:44.993Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6934,
+  "totalPR": 6935,
   "lastPR": {
     "createdAt": "2018-07-06T16:38:07Z",
     "username": "gaearon"
@@ -4624,8 +4624,8 @@
       "avatarUrl": "https://avatars2.githubusercontent.com/u/15162965?v=4"
     },
     "syranide": {
-      "total": 131,
-      "merged": 64,
+      "total": 132,
+      "merged": 65,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/1714255?v=4"
     },
     "battaile": {
@@ -10297,8 +10297,8 @@
       "merged": 73
     },
     "Janvier-2014": {
-      "total": 136,
-      "merged": 87
+      "total": 137,
+      "merged": 88
     },
     "Décembre-2013": {
       "total": 98,
