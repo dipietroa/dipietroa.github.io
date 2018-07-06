@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-07-06T21:43:07.728Z",
+  "lastUpdate": "2018-07-06T22:43:51.272Z",
   "cowner": "fastify",
   "crepo": "fastify",
   "totalPR": 615,
@@ -25,7 +25,7 @@
   "userPRInfos": {
     "allevo": {
       "total": 65,
-      "merged": 52,
+      "merged": 53,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/1054125?v=4"
     },
     "vincent178": {
@@ -557,7 +557,7 @@
   "datePRInfos": {
     "Juillet-2018": {
       "total": 5,
-      "merged": 3
+      "merged": 4
     },
     "Juin-2018": {
       "total": 35,
