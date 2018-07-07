@@ -1,8 +1,8 @@
 {
-  "lastUpdate": "2018-07-07T13:47:22.389Z",
+  "lastUpdate": "2018-07-07T14:46:08.100Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6941,
+  "totalPR": 6942,
   "lastPR": {
     "createdAt": "2018-07-07T00:28:37Z",
     "username": "gaearon"
@@ -54,7 +54,7 @@
       "avatarUrl": "https://avatars1.githubusercontent.com/u/37728280?v=4"
     },
     "koba04": {
-      "total": 82,
+      "total": 83,
       "merged": 59,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/250407?v=4"
     },
@@ -10237,7 +10237,7 @@
       "merged": 68
     },
     "Avril-2015": {
-      "total": 122,
+      "total": 123,
       "merged": 83
     },
     "Mars-2015": {
