@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-07-08T12:46:41.866Z",
+  "lastUpdate": "2018-07-08T13:47:11.118Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6943,
+  "totalPR": 6944,
   "lastPR": {
-    "createdAt": "2018-07-07T19:10:12Z",
-    "username": "zx6658"
+    "createdAt": "2018-07-08T13:03:17Z",
+    "username": "FumiyaShibusawa"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/628508?v=4"
   },
   "userPRInfos": {
+    "FumiyaShibusawa": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/17764944?v=4"
+    },
     "zx6658": {
       "total": 1,
       "merged": 0,
@@ -10086,7 +10091,7 @@
   },
   "datePRInfos": {
     "Juillet-2018": {
-      "total": 21,
+      "total": 22,
       "merged": 11
     },
     "Juin-2018": {
