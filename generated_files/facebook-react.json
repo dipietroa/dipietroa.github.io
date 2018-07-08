@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-07-08T18:46:38.792Z",
+  "lastUpdate": "2018-07-08T19:46:44.392Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6946,
+  "totalPR": 6947,
   "lastPR": {
-    "createdAt": "2018-07-08T16:14:15Z",
-    "username": "bvaughn"
+    "createdAt": "2018-07-08T18:49:17Z",
+    "username": "y-gagar1n"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/628508?v=4"
   },
   "userPRInfos": {
+    "y-gagar1n": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/2000558?v=4"
+    },
     "bvaughn": {
       "total": 240,
       "merged": 220,
@@ -10096,7 +10101,7 @@
   },
   "datePRInfos": {
     "Juillet-2018": {
-      "total": 24,
+      "total": 25,
       "merged": 11
     },
     "Juin-2018": {
