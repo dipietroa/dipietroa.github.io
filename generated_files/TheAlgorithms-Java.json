@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-07-09T09:42:49.341Z",
+  "lastUpdate": "2018-07-09T10:43:02.110Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
-  "totalPR": 406,
+  "totalPR": 407,
   "lastPR": {
-    "createdAt": "2018-07-05T05:28:59Z",
-    "username": "ravidesai47"
+    "createdAt": "2018-07-09T10:26:33Z",
+    "username": "shubhamtewari"
   },
   "bestPR": {
     "user": "theycallmemac",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/10345124?v=4"
   },
   "userPRInfos": {
+    "shubhamtewari": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/25544572?v=4"
+    },
     "ravidesai47": {
       "total": 1,
       "merged": 0,
@@ -1076,7 +1081,7 @@
   },
   "datePRInfos": {
     "Juillet-2018": {
-      "total": 2,
+      "total": 3,
       "merged": 0
     },
     "Juin-2018": {
