@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-07-09T11:43:44.695Z",
+  "lastUpdate": "2018-07-09T12:43:28.009Z",
   "cowner": "fastify",
   "crepo": "fastify",
-  "totalPR": 616,
+  "totalPR": 617,
   "lastPR": {
-    "createdAt": "2018-07-07T19:06:42Z",
-    "username": "lependu"
+    "createdAt": "2018-07-09T12:30:40Z",
+    "username": "xtx1130"
   },
   "bestPR": {
     "user": "delvedor",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/3997471?v=4"
   },
   "userPRInfos": {
+    "xtx1130": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/5475069?v=4"
+    },
     "lependu": {
       "total": 7,
       "merged": 6,
@@ -556,7 +561,7 @@
   },
   "datePRInfos": {
     "Juillet-2018": {
-      "total": 6,
+      "total": 7,
       "merged": 5
     },
     "Juin-2018": {
