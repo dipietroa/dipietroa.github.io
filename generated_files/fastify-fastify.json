@@ -1,15 +1,15 @@
 {
-  "lastUpdate": "2018-07-09T14:43:55.994Z",
+  "lastUpdate": "2018-07-09T15:43:46.020Z",
   "cowner": "fastify",
   "crepo": "fastify",
-  "totalPR": 617,
+  "totalPR": 618,
   "lastPR": {
-    "createdAt": "2018-07-09T12:30:40Z",
-    "username": "xtx1130"
+    "createdAt": "2018-07-09T15:39:47Z",
+    "username": "delvedor"
   },
   "bestPR": {
     "user": "delvedor",
-    "nbPR": 102,
+    "nbPR": 103,
     "image": "https://avatars0.githubusercontent.com/u/4865608?v=4"
   },
   "bestMerged": {
@@ -18,14 +18,19 @@
     "image": "https://avatars0.githubusercontent.com/u/4865608?v=4"
   },
   "bestRatio": {
-    "user": "astesio",
+    "user": "xtx1130",
     "ratio": 1,
-    "image": "https://avatars1.githubusercontent.com/u/3997471?v=4"
+    "image": "https://avatars2.githubusercontent.com/u/5475069?v=4"
   },
   "userPRInfos": {
+    "delvedor": {
+      "total": 103,
+      "merged": 98,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/4865608?v=4"
+    },
     "xtx1130": {
       "total": 1,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/5475069?v=4"
     },
     "lependu": {
@@ -87,11 +92,6 @@
       "total": 1,
       "merged": 1,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/5403397?v=4"
-    },
-    "delvedor": {
-      "total": 102,
-      "merged": 98,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/4865608?v=4"
     },
     "StarpTech": {
       "total": 36,
@@ -561,8 +561,8 @@
   },
   "datePRInfos": {
     "Juillet-2018": {
-      "total": 7,
-      "merged": 5
+      "total": 8,
+      "merged": 6
     },
     "Juin-2018": {
       "total": 35,
