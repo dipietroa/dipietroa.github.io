@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-07-10T04:43:13.550Z",
+  "lastUpdate": "2018-07-10T05:43:41.255Z",
   "cowner": "fastify",
   "crepo": "fastify",
-  "totalPR": 618,
+  "totalPR": 619,
   "lastPR": {
-    "createdAt": "2018-07-09T15:39:47Z",
-    "username": "delvedor"
+    "createdAt": "2018-07-10T05:25:49Z",
+    "username": "zhaoyao91"
   },
   "bestPR": {
     "user": "delvedor",
@@ -23,6 +23,11 @@
     "image": "https://avatars2.githubusercontent.com/u/5475069?v=4"
   },
   "userPRInfos": {
+    "zhaoyao91": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/3808838?v=4"
+    },
     "delvedor": {
       "total": 103,
       "merged": 98,
@@ -561,7 +566,7 @@
   },
   "datePRInfos": {
     "Juillet-2018": {
-      "total": 8,
+      "total": 9,
       "merged": 6
     },
     "Juin-2018": {
