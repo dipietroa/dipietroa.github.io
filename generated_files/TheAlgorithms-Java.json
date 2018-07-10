@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-07-10T01:42:56.900Z",
+  "lastUpdate": "2018-07-10T02:42:40.338Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
-  "totalPR": 407,
+  "totalPR": 408,
   "lastPR": {
-    "createdAt": "2018-07-09T10:26:33Z",
-    "username": "shubhamtewari"
+    "createdAt": "2018-07-10T02:30:18Z",
+    "username": "y2kbcm1"
   },
   "bestPR": {
     "user": "theycallmemac",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/10345124?v=4"
   },
   "userPRInfos": {
+    "y2kbcm1": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/40973495?v=4"
+    },
     "shubhamtewari": {
       "total": 1,
       "merged": 0,
@@ -1081,7 +1086,7 @@
   },
   "datePRInfos": {
     "Juillet-2018": {
-      "total": 3,
+      "total": 4,
       "merged": 0
     },
     "Juin-2018": {
