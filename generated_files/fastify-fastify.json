@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-07-10T22:43:27.414Z",
+  "lastUpdate": "2018-07-10T23:43:14.893Z",
   "cowner": "fastify",
   "crepo": "fastify",
-  "totalPR": 620,
+  "totalPR": 621,
   "lastPR": {
-    "createdAt": "2018-07-10T11:40:14Z",
-    "username": "xtx1130"
+    "createdAt": "2018-07-10T23:12:05Z",
+    "username": "lmammino"
   },
   "bestPR": {
     "user": "delvedor",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/3997471?v=4"
   },
   "userPRInfos": {
+    "lmammino": {
+      "total": 7,
+      "merged": 5,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/205629?v=4"
+    },
     "xtx1130": {
       "total": 2,
       "merged": 1,
@@ -82,11 +87,6 @@
       "total": 2,
       "merged": 1,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/20400873?v=4"
-    },
-    "lmammino": {
-      "total": 6,
-      "merged": 5,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/205629?v=4"
     },
     "jsumners": {
       "total": 38,
@@ -566,7 +566,7 @@
   },
   "datePRInfos": {
     "Juillet-2018": {
-      "total": 10,
+      "total": 11,
       "merged": 7
     },
     "Juin-2018": {
