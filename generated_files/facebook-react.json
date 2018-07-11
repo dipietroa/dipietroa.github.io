@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-07-11T10:47:29.224Z",
+  "lastUpdate": "2018-07-11T11:47:45.339Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 6954,
@@ -18,14 +18,14 @@
     "image": "https://avatars2.githubusercontent.com/u/6820?v=4"
   },
   "bestRatio": {
-    "user": "realityking",
+    "user": "dongyuwei",
     "ratio": 1,
-    "image": "https://avatars1.githubusercontent.com/u/628508?v=4"
+    "image": "https://avatars3.githubusercontent.com/u/112451?v=4"
   },
   "userPRInfos": {
     "dongyuwei": {
       "total": 1,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/112451?v=4"
     },
     "cyan33": {
@@ -10112,7 +10112,7 @@
   "datePRInfos": {
     "Juillet-2018": {
       "total": 32,
-      "merged": 15
+      "merged": 16
     },
     "Juin-2018": {
       "total": 68,
