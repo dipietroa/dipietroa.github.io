@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-07-11T04:47:14.669Z",
+  "lastUpdate": "2018-07-11T05:47:43.587Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6953,
+  "totalPR": 6954,
   "lastPR": {
-    "createdAt": "2018-07-11T02:50:43Z",
-    "username": "cyan33"
+    "createdAt": "2018-07-11T05:43:34Z",
+    "username": "dongyuwei"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/628508?v=4"
   },
   "userPRInfos": {
+    "dongyuwei": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/112451?v=4"
+    },
     "cyan33": {
       "total": 7,
       "merged": 5,
@@ -10106,7 +10111,7 @@
   },
   "datePRInfos": {
     "Juillet-2018": {
-      "total": 31,
+      "total": 32,
       "merged": 15
     },
     "Juin-2018": {
