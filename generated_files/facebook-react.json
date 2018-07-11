@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-07-11T18:47:34.219Z",
+  "lastUpdate": "2018-07-11T19:47:31.989Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 6957,
@@ -25,7 +25,7 @@
   "userPRInfos": {
     "bvaughn": {
       "total": 244,
-      "merged": 223,
+      "merged": 224,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/29597?v=4"
     },
     "dongyuwei": {
@@ -10112,7 +10112,7 @@
   "datePRInfos": {
     "Juillet-2018": {
       "total": 35,
-      "merged": 18
+      "merged": 19
     },
     "Juin-2018": {
       "total": 68,
