@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-07-12T14:49:35.447Z",
+  "lastUpdate": "2018-07-12T15:48:06.487Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6961,
+  "totalPR": 6962,
   "lastPR": {
-    "createdAt": "2018-07-12T14:28:58Z",
-    "username": "gaearon"
+    "createdAt": "2018-07-12T15:22:09Z",
+    "username": "mikesamuel"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,9 +23,14 @@
     "image": "https://avatars3.githubusercontent.com/u/112451?v=4"
   },
   "userPRInfos": {
+    "mikesamuel": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/368886?v=4"
+    },
     "gaearon": {
       "total": 599,
-      "merged": 514,
+      "merged": 515,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/810438?v=4"
     },
     "jddxf": {
@@ -35,7 +40,7 @@
     },
     "bvaughn": {
       "total": 245,
-      "merged": 224,
+      "merged": 225,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/29597?v=4"
     },
     "dongyuwei": {
@@ -1113,7 +1118,7 @@
       "merged": 0,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/2159033?v=4"
     },
-    "andydavies92": {
+    "andidavies92": {
       "total": 1,
       "merged": 1,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/17612522?v=4"
@@ -10111,8 +10116,8 @@
   },
   "datePRInfos": {
     "Juillet-2018": {
-      "total": 39,
-      "merged": 21
+      "total": 40,
+      "merged": 23
     },
     "Juin-2018": {
       "total": 68,
