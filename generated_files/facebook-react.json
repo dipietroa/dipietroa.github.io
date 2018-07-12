@@ -1,8 +1,8 @@
 {
-  "lastUpdate": "2018-07-12T12:48:38.582Z",
+  "lastUpdate": "2018-07-12T13:48:25.675Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6959,
+  "totalPR": 6960,
   "lastPR": {
     "createdAt": "2018-07-12T12:36:19Z",
     "username": "jddxf"
@@ -1639,8 +1639,8 @@
       "avatarUrl": "https://avatars1.githubusercontent.com/u/539075?v=4"
     },
     "zpao": {
-      "total": 338,
-      "merged": 288,
+      "total": 339,
+      "merged": 289,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/8445?v=4"
     },
     "danielsbird": {
@@ -10255,8 +10255,8 @@
       "merged": 78
     },
     "Juillet-2015": {
-      "total": 138,
-      "merged": 109
+      "total": 139,
+      "merged": 110
     },
     "Juin-2015": {
       "total": 146,
