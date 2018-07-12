@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-07-12T03:42:47.683Z",
+  "lastUpdate": "2018-07-12T04:43:00.951Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 1211,
+  "totalPR": 1212,
   "lastPR": {
-    "createdAt": "2018-07-09T11:01:48Z",
-    "username": "yaoqifa"
+    "createdAt": "2018-07-12T04:03:42Z",
+    "username": "yuchonghua"
   },
   "bestPR": {
     "user": "kazupon",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/3408176?v=4"
   },
   "userPRInfos": {
+    "yuchonghua": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/17898715?v=4"
+    },
     "yaoqifa": {
       "total": 1,
       "merged": 0,
@@ -2731,7 +2736,7 @@
   },
   "datePRInfos": {
     "Juillet-2018": {
-      "total": 4,
+      "total": 5,
       "merged": 0
     },
     "Juin-2018": {
