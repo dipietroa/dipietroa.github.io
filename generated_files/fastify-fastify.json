@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-07-12T13:44:12.146Z",
+  "lastUpdate": "2018-07-12T14:44:44.847Z",
   "cowner": "fastify",
   "crepo": "fastify",
-  "totalPR": 622,
+  "totalPR": 623,
   "lastPR": {
-    "createdAt": "2018-07-11T14:17:07Z",
-    "username": "fralonra"
+    "createdAt": "2018-07-12T13:50:08Z",
+    "username": "hitochan777"
   },
   "bestPR": {
     "user": "delvedor",
@@ -23,6 +23,11 @@
     "image": "https://avatars2.githubusercontent.com/u/5475069?v=4"
   },
   "userPRInfos": {
+    "hitochan777": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/6002787?v=4"
+    },
     "fralonra": {
       "total": 3,
       "merged": 2,
@@ -566,7 +571,7 @@
   },
   "datePRInfos": {
     "Juillet-2018": {
-      "total": 12,
+      "total": 13,
       "merged": 9
     },
     "Juin-2018": {
