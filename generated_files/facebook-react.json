@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-07-12T13:48:25.675Z",
+  "lastUpdate": "2018-07-12T14:49:35.447Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6960,
+  "totalPR": 6961,
   "lastPR": {
-    "createdAt": "2018-07-12T12:36:19Z",
-    "username": "jddxf"
+    "createdAt": "2018-07-12T14:28:58Z",
+    "username": "gaearon"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/112451?v=4"
   },
   "userPRInfos": {
+    "gaearon": {
+      "total": 599,
+      "merged": 514,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/810438?v=4"
+    },
     "jddxf": {
       "total": 9,
       "merged": 5,
@@ -42,11 +47,6 @@
       "total": 7,
       "merged": 5,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/13282699?v=4"
-    },
-    "gaearon": {
-      "total": 597,
-      "merged": 513,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/810438?v=4"
     },
     "thoamsy": {
       "total": 1,
@@ -1639,8 +1639,8 @@
       "avatarUrl": "https://avatars1.githubusercontent.com/u/539075?v=4"
     },
     "zpao": {
-      "total": 339,
-      "merged": 289,
+      "total": 338,
+      "merged": 288,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/8445?v=4"
     },
     "danielsbird": {
@@ -10111,8 +10111,8 @@
   },
   "datePRInfos": {
     "Juillet-2018": {
-      "total": 37,
-      "merged": 20
+      "total": 39,
+      "merged": 21
     },
     "Juin-2018": {
       "total": 68,
@@ -10255,8 +10255,8 @@
       "merged": 78
     },
     "Juillet-2015": {
-      "total": 139,
-      "merged": 110
+      "total": 138,
+      "merged": 109
     },
     "Juin-2015": {
       "total": 146,
