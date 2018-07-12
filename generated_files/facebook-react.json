@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-07-12T10:47:47.868Z",
+  "lastUpdate": "2018-07-12T11:47:48.306Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 6958,
@@ -50,7 +50,7 @@
     },
     "philipp-spiess": {
       "total": 8,
-      "merged": 6,
+      "merged": 7,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/458591?v=4"
     },
     "y-gagar1n": {
@@ -10112,7 +10112,7 @@
   "datePRInfos": {
     "Juillet-2018": {
       "total": 36,
-      "merged": 19
+      "merged": 20
     },
     "Juin-2018": {
       "total": 68,
