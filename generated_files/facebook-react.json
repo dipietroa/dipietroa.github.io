@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-07-13T17:47:28.121Z",
+  "lastUpdate": "2018-07-13T18:47:35.948Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 6965,
   "lastPR": {
-    "createdAt": "2018-07-12T22:43:16Z",
-    "username": "gaearon"
+    "createdAt": "2018-07-13T17:47:16Z",
+    "username": "johanhenrikssn"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/112451?v=4"
   },
   "userPRInfos": {
+    "johanhenrikssn": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/2175093?v=4"
+    },
     "gaearon": {
       "total": 600,
       "merged": 516,
@@ -30,7 +35,7 @@
     },
     "acdlite": {
       "total": 213,
-      "merged": 171,
+      "merged": 172,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/3624098?v=4"
     },
     "mikesamuel": {
@@ -8909,7 +8914,7 @@
       "avatarUrl": "https://avatars2.githubusercontent.com/u/2745959?v=4"
     },
     "petehunt": {
-      "total": 58,
+      "total": 57,
       "merged": 28,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/239742?v=4"
     },
@@ -10116,8 +10121,8 @@
   },
   "datePRInfos": {
     "Juillet-2018": {
-      "total": 42,
-      "merged": 24
+      "total": 43,
+      "merged": 25
     },
     "Juin-2018": {
       "total": 68,
@@ -10336,7 +10341,7 @@
       "merged": 87
     },
     "Décembre-2013": {
-      "total": 99,
+      "total": 98,
       "merged": 79
     },
     "Novembre-2013": {
