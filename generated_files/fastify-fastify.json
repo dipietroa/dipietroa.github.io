@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-07-14T06:43:50.218Z",
+  "lastUpdate": "2018-07-14T07:43:29.707Z",
   "cowner": "fastify",
   "crepo": "fastify",
-  "totalPR": 625,
+  "totalPR": 626,
   "lastPR": {
-    "createdAt": "2018-07-14T01:42:57Z",
-    "username": "fralonra"
+    "createdAt": "2018-07-14T07:33:33Z",
+    "username": "simone-sanfratello"
   },
   "bestPR": {
     "user": "delvedor",
@@ -23,6 +23,11 @@
     "image": "https://avatars2.githubusercontent.com/u/6002787?v=4"
   },
   "userPRInfos": {
+    "simone-sanfratello": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/5823031?v=4"
+    },
     "fralonra": {
       "total": 5,
       "merged": 3,
@@ -571,7 +576,7 @@
   },
   "datePRInfos": {
     "Juillet-2018": {
-      "total": 15,
+      "total": 16,
       "merged": 13
     },
     "Juin-2018": {
