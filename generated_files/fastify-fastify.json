@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-07-14T15:43:11.663Z",
+  "lastUpdate": "2018-07-14T16:44:02.862Z",
   "cowner": "fastify",
   "crepo": "fastify",
-  "totalPR": 626,
+  "totalPR": 627,
   "lastPR": {
-    "createdAt": "2018-07-14T07:33:33Z",
-    "username": "simone-sanfratello"
+    "createdAt": "2018-07-14T16:01:46Z",
+    "username": "SerayaEryn"
   },
   "bestPR": {
     "user": "delvedor",
@@ -23,6 +23,11 @@
     "image": "https://avatars2.githubusercontent.com/u/6002787?v=4"
   },
   "userPRInfos": {
+    "SerayaEryn": {
+      "total": 6,
+      "merged": 4,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/22620443?v=4"
+    },
     "simone-sanfratello": {
       "total": 1,
       "merged": 0,
@@ -373,11 +378,6 @@
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/3198597?v=4"
     },
-    "SerayaEryn": {
-      "total": 5,
-      "merged": 4,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/22620443?v=4"
-    },
     "lolo32": {
       "total": 5,
       "merged": 2,
@@ -576,7 +576,7 @@
   },
   "datePRInfos": {
     "Juillet-2018": {
-      "total": 16,
+      "total": 17,
       "merged": 14
     },
     "Juin-2018": {
