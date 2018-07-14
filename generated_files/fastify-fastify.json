@@ -1,8 +1,8 @@
 {
-  "lastUpdate": "2018-07-14T00:43:19.819Z",
+  "lastUpdate": "2018-07-14T01:43:06.313Z",
   "cowner": "fastify",
   "crepo": "fastify",
-  "totalPR": 624,
+  "totalPR": 625,
   "lastPR": {
     "createdAt": "2018-07-13T14:07:50Z",
     "username": "fralonra"
@@ -94,8 +94,8 @@
       "avatarUrl": "https://avatars1.githubusercontent.com/u/6953573?v=4"
     },
     "jsumners": {
-      "total": 38,
-      "merged": 38,
+      "total": 39,
+      "merged": 39,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/321201?v=4"
     },
     "ishanray": {
@@ -599,8 +599,8 @@
       "merged": 78
     },
     "Décembre-2017": {
-      "total": 54,
-      "merged": 46
+      "total": 55,
+      "merged": 47
     },
     "Novembre-2017": {
       "total": 52,
