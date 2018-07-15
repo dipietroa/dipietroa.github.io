@@ -1,15 +1,15 @@
 {
-  "lastUpdate": "2018-07-15T14:41:40.142Z",
+  "lastUpdate": "2018-07-15T15:41:30.468Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2713,
+  "totalPR": 2714,
   "lastPR": {
-    "createdAt": "2018-07-15T13:30:50Z",
+    "createdAt": "2018-07-15T14:59:10Z",
     "username": "izeye"
   },
   "bestPR": {
     "user": "izeye",
-    "nbPR": 420,
+    "nbPR": 421,
     "image": "https://avatars3.githubusercontent.com/u/1059363?v=4"
   },
   "bestMerged": {
@@ -24,7 +24,7 @@
   },
   "userPRInfos": {
     "izeye": {
-      "total": 420,
+      "total": 421,
       "merged": 2,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/1059363?v=4"
     },
@@ -4106,7 +4106,7 @@
   },
   "datePRInfos": {
     "Juillet-2018": {
-      "total": 17,
+      "total": 18,
       "merged": 0
     },
     "Juin-2018": {
