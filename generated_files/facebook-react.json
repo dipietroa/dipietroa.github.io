@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-07-15T11:46:51.787Z",
+  "lastUpdate": "2018-07-15T12:46:16.321Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6965,
+  "totalPR": 6966,
   "lastPR": {
-    "createdAt": "2018-07-13T17:47:16Z",
-    "username": "johanhenrikssn"
+    "createdAt": "2018-07-15T11:50:00Z",
+    "username": "thoamsy"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/112451?v=4"
   },
   "userPRInfos": {
+    "thoamsy": {
+      "total": 2,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/11444431?v=4"
+    },
     "johanhenrikssn": {
       "total": 1,
       "merged": 0,
@@ -62,11 +67,6 @@
       "total": 7,
       "merged": 5,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/13282699?v=4"
-    },
-    "thoamsy": {
-      "total": 1,
-      "merged": 0,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/11444431?v=4"
     },
     "philipp-spiess": {
       "total": 8,
@@ -10121,7 +10121,7 @@
   },
   "datePRInfos": {
     "Juillet-2018": {
-      "total": 43,
+      "total": 44,
       "merged": 25
     },
     "Juin-2018": {
