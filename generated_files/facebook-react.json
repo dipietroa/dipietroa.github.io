@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-07-15T14:46:28.345Z",
+  "lastUpdate": "2018-07-15T15:46:12.249Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6966,
+  "totalPR": 6967,
   "lastPR": {
-    "createdAt": "2018-07-15T11:50:00Z",
-    "username": "thoamsy"
+    "createdAt": "2018-07-15T14:53:06Z",
+    "username": "iyegoroff"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/112451?v=4"
   },
   "userPRInfos": {
+    "iyegoroff": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/4447438?v=4"
+    },
     "thoamsy": {
       "total": 2,
       "merged": 0,
@@ -10121,7 +10126,7 @@
   },
   "datePRInfos": {
     "Juillet-2018": {
-      "total": 44,
+      "total": 45,
       "merged": 25
     },
     "Juin-2018": {
