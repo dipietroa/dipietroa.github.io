@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-07-16T04:43:14.338Z",
+  "lastUpdate": "2018-07-16T05:42:46.217Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 1216,
+  "totalPR": 1217,
   "lastPR": {
-    "createdAt": "2018-07-14T19:39:50Z",
-    "username": "linjiajian999"
+    "createdAt": "2018-07-16T05:20:02Z",
+    "username": "phablulo"
   },
   "bestPR": {
     "user": "kazupon",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/3408176?v=4"
   },
   "userPRInfos": {
+    "phablulo": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/15130482?v=4"
+    },
     "linjiajian999": {
       "total": 1,
       "merged": 0,
@@ -2751,7 +2756,7 @@
   },
   "datePRInfos": {
     "Juillet-2018": {
-      "total": 9,
+      "total": 10,
       "merged": 0
     },
     "Juin-2018": {
