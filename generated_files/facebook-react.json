@@ -1,20 +1,20 @@
 {
-  "lastUpdate": "2018-07-16T20:47:41.391Z",
+  "lastUpdate": "2018-07-16T21:48:00.248Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 6969,
   "lastPR": {
-    "createdAt": "2018-07-16T18:38:17Z",
-    "username": "gaearon"
+    "createdAt": "2018-07-16T20:46:19Z",
+    "username": "acdlite"
   },
   "bestPR": {
     "user": "sophiebits",
-    "nbPR": 666,
+    "nbPR": 665,
     "image": "https://avatars2.githubusercontent.com/u/6820?v=4"
   },
   "bestMerged": {
     "user": "sophiebits",
-    "nbPR": 591,
+    "nbPR": 590,
     "image": "https://avatars2.githubusercontent.com/u/6820?v=4"
   },
   "bestRatio": {
@@ -23,9 +23,14 @@
     "image": "https://avatars3.githubusercontent.com/u/112451?v=4"
   },
   "userPRInfos": {
+    "acdlite": {
+      "total": 214,
+      "merged": 172,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/3624098?v=4"
+    },
     "gaearon": {
       "total": 601,
-      "merged": 517,
+      "merged": 518,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/810438?v=4"
     },
     "iyegoroff": {
@@ -42,11 +47,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/2175093?v=4"
-    },
-    "acdlite": {
-      "total": 213,
-      "merged": 172,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/3624098?v=4"
     },
     "mikesamuel": {
       "total": 1,
@@ -309,8 +309,8 @@
       "avatarUrl": "https://avatars0.githubusercontent.com/u/11804936?v=4"
     },
     "sophiebits": {
-      "total": 666,
-      "merged": 591,
+      "total": 665,
+      "merged": 590,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/6820?v=4"
     },
     "kevinkassimo": {
@@ -10126,8 +10126,8 @@
   },
   "datePRInfos": {
     "Juillet-2018": {
-      "total": 46,
-      "merged": 26
+      "total": 47,
+      "merged": 27
     },
     "Juin-2018": {
       "total": 68,
@@ -10262,8 +10262,8 @@
       "merged": 121
     },
     "Septembre-2015": {
-      "total": 118,
-      "merged": 95
+      "total": 117,
+      "merged": 94
     },
     "Août-2015": {
       "total": 101,
