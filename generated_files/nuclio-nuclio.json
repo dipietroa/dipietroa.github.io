@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-07-16T06:43:23.625Z",
+  "lastUpdate": "2018-07-16T07:43:09.073Z",
   "cowner": "nuclio",
   "crepo": "nuclio",
-  "totalPR": 645,
+  "totalPR": 646,
   "lastPR": {
-    "createdAt": "2018-07-15T13:07:52Z",
-    "username": "tebeka"
+    "createdAt": "2018-07-16T06:43:52Z",
+    "username": "ScienJus"
   },
   "bestPR": {
     "user": "pavius",
@@ -23,9 +23,14 @@
     "image": "https://avatars1.githubusercontent.com/u/25711177?v=4"
   },
   "userPRInfos": {
+    "ScienJus": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/8350653?v=4"
+    },
     "tebeka": {
       "total": 98,
-      "merged": 62,
+      "merged": 63,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/87697?v=4"
     },
     "maksym-kyselytsia": {
@@ -161,12 +166,12 @@
   },
   "datePRInfos": {
     "Juillet-2018": {
-      "total": 9,
+      "total": 10,
       "merged": 5
     },
     "Juin-2018": {
       "total": 35,
-      "merged": 32
+      "merged": 33
     },
     "Mai-2018": {
       "total": 49,
