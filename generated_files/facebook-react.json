@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-07-16T21:48:00.248Z",
+  "lastUpdate": "2018-07-16T22:47:33.996Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6969,
+  "totalPR": 6971,
   "lastPR": {
-    "createdAt": "2018-07-16T20:46:19Z",
-    "username": "acdlite"
+    "createdAt": "2018-07-16T22:04:46Z",
+    "username": "gaearon"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,15 +23,15 @@
     "image": "https://avatars3.githubusercontent.com/u/112451?v=4"
   },
   "userPRInfos": {
+    "gaearon": {
+      "total": 602,
+      "merged": 518,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/810438?v=4"
+    },
     "acdlite": {
       "total": 214,
       "merged": 172,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/3624098?v=4"
-    },
-    "gaearon": {
-      "total": 601,
-      "merged": 518,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/810438?v=4"
     },
     "iyegoroff": {
       "total": 1,
@@ -2569,8 +2569,8 @@
       "avatarUrl": "https://avatars3.githubusercontent.com/u/450559?v=4"
     },
     "exiadbq": {
-      "total": 3,
-      "merged": 2,
+      "total": 4,
+      "merged": 3,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/4665929?v=4"
     },
     "brigand": {
@@ -10126,7 +10126,7 @@
   },
   "datePRInfos": {
     "Juillet-2018": {
-      "total": 47,
+      "total": 48,
       "merged": 27
     },
     "Juin-2018": {
@@ -10214,8 +10214,8 @@
       "merged": 168
     },
     "Septembre-2016": {
-      "total": 108,
-      "merged": 74
+      "total": 109,
+      "merged": 75
     },
     "Août-2016": {
       "total": 138,
