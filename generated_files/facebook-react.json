@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-07-16T23:46:55.742Z",
+  "lastUpdate": "2018-07-17T00:47:17.498Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 6972,
@@ -18,19 +18,19 @@
     "image": "https://avatars2.githubusercontent.com/u/6820?v=4"
   },
   "bestRatio": {
-    "user": "dongyuwei",
+    "user": "Titozzz",
     "ratio": 1,
-    "image": "https://avatars3.githubusercontent.com/u/112451?v=4"
+    "image": "https://avatars1.githubusercontent.com/u/6181446?v=4"
   },
   "userPRInfos": {
     "Titozzz": {
       "total": 1,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/6181446?v=4"
     },
     "gaearon": {
       "total": 603,
-      "merged": 518,
+      "merged": 519,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/810438?v=4"
     },
     "acdlite": {
@@ -10132,7 +10132,7 @@
   "datePRInfos": {
     "Juillet-2018": {
       "total": 50,
-      "merged": 27
+      "merged": 29
     },
     "Juin-2018": {
       "total": 68,
