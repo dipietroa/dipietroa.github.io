@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-07-17T08:44:04.012Z",
+  "lastUpdate": "2018-07-17T09:44:32.158Z",
   "cowner": "fastify",
   "crepo": "fastify",
-  "totalPR": 627,
+  "totalPR": 628,
   "lastPR": {
-    "createdAt": "2018-07-14T16:01:46Z",
-    "username": "SerayaEryn"
+    "createdAt": "2018-07-17T09:26:21Z",
+    "username": "SkeLLLa"
   },
   "bestPR": {
     "user": "delvedor",
@@ -23,6 +23,11 @@
     "image": "https://avatars2.githubusercontent.com/u/6002787?v=4"
   },
   "userPRInfos": {
+    "SkeLLLa": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/2273103?v=4"
+    },
     "SerayaEryn": {
       "total": 6,
       "merged": 5,
@@ -576,7 +581,7 @@
   },
   "datePRInfos": {
     "Juillet-2018": {
-      "total": 17,
+      "total": 18,
       "merged": 15
     },
     "Juin-2018": {
