@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-07-18T17:47:07.506Z",
+  "lastUpdate": "2018-07-18T18:48:20.077Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6975,
+  "totalPR": 6976,
   "lastPR": {
-    "createdAt": "2018-07-18T12:44:01Z",
-    "username": "prashant-andani"
+    "createdAt": "2018-07-18T18:24:01Z",
+    "username": "acdlite"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/6181446?v=4"
   },
   "userPRInfos": {
+    "acdlite": {
+      "total": 215,
+      "merged": 172,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/3624098?v=4"
+    },
     "prashant-andani": {
       "total": 1,
       "merged": 0,
@@ -37,11 +42,6 @@
       "total": 1,
       "merged": 1,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/6181446?v=4"
-    },
-    "acdlite": {
-      "total": 214,
-      "merged": 172,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/3624098?v=4"
     },
     "iyegoroff": {
       "total": 1,
@@ -10136,7 +10136,7 @@
   },
   "datePRInfos": {
     "Juillet-2018": {
-      "total": 53,
+      "total": 54,
       "merged": 35
     },
     "Juin-2018": {
