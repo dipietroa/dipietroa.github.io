@@ -1,8 +1,8 @@
 {
-  "lastUpdate": "2018-07-18T11:47:22.543Z",
+  "lastUpdate": "2018-07-18T12:47:19.755Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6974,
+  "totalPR": 6975,
   "lastPR": {
     "createdAt": "2018-07-18T01:13:02Z",
     "username": "gaearon"
@@ -1089,7 +1089,7 @@
       "avatarUrl": "https://avatars2.githubusercontent.com/u/16144158?v=4"
     },
     "vincent178": {
-      "total": 2,
+      "total": 3,
       "merged": 0,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/2183720?v=4"
     },
@@ -10163,7 +10163,7 @@
       "merged": 65
     },
     "Novembre-2017": {
-      "total": 168,
+      "total": 169,
       "merged": 126
     },
     "Octobre-2017": {
