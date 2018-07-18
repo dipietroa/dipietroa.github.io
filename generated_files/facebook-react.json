@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-07-18T12:47:19.755Z",
+  "lastUpdate": "2018-07-18T13:47:59.168Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 6975,
   "lastPR": {
-    "createdAt": "2018-07-18T01:13:02Z",
-    "username": "gaearon"
+    "createdAt": "2018-07-18T12:44:01Z",
+    "username": "prashant-andani"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/6181446?v=4"
   },
   "userPRInfos": {
+    "prashant-andani": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/829627?v=4"
+    },
     "gaearon": {
       "total": 605,
       "merged": 522,
@@ -1089,7 +1094,7 @@
       "avatarUrl": "https://avatars2.githubusercontent.com/u/16144158?v=4"
     },
     "vincent178": {
-      "total": 3,
+      "total": 2,
       "merged": 0,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/2183720?v=4"
     },
@@ -10131,7 +10136,7 @@
   },
   "datePRInfos": {
     "Juillet-2018": {
-      "total": 52,
+      "total": 53,
       "merged": 35
     },
     "Juin-2018": {
@@ -10163,7 +10168,7 @@
       "merged": 65
     },
     "Novembre-2017": {
-      "total": 169,
+      "total": 168,
       "merged": 126
     },
     "Octobre-2017": {
