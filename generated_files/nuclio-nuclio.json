@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-07-18T10:42:52.842Z",
+  "lastUpdate": "2018-07-18T11:43:18.305Z",
   "cowner": "nuclio",
   "crepo": "nuclio",
-  "totalPR": 649,
+  "totalPR": 650,
   "lastPR": {
-    "createdAt": "2018-07-17T19:47:34Z",
-    "username": "eran-nussbaum"
+    "createdAt": "2018-07-18T11:10:57Z",
+    "username": "gtopper"
   },
   "bestPR": {
     "user": "pavius",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/8350653?v=4"
   },
   "userPRInfos": {
+    "gtopper": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/4675524?v=4"
+    },
     "eran-nussbaum": {
       "total": 60,
       "merged": 58,
@@ -166,7 +171,7 @@
   },
   "datePRInfos": {
     "Juillet-2018": {
-      "total": 13,
+      "total": 14,
       "merged": 9
     },
     "Juin-2018": {
