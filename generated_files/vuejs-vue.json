@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-07-18T19:43:29.923Z",
+  "lastUpdate": "2018-07-18T20:42:38.989Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 1220,
+  "totalPR": 1221,
   "lastPR": {
-    "createdAt": "2018-07-18T04:22:49Z",
-    "username": "msrahman07"
+    "createdAt": "2018-07-18T20:12:21Z",
+    "username": "sqal"
   },
   "bestPR": {
     "user": "kazupon",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/3408176?v=4"
   },
   "userPRInfos": {
+    "sqal": {
+      "total": 2,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/3576913?v=4"
+    },
     "msrahman07": {
       "total": 1,
       "merged": 0,
@@ -1528,11 +1533,6 @@
       "merged": 11,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/1001175?v=4"
     },
-    "sqal": {
-      "total": 1,
-      "merged": 0,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/3576913?v=4"
-    },
     "caioincau": {
       "total": 1,
       "merged": 1,
@@ -2771,7 +2771,7 @@
   },
   "datePRInfos": {
     "Juillet-2018": {
-      "total": 13,
+      "total": 14,
       "merged": 0
     },
     "Juin-2018": {
