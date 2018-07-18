@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-07-18T20:46:47.348Z",
+  "lastUpdate": "2018-07-18T21:47:36.980Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 6978,
@@ -25,7 +25,7 @@
   "userPRInfos": {
     "Andarist": {
       "total": 9,
-      "merged": 5,
+      "merged": 6,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/9800850?v=4"
     },
     "acdlite": {
@@ -10137,7 +10137,7 @@
   "datePRInfos": {
     "Juillet-2018": {
       "total": 56,
-      "merged": 35
+      "merged": 36
     },
     "Juin-2018": {
       "total": 68,
