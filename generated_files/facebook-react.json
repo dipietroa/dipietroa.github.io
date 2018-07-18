@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-07-18T22:46:31.815Z",
+  "lastUpdate": "2018-07-18T23:46:52.591Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6979,
+  "totalPR": 6982,
   "lastPR": {
-    "createdAt": "2018-07-18T22:30:04Z",
-    "username": "bvaughn"
+    "createdAt": "2018-07-18T23:28:18Z",
+    "username": "gaearon"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,16 @@
     "image": "https://avatars1.githubusercontent.com/u/6181446?v=4"
   },
   "userPRInfos": {
+    "gaearon": {
+      "total": 607,
+      "merged": 523,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/810438?v=4"
+    },
+    "acdlite": {
+      "total": 217,
+      "merged": 173,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/3624098?v=4"
+    },
     "bvaughn": {
       "total": 246,
       "merged": 225,
@@ -33,20 +43,10 @@
       "merged": 6,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/9800850?v=4"
     },
-    "acdlite": {
-      "total": 216,
-      "merged": 172,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/3624098?v=4"
-    },
     "prashant-andani": {
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/829627?v=4"
-    },
-    "gaearon": {
-      "total": 605,
-      "merged": 522,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/810438?v=4"
     },
     "Titozzz": {
       "total": 1,
@@ -10136,8 +10136,8 @@
   },
   "datePRInfos": {
     "Juillet-2018": {
-      "total": 57,
-      "merged": 36
+      "total": 60,
+      "merged": 38
     },
     "Juin-2018": {
       "total": 68,
