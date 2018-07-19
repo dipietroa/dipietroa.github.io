@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-07-18T23:42:33.650Z",
+  "lastUpdate": "2018-07-19T00:41:54.973Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
-  "totalPR": 409,
+  "totalPR": 410,
   "lastPR": {
-    "createdAt": "2018-07-14T16:11:21Z",
-    "username": "ReemaIsrani"
+    "createdAt": "2018-07-18T23:46:22Z",
+    "username": "davidwufrontend"
   },
   "bestPR": {
     "user": "theycallmemac",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/10345124?v=4"
   },
   "userPRInfos": {
+    "davidwufrontend": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/40044118?v=4"
+    },
     "ReemaIsrani": {
       "total": 1,
       "merged": 0,
@@ -1091,7 +1096,7 @@
   },
   "datePRInfos": {
     "Juillet-2018": {
-      "total": 5,
+      "total": 6,
       "merged": 0
     },
     "Juin-2018": {
