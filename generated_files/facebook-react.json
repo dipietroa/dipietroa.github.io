@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-07-19T13:47:05.997Z",
+  "lastUpdate": "2018-07-19T14:47:16.228Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6983,
+  "totalPR": 6984,
   "lastPR": {
-    "createdAt": "2018-07-19T11:38:04Z",
-    "username": "gaearon"
+    "createdAt": "2018-07-19T14:21:59Z",
+    "username": "gengjiawen"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/6181446?v=4"
   },
   "userPRInfos": {
+    "gengjiawen": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/3759816?v=4"
+    },
     "gaearon": {
       "total": 608,
       "merged": 524,
@@ -10136,7 +10141,7 @@
   },
   "datePRInfos": {
     "Juillet-2018": {
-      "total": 61,
+      "total": 62,
       "merged": 39
     },
     "Juin-2018": {
