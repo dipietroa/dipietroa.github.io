@@ -1,20 +1,20 @@
 {
-  "lastUpdate": "2018-07-20T12:43:25.492Z",
+  "lastUpdate": "2018-07-20T13:43:00.412Z",
   "cowner": "nuclio",
   "crepo": "nuclio",
-  "totalPR": 650,
+  "totalPR": 651,
   "lastPR": {
-    "createdAt": "2018-07-18T11:10:57Z",
-    "username": "gtopper"
+    "createdAt": "2018-07-20T13:25:11Z",
+    "username": "pavius"
   },
   "bestPR": {
     "user": "pavius",
-    "nbPR": 324,
+    "nbPR": 325,
     "image": "https://avatars2.githubusercontent.com/u/423987?v=4"
   },
   "bestMerged": {
     "user": "pavius",
-    "nbPR": 321,
+    "nbPR": 322,
     "image": "https://avatars2.githubusercontent.com/u/423987?v=4"
   },
   "bestRatio": {
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/8350653?v=4"
   },
   "userPRInfos": {
+    "pavius": {
+      "total": 325,
+      "merged": 322,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/423987?v=4"
+    },
     "gtopper": {
       "total": 1,
       "merged": 0,
@@ -52,11 +57,6 @@
       "total": 3,
       "merged": 3,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/25303836?v=4"
-    },
-    "pavius": {
-      "total": 324,
-      "merged": 321,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/423987?v=4"
     },
     "sony2": {
       "total": 2,
@@ -171,8 +171,8 @@
   },
   "datePRInfos": {
     "Juillet-2018": {
-      "total": 14,
-      "merged": 9
+      "total": 15,
+      "merged": 10
     },
     "Juin-2018": {
       "total": 35,
