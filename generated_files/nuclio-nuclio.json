@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-07-20T13:43:00.412Z",
+  "lastUpdate": "2018-07-20T14:42:59.571Z",
   "cowner": "nuclio",
   "crepo": "nuclio",
   "totalPR": 651,
@@ -35,7 +35,7 @@
     },
     "eran-nussbaum": {
       "total": 60,
-      "merged": 58,
+      "merged": 59,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/13918850?v=4"
     },
     "ScienJus": {
@@ -172,7 +172,7 @@
   "datePRInfos": {
     "Juillet-2018": {
       "total": 15,
-      "merged": 10
+      "merged": 11
     },
     "Juin-2018": {
       "total": 35,
