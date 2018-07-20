@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-07-20T22:42:35.602Z",
+  "lastUpdate": "2018-07-20T23:43:12.200Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 1222,
+  "totalPR": 1223,
   "lastPR": {
-    "createdAt": "2018-07-20T06:27:55Z",
-    "username": "sagirk"
+    "createdAt": "2018-07-20T22:55:35Z",
+    "username": "cos"
   },
   "bestPR": {
     "user": "kazupon",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/3408176?v=4"
   },
   "userPRInfos": {
+    "cos": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/37514?v=4"
+    },
     "sagirk": {
       "total": 1,
       "merged": 0,
@@ -2776,7 +2781,7 @@
   },
   "datePRInfos": {
     "Juillet-2018": {
-      "total": 15,
+      "total": 16,
       "merged": 0
     },
     "Juin-2018": {
