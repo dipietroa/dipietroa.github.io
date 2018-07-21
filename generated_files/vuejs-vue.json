@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-07-21T13:43:12.332Z",
+  "lastUpdate": "2018-07-21T14:42:23.807Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 1225,
+  "totalPR": 1226,
   "lastPR": {
-    "createdAt": "2018-07-21T04:01:45Z",
-    "username": "ktsn"
+    "createdAt": "2018-07-21T14:40:03Z",
+    "username": "handipriyono"
   },
   "bestPR": {
     "user": "kazupon",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/3408176?v=4"
   },
   "userPRInfos": {
+    "handipriyono": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/35618196?v=4"
+    },
     "ktsn": {
       "total": 24,
       "merged": 20,
@@ -2786,7 +2791,7 @@
   },
   "datePRInfos": {
     "Juillet-2018": {
-      "total": 18,
+      "total": 19,
       "merged": 0
     },
     "Juin-2018": {
