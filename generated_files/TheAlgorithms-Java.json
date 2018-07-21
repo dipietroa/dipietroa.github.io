@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-07-21T17:41:56.460Z",
+  "lastUpdate": "2018-07-21T18:42:20.807Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
   "totalPR": 410,
@@ -18,9 +18,9 @@
     "image": "https://avatars1.githubusercontent.com/u/16108563?v=4"
   },
   "bestRatio": {
-    "user": "artzok",
+    "user": "y2kbcm1",
     "ratio": 1,
-    "image": "https://avatars3.githubusercontent.com/u/10345124?v=4"
+    "image": "https://avatars0.githubusercontent.com/u/40973495?v=4"
   },
   "userPRInfos": {
     "davidwufrontend": {
@@ -35,12 +35,12 @@
     },
     "y2kbcm1": {
       "total": 1,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/40973495?v=4"
     },
     "shubhamtewari": {
       "total": 1,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/25544572?v=4"
     },
     "ravidesai47": {
@@ -1097,7 +1097,7 @@
   "datePRInfos": {
     "Juillet-2018": {
       "total": 6,
-      "merged": 0
+      "merged": 2
     },
     "Juin-2018": {
       "total": 3,
