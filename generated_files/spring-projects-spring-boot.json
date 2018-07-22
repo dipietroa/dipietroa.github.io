@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-07-22T10:41:47.419Z",
+  "lastUpdate": "2018-07-22T11:42:03.790Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2727,
+  "totalPR": 2728,
   "lastPR": {
-    "createdAt": "2018-07-20T15:16:35Z",
-    "username": "nosan"
+    "createdAt": "2018-07-22T10:47:30Z",
+    "username": "andyrbell"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "andyrbell": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/16908511?v=4"
+    },
     "nosan": {
       "total": 13,
       "merged": 0,
@@ -4111,7 +4116,7 @@
   },
   "datePRInfos": {
     "Juillet-2018": {
-      "total": 31,
+      "total": 32,
       "merged": 0
     },
     "Juin-2018": {
