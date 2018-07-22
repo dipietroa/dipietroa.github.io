@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-07-22T10:46:05.710Z",
+  "lastUpdate": "2018-07-22T11:46:21.688Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6988,
+  "totalPR": 6989,
   "lastPR": {
-    "createdAt": "2018-07-22T02:59:57Z",
-    "username": "sebmarkbage"
+    "createdAt": "2018-07-22T11:29:45Z",
+    "username": "yunchancho"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/6181446?v=4"
   },
   "userPRInfos": {
+    "yunchancho": {
+      "total": 2,
+      "merged": 0,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/7057512?v=4"
+    },
     "sebmarkbage": {
       "total": 266,
       "merged": 248,
@@ -112,11 +117,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/2000558?v=4"
-    },
-    "yunchancho": {
-      "total": 1,
-      "merged": 0,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/7057512?v=4"
     },
     "FumiyaShibusawa": {
       "total": 1,
@@ -10141,7 +10141,7 @@
   },
   "datePRInfos": {
     "Juillet-2018": {
-      "total": 66,
+      "total": 67,
       "merged": 44
     },
     "Juin-2018": {
