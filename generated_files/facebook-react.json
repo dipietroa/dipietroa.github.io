@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-07-23T18:47:17.050Z",
+  "lastUpdate": "2018-07-23T19:46:56.446Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6989,
+  "totalPR": 6990,
   "lastPR": {
-    "createdAt": "2018-07-22T11:29:45Z",
-    "username": "yunchancho"
+    "createdAt": "2018-07-23T18:48:04Z",
+    "username": "pgarciacamou"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/6181446?v=4"
   },
   "userPRInfos": {
+    "pgarciacamou": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/8354571?v=4"
+    },
     "yunchancho": {
       "total": 2,
       "merged": 0,
@@ -10141,7 +10146,7 @@
   },
   "datePRInfos": {
     "Juillet-2018": {
-      "total": 67,
+      "total": 68,
       "merged": 44
     },
     "Juin-2018": {
