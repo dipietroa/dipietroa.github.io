@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-07-23T14:43:48.675Z",
+  "lastUpdate": "2018-07-23T15:43:49.002Z",
   "cowner": "nuclio",
   "crepo": "nuclio",
-  "totalPR": 652,
+  "totalPR": 653,
   "lastPR": {
-    "createdAt": "2018-07-23T08:40:05Z",
-    "username": "ScienJus"
+    "createdAt": "2018-07-23T14:53:37Z",
+    "username": "eran-nussbaum"
   },
   "bestPR": {
     "user": "pavius",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/4675524?v=4"
   },
   "userPRInfos": {
+    "eran-nussbaum": {
+      "total": 61,
+      "merged": 60,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/13918850?v=4"
+    },
     "ScienJus": {
       "total": 2,
       "merged": 1,
@@ -37,11 +42,6 @@
       "total": 1,
       "merged": 1,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/4675524?v=4"
-    },
-    "eran-nussbaum": {
-      "total": 60,
-      "merged": 59,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/13918850?v=4"
     },
     "tebeka": {
       "total": 98,
@@ -171,8 +171,8 @@
   },
   "datePRInfos": {
     "Juillet-2018": {
-      "total": 16,
-      "merged": 12
+      "total": 17,
+      "merged": 13
     },
     "Juin-2018": {
       "total": 35,
