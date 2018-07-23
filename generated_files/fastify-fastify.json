@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-07-23T15:44:07.350Z",
+  "lastUpdate": "2018-07-23T16:43:25.399Z",
   "cowner": "fastify",
   "crepo": "fastify",
-  "totalPR": 630,
+  "totalPR": 631,
   "lastPR": {
-    "createdAt": "2018-07-22T17:01:21Z",
-    "username": "delvedor"
+    "createdAt": "2018-07-23T16:18:24Z",
+    "username": "ShraddheyaS"
   },
   "bestPR": {
     "user": "delvedor",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/2273103?v=4"
   },
   "userPRInfos": {
+    "ShraddheyaS": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/21035336?v=4"
+    },
     "delvedor": {
       "total": 104,
       "merged": 100,
@@ -581,7 +586,7 @@
   },
   "datePRInfos": {
     "Juillet-2018": {
-      "total": 20,
+      "total": 21,
       "merged": 19
     },
     "Juin-2018": {
