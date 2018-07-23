@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-07-23T04:41:39.362Z",
+  "lastUpdate": "2018-07-23T05:41:40.916Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2729,
+  "totalPR": 2730,
   "lastPR": {
-    "createdAt": "2018-07-22T11:53:58Z",
-    "username": "ayudovin"
+    "createdAt": "2018-07-23T05:26:44Z",
+    "username": "mhyeon-lee"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "mhyeon-lee": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/5206572?v=4"
+    },
     "ayudovin": {
       "total": 1,
       "merged": 0,
@@ -4121,7 +4126,7 @@
   },
   "datePRInfos": {
     "Juillet-2018": {
-      "total": 33,
+      "total": 34,
       "merged": 0
     },
     "Juin-2018": {
