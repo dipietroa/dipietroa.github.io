@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-07-24T21:47:06.472Z",
+  "lastUpdate": "2018-07-24T22:46:46.711Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 6995,
@@ -25,7 +25,7 @@
   "userPRInfos": {
     "bvaughn": {
       "total": 248,
-      "merged": 225,
+      "merged": 226,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/29597?v=4"
     },
     "flarnie": {
@@ -10152,7 +10152,7 @@
   "datePRInfos": {
     "Juillet-2018": {
       "total": 73,
-      "merged": 45
+      "merged": 46
     },
     "Juin-2018": {
       "total": 68,
