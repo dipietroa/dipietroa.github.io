@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-07-24T19:46:49.109Z",
+  "lastUpdate": "2018-07-24T20:47:43.156Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6993,
+  "totalPR": 6994,
   "lastPR": {
-    "createdAt": "2018-07-24T17:00:16Z",
-    "username": "Slowyn"
+    "createdAt": "2018-07-24T20:38:17Z",
+    "username": "flarnie"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/6181446?v=4"
   },
   "userPRInfos": {
+    "flarnie": {
+      "total": 120,
+      "merged": 92,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/1114467?v=4"
+    },
     "Slowyn": {
       "total": 1,
       "merged": 0,
@@ -197,11 +202,6 @@
       "total": 6,
       "merged": 3,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/23662329?v=4"
-    },
-    "flarnie": {
-      "total": 119,
-      "merged": 92,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/1114467?v=4"
     },
     "motiz88": {
       "total": 1,
@@ -10151,7 +10151,7 @@
   },
   "datePRInfos": {
     "Juillet-2018": {
-      "total": 71,
+      "total": 72,
       "merged": 45
     },
     "Juin-2018": {
