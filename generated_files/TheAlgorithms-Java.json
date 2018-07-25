@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-07-25T13:43:22.924Z",
+  "lastUpdate": "2018-07-25T14:43:32.175Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
-  "totalPR": 413,
+  "totalPR": 414,
   "lastPR": {
-    "createdAt": "2018-07-25T13:00:03Z",
-    "username": "JuhunC"
+    "createdAt": "2018-07-25T14:40:13Z",
+    "username": "christianbender"
   },
   "bestPR": {
     "user": "theycallmemac",
@@ -18,11 +18,16 @@
     "image": "https://avatars1.githubusercontent.com/u/16108563?v=4"
   },
   "bestRatio": {
-    "user": "y2kbcm1",
+    "user": "christianbender",
     "ratio": 1,
-    "image": "https://avatars0.githubusercontent.com/u/40973495?v=4"
+    "image": "https://avatars0.githubusercontent.com/u/23243382?v=4"
   },
   "userPRInfos": {
+    "christianbender": {
+      "total": 2,
+      "merged": 2,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/23243382?v=4"
+    },
     "JuhunC": {
       "total": 1,
       "merged": 0,
@@ -297,11 +302,6 @@
       "total": 13,
       "merged": 8,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/26535056?v=4"
-    },
-    "christianbender": {
-      "total": 1,
-      "merged": 1,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/23243382?v=4"
     },
     "cnuhoya": {
       "total": 6,
@@ -1111,8 +1111,8 @@
   },
   "datePRInfos": {
     "Juillet-2018": {
-      "total": 9,
-      "merged": 3
+      "total": 10,
+      "merged": 4
     },
     "Juin-2018": {
       "total": 3,
