@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-07-25T21:47:15.134Z",
+  "lastUpdate": "2018-07-25T22:47:07.923Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6997,
+  "totalPR": 6998,
   "lastPR": {
-    "createdAt": "2018-07-25T21:14:43Z",
-    "username": "acdlite"
+    "createdAt": "2018-07-25T21:53:09Z",
+    "username": "segoddnja"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/6181446?v=4"
   },
   "userPRInfos": {
+    "segoddnja": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/1170038?v=4"
+    },
     "acdlite": {
       "total": 220,
       "merged": 177,
@@ -10156,7 +10161,7 @@
   },
   "datePRInfos": {
     "Juillet-2018": {
-      "total": 75,
+      "total": 76,
       "merged": 48
     },
     "Juin-2018": {
