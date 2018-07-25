@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-07-25T15:44:06.289Z",
+  "lastUpdate": "2018-07-25T16:43:38.902Z",
   "cowner": "nuclio",
   "crepo": "nuclio",
   "totalPR": 656,
@@ -18,9 +18,9 @@
     "image": "https://avatars2.githubusercontent.com/u/423987?v=4"
   },
   "bestRatio": {
-    "user": "gtopper",
+    "user": "ScienJus",
     "ratio": 1,
-    "image": "https://avatars3.githubusercontent.com/u/4675524?v=4"
+    "image": "https://avatars3.githubusercontent.com/u/8350653?v=4"
   },
   "userPRInfos": {
     "YarovoiVadym": {
@@ -40,7 +40,7 @@
     },
     "ScienJus": {
       "total": 2,
-      "merged": 1,
+      "merged": 2,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/8350653?v=4"
     },
     "pavius": {
@@ -172,7 +172,7 @@
   "datePRInfos": {
     "Juillet-2018": {
       "total": 20,
-      "merged": 14
+      "merged": 15
     },
     "Juin-2018": {
       "total": 35,
