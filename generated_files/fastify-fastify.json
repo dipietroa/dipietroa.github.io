@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-07-26T12:43:07.650Z",
+  "lastUpdate": "2018-07-26T13:43:56.711Z",
   "cowner": "fastify",
   "crepo": "fastify",
-  "totalPR": 632,
+  "totalPR": 633,
   "lastPR": {
-    "createdAt": "2018-07-26T00:43:56Z",
-    "username": "patrickpissurno"
+    "createdAt": "2018-07-26T13:40:05Z",
+    "username": "greenkeeper[bot]"
   },
   "bestPR": {
     "user": "delvedor",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/21035336?v=4"
   },
   "userPRInfos": {
+    "greenkeeper[bot]": {
+      "total": 54,
+      "merged": 28,
+      "avatarUrl": "https://avatars3.githubusercontent.com/in/505?v=4"
+    },
     "patrickpissurno": {
       "total": 1,
       "merged": 0,
@@ -137,11 +142,6 @@
       "total": 2,
       "merged": 1,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/15318294?v=4"
-    },
-    "greenkeeper[bot]": {
-      "total": 53,
-      "merged": 28,
-      "avatarUrl": "https://avatars3.githubusercontent.com/in/505?v=4"
     },
     "freezestudio": {
       "total": 1,
@@ -591,7 +591,7 @@
   },
   "datePRInfos": {
     "Juillet-2018": {
-      "total": 22,
+      "total": 23,
       "merged": 20
     },
     "Juin-2018": {
