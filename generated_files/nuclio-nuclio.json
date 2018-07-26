@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-07-26T08:43:44.068Z",
+  "lastUpdate": "2018-07-26T09:43:04.965Z",
   "cowner": "nuclio",
   "crepo": "nuclio",
   "totalPR": 656,
@@ -25,7 +25,7 @@
   "userPRInfos": {
     "YarovoiVadym": {
       "total": 7,
-      "merged": 5,
+      "merged": 6,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/37179001?v=4"
     },
     "maksym-kyselytsia": {
@@ -172,7 +172,7 @@
   "datePRInfos": {
     "Juillet-2018": {
       "total": 20,
-      "merged": 15
+      "merged": 16
     },
     "Juin-2018": {
       "total": 35,
