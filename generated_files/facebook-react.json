@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-07-26T08:47:25.675Z",
+  "lastUpdate": "2018-07-26T09:46:54.057Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 6999,
+  "totalPR": 7000,
   "lastPR": {
-    "createdAt": "2018-07-25T22:54:19Z",
-    "username": "flarnie"
+    "createdAt": "2018-07-26T09:31:16Z",
+    "username": "joshitft"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/6181446?v=4"
   },
   "userPRInfos": {
+    "joshitft": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/39694444?v=4"
+    },
     "flarnie": {
       "total": 121,
       "merged": 93,
@@ -10161,7 +10166,7 @@
   },
   "datePRInfos": {
     "Juillet-2018": {
-      "total": 77,
+      "total": 78,
       "merged": 48
     },
     "Juin-2018": {
