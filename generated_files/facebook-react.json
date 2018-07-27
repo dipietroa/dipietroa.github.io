@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "2018-07-27T17:47:12.823Z",
+  "lastUpdate": "2018-07-27T18:46:49.708Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 7002,
+  "totalPR": 7003,
   "lastPR": {
-    "createdAt": "2018-07-27T17:22:57Z",
+    "createdAt": "2018-07-27T18:05:10Z",
     "username": "mrgurdeep"
   },
   "bestPR": {
@@ -24,7 +24,7 @@
   },
   "userPRInfos": {
     "mrgurdeep": {
-      "total": 1,
+      "total": 2,
       "merged": 0,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/4115871?v=4"
     },
@@ -10171,7 +10171,7 @@
   },
   "datePRInfos": {
     "Juillet-2018": {
-      "total": 80,
+      "total": 81,
       "merged": 49
     },
     "Juin-2018": {
