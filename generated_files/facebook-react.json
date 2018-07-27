@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-07-27T16:46:47.340Z",
+  "lastUpdate": "2018-07-27T17:47:12.823Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 7001,
+  "totalPR": 7002,
   "lastPR": {
-    "createdAt": "2018-07-27T11:26:28Z",
-    "username": "gaearon"
+    "createdAt": "2018-07-27T17:22:57Z",
+    "username": "mrgurdeep"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/6181446?v=4"
   },
   "userPRInfos": {
+    "mrgurdeep": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/4115871?v=4"
+    },
     "gaearon": {
       "total": 610,
       "merged": 527,
@@ -10166,7 +10171,7 @@
   },
   "datePRInfos": {
     "Juillet-2018": {
-      "total": 79,
+      "total": 80,
       "merged": 49
     },
     "Juin-2018": {
