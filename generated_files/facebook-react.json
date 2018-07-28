@@ -1,8 +1,8 @@
 {
-  "lastUpdate": "2018-07-28T03:46:34.886Z",
+  "lastUpdate": "2018-07-28T04:45:41.836Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 7004,
+  "totalPR": 7005,
   "lastPR": {
     "createdAt": "2018-07-27T18:49:21Z",
     "username": "acdlite"
@@ -9459,8 +9459,8 @@
       "avatarUrl": "https://avatars0.githubusercontent.com/u/1551510?v=4"
     },
     "harshadsabne": {
-      "total": 1,
-      "merged": 1,
+      "total": 2,
+      "merged": 2,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/3154126?v=4"
     },
     "dblandin": {
@@ -10367,8 +10367,8 @@
       "merged": 59
     },
     "Juin-2014": {
-      "total": 52,
-      "merged": 33
+      "total": 53,
+      "merged": 34
     },
     "Mai-2014": {
       "total": 96,
