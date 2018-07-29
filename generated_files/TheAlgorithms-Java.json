@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-07-29T19:42:29.068Z",
+  "lastUpdate": "2018-07-29T20:42:15.644Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
-  "totalPR": 415,
+  "totalPR": 416,
   "lastPR": {
-    "createdAt": "2018-07-25T15:08:10Z",
-    "username": "christianbender"
+    "createdAt": "2018-07-29T20:08:29Z",
+    "username": "mohasaid"
   },
   "bestPR": {
     "user": "theycallmemac",
@@ -23,6 +23,11 @@
     "image": "https://avatars0.githubusercontent.com/u/23243382?v=4"
   },
   "userPRInfos": {
+    "mohasaid": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/9529785?v=4"
+    },
     "christianbender": {
       "total": 3,
       "merged": 3,
@@ -1111,7 +1116,7 @@
   },
   "datePRInfos": {
     "Juillet-2018": {
-      "total": 11,
+      "total": 12,
       "merged": 5
     },
     "Juin-2018": {
