@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-07-29T13:42:56.042Z",
+  "lastUpdate": "2018-07-29T14:42:34.619Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 1229,
+  "totalPR": 1230,
   "lastPR": {
-    "createdAt": "2018-07-27T22:43:58Z",
-    "username": "poch345"
+    "createdAt": "2018-07-29T14:02:04Z",
+    "username": "JJJYY"
   },
   "bestPR": {
     "user": "kazupon",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/3408176?v=4"
   },
   "userPRInfos": {
+    "JJJYY": {
+      "total": 2,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/32628989?v=4"
+    },
     "poch345": {
       "total": 3,
       "merged": 0,
@@ -77,11 +82,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/19964246?v=4"
-    },
-    "JJJYY": {
-      "total": 1,
-      "merged": 0,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/32628989?v=4"
     },
     "phablulo": {
       "total": 1,
@@ -2791,7 +2791,7 @@
   },
   "datePRInfos": {
     "Juillet-2018": {
-      "total": 22,
+      "total": 23,
       "merged": 0
     },
     "Juin-2018": {
