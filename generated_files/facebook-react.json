@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-07-29T13:46:30.620Z",
+  "lastUpdate": "2018-07-29T14:46:06.487Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 7005,
+  "totalPR": 7006,
   "lastPR": {
-    "createdAt": "2018-07-28T04:45:19Z",
-    "username": "mrgurdeep"
+    "createdAt": "2018-07-29T14:33:46Z",
+    "username": "ryota-murakami"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/6181446?v=4"
   },
   "userPRInfos": {
+    "ryota-murakami": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/5501268?v=4"
+    },
     "mrgurdeep": {
       "total": 3,
       "merged": 0,
@@ -10171,7 +10176,7 @@
   },
   "datePRInfos": {
     "Juillet-2018": {
-      "total": 83,
+      "total": 84,
       "merged": 50
     },
     "Juin-2018": {
