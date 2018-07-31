@@ -1,15 +1,15 @@
 {
-  "lastUpdate": "2018-07-31T04:42:23.934Z",
+  "lastUpdate": "2018-07-31T05:42:19.542Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2751,
+  "totalPR": 2752,
   "lastPR": {
     "createdAt": "2018-07-30T15:14:54Z",
     "username": "tbilou"
   },
   "bestPR": {
     "user": "izeye",
-    "nbPR": 427,
+    "nbPR": 428,
     "image": "https://avatars3.githubusercontent.com/u/1059363?v=4"
   },
   "bestMerged": {
@@ -29,7 +29,7 @@
       "avatarUrl": "https://avatars1.githubusercontent.com/u/1560635?v=4"
     },
     "izeye": {
-      "total": 427,
+      "total": 428,
       "merged": 2,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/1059363?v=4"
     },
@@ -4150,7 +4150,7 @@
       "merged": 0
     },
     "Juin-2018": {
-      "total": 60,
+      "total": 61,
       "merged": 1
     },
     "Mai-2018": {
