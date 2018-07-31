@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-07-31T01:42:41.123Z",
+  "lastUpdate": "2018-07-31T02:43:10.848Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 1230,
+  "totalPR": 1231,
   "lastPR": {
-    "createdAt": "2018-07-29T14:02:04Z",
-    "username": "JJJYY"
+    "createdAt": "2018-07-31T02:02:51Z",
+    "username": "wildan2711"
   },
   "bestPR": {
     "user": "kazupon",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/3408176?v=4"
   },
   "userPRInfos": {
+    "wildan2711": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/15981387?v=4"
+    },
     "JJJYY": {
       "total": 2,
       "merged": 0,
@@ -2791,7 +2796,7 @@
   },
   "datePRInfos": {
     "Juillet-2018": {
-      "total": 23,
+      "total": 24,
       "merged": 0
     },
     "Juin-2018": {
