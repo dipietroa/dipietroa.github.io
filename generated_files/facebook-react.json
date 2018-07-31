@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-07-31T00:46:25.149Z",
+  "lastUpdate": "2018-07-31T01:46:24.144Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 7006,
+  "totalPR": 7007,
   "lastPR": {
-    "createdAt": "2018-07-29T14:33:46Z",
-    "username": "ryota-murakami"
+    "createdAt": "2018-07-31T01:16:41Z",
+    "username": "acdlite"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/6181446?v=4"
   },
   "userPRInfos": {
+    "acdlite": {
+      "total": 222,
+      "merged": 178,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/3624098?v=4"
+    },
     "ryota-murakami": {
       "total": 1,
       "merged": 0,
@@ -32,11 +37,6 @@
       "total": 3,
       "merged": 0,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/4115871?v=4"
-    },
-    "acdlite": {
-      "total": 221,
-      "merged": 178,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/3624098?v=4"
     },
     "gaearon": {
       "total": 610,
@@ -10176,7 +10176,7 @@
   },
   "datePRInfos": {
     "Juillet-2018": {
-      "total": 84,
+      "total": 85,
       "merged": 50
     },
     "Juin-2018": {
