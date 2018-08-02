@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-08-02T10:46:40.353Z",
+  "lastUpdate": "2018-08-02T11:47:01.574Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 7014,
@@ -85,7 +85,7 @@
     },
     "yunchancho": {
       "total": 2,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/7057512?v=4"
     },
     "sebmarkbage": {
@@ -10181,7 +10181,7 @@
     },
     "Juillet-2018": {
       "total": 86,
-      "merged": 54
+      "merged": 55
     },
     "Juin-2018": {
       "total": 68,
