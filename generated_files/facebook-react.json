@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-08-02T00:47:26.368Z",
+  "lastUpdate": "2018-08-02T01:46:40.470Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 7014,
@@ -165,7 +165,7 @@
     },
     "zx6658": {
       "total": 1,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/26598542?v=4"
     },
     "aweary": {
@@ -10181,7 +10181,7 @@
     },
     "Juillet-2018": {
       "total": 86,
-      "merged": 53
+      "merged": 54
     },
     "Juin-2018": {
       "total": 68,
