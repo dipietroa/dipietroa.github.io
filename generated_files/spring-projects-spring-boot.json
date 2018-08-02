@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-08-02T15:41:56.373Z",
+  "lastUpdate": "2018-08-02T16:42:26.130Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2761,
+  "totalPR": 2762,
   "lastPR": {
-    "createdAt": "2018-08-02T15:25:36Z",
-    "username": "nosan"
+    "createdAt": "2018-08-02T16:05:35Z",
+    "username": "rajadilipkolli"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "rajadilipkolli": {
+      "total": 28,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/24761580?v=4"
+    },
     "nosan": {
       "total": 15,
       "merged": 0,
@@ -437,11 +442,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/31366582?v=4"
-    },
-    "rajadilipkolli": {
-      "total": 27,
-      "merged": 0,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/24761580?v=4"
     },
     "LiYing2010": {
       "total": 1,
@@ -4151,7 +4151,7 @@
   },
   "datePRInfos": {
     "Août-2018": {
-      "total": 6,
+      "total": 7,
       "merged": 0
     },
     "Juillet-2018": {
