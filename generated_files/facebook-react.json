@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-08-02T21:47:05.095Z",
+  "lastUpdate": "2018-08-02T22:46:44.705Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 7016,
+  "totalPR": 7017,
   "lastPR": {
-    "createdAt": "2018-08-02T18:30:34Z",
-    "username": "gaearon"
+    "createdAt": "2018-08-02T21:51:47Z",
+    "username": "bvaughn"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars0.githubusercontent.com/u/7250604?v=4"
   },
   "userPRInfos": {
+    "bvaughn": {
+      "total": 250,
+      "merged": 227,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/29597?v=4"
+    },
     "gaearon": {
       "total": 617,
       "merged": 534,
@@ -32,11 +37,6 @@
       "total": 9,
       "merged": 8,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/458591?v=4"
-    },
-    "bvaughn": {
-      "total": 249,
-      "merged": 227,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/29597?v=4"
     },
     "acdlite": {
       "total": 222,
@@ -850,7 +850,7 @@
     },
     "acusti": {
       "total": 5,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/517889?v=4"
     },
     "rickhanlonii": {
@@ -10176,7 +10176,7 @@
   },
   "datePRInfos": {
     "Août-2018": {
-      "total": 8,
+      "total": 9,
       "merged": 8
     },
     "Juillet-2018": {
@@ -10205,7 +10205,7 @@
     },
     "Janvier-2018": {
       "total": 80,
-      "merged": 55
+      "merged": 56
     },
     "Décembre-2017": {
       "total": 100,
