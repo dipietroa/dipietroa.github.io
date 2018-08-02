@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-08-02T06:43:07.015Z",
+  "lastUpdate": "2018-08-02T07:44:15.393Z",
   "cowner": "nuclio",
   "crepo": "nuclio",
-  "totalPR": 665,
+  "totalPR": 667,
   "lastPR": {
-    "createdAt": "2018-07-31T14:01:58Z",
-    "username": "eran-nussbaum"
+    "createdAt": "2018-08-02T07:42:25Z",
+    "username": "mavdryk"
   },
   "bestPR": {
     "user": "pavius",
@@ -23,8 +23,13 @@
     "image": "https://avatars1.githubusercontent.com/u/25031243?v=4"
   },
   "userPRInfos": {
+    "mavdryk": {
+      "total": 4,
+      "merged": 3,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/25711177?v=4"
+    },
     "eran-nussbaum": {
-      "total": 65,
+      "total": 66,
       "merged": 64,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/13918850?v=4"
     },
@@ -67,11 +72,6 @@
       "total": 2,
       "merged": 1,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/5164117?v=4"
-    },
-    "mavdryk": {
-      "total": 3,
-      "merged": 3,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/25711177?v=4"
     },
     "omriharel": {
       "total": 17,
@@ -170,6 +170,10 @@
     }
   },
   "datePRInfos": {
+    "Août-2018": {
+      "total": 2,
+      "merged": 0
+    },
     "Juillet-2018": {
       "total": 29,
       "merged": 27
