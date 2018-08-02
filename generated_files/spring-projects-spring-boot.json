@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-08-02T14:42:56.319Z",
+  "lastUpdate": "2018-08-02T15:41:56.373Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2759,
+  "totalPR": 2761,
   "lastPR": {
-    "createdAt": "2018-08-02T12:21:25Z",
-    "username": "cmakinen"
+    "createdAt": "2018-08-02T15:25:36Z",
+    "username": "nosan"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,16 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "nosan": {
+      "total": 15,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/5054994?v=4"
+    },
+    "garyrussell": {
+      "total": 49,
+      "merged": 1,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/483832?v=4"
+    },
     "cmakinen": {
       "total": 1,
       "merged": 0,
@@ -67,11 +77,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/2317037?v=4"
-    },
-    "nosan": {
-      "total": 14,
-      "merged": 0,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/5054994?v=4"
     },
     "hengyunabc": {
       "total": 9,
@@ -407,11 +412,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/25682169?v=4"
-    },
-    "garyrussell": {
-      "total": 48,
-      "merged": 1,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/483832?v=4"
     },
     "alek-sys": {
       "total": 1,
@@ -4151,7 +4151,7 @@
   },
   "datePRInfos": {
     "Août-2018": {
-      "total": 4,
+      "total": 6,
       "merged": 0
     },
     "Juillet-2018": {
