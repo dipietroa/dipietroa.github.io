@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-08-03T11:42:03.823Z",
+  "lastUpdate": "2018-08-03T12:42:50.073Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
-  "totalPR": 418,
+  "totalPR": 419,
   "lastPR": {
-    "createdAt": "2018-08-01T13:55:39Z",
-    "username": "JPDSousa"
+    "createdAt": "2018-08-03T11:43:19Z",
+    "username": "Darkdra771"
   },
   "bestPR": {
     "user": "theycallmemac",
@@ -23,6 +23,11 @@
     "image": "https://avatars0.githubusercontent.com/u/11462960?v=4"
   },
   "userPRInfos": {
+    "Darkdra771": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/34266484?v=4"
+    },
     "JPDSousa": {
       "total": 1,
       "merged": 1,
@@ -1126,7 +1131,7 @@
   },
   "datePRInfos": {
     "Août-2018": {
-      "total": 2,
+      "total": 3,
       "merged": 1
     },
     "Juillet-2018": {
