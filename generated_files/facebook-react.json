@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-08-03T15:47:44.865Z",
+  "lastUpdate": "2018-08-03T16:46:48.732Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 7019,
+  "totalPR": 7020,
   "lastPR": {
-    "createdAt": "2018-08-03T12:30:17Z",
-    "username": "flxwu"
+    "createdAt": "2018-08-03T16:18:25Z",
+    "username": "clarkdo"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars0.githubusercontent.com/u/16862997?v=4"
   },
   "userPRInfos": {
+    "clarkdo": {
+      "total": 3,
+      "merged": 1,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/4312154?v=4"
+    },
     "flxwu": {
       "total": 1,
       "merged": 1,
@@ -1417,11 +1422,6 @@
       "total": 1,
       "merged": 1,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/29660847?v=4"
-    },
-    "clarkdo": {
-      "total": 2,
-      "merged": 1,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/4312154?v=4"
     },
     "fatosmorina": {
       "total": 1,
@@ -10186,7 +10186,7 @@
   },
   "datePRInfos": {
     "Août-2018": {
-      "total": 11,
+      "total": 12,
       "merged": 10
     },
     "Juillet-2018": {
