@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-08-03T18:47:12.753Z",
+  "lastUpdate": "2018-08-03T19:47:46.127Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 7020,
+  "totalPR": 7023,
   "lastPR": {
-    "createdAt": "2018-08-03T16:18:25Z",
-    "username": "clarkdo"
+    "createdAt": "2018-08-03T19:21:19Z",
+    "username": "TrySound"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,16 @@
     "image": "https://avatars0.githubusercontent.com/u/16862997?v=4"
   },
   "userPRInfos": {
+    "TrySound": {
+      "total": 3,
+      "merged": 1,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/5635476?v=4"
+    },
+    "alexeyraspopov": {
+      "total": 5,
+      "merged": 3,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/858295?v=4"
+    },
     "clarkdo": {
       "total": 3,
       "merged": 1,
@@ -230,7 +240,7 @@
     },
     "jquense": {
       "total": 39,
-      "merged": 20,
+      "merged": 21,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/339286?v=4"
     },
     "dilidili": {
@@ -262,11 +272,6 @@
       "total": 1,
       "merged": 1,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/9668104?v=4"
-    },
-    "TrySound": {
-      "total": 2,
-      "merged": 1,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/5635476?v=4"
     },
     "mridgway": {
       "total": 10,
@@ -982,11 +987,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/17184442?v=4"
-    },
-    "alexeyraspopov": {
-      "total": 3,
-      "merged": 2,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/858295?v=4"
     },
     "prometheansacrifice": {
       "total": 6,
@@ -10186,8 +10186,8 @@
   },
   "datePRInfos": {
     "Août-2018": {
-      "total": 12,
-      "merged": 10
+      "total": 15,
+      "merged": 11
     },
     "Juillet-2018": {
       "total": 86,
@@ -10223,7 +10223,7 @@
     },
     "Novembre-2017": {
       "total": 168,
-      "merged": 126
+      "merged": 127
     },
     "Octobre-2017": {
       "total": 212,
