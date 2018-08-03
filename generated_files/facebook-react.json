@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-08-03T16:46:48.732Z",
+  "lastUpdate": "2018-08-03T17:47:45.476Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 7020,
@@ -80,7 +80,7 @@
     },
     "segoddnja": {
       "total": 1,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/1170038?v=4"
     },
     "r0b1n": {
@@ -730,7 +730,7 @@
     },
     "GarethSmall": {
       "total": 2,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/32682373?v=4"
     },
     "sangle7": {
@@ -10191,7 +10191,7 @@
     },
     "Juillet-2018": {
       "total": 86,
-      "merged": 56
+      "merged": 57
     },
     "Juin-2018": {
       "total": 68,
@@ -10211,7 +10211,7 @@
     },
     "Février-2018": {
       "total": 70,
-      "merged": 50
+      "merged": 51
     },
     "Janvier-2018": {
       "total": 80,
