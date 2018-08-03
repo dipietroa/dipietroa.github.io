@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-08-03T11:46:35.515Z",
+  "lastUpdate": "2018-08-03T12:47:33.997Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 7018,
+  "totalPR": 7019,
   "lastPR": {
-    "createdAt": "2018-08-03T02:37:58Z",
-    "username": "jegtnes"
+    "createdAt": "2018-08-03T12:30:17Z",
+    "username": "flxwu"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -18,14 +18,19 @@
     "image": "https://avatars2.githubusercontent.com/u/6820?v=4"
   },
   "bestRatio": {
-    "user": "ryota-murakami",
+    "user": "jegtnes",
     "ratio": 1,
-    "image": "https://avatars2.githubusercontent.com/u/5501268?v=4"
+    "image": "https://avatars1.githubusercontent.com/u/1315463?v=4"
   },
   "userPRInfos": {
-    "jegtnes": {
+    "flxwu": {
       "total": 1,
       "merged": 0,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/16862997?v=4"
+    },
+    "jegtnes": {
+      "total": 1,
+      "merged": 1,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/1315463?v=4"
     },
     "bvaughn": {
@@ -10181,8 +10186,8 @@
   },
   "datePRInfos": {
     "Août-2018": {
-      "total": 10,
-      "merged": 8
+      "total": 11,
+      "merged": 9
     },
     "Juillet-2018": {
       "total": 86,
