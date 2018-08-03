@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-08-03T14:47:49.810Z",
+  "lastUpdate": "2018-08-03T15:47:44.865Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 7019,
@@ -18,14 +18,14 @@
     "image": "https://avatars2.githubusercontent.com/u/6820?v=4"
   },
   "bestRatio": {
-    "user": "jegtnes",
+    "user": "flxwu",
     "ratio": 1,
-    "image": "https://avatars1.githubusercontent.com/u/1315463?v=4"
+    "image": "https://avatars0.githubusercontent.com/u/16862997?v=4"
   },
   "userPRInfos": {
     "flxwu": {
       "total": 1,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/16862997?v=4"
     },
     "jegtnes": {
@@ -10187,7 +10187,7 @@
   "datePRInfos": {
     "Août-2018": {
       "total": 11,
-      "merged": 9
+      "merged": 10
     },
     "Juillet-2018": {
       "total": 86,
