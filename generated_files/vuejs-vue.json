@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-08-03T14:43:32.165Z",
+  "lastUpdate": "2018-08-03T15:43:32.533Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 1234,
+  "totalPR": 1236,
   "lastPR": {
-    "createdAt": "2018-08-03T01:49:44Z",
-    "username": "lzxb"
+    "createdAt": "2018-08-03T15:28:15Z",
+    "username": "clarkdo"
   },
   "bestPR": {
     "user": "kazupon",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/3408176?v=4"
   },
   "userPRInfos": {
+    "clarkdo": {
+      "total": 10,
+      "merged": 5,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/4312154?v=4"
+    },
     "lzxb": {
       "total": 7,
       "merged": 2,
@@ -522,11 +527,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/15069783?v=4"
-    },
-    "clarkdo": {
-      "total": 8,
-      "merged": 5,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/4312154?v=4"
     },
     "matheusazzi": {
       "total": 1,
@@ -2801,7 +2801,7 @@
   },
   "datePRInfos": {
     "Août-2018": {
-      "total": 2,
+      "total": 4,
       "merged": 0
     },
     "Juillet-2018": {
