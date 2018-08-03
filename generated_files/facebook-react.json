@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-08-03T19:47:46.127Z",
+  "lastUpdate": "2018-08-03T20:46:15.898Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 7023,
@@ -30,12 +30,12 @@
     },
     "alexeyraspopov": {
       "total": 5,
-      "merged": 3,
+      "merged": 4,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/858295?v=4"
     },
     "clarkdo": {
       "total": 3,
-      "merged": 1,
+      "merged": 2,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/4312154?v=4"
     },
     "flxwu": {
@@ -10187,7 +10187,7 @@
   "datePRInfos": {
     "Août-2018": {
       "total": 15,
-      "merged": 11
+      "merged": 13
     },
     "Juillet-2018": {
       "total": 86,
