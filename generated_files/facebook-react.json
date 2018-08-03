@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-08-03T03:46:35.168Z",
+  "lastUpdate": "2018-08-03T04:47:00.372Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 7018,
@@ -18,9 +18,9 @@
     "image": "https://avatars2.githubusercontent.com/u/6820?v=4"
   },
   "bestRatio": {
-    "user": "Slowyn",
+    "user": "ryota-murakami",
     "ratio": 1,
-    "image": "https://avatars0.githubusercontent.com/u/7250604?v=4"
+    "image": "https://avatars2.githubusercontent.com/u/5501268?v=4"
   },
   "userPRInfos": {
     "jegtnes": {
@@ -50,7 +50,7 @@
     },
     "ryota-murakami": {
       "total": 1,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/5501268?v=4"
     },
     "mrgurdeep": {
@@ -400,7 +400,7 @@
     },
     "fckt": {
       "total": 1,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/547167?v=4"
     },
     "yungsters": {
@@ -10186,7 +10186,7 @@
     },
     "Juillet-2018": {
       "total": 86,
-      "merged": 55
+      "merged": 56
     },
     "Juin-2018": {
       "total": 68,
@@ -10194,7 +10194,7 @@
     },
     "Mai-2018": {
       "total": 125,
-      "merged": 89
+      "merged": 90
     },
     "Avril-2018": {
       "total": 82,
