@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-08-04T20:46:23.778Z",
+  "lastUpdate": "2018-08-04T21:46:24.242Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 7023,
+  "totalPR": 7024,
   "lastPR": {
-    "createdAt": "2018-08-03T19:21:19Z",
-    "username": "TrySound"
+    "createdAt": "2018-08-04T21:09:05Z",
+    "username": "Simek"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars0.githubusercontent.com/u/16862997?v=4"
   },
   "userPRInfos": {
+    "Simek": {
+      "total": 20,
+      "merged": 13,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/719641?v=4"
+    },
     "TrySound": {
       "total": 3,
       "merged": 1,
@@ -422,11 +427,6 @@
       "total": 29,
       "merged": 24,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/55161?v=4"
-    },
-    "Simek": {
-      "total": 19,
-      "merged": 13,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/719641?v=4"
     },
     "Ende93": {
       "total": 1,
@@ -10186,7 +10186,7 @@
   },
   "datePRInfos": {
     "Août-2018": {
-      "total": 15,
+      "total": 16,
       "merged": 13
     },
     "Juillet-2018": {
