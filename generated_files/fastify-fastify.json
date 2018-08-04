@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-08-04T14:42:55.788Z",
+  "lastUpdate": "2018-08-04T15:43:10.788Z",
   "cowner": "fastify",
   "crepo": "fastify",
-  "totalPR": 634,
+  "totalPR": 635,
   "lastPR": {
-    "createdAt": "2018-07-26T14:26:46Z",
-    "username": "SkeLLLa"
+    "createdAt": "2018-08-04T14:53:37Z",
+    "username": "fralonra"
   },
   "bestPR": {
     "user": "delvedor",
@@ -23,6 +23,11 @@
     "image": "https://avatars0.githubusercontent.com/u/7592136?v=4"
   },
   "userPRInfos": {
+    "fralonra": {
+      "total": 6,
+      "merged": 5,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/20400873?v=4"
+    },
     "SkeLLLa": {
       "total": 2,
       "merged": 1,
@@ -62,11 +67,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/5823031?v=4"
-    },
-    "fralonra": {
-      "total": 5,
-      "merged": 4,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/20400873?v=4"
     },
     "hitochan777": {
       "total": 1,
@@ -590,6 +590,10 @@
     }
   },
   "datePRInfos": {
+    "Août-2018": {
+      "total": 1,
+      "merged": 1
+    },
     "Juillet-2018": {
       "total": 24,
       "merged": 21
