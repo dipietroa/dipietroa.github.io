@@ -1,15 +1,15 @@
 {
-  "lastUpdate": "2018-08-04T08:42:48.344Z",
+  "lastUpdate": "2018-08-04T09:42:33.962Z",
   "cowner": "nuclio",
   "crepo": "nuclio",
-  "totalPR": 667,
+  "totalPR": 668,
   "lastPR": {
-    "createdAt": "2018-08-02T07:42:25Z",
-    "username": "mavdryk"
+    "createdAt": "2018-08-04T09:25:28Z",
+    "username": "pavius"
   },
   "bestPR": {
     "user": "pavius",
-    "nbPR": 330,
+    "nbPR": 331,
     "image": "https://avatars2.githubusercontent.com/u/423987?v=4"
   },
   "bestMerged": {
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/25031243?v=4"
   },
   "userPRInfos": {
+    "pavius": {
+      "total": 331,
+      "merged": 327,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/423987?v=4"
+    },
     "mavdryk": {
       "total": 4,
       "merged": 3,
@@ -32,11 +37,6 @@
       "total": 66,
       "merged": 65,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/13918850?v=4"
-    },
-    "pavius": {
-      "total": 330,
-      "merged": 327,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/423987?v=4"
     },
     "YarovoiVadym": {
       "total": 8,
@@ -171,7 +171,7 @@
   },
   "datePRInfos": {
     "Août-2018": {
-      "total": 2,
+      "total": 3,
       "merged": 1
     },
     "Juillet-2018": {
