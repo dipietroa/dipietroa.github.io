@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-08-05T13:46:31.416Z",
+  "lastUpdate": "2018-08-05T14:46:09.207Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 7024,
+  "totalPR": 7025,
   "lastPR": {
-    "createdAt": "2018-08-04T21:09:05Z",
-    "username": "Simek"
+    "createdAt": "2018-08-05T14:10:33Z",
+    "username": "nicosommi"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -18,11 +18,16 @@
     "image": "https://avatars2.githubusercontent.com/u/6820?v=4"
   },
   "bestRatio": {
-    "user": "flxwu",
+    "user": "nicosommi",
     "ratio": 1,
-    "image": "https://avatars0.githubusercontent.com/u/16862997?v=4"
+    "image": "https://avatars2.githubusercontent.com/u/1702755?v=4"
   },
   "userPRInfos": {
+    "nicosommi": {
+      "total": 1,
+      "merged": 1,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/1702755?v=4"
+    },
     "Simek": {
       "total": 20,
       "merged": 14,
@@ -10186,8 +10191,8 @@
   },
   "datePRInfos": {
     "Août-2018": {
-      "total": 16,
-      "merged": 14
+      "total": 17,
+      "merged": 15
     },
     "Juillet-2018": {
       "total": 86,
