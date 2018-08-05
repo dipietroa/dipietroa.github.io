@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-08-05T16:42:59.223Z",
+  "lastUpdate": "2018-08-05T17:42:37.752Z",
   "cowner": "fastify",
   "crepo": "fastify",
-  "totalPR": 636,
+  "totalPR": 637,
   "lastPR": {
-    "createdAt": "2018-08-05T06:20:14Z",
-    "username": "fralonra"
+    "createdAt": "2018-08-05T16:55:01Z",
+    "username": "mcollina"
   },
   "bestPR": {
     "user": "delvedor",
@@ -23,6 +23,11 @@
     "image": "https://avatars0.githubusercontent.com/u/7592136?v=4"
   },
   "userPRInfos": {
+    "mcollina": {
+      "total": 76,
+      "merged": 71,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/52195?v=4"
+    },
     "fralonra": {
       "total": 7,
       "merged": 6,
@@ -52,11 +57,6 @@
       "total": 104,
       "merged": 100,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/4865608?v=4"
-    },
-    "mcollina": {
-      "total": 75,
-      "merged": 71,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/52195?v=4"
     },
     "SerayaEryn": {
       "total": 6,
@@ -591,7 +591,7 @@
   },
   "datePRInfos": {
     "Août-2018": {
-      "total": 2,
+      "total": 3,
       "merged": 2
     },
     "Juillet-2018": {
