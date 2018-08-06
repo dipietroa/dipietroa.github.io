@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-08-06T14:43:18.712Z",
+  "lastUpdate": "2018-08-06T15:43:40.790Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 1236,
+  "totalPR": 1237,
   "lastPR": {
-    "createdAt": "2018-08-03T15:28:15Z",
-    "username": "clarkdo"
+    "createdAt": "2018-08-06T14:59:42Z",
+    "username": "sodatea"
   },
   "bestPR": {
     "user": "kazupon",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/3408176?v=4"
   },
   "userPRInfos": {
+    "sodatea": {
+      "total": 9,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/3277634?v=4"
+    },
     "clarkdo": {
       "total": 10,
       "merged": 5,
@@ -142,11 +147,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/34123560?v=4"
-    },
-    "sodatea": {
-      "total": 8,
-      "merged": 0,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/3277634?v=4"
     },
     "dattn": {
       "total": 1,
@@ -2801,7 +2801,7 @@
   },
   "datePRInfos": {
     "Août-2018": {
-      "total": 4,
+      "total": 5,
       "merged": 0
     },
     "Juillet-2018": {
