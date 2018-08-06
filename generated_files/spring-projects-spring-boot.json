@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-08-06T10:42:12.552Z",
+  "lastUpdate": "2018-08-06T11:42:31.907Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2770,
+  "totalPR": 2771,
   "lastPR": {
-    "createdAt": "2018-08-06T10:08:07Z",
-    "username": "qct"
+    "createdAt": "2018-08-06T11:16:28Z",
+    "username": "fprochazka"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "fprochazka": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/158625?v=4"
+    },
     "qct": {
       "total": 2,
       "merged": 0,
@@ -4156,7 +4161,7 @@
   },
   "datePRInfos": {
     "Août-2018": {
-      "total": 15,
+      "total": 16,
       "merged": 0
     },
     "Juillet-2018": {
