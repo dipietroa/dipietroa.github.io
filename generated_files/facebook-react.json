@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-08-07T11:47:24.590Z",
+  "lastUpdate": "2018-08-07T12:47:49.413Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 7029,
+  "totalPR": 7030,
   "lastPR": {
-    "createdAt": "2018-08-07T09:27:32Z",
-    "username": "elas7"
+    "createdAt": "2018-08-07T12:03:36Z",
+    "username": "gaearon"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,15 +23,15 @@
     "image": "https://avatars2.githubusercontent.com/u/7537033?v=4"
   },
   "userPRInfos": {
+    "gaearon": {
+      "total": 620,
+      "merged": 535,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/810438?v=4"
+    },
     "elas7": {
       "total": 5,
       "merged": 5,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/7537033?v=4"
-    },
-    "gaearon": {
-      "total": 619,
-      "merged": 535,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/810438?v=4"
     },
     "acdlite": {
       "total": 223,
@@ -1943,7 +1943,7 @@
       "merged": 0,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/31644707?v=4"
     },
-    "arjayy": {
+    "aarjae": {
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/16139945?v=4"
@@ -10191,7 +10191,7 @@
   },
   "datePRInfos": {
     "Août-2018": {
-      "total": 21,
+      "total": 22,
       "merged": 17
     },
     "Juillet-2018": {
