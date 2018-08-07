@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-08-07T09:47:09.848Z",
+  "lastUpdate": "2018-08-07T10:46:56.113Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 7029,
@@ -18,14 +18,14 @@
     "image": "https://avatars2.githubusercontent.com/u/6820?v=4"
   },
   "bestRatio": {
-    "user": "nicosommi",
+    "user": "elas7",
     "ratio": 1,
-    "image": "https://avatars2.githubusercontent.com/u/1702755?v=4"
+    "image": "https://avatars2.githubusercontent.com/u/7537033?v=4"
   },
   "userPRInfos": {
     "elas7": {
       "total": 5,
-      "merged": 4,
+      "merged": 5,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/7537033?v=4"
     },
     "gaearon": {
@@ -10192,7 +10192,7 @@
   "datePRInfos": {
     "Août-2018": {
       "total": 21,
-      "merged": 16
+      "merged": 17
     },
     "Juillet-2018": {
       "total": 86,
