@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-08-08T17:48:17.268Z",
+  "lastUpdate": "2018-08-08T18:46:58.834Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 7032,
+  "totalPR": 7033,
   "lastPR": {
-    "createdAt": "2018-08-08T01:04:38Z",
-    "username": "Simek"
+    "createdAt": "2018-08-08T18:30:26Z",
+    "username": "gaearon"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,15 +23,15 @@
     "image": "https://avatars2.githubusercontent.com/u/7537033?v=4"
   },
   "userPRInfos": {
+    "gaearon": {
+      "total": 622,
+      "merged": 537,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/810438?v=4"
+    },
     "Simek": {
       "total": 21,
       "merged": 15,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/719641?v=4"
-    },
-    "gaearon": {
-      "total": 621,
-      "merged": 537,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/810438?v=4"
     },
     "elas7": {
       "total": 5,
@@ -10191,7 +10191,7 @@
   },
   "datePRInfos": {
     "Août-2018": {
-      "total": 24,
+      "total": 25,
       "merged": 21
     },
     "Juillet-2018": {
