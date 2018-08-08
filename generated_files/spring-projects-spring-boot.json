@@ -1,8 +1,8 @@
 {
-  "lastUpdate": "2018-08-08T14:42:43.177Z",
+  "lastUpdate": "2018-08-08T15:42:48.267Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2775,
+  "totalPR": 2776,
   "lastPR": {
     "createdAt": "2018-08-07T18:43:16Z",
     "username": "dreis2211"
@@ -3564,7 +3564,7 @@
       "avatarUrl": "https://avatars0.githubusercontent.com/u/1371491?v=4"
     },
     "BigMichi1": {
-      "total": 13,
+      "total": 14,
       "merged": 0,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/91786?v=4"
     },
@@ -4337,7 +4337,7 @@
       "merged": 0
     },
     "Décembre-2014": {
-      "total": 42,
+      "total": 43,
       "merged": 1
     },
     "Novembre-2014": {
