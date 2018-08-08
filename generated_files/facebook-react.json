@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-08-08T15:48:47.808Z",
+  "lastUpdate": "2018-08-08T16:48:22.510Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 7032,
@@ -75,7 +75,7 @@
     },
     "bvaughn": {
       "total": 250,
-      "merged": 227,
+      "merged": 228,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/29597?v=4"
     },
     "philipp-spiess": {
@@ -10192,7 +10192,7 @@
   "datePRInfos": {
     "Août-2018": {
       "total": 24,
-      "merged": 20
+      "merged": 21
     },
     "Juillet-2018": {
       "total": 86,
