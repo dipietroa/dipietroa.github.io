@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-08-08T15:42:48.267Z",
+  "lastUpdate": "2018-08-08T16:42:41.998Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
   "totalPR": 2776,
   "lastPR": {
-    "createdAt": "2018-08-07T18:43:16Z",
-    "username": "dreis2211"
+    "createdAt": "2018-08-08T15:42:33Z",
+    "username": "ayudovin"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,15 +23,15 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "ayudovin": {
+      "total": 11,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/34862741?v=4"
+    },
     "dreis2211": {
       "total": 93,
       "merged": 0,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/6304496?v=4"
-    },
-    "ayudovin": {
-      "total": 10,
-      "merged": 0,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/34862741?v=4"
     },
     "sdeleuze": {
       "total": 27,
@@ -3564,7 +3564,7 @@
       "avatarUrl": "https://avatars0.githubusercontent.com/u/1371491?v=4"
     },
     "BigMichi1": {
-      "total": 14,
+      "total": 13,
       "merged": 0,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/91786?v=4"
     },
@@ -4161,7 +4161,7 @@
   },
   "datePRInfos": {
     "Août-2018": {
-      "total": 20,
+      "total": 21,
       "merged": 0
     },
     "Juillet-2018": {
@@ -4337,7 +4337,7 @@
       "merged": 0
     },
     "Décembre-2014": {
-      "total": 43,
+      "total": 42,
       "merged": 1
     },
     "Novembre-2014": {
