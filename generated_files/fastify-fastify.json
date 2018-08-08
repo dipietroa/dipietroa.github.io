@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "2018-08-08T15:44:41.621Z",
+  "lastUpdate": "2018-08-08T16:44:29.445Z",
   "cowner": "fastify",
   "crepo": "fastify",
-  "totalPR": 640,
+  "totalPR": 641,
   "lastPR": {
-    "createdAt": "2018-08-07T16:28:10Z",
+    "createdAt": "2018-08-08T16:04:02Z",
     "username": "greenkeeper[bot]"
   },
   "bestPR": {
@@ -24,7 +24,7 @@
   },
   "userPRInfos": {
     "greenkeeper[bot]": {
-      "total": 55,
+      "total": 56,
       "merged": 28,
       "avatarUrl": "https://avatars3.githubusercontent.com/in/505?v=4"
     },
@@ -591,7 +591,7 @@
   },
   "datePRInfos": {
     "Août-2018": {
-      "total": 6,
+      "total": 7,
       "merged": 3
     },
     "Juillet-2018": {
