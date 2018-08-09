@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-08-09T18:43:38.142Z",
+  "lastUpdate": "2018-08-09T19:43:37.728Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 1238,
+  "totalPR": 1239,
   "lastPR": {
-    "createdAt": "2018-08-07T13:10:56Z",
-    "username": "posva"
+    "createdAt": "2018-08-09T18:56:30Z",
+    "username": "hirokiosame"
   },
   "bestPR": {
     "user": "kazupon",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/3408176?v=4"
   },
   "userPRInfos": {
+    "hirokiosame": {
+      "total": 6,
+      "merged": 2,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/1075694?v=4"
+    },
     "posva": {
       "total": 39,
       "merged": 28,
@@ -232,11 +237,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/179957?v=4"
-    },
-    "hirokiosame": {
-      "total": 5,
-      "merged": 2,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/1075694?v=4"
     },
     "industral": {
       "total": 1,
@@ -2801,7 +2801,7 @@
   },
   "datePRInfos": {
     "Août-2018": {
-      "total": 6,
+      "total": 7,
       "merged": 0
     },
     "Juillet-2018": {
