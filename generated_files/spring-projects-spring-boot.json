@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-08-09T15:42:25.126Z",
+  "lastUpdate": "2018-08-09T16:41:52.684Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2782,
+  "totalPR": 2783,
   "lastPR": {
-    "createdAt": "2018-08-09T11:38:52Z",
-    "username": "ayudovin"
+    "createdAt": "2018-08-09T15:54:29Z",
+    "username": "GreyTeardrop"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "GreyTeardrop": {
+      "total": 4,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/61568?v=4"
+    },
     "ayudovin": {
       "total": 12,
       "merged": 0,
@@ -922,11 +927,6 @@
       "total": 6,
       "merged": 0,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/1363578?v=4"
-    },
-    "GreyTeardrop": {
-      "total": 3,
-      "merged": 0,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/61568?v=4"
     },
     "nklmish": {
       "total": 3,
@@ -4161,7 +4161,7 @@
   },
   "datePRInfos": {
     "Août-2018": {
-      "total": 27,
+      "total": 28,
       "merged": 0
     },
     "Juillet-2018": {
