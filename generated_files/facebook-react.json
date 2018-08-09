@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-08-09T13:49:02.973Z",
+  "lastUpdate": "2018-08-09T16:47:14.529Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 7036,
+  "totalPR": 7038,
   "lastPR": {
-    "createdAt": "2018-08-09T05:22:17Z",
-    "username": "seratch"
+    "createdAt": "2018-08-09T15:54:26Z",
+    "username": "elas7"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -18,11 +18,21 @@
     "image": "https://avatars2.githubusercontent.com/u/6820?v=4"
   },
   "bestRatio": {
-    "user": "elas7",
+    "user": "nicosommi",
     "ratio": 1,
-    "image": "https://avatars2.githubusercontent.com/u/7537033?v=4"
+    "image": "https://avatars2.githubusercontent.com/u/1702755?v=4"
   },
   "userPRInfos": {
+    "elas7": {
+      "total": 6,
+      "merged": 5,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/7537033?v=4"
+    },
+    "gaearon": {
+      "total": 624,
+      "merged": 538,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/810438?v=4"
+    },
     "seratch": {
       "total": 1,
       "merged": 0,
@@ -33,20 +43,10 @@
       "merged": 0,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/5440537?v=4"
     },
-    "gaearon": {
-      "total": 622,
-      "merged": 537,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/810438?v=4"
-    },
     "Simek": {
       "total": 21,
       "merged": 15,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/719641?v=4"
-    },
-    "elas7": {
-      "total": 5,
-      "merged": 5,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/7537033?v=4"
     },
     "acdlite": {
       "total": 223,
@@ -799,8 +799,8 @@
       "avatarUrl": "https://avatars1.githubusercontent.com/u/4248851?v=4"
     },
     "trueadm": {
-      "total": 39,
-      "merged": 32,
+      "total": 38,
+      "merged": 31,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/1519870?v=4"
     },
     "pshrmn": {
@@ -10201,8 +10201,8 @@
   },
   "datePRInfos": {
     "Août-2018": {
-      "total": 27,
-      "merged": 21
+      "total": 30,
+      "merged": 22
     },
     "Juillet-2018": {
       "total": 86,
@@ -10265,8 +10265,8 @@
       "merged": 94
     },
     "Avril-2017": {
-      "total": 154,
-      "merged": 104
+      "total": 153,
+      "merged": 103
     },
     "Mars-2017": {
       "total": 125,
