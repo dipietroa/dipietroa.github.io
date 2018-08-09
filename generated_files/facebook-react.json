@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-08-09T01:46:37.537Z",
+  "lastUpdate": "2018-08-09T02:46:10.924Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 7033,
@@ -860,7 +860,7 @@
     },
     "billyjanitsch": {
       "total": 1,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/1158733?v=4"
     },
     "clairecliu": {
@@ -10220,7 +10220,7 @@
     },
     "Janvier-2018": {
       "total": 80,
-      "merged": 56
+      "merged": 57
     },
     "Décembre-2017": {
       "total": 100,
