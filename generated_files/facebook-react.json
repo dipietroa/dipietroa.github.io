@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-08-09T19:47:52.906Z",
+  "lastUpdate": "2018-08-09T20:47:46.711Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 7039,
+  "totalPR": 7040,
   "lastPR": {
-    "createdAt": "2018-08-09T17:00:05Z",
-    "username": "sophiebits"
+    "createdAt": "2018-08-09T19:52:05Z",
+    "username": "philipp-spiess"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars2.githubusercontent.com/u/1702755?v=4"
   },
   "userPRInfos": {
+    "philipp-spiess": {
+      "total": 10,
+      "merged": 8,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/458591?v=4"
+    },
     "sophiebits": {
       "total": 666,
       "merged": 590,
@@ -92,11 +97,6 @@
       "total": 250,
       "merged": 228,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/29597?v=4"
-    },
-    "philipp-spiess": {
-      "total": 9,
-      "merged": 8,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/458591?v=4"
     },
     "ryota-murakami": {
       "total": 1,
@@ -10201,7 +10201,7 @@
   },
   "datePRInfos": {
     "Août-2018": {
-      "total": 31,
+      "total": 32,
       "merged": 23
     },
     "Juillet-2018": {
