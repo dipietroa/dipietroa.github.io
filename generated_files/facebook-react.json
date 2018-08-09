@@ -1,8 +1,8 @@
 {
-  "lastUpdate": "2018-08-09T12:48:18.352Z",
+  "lastUpdate": "2018-08-09T13:49:02.973Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 7035,
+  "totalPR": 7036,
   "lastPR": {
     "createdAt": "2018-08-09T05:22:17Z",
     "username": "seratch"
@@ -799,8 +799,8 @@
       "avatarUrl": "https://avatars1.githubusercontent.com/u/4248851?v=4"
     },
     "trueadm": {
-      "total": 38,
-      "merged": 31,
+      "total": 39,
+      "merged": 32,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/1519870?v=4"
     },
     "pshrmn": {
@@ -10265,8 +10265,8 @@
       "merged": 94
     },
     "Avril-2017": {
-      "total": 153,
-      "merged": 103
+      "total": 154,
+      "merged": 104
     },
     "Mars-2017": {
       "total": 125,
