@@ -1,15 +1,15 @@
 {
-  "lastUpdate": "2018-08-09T16:47:14.529Z",
+  "lastUpdate": "2018-08-09T17:47:32.027Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 7038,
+  "totalPR": 7039,
   "lastPR": {
-    "createdAt": "2018-08-09T15:54:26Z",
-    "username": "elas7"
+    "createdAt": "2018-08-09T17:00:05Z",
+    "username": "sophiebits"
   },
   "bestPR": {
     "user": "sophiebits",
-    "nbPR": 665,
+    "nbPR": 666,
     "image": "https://avatars2.githubusercontent.com/u/6820?v=4"
   },
   "bestMerged": {
@@ -23,6 +23,11 @@
     "image": "https://avatars2.githubusercontent.com/u/1702755?v=4"
   },
   "userPRInfos": {
+    "sophiebits": {
+      "total": 666,
+      "merged": 590,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/6820?v=4"
+    },
     "elas7": {
       "total": 6,
       "merged": 5,
@@ -30,7 +35,7 @@
     },
     "gaearon": {
       "total": 624,
-      "merged": 538,
+      "merged": 539,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/810438?v=4"
     },
     "seratch": {
@@ -407,11 +412,6 @@
       "total": 2,
       "merged": 0,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/11804936?v=4"
-    },
-    "sophiebits": {
-      "total": 665,
-      "merged": 590,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/6820?v=4"
     },
     "kevinkassimo": {
       "total": 1,
@@ -10201,8 +10201,8 @@
   },
   "datePRInfos": {
     "Août-2018": {
-      "total": 30,
-      "merged": 22
+      "total": 31,
+      "merged": 23
     },
     "Juillet-2018": {
       "total": 86,
