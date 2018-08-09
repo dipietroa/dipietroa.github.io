@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-08-09T10:42:27.797Z",
+  "lastUpdate": "2018-08-09T11:41:40.485Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2780,
+  "totalPR": 2782,
   "lastPR": {
-    "createdAt": "2018-08-09T06:35:29Z",
-    "username": "izeye"
+    "createdAt": "2018-08-09T11:38:52Z",
+    "username": "ayudovin"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,16 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "ayudovin": {
+      "total": 12,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/34862741?v=4"
+    },
+    "hengyunabc": {
+      "total": 10,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/1683936?v=4"
+    },
     "izeye": {
       "total": 436,
       "merged": 2,
@@ -32,11 +42,6 @@
       "total": 50,
       "merged": 1,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/483832?v=4"
-    },
-    "ayudovin": {
-      "total": 11,
-      "merged": 0,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/34862741?v=4"
     },
     "dreis2211": {
       "total": 93,
@@ -97,11 +102,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/2317037?v=4"
-    },
-    "hengyunabc": {
-      "total": 9,
-      "merged": 0,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/1683936?v=4"
     },
     "Hanope": {
       "total": 1,
@@ -4161,7 +4161,7 @@
   },
   "datePRInfos": {
     "Août-2018": {
-      "total": 25,
+      "total": 27,
       "merged": 0
     },
     "Juillet-2018": {
