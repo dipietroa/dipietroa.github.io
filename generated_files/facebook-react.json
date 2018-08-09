@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-08-09T04:46:43.222Z",
+  "lastUpdate": "2018-08-09T05:47:19.222Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 7033,
+  "totalPR": 7035,
   "lastPR": {
-    "createdAt": "2018-08-08T18:30:26Z",
-    "username": "gaearon"
+    "createdAt": "2018-08-09T05:22:17Z",
+    "username": "seratch"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,16 @@
     "image": "https://avatars2.githubusercontent.com/u/7537033?v=4"
   },
   "userPRInfos": {
+    "seratch": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/19658?v=4"
+    },
+    "SamanShafigh": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/5440537?v=4"
+    },
     "gaearon": {
       "total": 622,
       "merged": 537,
@@ -10191,7 +10201,7 @@
   },
   "datePRInfos": {
     "Août-2018": {
-      "total": 25,
+      "total": 27,
       "merged": 21
     },
     "Juillet-2018": {
