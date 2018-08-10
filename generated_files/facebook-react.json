@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-08-10T08:46:58.080Z",
+  "lastUpdate": "2018-08-10T09:47:27.669Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 7040,
+  "totalPR": 7041,
   "lastPR": {
-    "createdAt": "2018-08-09T19:52:05Z",
-    "username": "philipp-spiess"
+    "createdAt": "2018-08-10T09:02:35Z",
+    "username": "raunofreiberg"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars2.githubusercontent.com/u/1702755?v=4"
   },
   "userPRInfos": {
+    "raunofreiberg": {
+      "total": 7,
+      "merged": 3,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/23662329?v=4"
+    },
     "philipp-spiess": {
       "total": 10,
       "merged": 8,
@@ -277,11 +282,6 @@
       "total": 1,
       "merged": 1,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/5905726?v=4"
-    },
-    "raunofreiberg": {
-      "total": 6,
-      "merged": 3,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/23662329?v=4"
     },
     "motiz88": {
       "total": 1,
@@ -10201,7 +10201,7 @@
   },
   "datePRInfos": {
     "Août-2018": {
-      "total": 32,
+      "total": 33,
       "merged": 23
     },
     "Juillet-2018": {
