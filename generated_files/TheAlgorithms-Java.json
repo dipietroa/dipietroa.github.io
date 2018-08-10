@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-08-10T18:42:40.768Z",
+  "lastUpdate": "2018-08-10T19:42:26.273Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
-  "totalPR": 420,
+  "totalPR": 421,
   "lastPR": {
-    "createdAt": "2018-08-03T15:47:57Z",
-    "username": "MarisaAfuera"
+    "createdAt": "2018-08-10T18:45:18Z",
+    "username": "amalChandran"
   },
   "bestPR": {
     "user": "theycallmemac",
@@ -23,6 +23,11 @@
     "image": "https://avatars0.githubusercontent.com/u/11462960?v=4"
   },
   "userPRInfos": {
+    "amalChandran": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/4386056?v=4"
+    },
     "MarisaAfuera": {
       "total": 2,
       "merged": 0,
@@ -1131,7 +1136,7 @@
   },
   "datePRInfos": {
     "Août-2018": {
-      "total": 4,
+      "total": 5,
       "merged": 1
     },
     "Juillet-2018": {
