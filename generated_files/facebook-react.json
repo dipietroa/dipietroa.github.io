@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-08-10T15:48:02.373Z",
+  "lastUpdate": "2018-08-10T16:46:36.048Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 7044,
@@ -18,14 +18,14 @@
     "image": "https://avatars2.githubusercontent.com/u/6820?v=4"
   },
   "bestRatio": {
-    "user": "seratch",
+    "user": "alexrohleder",
     "ratio": 1,
-    "image": "https://avatars2.githubusercontent.com/u/19658?v=4"
+    "image": "https://avatars2.githubusercontent.com/u/7248028?v=4"
   },
   "userPRInfos": {
     "alexrohleder": {
       "total": 1,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/7248028?v=4"
     },
     "raunofreiberg": {
@@ -10207,7 +10207,7 @@
   "datePRInfos": {
     "Août-2018": {
       "total": 36,
-      "merged": 24
+      "merged": 25
     },
     "Juillet-2018": {
       "total": 86,
