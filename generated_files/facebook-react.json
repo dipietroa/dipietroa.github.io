@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "2018-08-10T12:47:14.309Z",
+  "lastUpdate": "2018-08-10T13:46:50.498Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 7042,
+  "totalPR": 7043,
   "lastPR": {
-    "createdAt": "2018-08-10T11:20:42Z",
+    "createdAt": "2018-08-10T12:48:10Z",
     "username": "raunofreiberg"
   },
   "bestPR": {
@@ -18,13 +18,13 @@
     "image": "https://avatars2.githubusercontent.com/u/6820?v=4"
   },
   "bestRatio": {
-    "user": "nicosommi",
+    "user": "seratch",
     "ratio": 1,
-    "image": "https://avatars2.githubusercontent.com/u/1702755?v=4"
+    "image": "https://avatars2.githubusercontent.com/u/19658?v=4"
   },
   "userPRInfos": {
     "raunofreiberg": {
-      "total": 8,
+      "total": 9,
       "merged": 3,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/23662329?v=4"
     },
@@ -50,7 +50,7 @@
     },
     "seratch": {
       "total": 1,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/19658?v=4"
     },
     "SamanShafigh": {
@@ -10201,8 +10201,8 @@
   },
   "datePRInfos": {
     "Août-2018": {
-      "total": 34,
-      "merged": 23
+      "total": 35,
+      "merged": 24
     },
     "Juillet-2018": {
       "total": 86,
