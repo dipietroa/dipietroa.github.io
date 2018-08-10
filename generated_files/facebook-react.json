@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-08-10T13:46:50.498Z",
+  "lastUpdate": "2018-08-10T14:46:54.386Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 7043,
+  "totalPR": 7044,
   "lastPR": {
-    "createdAt": "2018-08-10T12:48:10Z",
-    "username": "raunofreiberg"
+    "createdAt": "2018-08-10T14:40:09Z",
+    "username": "alexrohleder"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars2.githubusercontent.com/u/19658?v=4"
   },
   "userPRInfos": {
+    "alexrohleder": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/7248028?v=4"
+    },
     "raunofreiberg": {
       "total": 9,
       "merged": 3,
@@ -10201,7 +10206,7 @@
   },
   "datePRInfos": {
     "Août-2018": {
-      "total": 35,
+      "total": 36,
       "merged": 24
     },
     "Juillet-2018": {
