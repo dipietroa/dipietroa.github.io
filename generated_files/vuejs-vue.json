@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-08-11T16:43:17.861Z",
+  "lastUpdate": "2018-08-11T17:42:52.482Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 1240,
+  "totalPR": 1241,
   "lastPR": {
-    "createdAt": "2018-08-11T04:42:36Z",
-    "username": "st-sloth"
+    "createdAt": "2018-08-11T17:37:48Z",
+    "username": "AlexMaguey"
   },
   "bestPR": {
     "user": "kazupon",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/3408176?v=4"
   },
   "userPRInfos": {
+    "AlexMaguey": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/13966704?v=4"
+    },
     "st-sloth": {
       "total": 2,
       "merged": 0,
@@ -2801,7 +2806,7 @@
   },
   "datePRInfos": {
     "Août-2018": {
-      "total": 8,
+      "total": 9,
       "merged": 0
     },
     "Juillet-2018": {
