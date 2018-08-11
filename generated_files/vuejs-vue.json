@@ -1,8 +1,8 @@
 {
-  "lastUpdate": "2018-08-11T03:42:20.643Z",
+  "lastUpdate": "2018-08-11T04:42:54.645Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 1239,
+  "totalPR": 1240,
   "lastPR": {
     "createdAt": "2018-08-09T18:56:30Z",
     "username": "hirokiosame"
@@ -1259,7 +1259,7 @@
       "avatarUrl": "https://avatars3.githubusercontent.com/u/4123062?v=4"
     },
     "OuYancey": {
-      "total": 1,
+      "total": 2,
       "merged": 0,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/16320418?v=4"
     },
@@ -2849,7 +2849,7 @@
       "merged": 23
     },
     "Août-2017": {
-      "total": 32,
+      "total": 33,
       "merged": 18
     },
     "Juillet-2017": {
