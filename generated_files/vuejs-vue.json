@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-08-11T20:42:16.278Z",
+  "lastUpdate": "2018-08-11T21:42:22.872Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 1241,
+  "totalPR": 1242,
   "lastPR": {
-    "createdAt": "2018-08-11T17:37:48Z",
-    "username": "AlexMaguey"
+    "createdAt": "2018-08-11T20:43:40Z",
+    "username": "clarkdo"
   },
   "bestPR": {
     "user": "kazupon",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/3408176?v=4"
   },
   "userPRInfos": {
+    "clarkdo": {
+      "total": 11,
+      "merged": 5,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/4312154?v=4"
+    },
     "AlexMaguey": {
       "total": 1,
       "merged": 0,
@@ -47,11 +52,6 @@
       "total": 9,
       "merged": 0,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/3277634?v=4"
-    },
-    "clarkdo": {
-      "total": 10,
-      "merged": 5,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/4312154?v=4"
     },
     "lzxb": {
       "total": 7,
@@ -2806,7 +2806,7 @@
   },
   "datePRInfos": {
     "Août-2018": {
-      "total": 9,
+      "total": 10,
       "merged": 0
     },
     "Juillet-2018": {
