@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-08-11T04:42:54.645Z",
+  "lastUpdate": "2018-08-11T05:42:49.081Z",
   "cowner": "vuejs",
   "crepo": "vue",
   "totalPR": 1240,
   "lastPR": {
-    "createdAt": "2018-08-09T18:56:30Z",
-    "username": "hirokiosame"
+    "createdAt": "2018-08-11T04:42:36Z",
+    "username": "st-sloth"
   },
   "bestPR": {
     "user": "kazupon",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/3408176?v=4"
   },
   "userPRInfos": {
+    "st-sloth": {
+      "total": 2,
+      "merged": 0,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/19147756?v=4"
+    },
     "hirokiosame": {
       "total": 6,
       "merged": 2,
@@ -918,11 +923,6 @@
       "merged": 0,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/33696428?v=4"
     },
-    "st-sloth": {
-      "total": 1,
-      "merged": 0,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/19147756?v=4"
-    },
     "davidnuescheler": {
       "total": 1,
       "merged": 1,
@@ -1259,7 +1259,7 @@
       "avatarUrl": "https://avatars3.githubusercontent.com/u/4123062?v=4"
     },
     "OuYancey": {
-      "total": 2,
+      "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/16320418?v=4"
     },
@@ -2801,7 +2801,7 @@
   },
   "datePRInfos": {
     "Août-2018": {
-      "total": 7,
+      "total": 8,
       "merged": 0
     },
     "Juillet-2018": {
@@ -2849,7 +2849,7 @@
       "merged": 23
     },
     "Août-2017": {
-      "total": 33,
+      "total": 32,
       "merged": 18
     },
     "Juillet-2017": {
