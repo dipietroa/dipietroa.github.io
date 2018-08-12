@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-08-12T12:45:56.217Z",
+  "lastUpdate": "2018-08-12T13:47:02.661Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 7049,
@@ -25,7 +25,7 @@
   "userPRInfos": {
     "motiz88": {
       "total": 3,
-      "merged": 1,
+      "merged": 2,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/2246565?v=4"
     },
     "davidblnc": {
@@ -10212,7 +10212,7 @@
   "datePRInfos": {
     "Août-2018": {
       "total": 41,
-      "merged": 26
+      "merged": 27
     },
     "Juillet-2018": {
       "total": 86,
