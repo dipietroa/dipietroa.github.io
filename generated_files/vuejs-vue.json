@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-08-12T04:42:44.965Z",
+  "lastUpdate": "2018-08-12T05:43:03.728Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 1242,
+  "totalPR": 1243,
   "lastPR": {
-    "createdAt": "2018-08-11T20:43:40Z",
-    "username": "clarkdo"
+    "createdAt": "2018-08-12T04:44:48Z",
+    "username": "william-pan"
   },
   "bestPR": {
     "user": "kazupon",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/3408176?v=4"
   },
   "userPRInfos": {
+    "william-pan": {
+      "total": 2,
+      "merged": 1,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/20611735?v=4"
+    },
     "clarkdo": {
       "total": 11,
       "merged": 5,
@@ -692,11 +697,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/15142680?v=4"
-    },
-    "william-pan": {
-      "total": 1,
-      "merged": 1,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/20611735?v=4"
     },
     "blake-newman": {
       "total": 18,
@@ -2806,7 +2806,7 @@
   },
   "datePRInfos": {
     "Août-2018": {
-      "total": 10,
+      "total": 11,
       "merged": 0
     },
     "Juillet-2018": {
