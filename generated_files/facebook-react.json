@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-08-11T23:45:52.131Z",
+  "lastUpdate": "2018-08-12T00:45:37.392Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 7046,
+  "totalPR": 7047,
   "lastPR": {
-    "createdAt": "2018-08-11T03:36:41Z",
-    "username": "nhunzaker"
+    "createdAt": "2018-08-12T00:07:56Z",
+    "username": "motiz88"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars2.githubusercontent.com/u/7248028?v=4"
   },
   "userPRInfos": {
+    "motiz88": {
+      "total": 2,
+      "merged": 1,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/2246565?v=4"
+    },
     "nhunzaker": {
       "total": 93,
       "merged": 53,
@@ -292,11 +297,6 @@
       "total": 1,
       "merged": 1,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/5905726?v=4"
-    },
-    "motiz88": {
-      "total": 1,
-      "merged": 1,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/2246565?v=4"
     },
     "jasonwilliams": {
       "total": 4,
@@ -10206,7 +10206,7 @@
   },
   "datePRInfos": {
     "Août-2018": {
-      "total": 38,
+      "total": 39,
       "merged": 26
     },
     "Juillet-2018": {
