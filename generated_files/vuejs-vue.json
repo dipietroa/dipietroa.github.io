@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-08-12T08:42:19.948Z",
+  "lastUpdate": "2018-08-12T09:42:51.919Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 1243,
+  "totalPR": 1244,
   "lastPR": {
-    "createdAt": "2018-08-12T04:44:48Z",
-    "username": "william-pan"
+    "createdAt": "2018-08-12T09:37:54Z",
+    "username": "posva"
   },
   "bestPR": {
     "user": "kazupon",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/3408176?v=4"
   },
   "userPRInfos": {
+    "posva": {
+      "total": 40,
+      "merged": 28,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/664177?v=4"
+    },
     "william-pan": {
       "total": 2,
       "merged": 1,
@@ -47,11 +52,6 @@
       "total": 6,
       "merged": 2,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/1075694?v=4"
-    },
-    "posva": {
-      "total": 39,
-      "merged": 28,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/664177?v=4"
     },
     "sodatea": {
       "total": 9,
@@ -2806,7 +2806,7 @@
   },
   "datePRInfos": {
     "Août-2018": {
-      "total": 11,
+      "total": 12,
       "merged": 0
     },
     "Juillet-2018": {
