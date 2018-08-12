@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-08-12T08:45:42.973Z",
+  "lastUpdate": "2018-08-12T09:46:25.517Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 7047,
+  "totalPR": 7048,
   "lastPR": {
-    "createdAt": "2018-08-12T00:07:56Z",
-    "username": "motiz88"
+    "createdAt": "2018-08-12T09:30:08Z",
+    "username": "davidblnc"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars2.githubusercontent.com/u/7248028?v=4"
   },
   "userPRInfos": {
+    "davidblnc": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/40642621?v=4"
+    },
     "motiz88": {
       "total": 2,
       "merged": 1,
@@ -10206,7 +10211,7 @@
   },
   "datePRInfos": {
     "Août-2018": {
-      "total": 39,
+      "total": 40,
       "merged": 26
     },
     "Juillet-2018": {
