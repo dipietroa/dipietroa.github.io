@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-08-13T21:46:44.585Z",
+  "lastUpdate": "2018-08-13T22:46:36.324Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 7056,
   "lastPR": {
-    "createdAt": "2018-08-13T19:15:08Z",
-    "username": "gaearon"
+    "createdAt": "2018-08-13T21:45:23Z",
+    "username": "nhunzaker"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars0.githubusercontent.com/u/100200?v=4"
   },
   "userPRInfos": {
+    "nhunzaker": {
+      "total": 94,
+      "merged": 53,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/590904?v=4"
+    },
     "gaearon": {
       "total": 625,
       "merged": 540,
@@ -62,11 +67,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/40642621?v=4"
-    },
-    "nhunzaker": {
-      "total": 93,
-      "merged": 53,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/590904?v=4"
     },
     "alexrohleder": {
       "total": 1,
@@ -6254,8 +6254,8 @@
       "avatarUrl": "https://avatars2.githubusercontent.com/u/346300?v=4"
     },
     "cody": {
-      "total": 16,
-      "merged": 15,
+      "total": 15,
+      "merged": 14,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/1382156?v=4"
     },
     "MatthewHerbst": {
@@ -10221,7 +10221,7 @@
   },
   "datePRInfos": {
     "Août-2018": {
-      "total": 47,
+      "total": 48,
       "merged": 33
     },
     "Juillet-2018": {
@@ -10353,8 +10353,8 @@
       "merged": 67
     },
     "Novembre-2015": {
-      "total": 105,
-      "merged": 67
+      "total": 104,
+      "merged": 66
     },
     "Octobre-2015": {
       "total": 162,
