@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-08-12T23:46:04.223Z",
+  "lastUpdate": "2018-08-13T00:46:59.177Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 7051,
+  "totalPR": 7052,
   "lastPR": {
-    "createdAt": "2018-08-12T17:04:08Z",
-    "username": "philipp-spiess"
+    "createdAt": "2018-08-12T23:59:47Z",
+    "username": "ryanflorence"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -18,11 +18,16 @@
     "image": "https://avatars2.githubusercontent.com/u/6820?v=4"
   },
   "bestRatio": {
-    "user": "alexrohleder",
+    "user": "ryanflorence",
     "ratio": 1,
-    "image": "https://avatars2.githubusercontent.com/u/7248028?v=4"
+    "image": "https://avatars0.githubusercontent.com/u/100200?v=4"
   },
   "userPRInfos": {
+    "ryanflorence": {
+      "total": 1,
+      "merged": 1,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/100200?v=4"
+    },
     "philipp-spiess": {
       "total": 12,
       "merged": 10,
@@ -10211,8 +10216,8 @@
   },
   "datePRInfos": {
     "Août-2018": {
-      "total": 43,
-      "merged": 28
+      "total": 44,
+      "merged": 29
     },
     "Juillet-2018": {
       "total": 86,
