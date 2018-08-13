@@ -1,15 +1,15 @@
 {
-  "lastUpdate": "2018-08-13T08:41:53.612Z",
+  "lastUpdate": "2018-08-13T09:42:29.825Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2786,
+  "totalPR": 2787,
   "lastPR": {
-    "createdAt": "2018-08-12T07:15:36Z",
-    "username": "frohwerk"
+    "createdAt": "2018-08-13T09:19:15Z",
+    "username": "izeye"
   },
   "bestPR": {
     "user": "izeye",
-    "nbPR": 437,
+    "nbPR": 438,
     "image": "https://avatars3.githubusercontent.com/u/1059363?v=4"
   },
   "bestMerged": {
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "izeye": {
+      "total": 438,
+      "merged": 2,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/1059363?v=4"
+    },
     "frohwerk": {
       "total": 1,
       "merged": 0,
@@ -32,11 +37,6 @@
       "total": 94,
       "merged": 0,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/6304496?v=4"
-    },
-    "izeye": {
-      "total": 437,
-      "merged": 2,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/1059363?v=4"
     },
     "GreyTeardrop": {
       "total": 4,
@@ -4166,7 +4166,7 @@
   },
   "datePRInfos": {
     "Août-2018": {
-      "total": 31,
+      "total": 32,
       "merged": 0
     },
     "Juillet-2018": {
