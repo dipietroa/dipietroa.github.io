@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-08-13T19:47:30.051Z",
+  "lastUpdate": "2018-08-13T20:47:09.520Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 7055,
@@ -25,7 +25,7 @@
   "userPRInfos": {
     "gaearon": {
       "total": 625,
-      "merged": 539,
+      "merged": 540,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/810438?v=4"
     },
     "ryota-murakami": {
@@ -10222,7 +10222,7 @@
   "datePRInfos": {
     "Août-2018": {
       "total": 47,
-      "merged": 32
+      "merged": 33
     },
     "Juillet-2018": {
       "total": 86,
