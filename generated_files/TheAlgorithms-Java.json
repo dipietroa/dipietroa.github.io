@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-08-13T20:42:37.506Z",
+  "lastUpdate": "2018-08-13T21:42:13.071Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
-  "totalPR": 421,
+  "totalPR": 422,
   "lastPR": {
-    "createdAt": "2018-08-10T18:45:18Z",
-    "username": "amalChandran"
+    "createdAt": "2018-08-13T20:52:57Z",
+    "username": "rajatsharma23"
   },
   "bestPR": {
     "user": "theycallmemac",
@@ -23,6 +23,11 @@
     "image": "https://avatars0.githubusercontent.com/u/11462960?v=4"
   },
   "userPRInfos": {
+    "rajatsharma23": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/41328863?v=4"
+    },
     "amalChandran": {
       "total": 1,
       "merged": 0,
@@ -1136,7 +1141,7 @@
   },
   "datePRInfos": {
     "Août-2018": {
-      "total": 5,
+      "total": 6,
       "merged": 1
     },
     "Juillet-2018": {
