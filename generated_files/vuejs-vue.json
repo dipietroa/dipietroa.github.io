@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-08-13T22:42:37.919Z",
+  "lastUpdate": "2018-08-13T23:42:30.104Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 1245,
+  "totalPR": 1246,
   "lastPR": {
-    "createdAt": "2018-08-12T16:42:39Z",
-    "username": "KaelWD"
+    "createdAt": "2018-08-13T23:08:46Z",
+    "username": "d-pollard"
   },
   "bestPR": {
     "user": "kazupon",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/3408176?v=4"
   },
   "userPRInfos": {
+    "d-pollard": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/16292606?v=4"
+    },
     "KaelWD": {
       "total": 3,
       "merged": 0,
@@ -2806,7 +2811,7 @@
   },
   "datePRInfos": {
     "Août-2018": {
-      "total": 13,
+      "total": 14,
       "merged": 0
     },
     "Juillet-2018": {
