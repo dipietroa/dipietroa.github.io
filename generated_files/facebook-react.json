@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-08-13T18:47:15.742Z",
+  "lastUpdate": "2018-08-13T19:47:30.051Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 7054,
+  "totalPR": 7055,
   "lastPR": {
-    "createdAt": "2018-08-13T07:20:25Z",
-    "username": "ryota-murakami"
+    "createdAt": "2018-08-13T19:15:08Z",
+    "username": "gaearon"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars0.githubusercontent.com/u/100200?v=4"
   },
   "userPRInfos": {
+    "gaearon": {
+      "total": 625,
+      "merged": 539,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/810438?v=4"
+    },
     "ryota-murakami": {
       "total": 2,
       "merged": 1,
@@ -77,11 +82,6 @@
       "total": 6,
       "merged": 5,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/7537033?v=4"
-    },
-    "gaearon": {
-      "total": 624,
-      "merged": 539,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/810438?v=4"
     },
     "seratch": {
       "total": 1,
@@ -10221,7 +10221,7 @@
   },
   "datePRInfos": {
     "Août-2018": {
-      "total": 46,
+      "total": 47,
       "merged": 32
     },
     "Juillet-2018": {
