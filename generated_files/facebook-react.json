@@ -1,8 +1,8 @@
 {
-  "lastUpdate": "2018-08-13T20:47:09.520Z",
+  "lastUpdate": "2018-08-13T21:46:44.585Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 7055,
+  "totalPR": 7056,
   "lastPR": {
     "createdAt": "2018-08-13T19:15:08Z",
     "username": "gaearon"
@@ -6254,8 +6254,8 @@
       "avatarUrl": "https://avatars2.githubusercontent.com/u/346300?v=4"
     },
     "cody": {
-      "total": 15,
-      "merged": 14,
+      "total": 16,
+      "merged": 15,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/1382156?v=4"
     },
     "MatthewHerbst": {
@@ -10353,8 +10353,8 @@
       "merged": 67
     },
     "Novembre-2015": {
-      "total": 104,
-      "merged": 66
+      "total": 105,
+      "merged": 67
     },
     "Octobre-2015": {
       "total": 162,
