@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-08-13T05:46:59.760Z",
+  "lastUpdate": "2018-08-13T06:46:32.610Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 7052,
+  "totalPR": 7053,
   "lastPR": {
-    "createdAt": "2018-08-12T23:59:47Z",
-    "username": "ryanflorence"
+    "createdAt": "2018-08-13T05:58:10Z",
+    "username": "lucasrainett"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars0.githubusercontent.com/u/100200?v=4"
   },
   "userPRInfos": {
+    "lucasrainett": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/25447522?v=4"
+    },
     "ryanflorence": {
       "total": 1,
       "merged": 1,
@@ -10216,7 +10221,7 @@
   },
   "datePRInfos": {
     "Août-2018": {
-      "total": 44,
+      "total": 45,
       "merged": 29
     },
     "Juillet-2018": {
