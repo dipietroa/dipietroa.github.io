@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-08-14T16:47:29.816Z",
+  "lastUpdate": "2018-08-14T17:47:25.734Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 7060,
+  "totalPR": 7062,
   "lastPR": {
-    "createdAt": "2018-08-14T14:21:01Z",
-    "username": "acdlite"
+    "createdAt": "2018-08-14T17:36:56Z",
+    "username": "elas7"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,16 @@
     "image": "https://avatars0.githubusercontent.com/u/100200?v=4"
   },
   "userPRInfos": {
+    "elas7": {
+      "total": 7,
+      "merged": 5,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/7537033?v=4"
+    },
+    "Kachulio1": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/22243090?v=4"
+    },
     "acdlite": {
       "total": 224,
       "merged": 178,
@@ -30,7 +40,7 @@
     },
     "raunofreiberg": {
       "total": 11,
-      "merged": 6,
+      "merged": 7,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/23662329?v=4"
     },
     "aseem191": {
@@ -92,11 +102,6 @@
       "total": 666,
       "merged": 590,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/6820?v=4"
-    },
-    "elas7": {
-      "total": 6,
-      "merged": 5,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/7537033?v=4"
     },
     "seratch": {
       "total": 1,
@@ -10231,8 +10236,8 @@
   },
   "datePRInfos": {
     "Août-2018": {
-      "total": 52,
-      "merged": 36
+      "total": 54,
+      "merged": 37
     },
     "Juillet-2018": {
       "total": 86,
