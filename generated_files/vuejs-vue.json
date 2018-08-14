@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-08-14T08:42:55.635Z",
+  "lastUpdate": "2018-08-14T09:42:41.066Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 1247,
+  "totalPR": 1248,
   "lastPR": {
-    "createdAt": "2018-08-14T05:25:27Z",
-    "username": "munepom"
+    "createdAt": "2018-08-14T09:41:32Z",
+    "username": "Justineo"
   },
   "bestPR": {
     "user": "kazupon",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/3408176?v=4"
   },
   "userPRInfos": {
+    "Justineo": {
+      "total": 3,
+      "merged": 2,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/1726061?v=4"
+    },
     "munepom": {
       "total": 1,
       "merged": 0,
@@ -762,11 +767,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/17272676?v=4"
-    },
-    "Justineo": {
-      "total": 2,
-      "merged": 2,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/1726061?v=4"
     },
     "Akryum": {
       "total": 3,
@@ -2816,7 +2816,7 @@
   },
   "datePRInfos": {
     "Août-2018": {
-      "total": 15,
+      "total": 16,
       "merged": 0
     },
     "Juillet-2018": {
