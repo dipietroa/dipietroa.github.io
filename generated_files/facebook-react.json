@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "2018-08-14T17:47:25.734Z",
+  "lastUpdate": "2018-08-14T18:46:52.082Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 7062,
+  "totalPR": 7064,
   "lastPR": {
-    "createdAt": "2018-08-14T17:36:56Z",
+    "createdAt": "2018-08-14T18:06:06Z",
     "username": "elas7"
   },
   "bestPR": {
@@ -24,9 +24,14 @@
   },
   "userPRInfos": {
     "elas7": {
-      "total": 7,
-      "merged": 5,
+      "total": 8,
+      "merged": 6,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/7537033?v=4"
+    },
+    "nhunzaker": {
+      "total": 95,
+      "merged": 55,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/590904?v=4"
     },
     "Kachulio1": {
       "total": 1,
@@ -52,11 +57,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/8351964?v=4"
-    },
-    "nhunzaker": {
-      "total": 94,
-      "merged": 55,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/590904?v=4"
     },
     "gaearon": {
       "total": 625,
@@ -10236,8 +10236,8 @@
   },
   "datePRInfos": {
     "Août-2018": {
-      "total": 54,
-      "merged": 37
+      "total": 56,
+      "merged": 38
     },
     "Juillet-2018": {
       "total": 86,
