@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-08-14T19:47:48.639Z",
+  "lastUpdate": "2018-08-14T20:47:09.391Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 7064,
+  "totalPR": 7066,
   "lastPR": {
-    "createdAt": "2018-08-14T18:06:06Z",
-    "username": "elas7"
+    "createdAt": "2018-08-14T20:19:07Z",
+    "username": "acdlite"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars0.githubusercontent.com/u/100200?v=4"
   },
   "userPRInfos": {
+    "acdlite": {
+      "total": 225,
+      "merged": 178,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/3624098?v=4"
+    },
     "elas7": {
       "total": 8,
       "merged": 6,
@@ -37,11 +42,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/22243090?v=4"
-    },
-    "acdlite": {
-      "total": 224,
-      "merged": 178,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/3624098?v=4"
     },
     "raunofreiberg": {
       "total": 11,
@@ -59,8 +59,8 @@
       "avatarUrl": "https://avatars2.githubusercontent.com/u/8351964?v=4"
     },
     "gaearon": {
-      "total": 625,
-      "merged": 540,
+      "total": 626,
+      "merged": 541,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/810438?v=4"
     },
     "ryota-murakami": {
@@ -85,12 +85,12 @@
     },
     "motiz88": {
       "total": 3,
-      "merged": 2,
+      "merged": 3,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/2246565?v=4"
     },
     "davidblnc": {
       "total": 1,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/40642621?v=4"
     },
     "alexrohleder": {
@@ -1170,7 +1170,7 @@
     },
     "ConradIrwin": {
       "total": 1,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/94272?v=4"
     },
     "thymikee": {
@@ -5088,7 +5088,7 @@
       "merged": 1,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/8217766?v=4"
     },
-    "nicholaswyoung": {
+    "nwyoung": {
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/98955?v=4"
@@ -10236,8 +10236,8 @@
   },
   "datePRInfos": {
     "Août-2018": {
-      "total": 56,
-      "merged": 38
+      "total": 57,
+      "merged": 40
     },
     "Juillet-2018": {
       "total": 86,
@@ -10273,7 +10273,7 @@
     },
     "Novembre-2017": {
       "total": 168,
-      "merged": 127
+      "merged": 128
     },
     "Octobre-2017": {
       "total": 212,
@@ -10344,8 +10344,8 @@
       "merged": 73
     },
     "Mai-2016": {
-      "total": 148,
-      "merged": 99
+      "total": 149,
+      "merged": 100
     },
     "Avril-2016": {
       "total": 131,
