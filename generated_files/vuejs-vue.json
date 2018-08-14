@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-08-14T12:42:59.862Z",
+  "lastUpdate": "2018-08-14T13:43:09.731Z",
   "cowner": "vuejs",
   "crepo": "vue",
   "totalPR": 1248,
@@ -18,9 +18,9 @@
     "image": "https://avatars1.githubusercontent.com/u/72989?v=4"
   },
   "bestRatio": {
-    "user": "TheLarkInn",
+    "user": "d-pollard",
     "ratio": 1,
-    "image": "https://avatars1.githubusercontent.com/u/3408176?v=4"
+    "image": "https://avatars1.githubusercontent.com/u/16292606?v=4"
   },
   "userPRInfos": {
     "Justineo": {
@@ -35,7 +35,7 @@
     },
     "d-pollard": {
       "total": 1,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/16292606?v=4"
     },
     "KaelWD": {
@@ -55,7 +55,7 @@
     },
     "clarkdo": {
       "total": 11,
-      "merged": 5,
+      "merged": 6,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/4312154?v=4"
     },
     "AlexMaguey": {
@@ -2817,7 +2817,7 @@
   "datePRInfos": {
     "Août-2018": {
       "total": 16,
-      "merged": 0
+      "merged": 2
     },
     "Juillet-2018": {
       "total": 25,
