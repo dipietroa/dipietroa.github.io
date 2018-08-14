@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-08-14T06:46:37.418Z",
+  "lastUpdate": "2018-08-14T07:47:16.197Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 7057,
+  "totalPR": 7058,
   "lastPR": {
-    "createdAt": "2018-08-14T06:28:41Z",
-    "username": "IvanSakhman"
+    "createdAt": "2018-08-14T07:41:24Z",
+    "username": "aseem191"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars0.githubusercontent.com/u/100200?v=4"
   },
   "userPRInfos": {
+    "aseem191": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/18651871?v=4"
+    },
     "IvanSakhman": {
       "total": 1,
       "merged": 0,
@@ -10226,7 +10231,7 @@
   },
   "datePRInfos": {
     "Août-2018": {
-      "total": 49,
+      "total": 50,
       "merged": 34
     },
     "Juillet-2018": {
