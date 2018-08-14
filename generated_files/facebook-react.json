@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-08-14T05:46:31.302Z",
+  "lastUpdate": "2018-08-14T06:46:37.418Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 7056,
+  "totalPR": 7057,
   "lastPR": {
-    "createdAt": "2018-08-13T21:45:23Z",
-    "username": "nhunzaker"
+    "createdAt": "2018-08-14T06:28:41Z",
+    "username": "IvanSakhman"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars0.githubusercontent.com/u/100200?v=4"
   },
   "userPRInfos": {
+    "IvanSakhman": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/8351964?v=4"
+    },
     "nhunzaker": {
       "total": 94,
       "merged": 54,
@@ -10221,7 +10226,7 @@
   },
   "datePRInfos": {
     "Août-2018": {
-      "total": 48,
+      "total": 49,
       "merged": 34
     },
     "Juillet-2018": {
