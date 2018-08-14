@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-08-14T17:43:43.238Z",
+  "lastUpdate": "2018-08-14T18:42:58.890Z",
   "cowner": "nuclio",
   "crepo": "nuclio",
   "totalPR": 679,
@@ -18,14 +18,14 @@
     "image": "https://avatars2.githubusercontent.com/u/423987?v=4"
   },
   "bestRatio": {
-    "user": "mavdryk",
+    "user": "makrusak",
     "ratio": 1,
-    "image": "https://avatars1.githubusercontent.com/u/25711177?v=4"
+    "image": "https://avatars1.githubusercontent.com/u/823054?v=4"
   },
   "userPRInfos": {
     "makrusak": {
       "total": 1,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/823054?v=4"
     },
     "levrado": {
@@ -182,7 +182,7 @@
   "datePRInfos": {
     "Août-2018": {
       "total": 14,
-      "merged": 10
+      "merged": 11
     },
     "Juillet-2018": {
       "total": 29,
