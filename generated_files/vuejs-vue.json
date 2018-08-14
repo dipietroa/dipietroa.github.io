@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-08-14T04:42:34.606Z",
+  "lastUpdate": "2018-08-14T05:42:48.312Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 1246,
+  "totalPR": 1247,
   "lastPR": {
-    "createdAt": "2018-08-13T23:08:46Z",
-    "username": "d-pollard"
+    "createdAt": "2018-08-14T05:25:27Z",
+    "username": "munepom"
   },
   "bestPR": {
     "user": "kazupon",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/3408176?v=4"
   },
   "userPRInfos": {
+    "munepom": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/1328405?v=4"
+    },
     "d-pollard": {
       "total": 1,
       "merged": 0,
@@ -2811,7 +2816,7 @@
   },
   "datePRInfos": {
     "Août-2018": {
-      "total": 14,
+      "total": 15,
       "merged": 0
     },
     "Juillet-2018": {
