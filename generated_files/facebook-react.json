@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-08-15T16:47:23.016Z",
+  "lastUpdate": "2018-08-15T17:47:21.127Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 7072,
@@ -25,7 +25,7 @@
   "userPRInfos": {
     "gaearon": {
       "total": 629,
-      "merged": 540,
+      "merged": 542,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/810438?v=4"
     },
     "motiz88": {
@@ -10242,7 +10242,7 @@
   "datePRInfos": {
     "Août-2018": {
       "total": 64,
-      "merged": 40
+      "merged": 42
     },
     "Juillet-2018": {
       "total": 86,
