@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-08-15T17:47:21.127Z",
+  "lastUpdate": "2018-08-15T18:46:57.423Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 7072,
@@ -18,14 +18,14 @@
     "image": "https://avatars2.githubusercontent.com/u/6820?v=4"
   },
   "bestRatio": {
-    "user": "ryanflorence",
+    "user": "RuudBurger",
     "ratio": 1,
-    "image": "https://avatars0.githubusercontent.com/u/100200?v=4"
+    "image": "https://avatars0.githubusercontent.com/u/38136?v=4"
   },
   "userPRInfos": {
     "gaearon": {
       "total": 629,
-      "merged": 542,
+      "merged": 543,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/810438?v=4"
     },
     "motiz88": {
@@ -35,12 +35,12 @@
     },
     "RuudBurger": {
       "total": 1,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/38136?v=4"
     },
     "acdlite": {
       "total": 226,
-      "merged": 178,
+      "merged": 179,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/3624098?v=4"
     },
     "elas7": {
@@ -10242,7 +10242,7 @@
   "datePRInfos": {
     "Août-2018": {
       "total": 64,
-      "merged": 42
+      "merged": 45
     },
     "Juillet-2018": {
       "total": 86,
