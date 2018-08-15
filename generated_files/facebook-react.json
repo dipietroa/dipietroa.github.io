@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-08-15T08:47:31.257Z",
+  "lastUpdate": "2018-08-15T09:47:40.798Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 7067,
+  "totalPR": 7068,
   "lastPR": {
-    "createdAt": "2018-08-15T01:42:03Z",
-    "username": "gaearon"
+    "createdAt": "2018-08-15T09:20:15Z",
+    "username": "RuudBurger"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars0.githubusercontent.com/u/100200?v=4"
   },
   "userPRInfos": {
+    "RuudBurger": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/38136?v=4"
+    },
     "gaearon": {
       "total": 626,
       "merged": 540,
@@ -10236,7 +10241,7 @@
   },
   "datePRInfos": {
     "Août-2018": {
-      "total": 59,
+      "total": 60,
       "merged": 40
     },
     "Juillet-2018": {
