@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-08-16T17:46:50.369Z",
+  "lastUpdate": "2018-08-16T18:47:19.796Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 7075,
+  "totalPR": 7076,
   "lastPR": {
-    "createdAt": "2018-08-16T14:31:40Z",
-    "username": "raunofreiberg"
+    "createdAt": "2018-08-16T17:46:56Z",
+    "username": "elas7"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars0.githubusercontent.com/u/272915?v=4"
   },
   "userPRInfos": {
+    "elas7": {
+      "total": 9,
+      "merged": 7,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/7537033?v=4"
+    },
     "raunofreiberg": {
       "total": 12,
       "merged": 8,
@@ -52,11 +57,6 @@
       "total": 226,
       "merged": 181,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/3624098?v=4"
-    },
-    "elas7": {
-      "total": 8,
-      "merged": 6,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/7537033?v=4"
     },
     "nhunzaker": {
       "total": 95,
@@ -10246,8 +10246,8 @@
   },
   "datePRInfos": {
     "Août-2018": {
-      "total": 67,
-      "merged": 49
+      "total": 68,
+      "merged": 50
     },
     "Juillet-2018": {
       "total": 86,
