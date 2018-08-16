@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-08-16T01:46:24.474Z",
+  "lastUpdate": "2018-08-16T02:46:11.459Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 7073,
+  "totalPR": 7074,
   "lastPR": {
-    "createdAt": "2018-08-15T18:55:12Z",
-    "username": "gaearon"
+    "createdAt": "2018-08-16T02:19:50Z",
+    "username": "kartiklad"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars0.githubusercontent.com/u/38136?v=4"
   },
   "userPRInfos": {
+    "kartiklad": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/272915?v=4"
+    },
     "gaearon": {
       "total": 630,
       "merged": 543,
@@ -10241,7 +10246,7 @@
   },
   "datePRInfos": {
     "Août-2018": {
-      "total": 65,
+      "total": 66,
       "merged": 45
     },
     "Juillet-2018": {
