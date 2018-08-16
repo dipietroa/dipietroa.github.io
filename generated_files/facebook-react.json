@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-08-16T19:47:36.356Z",
+  "lastUpdate": "2018-08-16T20:46:53.456Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 7076,
+  "totalPR": 7078,
   "lastPR": {
-    "createdAt": "2018-08-16T17:46:56Z",
-    "username": "elas7"
+    "createdAt": "2018-08-16T20:33:16Z",
+    "username": "nhunzaker"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,16 @@
     "image": "https://avatars0.githubusercontent.com/u/272915?v=4"
   },
   "userPRInfos": {
+    "nhunzaker": {
+      "total": 96,
+      "merged": 56,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/590904?v=4"
+    },
+    "gaearon": {
+      "total": 631,
+      "merged": 543,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/810438?v=4"
+    },
     "elas7": {
       "total": 9,
       "merged": 7,
@@ -38,11 +48,6 @@
       "merged": 1,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/272915?v=4"
     },
-    "gaearon": {
-      "total": 630,
-      "merged": 543,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/810438?v=4"
-    },
     "motiz88": {
       "total": 4,
       "merged": 3,
@@ -57,11 +62,6 @@
       "total": 226,
       "merged": 181,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/3624098?v=4"
-    },
-    "nhunzaker": {
-      "total": 95,
-      "merged": 55,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/590904?v=4"
     },
     "Kachulio1": {
       "total": 1,
@@ -10246,8 +10246,8 @@
   },
   "datePRInfos": {
     "Août-2018": {
-      "total": 68,
-      "merged": 50
+      "total": 70,
+      "merged": 51
     },
     "Juillet-2018": {
       "total": 86,
