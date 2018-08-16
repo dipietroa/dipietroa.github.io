@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-08-16T13:47:29.661Z",
+  "lastUpdate": "2018-08-16T14:47:23.104Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 7074,
+  "totalPR": 7075,
   "lastPR": {
-    "createdAt": "2018-08-16T02:19:50Z",
-    "username": "kartiklad"
+    "createdAt": "2018-08-16T14:31:40Z",
+    "username": "raunofreiberg"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars0.githubusercontent.com/u/38136?v=4"
   },
   "userPRInfos": {
+    "raunofreiberg": {
+      "total": 12,
+      "merged": 7,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/23662329?v=4"
+    },
     "kartiklad": {
       "total": 1,
       "merged": 0,
@@ -62,11 +67,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/22243090?v=4"
-    },
-    "raunofreiberg": {
-      "total": 11,
-      "merged": 7,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/23662329?v=4"
     },
     "aseem191": {
       "total": 1,
@@ -520,7 +520,7 @@
     },
     "ellsclytn": {
       "total": 1,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/8725013?v=4"
     },
     "theJian": {
@@ -695,7 +695,7 @@
     },
     "getaaron": {
       "total": 1,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/789577?v=4"
     },
     "barrymichaeldoyle": {
@@ -10246,7 +10246,7 @@
   },
   "datePRInfos": {
     "Août-2018": {
-      "total": 66,
+      "total": 67,
       "merged": 45
     },
     "Juillet-2018": {
@@ -10259,7 +10259,7 @@
     },
     "Mai-2018": {
       "total": 125,
-      "merged": 90
+      "merged": 91
     },
     "Avril-2018": {
       "total": 82,
@@ -10267,7 +10267,7 @@
     },
     "Mars-2018": {
       "total": 88,
-      "merged": 62
+      "merged": 63
     },
     "Février-2018": {
       "total": 70,
