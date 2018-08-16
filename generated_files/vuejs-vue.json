@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-08-16T01:42:49.918Z",
+  "lastUpdate": "2018-08-16T02:42:27.979Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 1248,
+  "totalPR": 1249,
   "lastPR": {
-    "createdAt": "2018-08-14T09:41:32Z",
-    "username": "Justineo"
+    "createdAt": "2018-08-16T02:37:54Z",
+    "username": "bowen31337"
   },
   "bestPR": {
     "user": "kazupon",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/16292606?v=4"
   },
   "userPRInfos": {
+    "bowen31337": {
+      "total": 3,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/3508255?v=4"
+    },
     "Justineo": {
       "total": 3,
       "merged": 2,
@@ -2073,11 +2078,6 @@
       "merged": 1,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/6326007?v=4"
     },
-    "bowen31337": {
-      "total": 2,
-      "merged": 0,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/3508255?v=4"
-    },
     "vird": {
       "total": 1,
       "merged": 0,
@@ -2816,7 +2816,7 @@
   },
   "datePRInfos": {
     "Août-2018": {
-      "total": 16,
+      "total": 17,
       "merged": 2
     },
     "Juillet-2018": {
