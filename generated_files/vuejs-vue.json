@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-08-16T19:43:24.472Z",
+  "lastUpdate": "2018-08-16T20:42:43.340Z",
   "cowner": "vuejs",
   "crepo": "vue",
   "totalPR": 1249,
@@ -300,7 +300,7 @@
     },
     "eddyerburgh": {
       "total": 3,
-      "merged": 1,
+      "merged": 2,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/13196123?v=4"
     },
     "yongningfu": {
@@ -2829,7 +2829,7 @@
     },
     "Mai-2018": {
       "total": 27,
-      "merged": 0
+      "merged": 1
     },
     "Avril-2018": {
       "total": 37,
