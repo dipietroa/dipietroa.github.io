@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-08-16T07:41:56.033Z",
+  "lastUpdate": "2018-08-16T08:42:11.724Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2794,
+  "totalPR": 2795,
   "lastPR": {
-    "createdAt": "2018-08-15T10:50:25Z",
-    "username": "dreis2211"
+    "createdAt": "2018-08-16T08:10:04Z",
+    "username": "JanGroot"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "JanGroot": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/4427488?v=4"
+    },
     "dreis2211": {
       "total": 96,
       "merged": 0,
@@ -4171,7 +4176,7 @@
   },
   "datePRInfos": {
     "Août-2018": {
-      "total": 39,
+      "total": 40,
       "merged": 0
     },
     "Juillet-2018": {
