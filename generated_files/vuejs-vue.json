@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-08-17T03:43:11.529Z",
+  "lastUpdate": "2018-08-17T04:43:37.785Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 1249,
+  "totalPR": 1250,
   "lastPR": {
-    "createdAt": "2018-08-16T02:37:54Z",
-    "username": "bowen31337"
+    "createdAt": "2018-08-17T04:13:23Z",
+    "username": "youngrok"
   },
   "bestPR": {
     "user": "kazupon",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/16292606?v=4"
   },
   "userPRInfos": {
+    "youngrok": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/629151?v=4"
+    },
     "bowen31337": {
       "total": 3,
       "merged": 0,
@@ -2816,7 +2821,7 @@
   },
   "datePRInfos": {
     "Août-2018": {
-      "total": 17,
+      "total": 18,
       "merged": 2
     },
     "Juillet-2018": {
