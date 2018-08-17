@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-08-17T15:44:09.880Z",
+  "lastUpdate": "2018-08-17T16:43:54.004Z",
   "cowner": "fastify",
   "crepo": "fastify",
-  "totalPR": 648,
+  "totalPR": 649,
   "lastPR": {
-    "createdAt": "2018-08-17T13:38:18Z",
-    "username": "jkyberneees"
+    "createdAt": "2018-08-17T16:16:11Z",
+    "username": "hKaspy"
   },
   "bestPR": {
     "user": "delvedor",
@@ -23,6 +23,11 @@
     "image": "https://avatars0.githubusercontent.com/u/7155749?v=4"
   },
   "userPRInfos": {
+    "hKaspy": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/9721838?v=4"
+    },
     "jkyberneees": {
       "total": 1,
       "merged": 0,
@@ -596,7 +601,7 @@
   },
   "datePRInfos": {
     "Août-2018": {
-      "total": 14,
+      "total": 15,
       "merged": 8
     },
     "Juillet-2018": {
