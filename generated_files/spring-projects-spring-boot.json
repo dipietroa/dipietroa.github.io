@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-08-17T15:42:36.101Z",
+  "lastUpdate": "2018-08-17T16:42:03.793Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2796,
+  "totalPR": 2798,
   "lastPR": {
-    "createdAt": "2018-08-16T20:46:16Z",
-    "username": "ayudovin"
+    "createdAt": "2018-08-17T16:33:07Z",
+    "username": "dreis2211"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,16 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "dreis2211": {
+      "total": 97,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/6304496?v=4"
+    },
+    "vpavic": {
+      "total": 130,
+      "merged": 1,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/1149230?v=4"
+    },
     "ayudovin": {
       "total": 14,
       "merged": 0,
@@ -32,11 +42,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/4427488?v=4"
-    },
-    "dreis2211": {
-      "total": 96,
-      "merged": 0,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/6304496?v=4"
     },
     "izeye": {
       "total": 440,
@@ -302,11 +307,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/6665475?v=4"
-    },
-    "vpavic": {
-      "total": 129,
-      "merged": 1,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/1149230?v=4"
     },
     "neilstevenson": {
       "total": 3,
@@ -4176,7 +4176,7 @@
   },
   "datePRInfos": {
     "Août-2018": {
-      "total": 41,
+      "total": 43,
       "merged": 0
     },
     "Juillet-2018": {
