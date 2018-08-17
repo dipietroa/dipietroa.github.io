@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-08-17T13:43:40.307Z",
+  "lastUpdate": "2018-08-17T14:42:54.012Z",
   "cowner": "vuejs",
   "crepo": "vue",
   "totalPR": 1250,
@@ -575,7 +575,7 @@
     },
     "yuriyalekseyev": {
       "total": 1,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/5509686?v=4"
     },
     "dcherman": {
@@ -2842,7 +2842,7 @@
     },
     "Mars-2018": {
       "total": 50,
-      "merged": 25
+      "merged": 26
     },
     "Février-2018": {
       "total": 23,
