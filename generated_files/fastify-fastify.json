@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-08-17T12:43:46.327Z",
+  "lastUpdate": "2018-08-17T13:44:22.089Z",
   "cowner": "fastify",
   "crepo": "fastify",
-  "totalPR": 647,
+  "totalPR": 648,
   "lastPR": {
-    "createdAt": "2018-08-17T12:26:01Z",
-    "username": "greenkeeper[bot]"
+    "createdAt": "2018-08-17T13:38:18Z",
+    "username": "jkyberneees"
   },
   "bestPR": {
     "user": "delvedor",
@@ -23,9 +23,14 @@
     "image": "https://avatars0.githubusercontent.com/u/7155749?v=4"
   },
   "userPRInfos": {
+    "jkyberneees": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/4096860?v=4"
+    },
     "greenkeeper[bot]": {
       "total": 59,
-      "merged": 29,
+      "merged": 30,
       "avatarUrl": "https://avatars3.githubusercontent.com/in/505?v=4"
     },
     "delvedor": {
@@ -591,8 +596,8 @@
   },
   "datePRInfos": {
     "Août-2018": {
-      "total": 13,
-      "merged": 7
+      "total": 14,
+      "merged": 8
     },
     "Juillet-2018": {
       "total": 24,
