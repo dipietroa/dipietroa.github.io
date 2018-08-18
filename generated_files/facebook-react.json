@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-08-18T05:45:45.733Z",
+  "lastUpdate": "2018-08-18T06:46:19.385Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 7084,
+  "totalPR": 7085,
   "lastPR": {
-    "createdAt": "2018-08-18T02:31:34Z",
-    "username": "aweary"
+    "createdAt": "2018-08-18T06:34:14Z",
+    "username": "web2033"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars0.githubusercontent.com/u/272915?v=4"
   },
   "userPRInfos": {
+    "web2033": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/11320080?v=4"
+    },
     "aweary": {
       "total": 66,
       "merged": 54,
@@ -10246,7 +10251,7 @@
   },
   "datePRInfos": {
     "Août-2018": {
-      "total": 76,
+      "total": 77,
       "merged": 56
     },
     "Juillet-2018": {
