@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "2018-08-18T19:45:59.042Z",
+  "lastUpdate": "2018-08-18T20:46:07.284Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 7086,
+  "totalPR": 7087,
   "lastPR": {
-    "createdAt": "2018-08-18T19:24:31Z",
+    "createdAt": "2018-08-18T19:48:25Z",
     "username": "aweary"
   },
   "bestPR": {
@@ -24,7 +24,7 @@
   },
   "userPRInfos": {
     "aweary": {
-      "total": 67,
+      "total": 68,
       "merged": 55,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/6886061?v=4"
     },
@@ -10251,7 +10251,7 @@
   },
   "datePRInfos": {
     "Août-2018": {
-      "total": 78,
+      "total": 79,
       "merged": 57
     },
     "Juillet-2018": {
