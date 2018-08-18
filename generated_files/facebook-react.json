@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-08-18T21:46:42.924Z",
+  "lastUpdate": "2018-08-18T22:45:44.447Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 7087,
+  "totalPR": 7088,
   "lastPR": {
-    "createdAt": "2018-08-18T19:48:25Z",
-    "username": "aweary"
+    "createdAt": "2018-08-18T22:08:55Z",
+    "username": "hamlim"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars0.githubusercontent.com/u/272915?v=4"
   },
   "userPRInfos": {
+    "hamlim": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/5579638?v=4"
+    },
     "aweary": {
       "total": 68,
       "merged": 55,
@@ -10251,7 +10256,7 @@
   },
   "datePRInfos": {
     "Août-2018": {
-      "total": 79,
+      "total": 80,
       "merged": 57
     },
     "Juillet-2018": {
