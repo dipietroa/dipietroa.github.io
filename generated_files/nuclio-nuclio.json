@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-08-18T10:43:29.423Z",
+  "lastUpdate": "2018-08-18T11:43:08.069Z",
   "cowner": "nuclio",
   "crepo": "nuclio",
-  "totalPR": 680,
+  "totalPR": 681,
   "lastPR": {
-    "createdAt": "2018-08-16T11:54:45Z",
-    "username": "maksym-kyselytsia"
+    "createdAt": "2018-08-18T10:47:20Z",
+    "username": "makrusak"
   },
   "bestPR": {
     "user": "pavius",
@@ -18,20 +18,20 @@
     "image": "https://avatars2.githubusercontent.com/u/423987?v=4"
   },
   "bestRatio": {
-    "user": "makrusak",
+    "user": "mavdryk",
     "ratio": 1,
-    "image": "https://avatars1.githubusercontent.com/u/823054?v=4"
+    "image": "https://avatars1.githubusercontent.com/u/25711177?v=4"
   },
   "userPRInfos": {
+    "makrusak": {
+      "total": 2,
+      "merged": 1,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/823054?v=4"
+    },
     "maksym-kyselytsia": {
       "total": 12,
       "merged": 11,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/25031243?v=4"
-    },
-    "makrusak": {
-      "total": 1,
-      "merged": 1,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/823054?v=4"
     },
     "levrado": {
       "total": 3,
@@ -181,7 +181,7 @@
   },
   "datePRInfos": {
     "Août-2018": {
-      "total": 15,
+      "total": 16,
       "merged": 11
     },
     "Juillet-2018": {
