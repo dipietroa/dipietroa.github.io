@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-08-19T16:42:15.793Z",
+  "lastUpdate": "2018-08-19T17:41:41.939Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2801,
+  "totalPR": 2802,
   "lastPR": {
-    "createdAt": "2018-08-18T14:39:21Z",
-    "username": "meistermeier"
+    "createdAt": "2018-08-19T17:03:00Z",
+    "username": "marceloverdijk"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "marceloverdijk": {
+      "total": 13,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/197004?v=4"
+    },
     "meistermeier": {
       "total": 1,
       "merged": 0,
@@ -937,11 +942,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/8650304?v=4"
-    },
-    "marceloverdijk": {
-      "total": 12,
-      "merged": 0,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/197004?v=4"
     },
     "douglascardoso": {
       "total": 1,
@@ -4186,7 +4186,7 @@
   },
   "datePRInfos": {
     "Août-2018": {
-      "total": 46,
+      "total": 47,
       "merged": 0
     },
     "Juillet-2018": {
