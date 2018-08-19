@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-08-19T19:41:45.636Z",
+  "lastUpdate": "2018-08-19T20:42:25.081Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2802,
+  "totalPR": 2803,
   "lastPR": {
-    "createdAt": "2018-08-19T17:03:00Z",
-    "username": "marceloverdijk"
+    "createdAt": "2018-08-19T19:46:34Z",
+    "username": "alexanderabramov"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "alexanderabramov": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/96938?v=4"
+    },
     "marceloverdijk": {
       "total": 13,
       "merged": 0,
@@ -4186,7 +4191,7 @@
   },
   "datePRInfos": {
     "Août-2018": {
-      "total": 47,
+      "total": 48,
       "merged": 0
     },
     "Juillet-2018": {
