@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-08-20T09:42:55.211Z",
+  "lastUpdate": "2018-08-20T10:43:02.265Z",
   "cowner": "nuclio",
   "crepo": "nuclio",
   "totalPR": 682,
@@ -18,9 +18,9 @@
     "image": "https://avatars2.githubusercontent.com/u/423987?v=4"
   },
   "bestRatio": {
-    "user": "mavdryk",
+    "user": "maksym-kyselytsia",
     "ratio": 1,
-    "image": "https://avatars1.githubusercontent.com/u/25711177?v=4"
+    "image": "https://avatars1.githubusercontent.com/u/25031243?v=4"
   },
   "userPRInfos": {
     "eran-nussbaum": {
@@ -35,7 +35,7 @@
     },
     "maksym-kyselytsia": {
       "total": 12,
-      "merged": 11,
+      "merged": 12,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/25031243?v=4"
     },
     "levrado": {
@@ -182,7 +182,7 @@
   "datePRInfos": {
     "Août-2018": {
       "total": 17,
-      "merged": 12
+      "merged": 13
     },
     "Juillet-2018": {
       "total": 29,
