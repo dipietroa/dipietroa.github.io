@@ -1,15 +1,15 @@
 {
-  "lastUpdate": "2018-08-20T15:42:39.401Z",
+  "lastUpdate": "2018-08-20T16:41:45.809Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2803,
+  "totalPR": 2804,
   "lastPR": {
-    "createdAt": "2018-08-19T19:46:34Z",
-    "username": "alexanderabramov"
+    "createdAt": "2018-08-20T15:53:12Z",
+    "username": "izeye"
   },
   "bestPR": {
     "user": "izeye",
-    "nbPR": 440,
+    "nbPR": 441,
     "image": "https://avatars3.githubusercontent.com/u/1059363?v=4"
   },
   "bestMerged": {
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "izeye": {
+      "total": 441,
+      "merged": 2,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/1059363?v=4"
+    },
     "alexanderabramov": {
       "total": 1,
       "merged": 0,
@@ -62,11 +67,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/4427488?v=4"
-    },
-    "izeye": {
-      "total": 440,
-      "merged": 2,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/1059363?v=4"
     },
     "jzheaux": {
       "total": 1,
@@ -4191,7 +4191,7 @@
   },
   "datePRInfos": {
     "Août-2018": {
-      "total": 48,
+      "total": 49,
       "merged": 0
     },
     "Juillet-2018": {
