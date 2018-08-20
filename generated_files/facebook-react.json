@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-08-20T20:46:34.961Z",
+  "lastUpdate": "2018-08-20T21:47:16.688Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 7094,
@@ -18,14 +18,14 @@
     "image": "https://avatars2.githubusercontent.com/u/6820?v=4"
   },
   "bestRatio": {
-    "user": "kartiklad",
+    "user": "hamlim",
     "ratio": 1,
-    "image": "https://avatars0.githubusercontent.com/u/272915?v=4"
+    "image": "https://avatars2.githubusercontent.com/u/5579638?v=4"
   },
   "userPRInfos": {
     "bvaughn": {
       "total": 252,
-      "merged": 231,
+      "merged": 232,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/29597?v=4"
     },
     "gaearon": {
@@ -40,7 +40,7 @@
     },
     "hamlim": {
       "total": 1,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/5579638?v=4"
     },
     "aweary": {
@@ -10262,7 +10262,7 @@
   "datePRInfos": {
     "Août-2018": {
       "total": 86,
-      "merged": 64
+      "merged": 66
     },
     "Juillet-2018": {
       "total": 86,
