@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-08-21T09:42:30.982Z",
+  "lastUpdate": "2018-08-21T10:42:09.270Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
-  "totalPR": 424,
+  "totalPR": 425,
   "lastPR": {
-    "createdAt": "2018-08-20T11:48:14Z",
-    "username": "danandu"
+    "createdAt": "2018-08-21T10:20:29Z",
+    "username": "rajatsharma2393"
   },
   "bestPR": {
     "user": "theycallmemac",
@@ -23,6 +23,11 @@
     "image": "https://avatars0.githubusercontent.com/u/11462960?v=4"
   },
   "userPRInfos": {
+    "rajatsharma2393": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/25412663?v=4"
+    },
     "danandu": {
       "total": 1,
       "merged": 0,
@@ -1151,7 +1156,7 @@
   },
   "datePRInfos": {
     "Août-2018": {
-      "total": 8,
+      "total": 9,
       "merged": 1
     },
     "Juillet-2018": {
