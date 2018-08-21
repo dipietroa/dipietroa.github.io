@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-08-21T16:46:50.042Z",
+  "lastUpdate": "2018-08-21T17:47:54.962Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 7094,
+  "totalPR": 7096,
   "lastPR": {
-    "createdAt": "2018-08-20T18:40:11Z",
-    "username": "bvaughn"
+    "createdAt": "2018-08-21T17:35:04Z",
+    "username": "gaearon"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,15 +23,20 @@
     "image": "https://avatars2.githubusercontent.com/u/5579638?v=4"
   },
   "userPRInfos": {
+    "gaearon": {
+      "total": 639,
+      "merged": 551,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/810438?v=4"
+    },
+    "nhunzaker": {
+      "total": 98,
+      "merged": 57,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/590904?v=4"
+    },
     "bvaughn": {
       "total": 252,
       "merged": 233,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/29597?v=4"
-    },
-    "gaearon": {
-      "total": 638,
-      "merged": 550,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/810438?v=4"
     },
     "sunnibfgi": {
       "total": 1,
@@ -52,11 +57,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/11320080?v=4"
-    },
-    "nhunzaker": {
-      "total": 97,
-      "merged": 57,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/590904?v=4"
     },
     "elas7": {
       "total": 9,
@@ -10261,8 +10261,8 @@
   },
   "datePRInfos": {
     "Août-2018": {
-      "total": 86,
-      "merged": 66
+      "total": 88,
+      "merged": 67
     },
     "Juillet-2018": {
       "total": 86,
