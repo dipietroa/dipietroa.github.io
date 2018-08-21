@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-08-21T04:43:53.645Z",
+  "lastUpdate": "2018-08-21T05:42:51.445Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 1250,
+  "totalPR": 1251,
   "lastPR": {
-    "createdAt": "2018-08-17T04:13:23Z",
-    "username": "youngrok"
+    "createdAt": "2018-08-21T05:09:08Z",
+    "username": "TitanSnow"
   },
   "bestPR": {
     "user": "kazupon",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/16292606?v=4"
   },
   "userPRInfos": {
+    "TitanSnow": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/19969470?v=4"
+    },
     "youngrok": {
       "total": 1,
       "merged": 0,
@@ -2821,7 +2826,7 @@
   },
   "datePRInfos": {
     "Août-2018": {
-      "total": 18,
+      "total": 19,
       "merged": 2
     },
     "Juillet-2018": {
