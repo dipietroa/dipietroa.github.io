@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "2018-08-21T00:41:29.836Z",
+  "lastUpdate": "2018-08-21T01:42:18.682Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2805,
+  "totalPR": 2806,
   "lastPR": {
-    "createdAt": "2018-08-20T23:28:35Z",
+    "createdAt": "2018-08-21T00:50:25Z",
     "username": "hiroakiy"
   },
   "bestPR": {
@@ -24,7 +24,7 @@
   },
   "userPRInfos": {
     "hiroakiy": {
-      "total": 1,
+      "total": 2,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/19941504?v=4"
     },
@@ -4196,7 +4196,7 @@
   },
   "datePRInfos": {
     "Août-2018": {
-      "total": 50,
+      "total": 51,
       "merged": 0
     },
     "Juillet-2018": {
