@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-08-21T13:48:33.670Z",
+  "lastUpdate": "2018-08-21T14:47:23.274Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 7094,
@@ -25,7 +25,7 @@
   "userPRInfos": {
     "bvaughn": {
       "total": 252,
-      "merged": 232,
+      "merged": 233,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/29597?v=4"
     },
     "gaearon": {
@@ -10282,7 +10282,7 @@
     },
     "Mars-2018": {
       "total": 88,
-      "merged": 63
+      "merged": 64
     },
     "Février-2018": {
       "total": 70,
