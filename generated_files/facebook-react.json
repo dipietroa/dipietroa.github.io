@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-08-22T20:46:37.527Z",
+  "lastUpdate": "2018-08-22T21:46:27.191Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 7101,
@@ -25,7 +25,7 @@
   "userPRInfos": {
     "philipp-spiess": {
       "total": 13,
-      "merged": 11,
+      "merged": 12,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/458591?v=4"
     },
     "gaearon": {
@@ -10267,7 +10267,7 @@
   "datePRInfos": {
     "Août-2018": {
       "total": 93,
-      "merged": 68
+      "merged": 69
     },
     "Juillet-2018": {
       "total": 86,
