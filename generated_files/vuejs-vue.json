@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-08-22T06:42:27.816Z",
+  "lastUpdate": "2018-08-22T07:43:13.270Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 1251,
+  "totalPR": 1252,
   "lastPR": {
-    "createdAt": "2018-08-21T05:09:08Z",
-    "username": "TitanSnow"
+    "createdAt": "2018-08-22T07:12:27Z",
+    "username": "petsgre"
   },
   "bestPR": {
     "user": "kazupon",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/16292606?v=4"
   },
   "userPRInfos": {
+    "petsgre": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/22208613?v=4"
+    },
     "TitanSnow": {
       "total": 1,
       "merged": 0,
@@ -2826,7 +2831,7 @@
   },
   "datePRInfos": {
     "Août-2018": {
-      "total": 19,
+      "total": 20,
       "merged": 2
     },
     "Juillet-2018": {
