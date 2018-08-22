@@ -1,15 +1,15 @@
 {
-  "lastUpdate": "2018-08-22T16:42:18.643Z",
+  "lastUpdate": "2018-08-22T17:42:01.618Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2809,
+  "totalPR": 2811,
   "lastPR": {
-    "createdAt": "2018-08-22T09:36:56Z",
-    "username": "dsyer"
+    "createdAt": "2018-08-22T17:27:10Z",
+    "username": "nosan"
   },
   "bestPR": {
     "user": "izeye",
-    "nbPR": 441,
+    "nbPR": 442,
     "image": "https://avatars3.githubusercontent.com/u/1059363?v=4"
   },
   "bestMerged": {
@@ -23,6 +23,16 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "nosan": {
+      "total": 16,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/5054994?v=4"
+    },
+    "izeye": {
+      "total": 442,
+      "merged": 2,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/1059363?v=4"
+    },
     "dsyer": {
       "total": 23,
       "merged": 0,
@@ -42,11 +52,6 @@
       "total": 2,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/19941504?v=4"
-    },
-    "izeye": {
-      "total": 441,
-      "merged": 2,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/1059363?v=4"
     },
     "alexanderabramov": {
       "total": 1,
@@ -132,11 +137,6 @@
       "total": 28,
       "merged": 0,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/24761580?v=4"
-    },
-    "nosan": {
-      "total": 15,
-      "merged": 0,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/5054994?v=4"
     },
     "cmakinen": {
       "total": 1,
@@ -4196,7 +4196,7 @@
   },
   "datePRInfos": {
     "Août-2018": {
-      "total": 54,
+      "total": 56,
       "merged": 0
     },
     "Juillet-2018": {
