@@ -1,15 +1,15 @@
 {
-  "lastUpdate": "2018-08-23T13:42:04.149Z",
+  "lastUpdate": "2018-08-23T14:43:02.203Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2813,
+  "totalPR": 2815,
   "lastPR": {
-    "createdAt": "2018-08-23T13:20:38Z",
+    "createdAt": "2018-08-23T14:27:09Z",
     "username": "dsyer"
   },
   "bestPR": {
     "user": "izeye",
-    "nbPR": 442,
+    "nbPR": 443,
     "image": "https://avatars3.githubusercontent.com/u/1059363?v=4"
   },
   "bestMerged": {
@@ -24,9 +24,14 @@
   },
   "userPRInfos": {
     "dsyer": {
-      "total": 24,
+      "total": 25,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/124075?v=4"
+    },
+    "izeye": {
+      "total": 443,
+      "merged": 2,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/1059363?v=4"
     },
     "christophstrobl": {
       "total": 4,
@@ -37,11 +42,6 @@
       "total": 16,
       "merged": 0,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/5054994?v=4"
-    },
-    "izeye": {
-      "total": 442,
-      "merged": 2,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/1059363?v=4"
     },
     "mmoayyed": {
       "total": 5,
@@ -4196,7 +4196,7 @@
   },
   "datePRInfos": {
     "Août-2018": {
-      "total": 58,
+      "total": 60,
       "merged": 0
     },
     "Juillet-2018": {
