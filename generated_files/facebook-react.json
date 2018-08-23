@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-08-22T21:46:27.191Z",
+  "lastUpdate": "2018-08-23T00:46:17.886Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 7101,
+  "totalPR": 7103,
   "lastPR": {
-    "createdAt": "2018-08-22T19:35:57Z",
-    "username": "philipp-spiess"
+    "createdAt": "2018-08-22T23:07:17Z",
+    "username": "gaearon"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,15 +23,20 @@
     "image": "https://avatars2.githubusercontent.com/u/5579638?v=4"
   },
   "userPRInfos": {
+    "gaearon": {
+      "total": 641,
+      "merged": 553,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/810438?v=4"
+    },
+    "seunggabi": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/8468371?v=4"
+    },
     "philipp-spiess": {
       "total": 13,
       "merged": 12,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/458591?v=4"
-    },
-    "gaearon": {
-      "total": 640,
-      "merged": 552,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/810438?v=4"
     },
     "tychota": {
       "total": 1,
@@ -10266,8 +10271,8 @@
   },
   "datePRInfos": {
     "Août-2018": {
-      "total": 93,
-      "merged": 69
+      "total": 95,
+      "merged": 70
     },
     "Juillet-2018": {
       "total": 86,
