@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-08-24T10:47:07.761Z",
+  "lastUpdate": "2018-08-24T11:47:07.763Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 7106,
+  "totalPR": 7107,
   "lastPR": {
-    "createdAt": "2018-08-24T09:50:17Z",
-    "username": "rodrigobdz"
+    "createdAt": "2018-08-24T11:36:34Z",
+    "username": "warteruzannan"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars2.githubusercontent.com/u/5579638?v=4"
   },
   "userPRInfos": {
+    "warteruzannan": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/8019050?v=4"
+    },
     "rodrigobdz": {
       "total": 1,
       "merged": 0,
@@ -10281,7 +10286,7 @@
   },
   "datePRInfos": {
     "Août-2018": {
-      "total": 98,
+      "total": 99,
       "merged": 70
     },
     "Juillet-2018": {
