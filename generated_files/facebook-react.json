@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-08-24T00:46:29.961Z",
+  "lastUpdate": "2018-08-24T01:46:28.420Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 7104,
+  "totalPR": 7105,
   "lastPR": {
-    "createdAt": "2018-08-23T12:01:21Z",
-    "username": "sunnibfgi"
+    "createdAt": "2018-08-24T01:32:44Z",
+    "username": "FermiDirak"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars2.githubusercontent.com/u/5579638?v=4"
   },
   "userPRInfos": {
+    "FermiDirak": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/5897853?v=4"
+    },
     "sunnibfgi": {
       "total": 2,
       "merged": 0,
@@ -10271,7 +10276,7 @@
   },
   "datePRInfos": {
     "Août-2018": {
-      "total": 96,
+      "total": 97,
       "merged": 70
     },
     "Juillet-2018": {
