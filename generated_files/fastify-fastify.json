@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "2018-08-24T11:43:51.663Z",
+  "lastUpdate": "2018-08-24T12:43:53.628Z",
   "cowner": "fastify",
   "crepo": "fastify",
-  "totalPR": 652,
+  "totalPR": 653,
   "lastPR": {
-    "createdAt": "2018-08-21T18:45:32Z",
+    "createdAt": "2018-08-24T12:03:51Z",
     "username": "mcollina"
   },
   "bestPR": {
@@ -24,7 +24,7 @@
   },
   "userPRInfos": {
     "mcollina": {
-      "total": 78,
+      "total": 79,
       "merged": 73,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/52195?v=4"
     },
@@ -601,7 +601,7 @@
   },
   "datePRInfos": {
     "Août-2018": {
-      "total": 18,
+      "total": 19,
       "merged": 13
     },
     "Juillet-2018": {
