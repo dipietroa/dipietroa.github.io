@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-08-24T09:46:59.053Z",
+  "lastUpdate": "2018-08-24T10:47:07.761Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 7105,
+  "totalPR": 7106,
   "lastPR": {
-    "createdAt": "2018-08-24T01:32:44Z",
-    "username": "FermiDirak"
+    "createdAt": "2018-08-24T09:50:17Z",
+    "username": "rodrigobdz"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars2.githubusercontent.com/u/5579638?v=4"
   },
   "userPRInfos": {
+    "rodrigobdz": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/14152377?v=4"
+    },
     "FermiDirak": {
       "total": 1,
       "merged": 0,
@@ -10276,7 +10281,7 @@
   },
   "datePRInfos": {
     "Août-2018": {
-      "total": 97,
+      "total": 98,
       "merged": 70
     },
     "Juillet-2018": {
