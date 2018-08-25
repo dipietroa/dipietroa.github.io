@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-08-25T17:46:28.793Z",
+  "lastUpdate": "2018-08-25T18:46:30.038Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 7112,
@@ -18,9 +18,9 @@
     "image": "https://avatars2.githubusercontent.com/u/6820?v=4"
   },
   "bestRatio": {
-    "user": "hamlim",
+    "user": "rodrigobdz",
     "ratio": 1,
-    "image": "https://avatars2.githubusercontent.com/u/5579638?v=4"
+    "image": "https://avatars0.githubusercontent.com/u/14152377?v=4"
   },
   "userPRInfos": {
     "prashant-andani": {
@@ -55,7 +55,7 @@
     },
     "rodrigobdz": {
       "total": 1,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/14152377?v=4"
     },
     "FermiDirak": {
@@ -10292,7 +10292,7 @@
   "datePRInfos": {
     "Août-2018": {
       "total": 104,
-      "merged": 70
+      "merged": 71
     },
     "Juillet-2018": {
       "total": 86,
