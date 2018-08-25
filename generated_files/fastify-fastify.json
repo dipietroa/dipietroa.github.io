@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-08-25T07:43:24.365Z",
+  "lastUpdate": "2018-08-25T08:43:30.344Z",
   "cowner": "fastify",
   "crepo": "fastify",
-  "totalPR": 654,
+  "totalPR": 655,
   "lastPR": {
-    "createdAt": "2018-08-24T22:09:23Z",
-    "username": "greenkeeper[bot]"
+    "createdAt": "2018-08-25T07:45:35Z",
+    "username": "trivikr"
   },
   "bestPR": {
     "user": "delvedor",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/9721838?v=4"
   },
   "userPRInfos": {
+    "trivikr": {
+      "total": 6,
+      "merged": 2,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/16024985?v=4"
+    },
     "greenkeeper[bot]": {
       "total": 60,
       "merged": 30,
@@ -302,11 +307,6 @@
       "total": 8,
       "merged": 8,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/78718?v=4"
-    },
-    "trivikr": {
-      "total": 5,
-      "merged": 2,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/16024985?v=4"
     },
     "tikotzky": {
       "total": 2,
@@ -601,7 +601,7 @@
   },
   "datePRInfos": {
     "Août-2018": {
-      "total": 20,
+      "total": 21,
       "merged": 14
     },
     "Juillet-2018": {
