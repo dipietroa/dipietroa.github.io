@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-08-25T16:46:35.642Z",
+  "lastUpdate": "2018-08-25T17:46:28.793Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 7111,
+  "totalPR": 7112,
   "lastPR": {
-    "createdAt": "2018-08-25T11:49:20Z",
-    "username": "ryota-murakami"
+    "createdAt": "2018-08-25T17:15:44Z",
+    "username": "prashant-andani"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars2.githubusercontent.com/u/5579638?v=4"
   },
   "userPRInfos": {
+    "prashant-andani": {
+      "total": 2,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/829627?v=4"
+    },
     "ryota-murakami": {
       "total": 3,
       "merged": 1,
@@ -282,11 +287,6 @@
       "total": 9,
       "merged": 6,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/9800850?v=4"
-    },
-    "prashant-andani": {
-      "total": 1,
-      "merged": 0,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/829627?v=4"
     },
     "Titozzz": {
       "total": 1,
@@ -10291,7 +10291,7 @@
   },
   "datePRInfos": {
     "Août-2018": {
-      "total": 103,
+      "total": 104,
       "merged": 70
     },
     "Juillet-2018": {
