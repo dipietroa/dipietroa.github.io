@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-08-25T11:45:42.021Z",
+  "lastUpdate": "2018-08-25T12:46:00.124Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 7110,
+  "totalPR": 7111,
   "lastPR": {
-    "createdAt": "2018-08-25T09:37:29Z",
-    "username": "NE-SmallTown"
+    "createdAt": "2018-08-25T11:49:20Z",
+    "username": "ryota-murakami"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars2.githubusercontent.com/u/5579638?v=4"
   },
   "userPRInfos": {
+    "ryota-murakami": {
+      "total": 3,
+      "merged": 1,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/5501268?v=4"
+    },
     "NE-SmallTown": {
       "total": 7,
       "merged": 4,
@@ -152,11 +157,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/8351964?v=4"
-    },
-    "ryota-murakami": {
-      "total": 2,
-      "merged": 1,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/5501268?v=4"
     },
     "lucasrainett": {
       "total": 1,
@@ -10291,7 +10291,7 @@
   },
   "datePRInfos": {
     "Août-2018": {
-      "total": 102,
+      "total": 103,
       "merged": 70
     },
     "Juillet-2018": {
