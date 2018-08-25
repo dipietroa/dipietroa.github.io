@@ -1,15 +1,15 @@
 {
-  "lastUpdate": "2018-08-25T19:41:27.679Z",
+  "lastUpdate": "2018-08-25T20:41:27.422Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2818,
+  "totalPR": 2819,
   "lastPR": {
-    "createdAt": "2018-08-25T10:11:37Z",
-    "username": "ayudovin"
+    "createdAt": "2018-08-25T20:05:39Z",
+    "username": "izeye"
   },
   "bestPR": {
     "user": "izeye",
-    "nbPR": 443,
+    "nbPR": 444,
     "image": "https://avatars3.githubusercontent.com/u/1059363?v=4"
   },
   "bestMerged": {
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "izeye": {
+      "total": 444,
+      "merged": 2,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/1059363?v=4"
+    },
     "ayudovin": {
       "total": 17,
       "merged": 0,
@@ -37,11 +42,6 @@
       "total": 25,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/124075?v=4"
-    },
-    "izeye": {
-      "total": 443,
-      "merged": 2,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/1059363?v=4"
     },
     "christophstrobl": {
       "total": 4,
@@ -4201,7 +4201,7 @@
   },
   "datePRInfos": {
     "Août-2018": {
-      "total": 63,
+      "total": 64,
       "merged": 0
     },
     "Juillet-2018": {
