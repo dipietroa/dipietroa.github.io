@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-08-25T09:42:59.373Z",
+  "lastUpdate": "2018-08-25T10:42:52.104Z",
   "cowner": "fastify",
   "crepo": "fastify",
   "totalPR": 655,
@@ -25,12 +25,12 @@
   "userPRInfos": {
     "trivikr": {
       "total": 6,
-      "merged": 2,
+      "merged": 3,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/16024985?v=4"
     },
     "greenkeeper[bot]": {
       "total": 60,
-      "merged": 30,
+      "merged": 31,
       "avatarUrl": "https://avatars3.githubusercontent.com/in/505?v=4"
     },
     "mcollina": {
@@ -602,7 +602,7 @@
   "datePRInfos": {
     "Août-2018": {
       "total": 21,
-      "merged": 14
+      "merged": 16
     },
     "Juillet-2018": {
       "total": 24,
