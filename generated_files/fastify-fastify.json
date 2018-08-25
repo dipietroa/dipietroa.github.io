@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-08-25T14:43:43.381Z",
+  "lastUpdate": "2018-08-25T15:43:23.193Z",
   "cowner": "fastify",
   "crepo": "fastify",
-  "totalPR": 655,
+  "totalPR": 656,
   "lastPR": {
-    "createdAt": "2018-08-25T07:45:35Z",
-    "username": "trivikr"
+    "createdAt": "2018-08-25T15:09:58Z",
+    "username": "cemremengu"
   },
   "bestPR": {
     "user": "delvedor",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/9721838?v=4"
   },
   "userPRInfos": {
+    "cemremengu": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/1297759?v=4"
+    },
     "trivikr": {
       "total": 6,
       "merged": 3,
@@ -601,7 +606,7 @@
   },
   "datePRInfos": {
     "Août-2018": {
-      "total": 21,
+      "total": 22,
       "merged": 16
     },
     "Juillet-2018": {
