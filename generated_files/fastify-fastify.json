@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-08-25T18:43:30.583Z",
+  "lastUpdate": "2018-08-25T19:42:49.876Z",
   "cowner": "fastify",
   "crepo": "fastify",
   "totalPR": 658,
@@ -25,7 +25,7 @@
   "userPRInfos": {
     "trivikr": {
       "total": 8,
-      "merged": 4,
+      "merged": 5,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/16024985?v=4"
     },
     "cemremengu": {
@@ -607,7 +607,7 @@
   "datePRInfos": {
     "Août-2018": {
       "total": 24,
-      "merged": 18
+      "merged": 19
     },
     "Juillet-2018": {
       "total": 24,
