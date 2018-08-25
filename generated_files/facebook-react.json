@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-08-25T05:45:27.217Z",
+  "lastUpdate": "2018-08-25T06:45:53.348Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 7108,
+  "totalPR": 7109,
   "lastPR": {
-    "createdAt": "2018-08-24T19:57:05Z",
-    "username": "sophiebits"
+    "createdAt": "2018-08-25T06:21:10Z",
+    "username": "trivikr"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars2.githubusercontent.com/u/5579638?v=4"
   },
   "userPRInfos": {
+    "trivikr": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/16024985?v=4"
+    },
     "sophiebits": {
       "total": 667,
       "merged": 590,
@@ -10286,7 +10291,7 @@
   },
   "datePRInfos": {
     "Août-2018": {
-      "total": 100,
+      "total": 101,
       "merged": 70
     },
     "Juillet-2018": {
