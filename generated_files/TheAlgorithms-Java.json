@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-08-26T13:42:39.322Z",
+  "lastUpdate": "2018-08-26T14:42:46.357Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
-  "totalPR": 426,
+  "totalPR": 427,
   "lastPR": {
-    "createdAt": "2018-08-25T06:26:16Z",
-    "username": "lq920320"
+    "createdAt": "2018-08-26T14:33:37Z",
+    "username": "wzzwry21"
   },
   "bestPR": {
     "user": "theycallmemac",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/18696549?v=4"
   },
   "userPRInfos": {
+    "wzzwry21": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/39596123?v=4"
+    },
     "lq920320": {
       "total": 1,
       "merged": 1,
@@ -1161,7 +1166,7 @@
   },
   "datePRInfos": {
     "Août-2018": {
-      "total": 10,
+      "total": 11,
       "merged": 2
     },
     "Juillet-2018": {
