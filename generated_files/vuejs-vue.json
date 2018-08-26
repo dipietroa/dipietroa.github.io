@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-08-25T23:42:44.707Z",
+  "lastUpdate": "2018-08-26T00:42:31.936Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 1253,
+  "totalPR": 1254,
   "lastPR": {
-    "createdAt": "2018-08-25T03:27:35Z",
-    "username": "yangdan8"
+    "createdAt": "2018-08-26T00:19:54Z",
+    "username": "nel215"
   },
   "bestPR": {
     "user": "kazupon",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/16292606?v=4"
   },
   "userPRInfos": {
+    "nel215": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/1425061?v=4"
+    },
     "yangdan8": {
       "total": 1,
       "merged": 0,
@@ -2836,7 +2841,7 @@
   },
   "datePRInfos": {
     "Août-2018": {
-      "total": 21,
+      "total": 22,
       "merged": 2
     },
     "Juillet-2018": {
