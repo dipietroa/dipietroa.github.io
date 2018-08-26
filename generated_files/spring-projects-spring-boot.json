@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-08-26T17:41:57.563Z",
+  "lastUpdate": "2018-08-26T18:42:09.410Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2819,
+  "totalPR": 2820,
   "lastPR": {
-    "createdAt": "2018-08-25T20:05:39Z",
-    "username": "izeye"
+    "createdAt": "2018-08-26T18:07:36Z",
+    "username": "kuldeepsidhu88"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "kuldeepsidhu88": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/3798255?v=4"
+    },
     "izeye": {
       "total": 444,
       "merged": 2,
@@ -4201,7 +4206,7 @@
   },
   "datePRInfos": {
     "Août-2018": {
-      "total": 64,
+      "total": 65,
       "merged": 0
     },
     "Juillet-2018": {
