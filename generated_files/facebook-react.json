@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-08-26T11:46:01.505Z",
+  "lastUpdate": "2018-08-26T12:46:29.729Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 7114,
+  "totalPR": 7115,
   "lastPR": {
-    "createdAt": "2018-08-26T02:14:34Z",
-    "username": "NE-SmallTown"
+    "createdAt": "2018-08-26T12:18:06Z",
+    "username": "jfo84"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars0.githubusercontent.com/u/14152377?v=4"
   },
   "userPRInfos": {
+    "jfo84": {
+      "total": 10,
+      "merged": 5,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/11723485?v=4"
+    },
     "NE-SmallTown": {
       "total": 8,
       "merged": 4,
@@ -2147,11 +2152,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/2922851?v=4"
-    },
-    "jfo84": {
-      "total": 9,
-      "merged": 5,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/11723485?v=4"
     },
     "pomber": {
       "total": 2,
@@ -10291,7 +10291,7 @@
   },
   "datePRInfos": {
     "Août-2018": {
-      "total": 106,
+      "total": 107,
       "merged": 71
     },
     "Juillet-2018": {
