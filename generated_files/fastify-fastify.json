@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "2018-08-26T05:43:33.796Z",
+  "lastUpdate": "2018-08-26T06:43:05.504Z",
   "cowner": "fastify",
   "crepo": "fastify",
-  "totalPR": 659,
+  "totalPR": 660,
   "lastPR": {
-    "createdAt": "2018-08-26T03:32:33Z",
+    "createdAt": "2018-08-26T06:21:19Z",
     "username": "trivikr"
   },
   "bestPR": {
@@ -24,7 +24,7 @@
   },
   "userPRInfos": {
     "trivikr": {
-      "total": 9,
+      "total": 10,
       "merged": 5,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/16024985?v=4"
     },
@@ -606,7 +606,7 @@
   },
   "datePRInfos": {
     "Août-2018": {
-      "total": 25,
+      "total": 26,
       "merged": 20
     },
     "Juillet-2018": {
