@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-08-26T16:42:44.375Z",
+  "lastUpdate": "2018-08-26T17:42:18.880Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
   "totalPR": 428,
@@ -18,14 +18,14 @@
     "image": "https://avatars1.githubusercontent.com/u/16108563?v=4"
   },
   "bestRatio": {
-    "user": "JPDSousa",
+    "user": "lq920320",
     "ratio": 1,
-    "image": "https://avatars0.githubusercontent.com/u/11462960?v=4"
+    "image": "https://avatars1.githubusercontent.com/u/18696549?v=4"
   },
   "userPRInfos": {
     "lq920320": {
       "total": 2,
-      "merged": 1,
+      "merged": 2,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/18696549?v=4"
     },
     "wzzwry21": {
@@ -1167,7 +1167,7 @@
   "datePRInfos": {
     "Août-2018": {
       "total": 12,
-      "merged": 2
+      "merged": 3
     },
     "Juillet-2018": {
       "total": 12,
