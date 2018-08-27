@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-08-27T15:42:47.853Z",
+  "lastUpdate": "2018-08-27T16:43:33.043Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 1256,
+  "totalPR": 1258,
   "lastPR": {
-    "createdAt": "2018-08-27T00:56:22Z",
-    "username": "Justineo"
+    "createdAt": "2018-08-27T16:22:14Z",
+    "username": "eltonchan"
   },
   "bestPR": {
     "user": "kazupon",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/16292606?v=4"
   },
   "userPRInfos": {
+    "eltonchan": {
+      "total": 2,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/12627010?v=4"
+    },
     "Justineo": {
       "total": 4,
       "merged": 2,
@@ -2841,7 +2846,7 @@
   },
   "datePRInfos": {
     "Août-2018": {
-      "total": 24,
+      "total": 26,
       "merged": 2
     },
     "Juillet-2018": {
