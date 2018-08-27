@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-08-27T07:42:24.720Z",
+  "lastUpdate": "2018-08-27T08:42:47.847Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
-  "totalPR": 428,
+  "totalPR": 429,
   "lastPR": {
-    "createdAt": "2018-08-26T14:58:33Z",
-    "username": "lq920320"
+    "createdAt": "2018-08-27T07:55:13Z",
+    "username": "JayH2018"
   },
   "bestPR": {
     "user": "theycallmemac",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/18696549?v=4"
   },
   "userPRInfos": {
+    "JayH2018": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/42029911?v=4"
+    },
     "lq920320": {
       "total": 2,
       "merged": 2,
@@ -1166,7 +1171,7 @@
   },
   "datePRInfos": {
     "Août-2018": {
-      "total": 12,
+      "total": 13,
       "merged": 3
     },
     "Juillet-2018": {
