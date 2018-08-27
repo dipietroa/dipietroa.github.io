@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-08-27T16:47:32.342Z",
+  "lastUpdate": "2018-08-27T17:46:42.580Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 7117,
@@ -40,7 +40,7 @@
     },
     "NE-SmallTown": {
       "total": 8,
-      "merged": 5,
+      "merged": 6,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/18418010?v=4"
     },
     "prashant-andani": {
@@ -10292,7 +10292,7 @@
   "datePRInfos": {
     "Août-2018": {
       "total": 109,
-      "merged": 74
+      "merged": 75
     },
     "Juillet-2018": {
       "total": 86,
