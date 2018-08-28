@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-08-28T14:49:05.780Z",
+  "lastUpdate": "2018-08-28T15:49:05.033Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 7118,
+  "totalPR": 7119,
   "lastPR": {
-    "createdAt": "2018-08-27T19:33:23Z",
-    "username": "FermiDirak"
+    "createdAt": "2018-08-28T15:15:51Z",
+    "username": "NE-SmallTown"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars0.githubusercontent.com/u/14152377?v=4"
   },
   "userPRInfos": {
+    "NE-SmallTown": {
+      "total": 9,
+      "merged": 6,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/18418010?v=4"
+    },
     "FermiDirak": {
       "total": 3,
       "merged": 1,
@@ -37,11 +42,6 @@
       "total": 10,
       "merged": 5,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/11723485?v=4"
-    },
-    "NE-SmallTown": {
-      "total": 8,
-      "merged": 6,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/18418010?v=4"
     },
     "prashant-andani": {
       "total": 2,
@@ -10291,7 +10291,7 @@
   },
   "datePRInfos": {
     "Août-2018": {
-      "total": 110,
+      "total": 111,
       "merged": 76
     },
     "Juillet-2018": {
