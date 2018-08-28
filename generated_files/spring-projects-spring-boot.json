@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-08-28T19:42:44.280Z",
+  "lastUpdate": "2018-08-28T20:42:44.428Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2826,
+  "totalPR": 2827,
   "lastPR": {
-    "createdAt": "2018-08-28T14:42:23Z",
-    "username": "dreis2211"
+    "createdAt": "2018-08-28T20:09:42Z",
+    "username": "asomov"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "asomov": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/1632547?v=4"
+    },
     "dreis2211": {
       "total": 100,
       "merged": 0,
@@ -4206,7 +4211,7 @@
   },
   "datePRInfos": {
     "Août-2018": {
-      "total": 71,
+      "total": 72,
       "merged": 0
     },
     "Juillet-2018": {
