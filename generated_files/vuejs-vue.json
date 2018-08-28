@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-08-28T18:43:47.685Z",
+  "lastUpdate": "2018-08-28T19:43:51.249Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 1258,
+  "totalPR": 1259,
   "lastPR": {
-    "createdAt": "2018-08-27T16:22:14Z",
-    "username": "eltonchan"
+    "createdAt": "2018-08-28T19:02:57Z",
+    "username": "ypresto"
   },
   "bestPR": {
     "user": "kazupon",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/16292606?v=4"
   },
   "userPRInfos": {
+    "ypresto": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/400558?v=4"
+    },
     "eltonchan": {
       "total": 2,
       "merged": 0,
@@ -2846,7 +2851,7 @@
   },
   "datePRInfos": {
     "Août-2018": {
-      "total": 26,
+      "total": 27,
       "merged": 2
     },
     "Juillet-2018": {
