@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-08-28T10:44:01.812Z",
+  "lastUpdate": "2018-08-28T11:43:38.557Z",
   "cowner": "fastify",
   "crepo": "fastify",
-  "totalPR": 664,
+  "totalPR": 665,
   "lastPR": {
-    "createdAt": "2018-08-27T13:35:27Z",
-    "username": "cemremengu"
+    "createdAt": "2018-08-28T11:14:16Z",
+    "username": "spcfran"
   },
   "bestPR": {
     "user": "delvedor",
@@ -18,11 +18,16 @@
     "image": "https://avatars0.githubusercontent.com/u/4865608?v=4"
   },
   "bestRatio": {
-    "user": "cemremengu",
+    "user": "spcfran",
     "ratio": 1,
-    "image": "https://avatars0.githubusercontent.com/u/1297759?v=4"
+    "image": "https://avatars0.githubusercontent.com/u/4398367?v=4"
   },
   "userPRInfos": {
+    "spcfran": {
+      "total": 1,
+      "merged": 1,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/4398367?v=4"
+    },
     "cemremengu": {
       "total": 2,
       "merged": 2,
@@ -606,8 +611,8 @@
   },
   "datePRInfos": {
     "Août-2018": {
-      "total": 30,
-      "merged": 25
+      "total": 31,
+      "merged": 26
     },
     "Juillet-2018": {
       "total": 24,
