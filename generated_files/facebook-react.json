@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-08-28T13:49:25.901Z",
+  "lastUpdate": "2018-08-28T14:49:05.780Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 7118,
@@ -25,7 +25,7 @@
   "userPRInfos": {
     "FermiDirak": {
       "total": 3,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/5897853?v=4"
     },
     "gaearon": {
@@ -10292,7 +10292,7 @@
   "datePRInfos": {
     "Août-2018": {
       "total": 110,
-      "merged": 75
+      "merged": 76
     },
     "Juillet-2018": {
       "total": 86,
