@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-08-28T12:47:48.166Z",
+  "lastUpdate": "2018-08-28T13:49:25.901Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 7118,
@@ -530,7 +530,7 @@
     },
     "veekas": {
       "total": 2,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/3917726?v=4"
     },
     "webyom": {
@@ -10328,7 +10328,7 @@
     },
     "Novembre-2017": {
       "total": 168,
-      "merged": 128
+      "merged": 129
     },
     "Octobre-2017": {
       "total": 212,
