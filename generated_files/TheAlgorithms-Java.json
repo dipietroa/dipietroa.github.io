@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "2018-08-28T05:41:57.642Z",
+  "lastUpdate": "2018-08-28T06:42:04.591Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
-  "totalPR": 429,
+  "totalPR": 430,
   "lastPR": {
-    "createdAt": "2018-08-27T07:55:13Z",
+    "createdAt": "2018-08-28T06:37:15Z",
     "username": "JayH2018"
   },
   "bestPR": {
@@ -18,13 +18,13 @@
     "image": "https://avatars1.githubusercontent.com/u/16108563?v=4"
   },
   "bestRatio": {
-    "user": "JayH2018",
+    "user": "lq920320",
     "ratio": 1,
-    "image": "https://avatars1.githubusercontent.com/u/42029911?v=4"
+    "image": "https://avatars1.githubusercontent.com/u/18696549?v=4"
   },
   "userPRInfos": {
     "JayH2018": {
-      "total": 1,
+      "total": 2,
       "merged": 1,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/42029911?v=4"
     },
@@ -1171,7 +1171,7 @@
   },
   "datePRInfos": {
     "Août-2018": {
-      "total": 13,
+      "total": 14,
       "merged": 4
     },
     "Juillet-2018": {
