@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-08-28T15:44:26.838Z",
+  "lastUpdate": "2018-08-28T16:44:39.602Z",
   "cowner": "fastify",
   "crepo": "fastify",
   "totalPR": 665,
@@ -35,7 +35,7 @@
     },
     "trivikr": {
       "total": 12,
-      "merged": 7,
+      "merged": 8,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/16024985?v=4"
     },
     "allevo": {
@@ -612,7 +612,7 @@
   "datePRInfos": {
     "Août-2018": {
       "total": 31,
-      "merged": 26
+      "merged": 27
     },
     "Juillet-2018": {
       "total": 24,
