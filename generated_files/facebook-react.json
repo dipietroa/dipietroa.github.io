@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-08-28T16:48:48.072Z",
+  "lastUpdate": "2018-08-28T17:48:35.523Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 7119,
@@ -35,7 +35,7 @@
     },
     "gaearon": {
       "total": 643,
-      "merged": 553,
+      "merged": 554,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/810438?v=4"
     },
     "jfo84": {
@@ -10292,7 +10292,7 @@
   "datePRInfos": {
     "Août-2018": {
       "total": 111,
-      "merged": 76
+      "merged": 77
     },
     "Juillet-2018": {
       "total": 86,
