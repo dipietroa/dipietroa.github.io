@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-08-29T20:47:53.304Z",
+  "lastUpdate": "2018-08-29T21:46:48.554Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 7123,
+  "totalPR": 7124,
   "lastPR": {
-    "createdAt": "2018-08-29T19:21:39Z",
-    "username": "gaearon"
+    "createdAt": "2018-08-29T20:52:36Z",
+    "username": "yungsters"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars0.githubusercontent.com/u/14152377?v=4"
   },
   "userPRInfos": {
+    "yungsters": {
+      "total": 30,
+      "merged": 25,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/55161?v=4"
+    },
     "gaearon": {
       "total": 645,
       "merged": 554,
@@ -542,11 +547,6 @@
       "total": 1,
       "merged": 1,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/547167?v=4"
-    },
-    "yungsters": {
-      "total": 29,
-      "merged": 24,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/55161?v=4"
     },
     "Ende93": {
       "total": 1,
@@ -10291,8 +10291,8 @@
   },
   "datePRInfos": {
     "Août-2018": {
-      "total": 115,
-      "merged": 77
+      "total": 116,
+      "merged": 78
     },
     "Juillet-2018": {
       "total": 86,
