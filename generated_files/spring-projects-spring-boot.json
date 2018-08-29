@@ -1,15 +1,15 @@
 {
-  "lastUpdate": "2018-08-28T23:41:46.960Z",
+  "lastUpdate": "2018-08-29T00:42:10.489Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2827,
+  "totalPR": 2828,
   "lastPR": {
-    "createdAt": "2018-08-28T20:09:42Z",
-    "username": "asomov"
+    "createdAt": "2018-08-29T00:13:39Z",
+    "username": "izeye"
   },
   "bestPR": {
     "user": "izeye",
-    "nbPR": 446,
+    "nbPR": 447,
     "image": "https://avatars3.githubusercontent.com/u/1059363?v=4"
   },
   "bestMerged": {
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "izeye": {
+      "total": 447,
+      "merged": 2,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/1059363?v=4"
+    },
     "asomov": {
       "total": 1,
       "merged": 0,
@@ -32,11 +37,6 @@
       "total": 100,
       "merged": 0,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/6304496?v=4"
-    },
-    "izeye": {
-      "total": 446,
-      "merged": 2,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/1059363?v=4"
     },
     "ayudovin": {
       "total": 18,
@@ -4211,7 +4211,7 @@
   },
   "datePRInfos": {
     "Août-2018": {
-      "total": 72,
+      "total": 73,
       "merged": 0
     },
     "Juillet-2018": {
