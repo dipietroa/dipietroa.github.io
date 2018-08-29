@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-08-29T01:46:34.982Z",
+  "lastUpdate": "2018-08-29T02:46:56.149Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 7120,
@@ -110,7 +110,7 @@
     },
     "bvaughn": {
       "total": 252,
-      "merged": 233,
+      "merged": 234,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/29597?v=4"
     },
     "hamlim": {
@@ -10296,7 +10296,7 @@
     },
     "Juillet-2018": {
       "total": 86,
-      "merged": 58
+      "merged": 59
     },
     "Juin-2018": {
       "total": 68,
