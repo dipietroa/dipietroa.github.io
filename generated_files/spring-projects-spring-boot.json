@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-08-29T13:42:39.824Z",
+  "lastUpdate": "2018-08-29T14:42:24.425Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2831,
+  "totalPR": 2832,
   "lastPR": {
-    "createdAt": "2018-08-29T09:57:11Z",
-    "username": "qct"
+    "createdAt": "2018-08-29T13:51:03Z",
+    "username": "alexmandt"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "alexmandt": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/9798095?v=4"
+    },
     "qct": {
       "total": 3,
       "merged": 0,
@@ -4216,7 +4221,7 @@
   },
   "datePRInfos": {
     "Août-2018": {
-      "total": 76,
+      "total": 77,
       "merged": 0
     },
     "Juillet-2018": {
