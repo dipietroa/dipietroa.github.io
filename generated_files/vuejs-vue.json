@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-08-29T09:42:59.938Z",
+  "lastUpdate": "2018-08-29T10:43:14.591Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 1259,
+  "totalPR": 1260,
   "lastPR": {
-    "createdAt": "2018-08-28T19:02:57Z",
-    "username": "ypresto"
+    "createdAt": "2018-08-29T10:20:15Z",
+    "username": "Shyam-Chen"
   },
   "bestPR": {
     "user": "kazupon",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/16292606?v=4"
   },
   "userPRInfos": {
+    "Shyam-Chen": {
+      "total": 2,
+      "merged": 1,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/13535256?v=4"
+    },
     "ypresto": {
       "total": 1,
       "merged": 0,
@@ -1473,11 +1478,6 @@
       "merged": 0,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/2157653?v=4"
     },
-    "Shyam-Chen": {
-      "total": 1,
-      "merged": 1,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/13535256?v=4"
-    },
     "lonelyclick": {
       "total": 3,
       "merged": 1,
@@ -2851,7 +2851,7 @@
   },
   "datePRInfos": {
     "Août-2018": {
-      "total": 27,
+      "total": 28,
       "merged": 2
     },
     "Juillet-2018": {
