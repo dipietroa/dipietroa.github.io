@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "2018-08-29T06:41:53.391Z",
+  "lastUpdate": "2018-08-29T07:41:43.844Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2829,
+  "totalPR": 2830,
   "lastPR": {
-    "createdAt": "2018-08-29T02:09:15Z",
+    "createdAt": "2018-08-29T07:22:15Z",
     "username": "CinnamonBagels"
   },
   "bestPR": {
@@ -24,7 +24,7 @@
   },
   "userPRInfos": {
     "CinnamonBagels": {
-      "total": 1,
+      "total": 2,
       "merged": 0,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/3389517?v=4"
     },
@@ -4216,7 +4216,7 @@
   },
   "datePRInfos": {
     "Août-2018": {
-      "total": 74,
+      "total": 75,
       "merged": 0
     },
     "Juillet-2018": {
