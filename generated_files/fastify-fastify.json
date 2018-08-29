@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-08-29T05:43:05.474Z",
+  "lastUpdate": "2018-08-29T06:43:22.060Z",
   "cowner": "fastify",
   "crepo": "fastify",
-  "totalPR": 665,
+  "totalPR": 666,
   "lastPR": {
-    "createdAt": "2018-08-28T11:14:16Z",
-    "username": "spcfran"
+    "createdAt": "2018-08-29T06:37:56Z",
+    "username": "trivikr"
   },
   "bestPR": {
     "user": "delvedor",
@@ -23,6 +23,11 @@
     "image": "https://avatars0.githubusercontent.com/u/4398367?v=4"
   },
   "userPRInfos": {
+    "trivikr": {
+      "total": 13,
+      "merged": 8,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/16024985?v=4"
+    },
     "spcfran": {
       "total": 1,
       "merged": 1,
@@ -32,11 +37,6 @@
       "total": 2,
       "merged": 2,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/1297759?v=4"
-    },
-    "trivikr": {
-      "total": 12,
-      "merged": 8,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/16024985?v=4"
     },
     "allevo": {
       "total": 67,
@@ -611,7 +611,7 @@
   },
   "datePRInfos": {
     "Août-2018": {
-      "total": 31,
+      "total": 32,
       "merged": 27
     },
     "Juillet-2018": {
