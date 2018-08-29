@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-08-29T09:42:00.166Z",
+  "lastUpdate": "2018-08-29T10:42:18.612Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2830,
+  "totalPR": 2831,
   "lastPR": {
-    "createdAt": "2018-08-29T07:22:15Z",
-    "username": "CinnamonBagels"
+    "createdAt": "2018-08-29T09:57:11Z",
+    "username": "qct"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "qct": {
+      "total": 3,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/2283288?v=4"
+    },
     "CinnamonBagels": {
       "total": 2,
       "merged": 0,
@@ -152,11 +157,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/158625?v=4"
-    },
-    "qct": {
-      "total": 2,
-      "merged": 0,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/2283288?v=4"
     },
     "rajadilipkolli": {
       "total": 28,
@@ -4216,7 +4216,7 @@
   },
   "datePRInfos": {
     "Août-2018": {
-      "total": 75,
+      "total": 76,
       "merged": 0
     },
     "Juillet-2018": {
