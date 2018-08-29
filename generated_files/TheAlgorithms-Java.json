@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "2018-08-29T16:42:27.570Z",
+  "lastUpdate": "2018-08-29T17:42:53.317Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
-  "totalPR": 431,
+  "totalPR": 434,
   "lastPR": {
-    "createdAt": "2018-08-28T14:44:45Z",
+    "createdAt": "2018-08-29T17:36:12Z",
     "username": "lq920320"
   },
   "bestPR": {
@@ -24,9 +24,14 @@
   },
   "userPRInfos": {
     "lq920320": {
-      "total": 3,
+      "total": 5,
       "merged": 2,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/18696549?v=4"
+    },
+    "MarisaAfuera": {
+      "total": 3,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/19307756?v=4"
     },
     "JayH2018": {
       "total": 2,
@@ -62,11 +67,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/4386056?v=4"
-    },
-    "MarisaAfuera": {
-      "total": 2,
-      "merged": 0,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/19307756?v=4"
     },
     "Darkdra771": {
       "total": 1,
@@ -1171,7 +1171,7 @@
   },
   "datePRInfos": {
     "Août-2018": {
-      "total": 15,
+      "total": 18,
       "merged": 5
     },
     "Juillet-2018": {
