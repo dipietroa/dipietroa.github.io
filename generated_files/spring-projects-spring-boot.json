@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "2018-08-30T11:42:01.536Z",
+  "lastUpdate": "2018-08-30T12:42:19.872Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2836,
+  "totalPR": 2838,
   "lastPR": {
-    "createdAt": "2018-08-30T11:05:28Z",
+    "createdAt": "2018-08-30T12:40:02Z",
     "username": "nosan"
   },
   "bestPR": {
@@ -24,9 +24,14 @@
   },
   "userPRInfos": {
     "nosan": {
-      "total": 17,
+      "total": 18,
       "merged": 0,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/5054994?v=4"
+    },
+    "Hanope": {
+      "total": 2,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/19226330?v=4"
     },
     "ayudovin": {
       "total": 19,
@@ -202,11 +207,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/2317037?v=4"
-    },
-    "Hanope": {
-      "total": 1,
-      "merged": 0,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/19226330?v=4"
     },
     "mhyeon-lee": {
       "total": 1,
@@ -4231,7 +4231,7 @@
   },
   "datePRInfos": {
     "Août-2018": {
-      "total": 81,
+      "total": 83,
       "merged": 0
     },
     "Juillet-2018": {
