@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-08-30T14:44:46.120Z",
+  "lastUpdate": "2018-08-30T15:44:17.990Z",
   "cowner": "fastify",
   "crepo": "fastify",
-  "totalPR": 678,
+  "totalPR": 679,
   "lastPR": {
-    "createdAt": "2018-08-30T14:07:35Z",
-    "username": "tehKapa"
+    "createdAt": "2018-08-30T14:55:50Z",
+    "username": "dtex"
   },
   "bestPR": {
     "user": "delvedor",
@@ -23,6 +23,11 @@
     "image": "https://avatars0.githubusercontent.com/u/6388707?v=4"
   },
   "userPRInfos": {
+    "dtex": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/854911?v=4"
+    },
     "tehKapa": {
       "total": 1,
       "merged": 1,
@@ -30,12 +35,12 @@
     },
     "cemremengu": {
       "total": 6,
-      "merged": 2,
+      "merged": 5,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/1297759?v=4"
     },
     "mcollina": {
       "total": 82,
-      "merged": 77,
+      "merged": 78,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/52195?v=4"
     },
     "jsumners": {
@@ -616,8 +621,8 @@
   },
   "datePRInfos": {
     "Août-2018": {
-      "total": 44,
-      "merged": 34
+      "total": 45,
+      "merged": 38
     },
     "Juillet-2018": {
       "total": 24,
