@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-08-30T21:47:05.743Z",
+  "lastUpdate": "2018-08-30T22:46:47.438Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 7128,
+  "totalPR": 7129,
   "lastPR": {
-    "createdAt": "2018-08-30T20:07:40Z",
-    "username": "janczer"
+    "createdAt": "2018-08-30T22:30:34Z",
+    "username": "nhunzaker"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars0.githubusercontent.com/u/14152377?v=4"
   },
   "userPRInfos": {
+    "nhunzaker": {
+      "total": 100,
+      "merged": 57,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/590904?v=4"
+    },
     "janczer": {
       "total": 1,
       "merged": 0,
@@ -117,11 +122,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/13785185?v=4"
-    },
-    "nhunzaker": {
-      "total": 99,
-      "merged": 57,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/590904?v=4"
     },
     "koba04": {
       "total": 83,
@@ -10301,7 +10301,7 @@
   },
   "datePRInfos": {
     "Août-2018": {
-      "total": 120,
+      "total": 121,
       "merged": 79
     },
     "Juillet-2018": {
