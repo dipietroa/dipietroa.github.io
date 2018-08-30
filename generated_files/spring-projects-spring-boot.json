@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-08-30T00:42:32.412Z",
+  "lastUpdate": "2018-08-30T01:42:13.791Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2832,
+  "totalPR": 2833,
   "lastPR": {
-    "createdAt": "2018-08-29T13:51:03Z",
-    "username": "alexmandt"
+    "createdAt": "2018-08-30T00:42:44Z",
+    "username": "pankajtandon"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "pankajtandon": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/1697066?v=4"
+    },
     "alexmandt": {
       "total": 1,
       "merged": 0,
@@ -4221,7 +4226,7 @@
   },
   "datePRInfos": {
     "Août-2018": {
-      "total": 77,
+      "total": 78,
       "merged": 0
     },
     "Juillet-2018": {
