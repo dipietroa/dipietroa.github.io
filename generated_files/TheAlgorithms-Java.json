@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-08-30T17:42:54.855Z",
+  "lastUpdate": "2018-08-30T18:42:16.027Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
-  "totalPR": 435,
+  "totalPR": 436,
   "lastPR": {
-    "createdAt": "2018-08-30T08:52:43Z",
-    "username": "DDullahan"
+    "createdAt": "2018-08-30T17:42:57Z",
+    "username": "MarisaAfuera"
   },
   "bestPR": {
     "user": "theycallmemac",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/42029911?v=4"
   },
   "userPRInfos": {
+    "MarisaAfuera": {
+      "total": 4,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/19307756?v=4"
+    },
     "DDullahan": {
       "total": 1,
       "merged": 0,
@@ -32,11 +37,6 @@
       "total": 5,
       "merged": 3,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/18696549?v=4"
-    },
-    "MarisaAfuera": {
-      "total": 3,
-      "merged": 0,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/19307756?v=4"
     },
     "JayH2018": {
       "total": 2,
@@ -1171,7 +1171,7 @@
   },
   "datePRInfos": {
     "Août-2018": {
-      "total": 19,
+      "total": 20,
       "merged": 6
     },
     "Juillet-2018": {
