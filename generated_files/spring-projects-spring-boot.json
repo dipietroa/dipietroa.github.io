@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-08-30T04:41:41.518Z",
+  "lastUpdate": "2018-08-30T05:41:37.794Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2833,
+  "totalPR": 2834,
   "lastPR": {
-    "createdAt": "2018-08-30T00:42:44Z",
-    "username": "pankajtandon"
+    "createdAt": "2018-08-30T05:21:45Z",
+    "username": "JoeKerouac"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "JoeKerouac": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/18147095?v=4"
+    },
     "pankajtandon": {
       "total": 1,
       "merged": 0,
@@ -4226,7 +4231,7 @@
   },
   "datePRInfos": {
     "Août-2018": {
-      "total": 78,
+      "total": 79,
       "merged": 0
     },
     "Juillet-2018": {
