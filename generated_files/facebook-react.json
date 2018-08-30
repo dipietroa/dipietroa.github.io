@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-08-30T08:47:50.793Z",
+  "lastUpdate": "2018-08-30T09:48:00.437Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 7125,
+  "totalPR": 7126,
   "lastPR": {
-    "createdAt": "2018-08-30T04:03:16Z",
-    "username": "sunnibfgi"
+    "createdAt": "2018-08-30T09:00:27Z",
+    "username": "alex-saunders"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars0.githubusercontent.com/u/14152377?v=4"
   },
   "userPRInfos": {
+    "alex-saunders": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/22820481?v=4"
+    },
     "sunnibfgi": {
       "total": 3,
       "merged": 0,
@@ -10291,7 +10296,7 @@
   },
   "datePRInfos": {
     "Août-2018": {
-      "total": 117,
+      "total": 118,
       "merged": 78
     },
     "Juillet-2018": {
