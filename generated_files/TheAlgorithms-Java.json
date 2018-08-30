@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-08-30T08:42:48.576Z",
+  "lastUpdate": "2018-08-30T09:42:53.977Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
-  "totalPR": 434,
+  "totalPR": 435,
   "lastPR": {
-    "createdAt": "2018-08-29T17:36:12Z",
-    "username": "lq920320"
+    "createdAt": "2018-08-30T08:52:43Z",
+    "username": "DDullahan"
   },
   "bestPR": {
     "user": "theycallmemac",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/42029911?v=4"
   },
   "userPRInfos": {
+    "DDullahan": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/29816320?v=4"
+    },
     "lq920320": {
       "total": 5,
       "merged": 3,
@@ -1166,7 +1171,7 @@
   },
   "datePRInfos": {
     "Août-2018": {
-      "total": 18,
+      "total": 19,
       "merged": 6
     },
     "Juillet-2018": {
