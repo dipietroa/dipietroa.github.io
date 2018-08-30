@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-08-30T10:42:20.596Z",
+  "lastUpdate": "2018-08-30T11:42:01.536Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2834,
+  "totalPR": 2836,
   "lastPR": {
-    "createdAt": "2018-08-30T05:21:45Z",
-    "username": "JoeKerouac"
+    "createdAt": "2018-08-30T11:05:28Z",
+    "username": "nosan"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,16 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "nosan": {
+      "total": 17,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/5054994?v=4"
+    },
+    "ayudovin": {
+      "total": 19,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/34862741?v=4"
+    },
     "JoeKerouac": {
       "total": 1,
       "merged": 0,
@@ -63,11 +73,6 @@
       "merged": 0,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/6304496?v=4"
     },
-    "ayudovin": {
-      "total": 18,
-      "merged": 0,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/34862741?v=4"
-    },
     "garyrussell": {
       "total": 51,
       "merged": 1,
@@ -92,11 +97,6 @@
       "total": 4,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/2317257?v=4"
-    },
-    "nosan": {
-      "total": 16,
-      "merged": 0,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/5054994?v=4"
     },
     "mmoayyed": {
       "total": 5,
@@ -4231,7 +4231,7 @@
   },
   "datePRInfos": {
     "Août-2018": {
-      "total": 79,
+      "total": 81,
       "merged": 0
     },
     "Juillet-2018": {
