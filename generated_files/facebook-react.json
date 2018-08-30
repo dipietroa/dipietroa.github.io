@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-08-30T03:46:39.421Z",
+  "lastUpdate": "2018-08-30T04:46:12.611Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 7124,
+  "totalPR": 7125,
   "lastPR": {
-    "createdAt": "2018-08-29T20:52:36Z",
-    "username": "yungsters"
+    "createdAt": "2018-08-30T04:03:16Z",
+    "username": "sunnibfgi"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars0.githubusercontent.com/u/14152377?v=4"
   },
   "userPRInfos": {
+    "sunnibfgi": {
+      "total": 3,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/12179856?v=4"
+    },
     "yungsters": {
       "total": 30,
       "merged": 25,
@@ -87,11 +92,6 @@
       "total": 1,
       "merged": 1,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/14152377?v=4"
-    },
-    "sunnibfgi": {
-      "total": 2,
-      "merged": 0,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/12179856?v=4"
     },
     "seunggabi": {
       "total": 1,
@@ -10291,7 +10291,7 @@
   },
   "datePRInfos": {
     "Août-2018": {
-      "total": 116,
+      "total": 117,
       "merged": 78
     },
     "Juillet-2018": {
