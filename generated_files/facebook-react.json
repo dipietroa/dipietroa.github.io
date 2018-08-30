@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-08-30T22:46:47.438Z",
+  "lastUpdate": "2018-08-30T23:46:49.221Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 7129,
@@ -18,9 +18,9 @@
     "image": "https://avatars2.githubusercontent.com/u/6820?v=4"
   },
   "bestRatio": {
-    "user": "rodrigobdz",
+    "user": "janczer",
     "ratio": 1,
-    "image": "https://avatars0.githubusercontent.com/u/14152377?v=4"
+    "image": "https://avatars0.githubusercontent.com/u/13544213?v=4"
   },
   "userPRInfos": {
     "nhunzaker": {
@@ -30,7 +30,7 @@
     },
     "janczer": {
       "total": 1,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/13544213?v=4"
     },
     "NE-SmallTown": {
@@ -10302,7 +10302,7 @@
   "datePRInfos": {
     "Août-2018": {
       "total": 121,
-      "merged": 79
+      "merged": 80
     },
     "Juillet-2018": {
       "total": 86,
