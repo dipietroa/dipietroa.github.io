@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-08-30T19:47:38.059Z",
+  "lastUpdate": "2018-08-30T20:46:47.562Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 7127,
+  "totalPR": 7128,
   "lastPR": {
-    "createdAt": "2018-08-30T14:18:39Z",
-    "username": "NE-SmallTown"
+    "createdAt": "2018-08-30T20:07:40Z",
+    "username": "janczer"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars0.githubusercontent.com/u/14152377?v=4"
   },
   "userPRInfos": {
+    "janczer": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/13544213?v=4"
+    },
     "NE-SmallTown": {
       "total": 10,
       "merged": 6,
@@ -10296,7 +10301,7 @@
   },
   "datePRInfos": {
     "Août-2018": {
-      "total": 119,
+      "total": 120,
       "merged": 79
     },
     "Juillet-2018": {
