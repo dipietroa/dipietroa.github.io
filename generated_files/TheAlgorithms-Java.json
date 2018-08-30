@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-08-30T00:42:57.546Z",
+  "lastUpdate": "2018-08-30T01:42:34.819Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
   "totalPR": 434,
@@ -25,7 +25,7 @@
   "userPRInfos": {
     "lq920320": {
       "total": 5,
-      "merged": 2,
+      "merged": 3,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/18696549?v=4"
     },
     "MarisaAfuera": {
@@ -1167,7 +1167,7 @@
   "datePRInfos": {
     "Août-2018": {
       "total": 18,
-      "merged": 5
+      "merged": 6
     },
     "Juillet-2018": {
       "total": 12,
