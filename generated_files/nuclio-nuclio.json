@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "2018-08-31T14:43:08.680Z",
+  "lastUpdate": "2018-08-31T15:43:02.373Z",
   "cowner": "nuclio",
   "crepo": "nuclio",
-  "totalPR": 686,
+  "totalPR": 687,
   "lastPR": {
-    "createdAt": "2018-08-30T15:01:08Z",
+    "createdAt": "2018-08-31T14:51:39Z",
     "username": "maksym-kyselytsia"
   },
   "bestPR": {
@@ -24,7 +24,7 @@
   },
   "userPRInfos": {
     "maksym-kyselytsia": {
-      "total": 13,
+      "total": 14,
       "merged": 12,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/25031243?v=4"
     },
@@ -181,7 +181,7 @@
   },
   "datePRInfos": {
     "Août-2018": {
-      "total": 21,
+      "total": 22,
       "merged": 14
     },
     "Juillet-2018": {
