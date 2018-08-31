@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-08-31T06:42:42.059Z",
+  "lastUpdate": "2018-08-31T07:43:10.811Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 1260,
+  "totalPR": 1262,
   "lastPR": {
-    "createdAt": "2018-08-29T10:20:15Z",
-    "username": "Shyam-Chen"
+    "createdAt": "2018-08-31T07:08:32Z",
+    "username": "Justineo"
   },
   "bestPR": {
     "user": "kazupon",
@@ -23,6 +23,16 @@
     "image": "https://avatars1.githubusercontent.com/u/16292606?v=4"
   },
   "userPRInfos": {
+    "Justineo": {
+      "total": 5,
+      "merged": 2,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/1726061?v=4"
+    },
+    "HcySunYang": {
+      "total": 10,
+      "merged": 5,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/14146560?v=4"
+    },
     "Shyam-Chen": {
       "total": 2,
       "merged": 1,
@@ -37,11 +47,6 @@
       "total": 2,
       "merged": 0,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/12627010?v=4"
-    },
-    "Justineo": {
-      "total": 4,
-      "merged": 2,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/1726061?v=4"
     },
     "eddyerburgh": {
       "total": 4,
@@ -217,11 +222,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/16033313?v=4"
-    },
-    "HcySunYang": {
-      "total": 9,
-      "merged": 5,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/14146560?v=4"
     },
     "wangnan0610": {
       "total": 1,
@@ -2851,7 +2851,7 @@
   },
   "datePRInfos": {
     "Août-2018": {
-      "total": 28,
+      "total": 30,
       "merged": 2
     },
     "Juillet-2018": {
