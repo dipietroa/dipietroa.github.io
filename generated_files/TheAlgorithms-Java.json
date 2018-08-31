@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-08-31T18:42:06.849Z",
+  "lastUpdate": "2018-08-31T19:42:45.571Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
-  "totalPR": 436,
+  "totalPR": 437,
   "lastPR": {
-    "createdAt": "2018-08-30T17:42:57Z",
-    "username": "MarisaAfuera"
+    "createdAt": "2018-08-31T19:01:12Z",
+    "username": "khalil2535"
   },
   "bestPR": {
     "user": "theycallmemac",
@@ -23,6 +23,11 @@
     "image": "https://avatars0.githubusercontent.com/u/29816320?v=4"
   },
   "userPRInfos": {
+    "khalil2535": {
+      "total": 9,
+      "merged": 6,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/26520106?v=4"
+    },
     "MarisaAfuera": {
       "total": 4,
       "merged": 0,
@@ -242,11 +247,6 @@
       "total": 6,
       "merged": 5,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/18111582?v=4"
-    },
-    "khalil2535": {
-      "total": 8,
-      "merged": 6,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/26520106?v=4"
     },
     "straiffix": {
       "total": 1,
@@ -1171,7 +1171,7 @@
   },
   "datePRInfos": {
     "Août-2018": {
-      "total": 20,
+      "total": 21,
       "merged": 7
     },
     "Juillet-2018": {
