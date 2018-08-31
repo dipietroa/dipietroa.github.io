@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-08-31T15:42:44.656Z",
+  "lastUpdate": "2018-08-31T16:43:20.886Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 1262,
+  "totalPR": 1263,
   "lastPR": {
-    "createdAt": "2018-08-31T07:08:32Z",
-    "username": "Justineo"
+    "createdAt": "2018-08-31T16:41:42Z",
+    "username": "yangdan8"
   },
   "bestPR": {
     "user": "kazupon",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/16292606?v=4"
   },
   "userPRInfos": {
+    "yangdan8": {
+      "total": 2,
+      "merged": 0,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/16515026?v=4"
+    },
     "Justineo": {
       "total": 5,
       "merged": 2,
@@ -57,11 +62,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/1425061?v=4"
-    },
-    "yangdan8": {
-      "total": 1,
-      "merged": 0,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/16515026?v=4"
     },
     "petsgre": {
       "total": 1,
@@ -2851,7 +2851,7 @@
   },
   "datePRInfos": {
     "Août-2018": {
-      "total": 30,
+      "total": 31,
       "merged": 2
     },
     "Juillet-2018": {
