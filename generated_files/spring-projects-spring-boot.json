@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "2018-08-31T09:41:45.224Z",
+  "lastUpdate": "2018-08-31T10:42:19.969Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2838,
+  "totalPR": 2839,
   "lastPR": {
-    "createdAt": "2018-08-30T12:40:02Z",
+    "createdAt": "2018-08-31T10:34:26Z",
     "username": "nosan"
   },
   "bestPR": {
@@ -24,7 +24,7 @@
   },
   "userPRInfos": {
     "nosan": {
-      "total": 18,
+      "total": 19,
       "merged": 0,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/5054994?v=4"
     },
@@ -4231,7 +4231,7 @@
   },
   "datePRInfos": {
     "Août-2018": {
-      "total": 83,
+      "total": 84,
       "merged": 0
     },
     "Juillet-2018": {
