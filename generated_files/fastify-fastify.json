@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-08-31T03:43:15.393Z",
+  "lastUpdate": "2018-08-31T04:44:27.539Z",
   "cowner": "fastify",
   "crepo": "fastify",
-  "totalPR": 679,
+  "totalPR": 680,
   "lastPR": {
-    "createdAt": "2018-08-30T14:55:50Z",
-    "username": "dtex"
+    "createdAt": "2018-08-31T03:55:26Z",
+    "username": "crislin2046"
   },
   "bestPR": {
     "user": "delvedor",
@@ -23,6 +23,11 @@
     "image": "https://avatars0.githubusercontent.com/u/6388707?v=4"
   },
   "userPRInfos": {
+    "crislin2046": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/22254235?v=4"
+    },
     "dtex": {
       "total": 1,
       "merged": 0,
@@ -621,7 +626,7 @@
   },
   "datePRInfos": {
     "Août-2018": {
-      "total": 45,
+      "total": 46,
       "merged": 38
     },
     "Juillet-2018": {
