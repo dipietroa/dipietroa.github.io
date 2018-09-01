@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-09-01T11:46:29.598Z",
+  "lastUpdate": "2018-09-01T12:46:22.210Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 7132,
+  "totalPR": 7133,
   "lastPR": {
-    "createdAt": "2018-09-01T08:50:23Z",
-    "username": "ovidiubute"
+    "createdAt": "2018-09-01T12:21:36Z",
+    "username": "juggernaut451"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars0.githubusercontent.com/u/13544213?v=4"
   },
   "userPRInfos": {
+    "juggernaut451": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/5015212?v=4"
+    },
     "ovidiubute": {
       "total": 1,
       "merged": 0,
@@ -10306,7 +10311,7 @@
   },
   "datePRInfos": {
     "Septembre-2018": {
-      "total": 2,
+      "total": 3,
       "merged": 0
     },
     "Août-2018": {
