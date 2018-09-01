@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-09-01T09:41:27.212Z",
+  "lastUpdate": "2018-09-01T10:41:39.852Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2842,
+  "totalPR": 2843,
   "lastPR": {
-    "createdAt": "2018-08-31T18:25:02Z",
-    "username": "EddieOlson"
+    "createdAt": "2018-09-01T10:03:31Z",
+    "username": "kedar-joshi"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "kedar-joshi": {
+      "total": 4,
+      "merged": 0,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/13585883?v=4"
+    },
     "EddieOlson": {
       "total": 1,
       "merged": 0,
@@ -712,11 +717,6 @@
       "total": 2,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/14869749?v=4"
-    },
-    "kedar-joshi": {
-      "total": 3,
-      "merged": 0,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/13585883?v=4"
     },
     "mveitas": {
       "total": 1,
@@ -4240,6 +4240,10 @@
     }
   },
   "datePRInfos": {
+    "Septembre-2018": {
+      "total": 1,
+      "merged": 0
+    },
     "Août-2018": {
       "total": 87,
       "merged": 0
