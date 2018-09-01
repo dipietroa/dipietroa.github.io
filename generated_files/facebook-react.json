@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-09-01T04:46:42.060Z",
+  "lastUpdate": "2018-09-01T05:46:17.155Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 7130,
+  "totalPR": 7131,
   "lastPR": {
-    "createdAt": "2018-08-31T22:37:41Z",
-    "username": "nhunzaker"
+    "createdAt": "2018-09-01T05:14:17Z",
+    "username": "seunggabi"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars0.githubusercontent.com/u/13544213?v=4"
   },
   "userPRInfos": {
+    "seunggabi": {
+      "total": 2,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/8468371?v=4"
+    },
     "nhunzaker": {
       "total": 101,
       "merged": 57,
@@ -107,11 +112,6 @@
       "total": 1,
       "merged": 1,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/14152377?v=4"
-    },
-    "seunggabi": {
-      "total": 1,
-      "merged": 0,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/8468371?v=4"
     },
     "philipp-spiess": {
       "total": 13,
@@ -10300,6 +10300,10 @@
     }
   },
   "datePRInfos": {
+    "Septembre-2018": {
+      "total": 1,
+      "merged": 0
+    },
     "Août-2018": {
       "total": 122,
       "merged": 80
