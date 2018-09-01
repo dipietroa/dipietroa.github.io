@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-09-01T22:46:36.504Z",
+  "lastUpdate": "2018-09-01T23:46:21.969Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 7136,
+  "totalPR": 7137,
   "lastPR": {
-    "createdAt": "2018-09-01T20:00:30Z",
-    "username": "bvaughn"
+    "createdAt": "2018-09-01T23:20:29Z",
+    "username": "mgol"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars0.githubusercontent.com/u/13544213?v=4"
   },
   "userPRInfos": {
+    "mgol": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/1758366?v=4"
+    },
     "bvaughn": {
       "total": 255,
       "merged": 237,
@@ -10311,7 +10316,7 @@
   },
   "datePRInfos": {
     "Septembre-2018": {
-      "total": 6,
+      "total": 7,
       "merged": 3
     },
     "Août-2018": {
