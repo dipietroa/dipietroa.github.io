@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-09-01T07:42:42.116Z",
+  "lastUpdate": "2018-09-01T08:42:21.449Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 1263,
+  "totalPR": 1264,
   "lastPR": {
-    "createdAt": "2018-08-31T16:41:42Z",
-    "username": "yangdan8"
+    "createdAt": "2018-09-01T08:24:19Z",
+    "username": "fnlctrl"
   },
   "bestPR": {
     "user": "kazupon",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/16292606?v=4"
   },
   "userPRInfos": {
+    "fnlctrl": {
+      "total": 5,
+      "merged": 2,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/5557143?v=4"
+    },
     "yangdan8": {
       "total": 2,
       "merged": 0,
@@ -167,11 +172,6 @@
       "total": 2,
       "merged": 0,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/9816225?v=4"
-    },
-    "fnlctrl": {
-      "total": 4,
-      "merged": 2,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/5557143?v=4"
     },
     "handipriyono": {
       "total": 1,
@@ -2850,6 +2850,10 @@
     }
   },
   "datePRInfos": {
+    "Septembre-2018": {
+      "total": 1,
+      "merged": 0
+    },
     "Août-2018": {
       "total": 31,
       "merged": 2
