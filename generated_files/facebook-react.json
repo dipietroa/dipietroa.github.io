@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "2018-09-01T19:46:29.206Z",
+  "lastUpdate": "2018-09-01T20:46:11.217Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 7135,
+  "totalPR": 7136,
   "lastPR": {
-    "createdAt": "2018-09-01T19:18:45Z",
+    "createdAt": "2018-09-01T20:00:30Z",
     "username": "bvaughn"
   },
   "bestPR": {
@@ -24,8 +24,8 @@
   },
   "userPRInfos": {
     "bvaughn": {
-      "total": 254,
-      "merged": 235,
+      "total": 255,
+      "merged": 237,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/29597?v=4"
     },
     "NE-SmallTown": {
@@ -10311,8 +10311,8 @@
   },
   "datePRInfos": {
     "Septembre-2018": {
-      "total": 5,
-      "merged": 1
+      "total": 6,
+      "merged": 3
     },
     "Août-2018": {
       "total": 122,
