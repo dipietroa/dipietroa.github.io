@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-09-02T06:41:51.001Z",
+  "lastUpdate": "2018-09-02T07:42:42.416Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
-  "totalPR": 441,
+  "totalPR": 443,
   "lastPR": {
-    "createdAt": "2018-09-01T22:00:22Z",
-    "username": "hesterbergnl"
+    "createdAt": "2018-09-02T07:06:10Z",
+    "username": "nikhilbarar"
   },
   "bestPR": {
     "user": "theycallmemac",
@@ -23,15 +23,15 @@
     "image": "https://avatars0.githubusercontent.com/u/29816320?v=4"
   },
   "userPRInfos": {
+    "nikhilbarar": {
+      "total": 5,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/37332144?v=4"
+    },
     "hesterbergnl": {
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/28631072?v=4"
-    },
-    "nikhilbarar": {
-      "total": 3,
-      "merged": 0,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/37332144?v=4"
     },
     "khalil2535": {
       "total": 9,
@@ -1181,7 +1181,7 @@
   },
   "datePRInfos": {
     "Septembre-2018": {
-      "total": 4,
+      "total": 6,
       "merged": 0
     },
     "Août-2018": {
