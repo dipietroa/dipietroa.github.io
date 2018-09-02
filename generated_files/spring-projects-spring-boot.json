@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-09-02T16:41:35.985Z",
+  "lastUpdate": "2018-09-02T17:42:14.501Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2843,
+  "totalPR": 2844,
   "lastPR": {
-    "createdAt": "2018-09-01T10:03:31Z",
-    "username": "kedar-joshi"
+    "createdAt": "2018-09-02T17:05:08Z",
+    "username": "PascalSchumacher"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "PascalSchumacher": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/2707245?v=4"
+    },
     "kedar-joshi": {
       "total": 4,
       "merged": 0,
@@ -4241,7 +4246,7 @@
   },
   "datePRInfos": {
     "Septembre-2018": {
-      "total": 1,
+      "total": 2,
       "merged": 0
     },
     "Août-2018": {
