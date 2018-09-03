@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-09-03T15:46:52.307Z",
+  "lastUpdate": "2018-09-03T17:46:55.727Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 7143,
+  "totalPR": 7144,
   "lastPR": {
-    "createdAt": "2018-09-03T00:39:54Z",
-    "username": "gaearon"
+    "createdAt": "2018-09-03T17:06:22Z",
+    "username": "bvaughn"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -18,24 +18,24 @@
     "image": "https://avatars2.githubusercontent.com/u/6820?v=4"
   },
   "bestRatio": {
-    "user": "janczer",
+    "user": "Ephem",
     "ratio": 1,
-    "image": "https://avatars0.githubusercontent.com/u/13544213?v=4"
+    "image": "https://avatars1.githubusercontent.com/u/7420167?v=4"
   },
   "userPRInfos": {
-    "gaearon": {
-      "total": 647,
-      "merged": 556,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/810438?v=4"
-    },
     "bvaughn": {
-      "total": 256,
+      "total": 257,
       "merged": 238,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/29597?v=4"
     },
+    "gaearon": {
+      "total": 647,
+      "merged": 557,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/810438?v=4"
+    },
     "Ephem": {
       "total": 1,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/7420167?v=4"
     },
     "NE-SmallTown": {
@@ -10321,8 +10321,8 @@
   },
   "datePRInfos": {
     "Septembre-2018": {
-      "total": 13,
-      "merged": 5
+      "total": 14,
+      "merged": 7
     },
     "Août-2018": {
       "total": 122,
