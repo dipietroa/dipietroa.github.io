@@ -1,20 +1,20 @@
 {
-  "lastUpdate": "2018-09-03T20:46:49.439Z",
+  "lastUpdate": "2018-09-03T21:47:22.533Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 7148,
   "lastPR": {
-    "createdAt": "2018-09-03T19:26:27Z",
-    "username": "philipp-spiess"
+    "createdAt": "2018-09-03T20:45:49Z",
+    "username": "gaearon"
   },
   "bestPR": {
     "user": "sophiebits",
-    "nbPR": 668,
+    "nbPR": 667,
     "image": "https://avatars2.githubusercontent.com/u/6820?v=4"
   },
   "bestMerged": {
     "user": "sophiebits",
-    "nbPR": 592,
+    "nbPR": 591,
     "image": "https://avatars2.githubusercontent.com/u/6820?v=4"
   },
   "bestRatio": {
@@ -23,15 +23,15 @@
     "image": "https://avatars1.githubusercontent.com/u/7420167?v=4"
   },
   "userPRInfos": {
+    "gaearon": {
+      "total": 650,
+      "merged": 560,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/810438?v=4"
+    },
     "philipp-spiess": {
       "total": 14,
       "merged": 13,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/458591?v=4"
-    },
-    "gaearon": {
-      "total": 649,
-      "merged": 559,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/810438?v=4"
     },
     "bvaughn": {
       "total": 257,
@@ -124,8 +124,8 @@
       "avatarUrl": "https://avatars2.githubusercontent.com/u/16024985?v=4"
     },
     "sophiebits": {
-      "total": 668,
-      "merged": 592,
+      "total": 667,
+      "merged": 591,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/6820?v=4"
     },
     "warteruzannan": {
@@ -10321,8 +10321,8 @@
   },
   "datePRInfos": {
     "Septembre-2018": {
-      "total": 17,
-      "merged": 12
+      "total": 18,
+      "merged": 13
     },
     "Août-2018": {
       "total": 122,
@@ -10481,8 +10481,8 @@
       "merged": 109
     },
     "Mai-2015": {
-      "total": 101,
-      "merged": 69
+      "total": 100,
+      "merged": 68
     },
     "Avril-2015": {
       "total": 122,
