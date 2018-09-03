@@ -1,15 +1,15 @@
 {
-  "lastUpdate": "2018-09-03T12:42:12.949Z",
+  "lastUpdate": "2018-09-03T13:41:49.146Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2845,
+  "totalPR": 2846,
   "lastPR": {
-    "createdAt": "2018-09-03T02:20:04Z",
-    "username": "eneiascs"
+    "createdAt": "2018-09-03T12:51:47Z",
+    "username": "izeye"
   },
   "bestPR": {
     "user": "izeye",
-    "nbPR": 448,
+    "nbPR": 449,
     "image": "https://avatars3.githubusercontent.com/u/1059363?v=4"
   },
   "bestMerged": {
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "izeye": {
+      "total": 449,
+      "merged": 2,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/1059363?v=4"
+    },
     "eneiascs": {
       "total": 1,
       "merged": 0,
@@ -42,11 +47,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/3410436?v=4"
-    },
-    "izeye": {
-      "total": 448,
-      "merged": 2,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/1059363?v=4"
     },
     "eximius313": {
       "total": 1,
@@ -4246,7 +4246,7 @@
   },
   "datePRInfos": {
     "Septembre-2018": {
-      "total": 3,
+      "total": 4,
       "merged": 0
     },
     "Août-2018": {
