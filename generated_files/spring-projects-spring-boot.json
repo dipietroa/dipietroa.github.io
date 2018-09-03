@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-09-03T01:42:25.318Z",
+  "lastUpdate": "2018-09-03T02:41:52.467Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2844,
+  "totalPR": 2845,
   "lastPR": {
-    "createdAt": "2018-09-02T17:05:08Z",
-    "username": "PascalSchumacher"
+    "createdAt": "2018-09-03T02:20:04Z",
+    "username": "eneiascs"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "eneiascs": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/16825062?v=4"
+    },
     "PascalSchumacher": {
       "total": 1,
       "merged": 0,
@@ -4246,7 +4251,7 @@
   },
   "datePRInfos": {
     "Septembre-2018": {
-      "total": 2,
+      "total": 3,
       "merged": 0
     },
     "Août-2018": {
