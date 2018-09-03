@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-09-03T15:43:10.541Z",
+  "lastUpdate": "2018-09-03T17:06:17.581Z",
   "cowner": "nuclio",
   "crepo": "nuclio",
-  "totalPR": 690,
+  "totalPR": 691,
   "lastPR": {
-    "createdAt": "2018-09-03T11:34:17Z",
-    "username": "maksym-kyselytsia"
+    "createdAt": "2018-09-03T16:17:07Z",
+    "username": "mavdryk"
   },
   "bestPR": {
     "user": "pavius",
@@ -18,11 +18,16 @@
     "image": "https://avatars2.githubusercontent.com/u/423987?v=4"
   },
   "bestRatio": {
-    "user": "mavdryk",
+    "user": "ScienJus",
     "ratio": 1,
-    "image": "https://avatars1.githubusercontent.com/u/25711177?v=4"
+    "image": "https://avatars3.githubusercontent.com/u/8350653?v=4"
   },
   "userPRInfos": {
+    "mavdryk": {
+      "total": 5,
+      "merged": 4,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/25711177?v=4"
+    },
     "maksym-kyselytsia": {
       "total": 15,
       "merged": 13,
@@ -62,11 +67,6 @@
       "total": 99,
       "merged": 63,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/87697?v=4"
-    },
-    "mavdryk": {
-      "total": 4,
-      "merged": 4,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/25711177?v=4"
     },
     "YarovoiVadym": {
       "total": 8,
@@ -181,7 +181,7 @@
   },
   "datePRInfos": {
     "Septembre-2018": {
-      "total": 3,
+      "total": 4,
       "merged": 3
     },
     "Août-2018": {
