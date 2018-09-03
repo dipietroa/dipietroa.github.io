@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-09-03T19:42:47.261Z",
+  "lastUpdate": "2018-09-03T20:43:01.875Z",
   "cowner": "nuclio",
   "crepo": "nuclio",
   "totalPR": 691,
@@ -30,7 +30,7 @@
     },
     "maksym-kyselytsia": {
       "total": 15,
-      "merged": 13,
+      "merged": 14,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/25031243?v=4"
     },
     "eran-nussbaum": {
@@ -186,7 +186,7 @@
     },
     "Août-2018": {
       "total": 22,
-      "merged": 14
+      "merged": 15
     },
     "Juillet-2018": {
       "total": 29,
