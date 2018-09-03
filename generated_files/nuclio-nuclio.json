@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-09-03T08:42:58.912Z",
+  "lastUpdate": "2018-09-03T09:43:10.228Z",
   "cowner": "nuclio",
   "crepo": "nuclio",
   "totalPR": 689,
@@ -30,7 +30,7 @@
     },
     "levrado": {
       "total": 6,
-      "merged": 2,
+      "merged": 3,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/4353842?v=4"
     },
     "maksym-kyselytsia": {
@@ -182,7 +182,7 @@
   "datePRInfos": {
     "Septembre-2018": {
       "total": 2,
-      "merged": 0
+      "merged": 1
     },
     "Août-2018": {
       "total": 22,
