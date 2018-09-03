@@ -1,20 +1,20 @@
 {
-  "lastUpdate": "2018-09-03T19:46:11.504Z",
+  "lastUpdate": "2018-09-03T20:46:49.439Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 7147,
+  "totalPR": 7148,
   "lastPR": {
     "createdAt": "2018-09-03T19:26:27Z",
     "username": "philipp-spiess"
   },
   "bestPR": {
     "user": "sophiebits",
-    "nbPR": 667,
+    "nbPR": 668,
     "image": "https://avatars2.githubusercontent.com/u/6820?v=4"
   },
   "bestMerged": {
     "user": "sophiebits",
-    "nbPR": 591,
+    "nbPR": 592,
     "image": "https://avatars2.githubusercontent.com/u/6820?v=4"
   },
   "bestRatio": {
@@ -45,7 +45,7 @@
     },
     "NE-SmallTown": {
       "total": 13,
-      "merged": 7,
+      "merged": 8,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/18418010?v=4"
     },
     "mgol": {
@@ -124,8 +124,8 @@
       "avatarUrl": "https://avatars2.githubusercontent.com/u/16024985?v=4"
     },
     "sophiebits": {
-      "total": 667,
-      "merged": 591,
+      "total": 668,
+      "merged": 592,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/6820?v=4"
     },
     "warteruzannan": {
@@ -10322,7 +10322,7 @@
   "datePRInfos": {
     "Septembre-2018": {
       "total": 17,
-      "merged": 11
+      "merged": 12
     },
     "Août-2018": {
       "total": 122,
@@ -10481,8 +10481,8 @@
       "merged": 109
     },
     "Mai-2015": {
-      "total": 100,
-      "merged": 68
+      "total": 101,
+      "merged": 69
     },
     "Avril-2015": {
       "total": 122,
