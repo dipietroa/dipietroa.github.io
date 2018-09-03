@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-09-03T09:41:47.188Z",
+  "lastUpdate": "2018-09-03T10:42:04.612Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
   "totalPR": 2845,
@@ -2259,7 +2259,7 @@
       "avatarUrl": "https://avatars2.githubusercontent.com/u/159684?v=4"
     },
     "ghost": {
-      "total": 3,
+      "total": 4,
       "merged": 0,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/10137?v=4"
     },
@@ -3432,11 +3432,6 @@
       "total": 2,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/1270482?v=4"
-    },
-    "ghost-EU8EUYPhth7DNRyG": {
-      "total": 1,
-      "merged": 0,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/1369222?v=4"
     },
     "JamieFarrelly": {
       "total": 1,
