@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-09-03T08:42:04.156Z",
+  "lastUpdate": "2018-09-03T09:42:12.783Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
-  "totalPR": 443,
+  "totalPR": 444,
   "lastPR": {
-    "createdAt": "2018-09-02T07:06:10Z",
-    "username": "nikhilbarar"
+    "createdAt": "2018-09-03T08:44:40Z",
+    "username": "RalleYTN"
   },
   "bestPR": {
     "user": "theycallmemac",
@@ -23,6 +23,11 @@
     "image": "https://avatars0.githubusercontent.com/u/29816320?v=4"
   },
   "userPRInfos": {
+    "RalleYTN": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/17276948?v=4"
+    },
     "nikhilbarar": {
       "total": 5,
       "merged": 0,
@@ -1181,7 +1186,7 @@
   },
   "datePRInfos": {
     "Septembre-2018": {
-      "total": 6,
+      "total": 7,
       "merged": 0
     },
     "Août-2018": {
