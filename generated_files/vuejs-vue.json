@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-09-04T16:42:54.216Z",
+  "lastUpdate": "2018-09-04T17:42:55.054Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 1265,
+  "totalPR": 1266,
   "lastPR": {
-    "createdAt": "2018-09-03T19:59:58Z",
-    "username": "HcySunYang"
+    "createdAt": "2018-09-04T16:46:28Z",
+    "username": "mattlavallee"
   },
   "bestPR": {
     "user": "kazupon",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/16292606?v=4"
   },
   "userPRInfos": {
+    "mattlavallee": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/1207606?v=4"
+    },
     "HcySunYang": {
       "total": 11,
       "merged": 5,
@@ -2851,7 +2856,7 @@
   },
   "datePRInfos": {
     "Septembre-2018": {
-      "total": 2,
+      "total": 3,
       "merged": 0
     },
     "Août-2018": {
