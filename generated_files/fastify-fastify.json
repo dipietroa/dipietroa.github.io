@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-09-04T13:44:35.863Z",
+  "lastUpdate": "2018-09-04T14:44:29.293Z",
   "cowner": "fastify",
   "crepo": "fastify",
-  "totalPR": 684,
+  "totalPR": 685,
   "lastPR": {
-    "createdAt": "2018-09-04T13:16:44Z",
-    "username": "mcollina"
+    "createdAt": "2018-09-04T13:54:06Z",
+    "username": "mixecan"
   },
   "bestPR": {
     "user": "delvedor",
@@ -23,6 +23,11 @@
     "image": "https://avatars0.githubusercontent.com/u/6388707?v=4"
   },
   "userPRInfos": {
+    "mixecan": {
+      "total": 3,
+      "merged": 2,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/7155749?v=4"
+    },
     "mcollina": {
       "total": 85,
       "merged": 80,
@@ -87,11 +92,6 @@
       "total": 1,
       "merged": 1,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/4096860?v=4"
-    },
-    "mixecan": {
-      "total": 2,
-      "merged": 2,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/7155749?v=4"
     },
     "fralonra": {
       "total": 7,
@@ -626,7 +626,7 @@
   },
   "datePRInfos": {
     "Septembre-2018": {
-      "total": 3,
+      "total": 4,
       "merged": 1
     },
     "Août-2018": {
