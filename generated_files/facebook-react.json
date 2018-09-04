@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-09-04T12:47:45.759Z",
+  "lastUpdate": "2018-09-04T13:48:45.969Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 7150,
+  "totalPR": 7151,
   "lastPR": {
-    "createdAt": "2018-09-04T08:06:56Z",
-    "username": "mgol"
+    "createdAt": "2018-09-04T13:39:48Z",
+    "username": "gebilaoxiong"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -18,14 +18,19 @@
     "image": "https://avatars2.githubusercontent.com/u/6820?v=4"
   },
   "bestRatio": {
-    "user": "Ephem",
+    "user": "mgol",
     "ratio": 1,
-    "image": "https://avatars1.githubusercontent.com/u/7420167?v=4"
+    "image": "https://avatars0.githubusercontent.com/u/1758366?v=4"
   },
   "userPRInfos": {
+    "gebilaoxiong": {
+      "total": 3,
+      "merged": 0,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/11804936?v=4"
+    },
     "mgol": {
       "total": 2,
-      "merged": 1,
+      "merged": 2,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/1758366?v=4"
     },
     "bvaughn": {
@@ -542,11 +547,6 @@
       "total": 8,
       "merged": 7,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/1404810?v=4"
-    },
-    "gebilaoxiong": {
-      "total": 2,
-      "merged": 0,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/11804936?v=4"
     },
     "kevinkassimo": {
       "total": 1,
@@ -10321,8 +10321,8 @@
   },
   "datePRInfos": {
     "Septembre-2018": {
-      "total": 20,
-      "merged": 15
+      "total": 21,
+      "merged": 16
     },
     "Août-2018": {
       "total": 122,
