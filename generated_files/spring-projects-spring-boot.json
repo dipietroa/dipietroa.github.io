@@ -1,15 +1,15 @@
 {
-  "lastUpdate": "2018-09-04T15:42:10.424Z",
+  "lastUpdate": "2018-09-04T16:41:47.446Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2847,
+  "totalPR": 2849,
   "lastPR": {
-    "createdAt": "2018-09-03T21:30:16Z",
-    "username": "izeye"
+    "createdAt": "2018-09-04T16:34:50Z",
+    "username": "ayudovin"
   },
   "bestPR": {
     "user": "izeye",
-    "nbPR": 450,
+    "nbPR": 451,
     "image": "https://avatars3.githubusercontent.com/u/1059363?v=4"
   },
   "bestMerged": {
@@ -23,8 +23,13 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "ayudovin": {
+      "total": 20,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/34862741?v=4"
+    },
     "izeye": {
-      "total": 450,
+      "total": 451,
       "merged": 2,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/1059363?v=4"
     },
@@ -62,11 +67,6 @@
       "total": 2,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/19226330?v=4"
-    },
-    "ayudovin": {
-      "total": 19,
-      "merged": 0,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/34862741?v=4"
     },
     "JoeKerouac": {
       "total": 1,
@@ -4246,7 +4246,7 @@
   },
   "datePRInfos": {
     "Septembre-2018": {
-      "total": 5,
+      "total": 7,
       "merged": 0
     },
     "Août-2018": {
