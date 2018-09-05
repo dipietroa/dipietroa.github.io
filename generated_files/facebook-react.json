@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-09-05T20:48:11.568Z",
+  "lastUpdate": "2018-09-05T21:47:10.153Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 7159,
+  "totalPR": 7160,
   "lastPR": {
-    "createdAt": "2018-09-05T19:51:24Z",
-    "username": "bvaughn"
+    "createdAt": "2018-09-05T21:00:34Z",
+    "username": "alexmckenley"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars0.githubusercontent.com/u/1758366?v=4"
   },
   "userPRInfos": {
+    "alexmckenley": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/3639670?v=4"
+    },
     "bvaughn": {
       "total": 262,
       "merged": 243,
@@ -10321,7 +10326,7 @@
   },
   "datePRInfos": {
     "Septembre-2018": {
-      "total": 29,
+      "total": 30,
       "merged": 21
     },
     "Août-2018": {
