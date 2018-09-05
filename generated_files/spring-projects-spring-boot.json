@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-09-05T16:42:17.523Z",
+  "lastUpdate": "2018-09-05T17:42:12.841Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2851,
+  "totalPR": 2852,
   "lastPR": {
-    "createdAt": "2018-09-05T03:52:15Z",
-    "username": "michael-pratt"
+    "createdAt": "2018-09-05T17:25:19Z",
+    "username": "edethoor"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "edethoor": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/13271025?v=4"
+    },
     "michael-pratt": {
       "total": 1,
       "merged": 0,
@@ -4251,7 +4256,7 @@
   },
   "datePRInfos": {
     "Septembre-2018": {
-      "total": 9,
+      "total": 10,
       "merged": 0
     },
     "Août-2018": {
