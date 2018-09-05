@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-09-05T03:41:49.844Z",
+  "lastUpdate": "2018-09-05T04:42:06.106Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2850,
+  "totalPR": 2851,
   "lastPR": {
-    "createdAt": "2018-09-05T03:10:11Z",
-    "username": "pankajtandon"
+    "createdAt": "2018-09-05T03:52:15Z",
+    "username": "michael-pratt"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "michael-pratt": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/15351389?v=4"
+    },
     "pankajtandon": {
       "total": 2,
       "merged": 0,
@@ -4246,7 +4251,7 @@
   },
   "datePRInfos": {
     "Septembre-2018": {
-      "total": 8,
+      "total": 9,
       "merged": 0
     },
     "Août-2018": {
