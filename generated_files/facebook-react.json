@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-09-05T12:47:34.889Z",
+  "lastUpdate": "2018-09-05T13:48:41.683Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 7153,
+  "totalPR": 7154,
   "lastPR": {
-    "createdAt": "2018-09-05T00:22:03Z",
-    "username": "bvaughn"
+    "createdAt": "2018-09-05T13:42:57Z",
+    "username": "gebilaoxiong"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,15 +23,15 @@
     "image": "https://avatars0.githubusercontent.com/u/1758366?v=4"
   },
   "userPRInfos": {
+    "gebilaoxiong": {
+      "total": 4,
+      "merged": 1,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/11804936?v=4"
+    },
     "bvaughn": {
       "total": 260,
       "merged": 241,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/29597?v=4"
-    },
-    "gebilaoxiong": {
-      "total": 3,
-      "merged": 1,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/11804936?v=4"
     },
     "mgol": {
       "total": 2,
@@ -10321,7 +10321,7 @@
   },
   "datePRInfos": {
     "Septembre-2018": {
-      "total": 23,
+      "total": 24,
       "merged": 18
     },
     "Août-2018": {
