@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-09-05T17:47:42.043Z",
+  "lastUpdate": "2018-09-05T18:48:34.789Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 7156,
+  "totalPR": 7158,
   "lastPR": {
-    "createdAt": "2018-09-05T16:21:07Z",
-    "username": "NE-SmallTown"
+    "createdAt": "2018-09-05T18:11:31Z",
+    "username": "gaearon"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,16 @@
     "image": "https://avatars0.githubusercontent.com/u/1758366?v=4"
   },
   "userPRInfos": {
+    "gaearon": {
+      "total": 651,
+      "merged": 560,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/810438?v=4"
+    },
+    "bvaughn": {
+      "total": 261,
+      "merged": 243,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/29597?v=4"
+    },
     "NE-SmallTown": {
       "total": 14,
       "merged": 8,
@@ -33,20 +43,10 @@
       "merged": 2,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/11804936?v=4"
     },
-    "bvaughn": {
-      "total": 260,
-      "merged": 242,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/29597?v=4"
-    },
     "mgol": {
       "total": 2,
       "merged": 2,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/1758366?v=4"
-    },
-    "gaearon": {
-      "total": 650,
-      "merged": 560,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/810438?v=4"
     },
     "philipp-spiess": {
       "total": 14,
@@ -10321,8 +10321,8 @@
   },
   "datePRInfos": {
     "Septembre-2018": {
-      "total": 26,
-      "merged": 20
+      "total": 28,
+      "merged": 21
     },
     "Août-2018": {
       "total": 122,
