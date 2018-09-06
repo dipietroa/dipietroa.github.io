@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-09-06T11:43:45.271Z",
+  "lastUpdate": "2018-09-06T12:43:47.253Z",
   "cowner": "nuclio",
   "crepo": "nuclio",
-  "totalPR": 691,
+  "totalPR": 692,
   "lastPR": {
-    "createdAt": "2018-09-03T16:17:07Z",
-    "username": "mavdryk"
+    "createdAt": "2018-09-06T11:44:34Z",
+    "username": "LevkoKozak"
   },
   "bestPR": {
     "user": "pavius",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/8350653?v=4"
   },
   "userPRInfos": {
+    "LevkoKozak": {
+      "total": 5,
+      "merged": 3,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/25303836?v=4"
+    },
     "mavdryk": {
       "total": 5,
       "merged": 4,
@@ -42,11 +47,6 @@
       "total": 6,
       "merged": 4,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/4353842?v=4"
-    },
-    "LevkoKozak": {
-      "total": 4,
-      "merged": 3,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/25303836?v=4"
     },
     "makrusak": {
       "total": 2,
@@ -181,7 +181,7 @@
   },
   "datePRInfos": {
     "Septembre-2018": {
-      "total": 4,
+      "total": 5,
       "merged": 3
     },
     "Août-2018": {
