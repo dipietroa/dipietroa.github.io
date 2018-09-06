@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-09-06T17:48:00.817Z",
+  "lastUpdate": "2018-09-06T18:47:40.806Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 7163,
+  "totalPR": 7164,
   "lastPR": {
-    "createdAt": "2018-09-06T15:58:54Z",
-    "username": "bvaughn"
+    "createdAt": "2018-09-06T18:24:44Z",
+    "username": "yungsters"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/3639670?v=4"
   },
   "userPRInfos": {
+    "yungsters": {
+      "total": 31,
+      "merged": 25,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/55161?v=4"
+    },
     "bvaughn": {
       "total": 265,
       "merged": 247,
@@ -97,11 +102,6 @@
       "total": 3,
       "merged": 0,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/12179856?v=4"
-    },
-    "yungsters": {
-      "total": 30,
-      "merged": 25,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/55161?v=4"
     },
     "acdlite": {
       "total": 227,
@@ -10326,7 +10326,7 @@
   },
   "datePRInfos": {
     "Septembre-2018": {
-      "total": 33,
+      "total": 34,
       "merged": 27
     },
     "Août-2018": {
