@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-09-05T23:43:18.449Z",
+  "lastUpdate": "2018-09-06T00:43:57.626Z",
   "cowner": "fastify",
   "crepo": "fastify",
-  "totalPR": 689,
+  "totalPR": 690,
   "lastPR": {
-    "createdAt": "2018-09-05T23:19:35Z",
-    "username": "charlesread"
+    "createdAt": "2018-09-06T00:31:38Z",
+    "username": "BridgeAR"
   },
   "bestPR": {
     "user": "delvedor",
@@ -23,6 +23,11 @@
     "image": "https://avatars0.githubusercontent.com/u/6388707?v=4"
   },
   "userPRInfos": {
+    "BridgeAR": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/8822573?v=4"
+    },
     "charlesread": {
       "total": 1,
       "merged": 0,
@@ -631,7 +636,7 @@
   },
   "datePRInfos": {
     "Septembre-2018": {
-      "total": 8,
+      "total": 9,
       "merged": 5
     },
     "Août-2018": {
