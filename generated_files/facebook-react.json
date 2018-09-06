@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-09-06T13:48:09.119Z",
+  "lastUpdate": "2018-09-06T14:48:35.562Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 7160,
+  "totalPR": 7161,
   "lastPR": {
-    "createdAt": "2018-09-05T21:00:34Z",
-    "username": "alexmckenley"
+    "createdAt": "2018-09-06T14:24:57Z",
+    "username": "bvaughn"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,19 +23,19 @@
     "image": "https://avatars1.githubusercontent.com/u/3639670?v=4"
   },
   "userPRInfos": {
+    "bvaughn": {
+      "total": 263,
+      "merged": 244,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/29597?v=4"
+    },
     "alexmckenley": {
       "total": 1,
       "merged": 1,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/3639670?v=4"
     },
-    "bvaughn": {
-      "total": 262,
-      "merged": 244,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/29597?v=4"
-    },
     "gaearon": {
       "total": 651,
-      "merged": 560,
+      "merged": 561,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/810438?v=4"
     },
     "NE-SmallTown": {
@@ -105,7 +105,7 @@
     },
     "acdlite": {
       "total": 227,
-      "merged": 181,
+      "merged": 182,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/3624098?v=4"
     },
     "FermiDirak": {
@@ -10326,12 +10326,12 @@
   },
   "datePRInfos": {
     "Septembre-2018": {
-      "total": 30,
-      "merged": 23
+      "total": 31,
+      "merged": 24
     },
     "Août-2018": {
       "total": 122,
-      "merged": 81
+      "merged": 82
     },
     "Juillet-2018": {
       "total": 86,
