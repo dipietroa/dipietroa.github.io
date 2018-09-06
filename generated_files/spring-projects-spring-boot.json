@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-09-06T09:42:04.315Z",
+  "lastUpdate": "2018-09-06T10:42:40.684Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2852,
+  "totalPR": 2853,
   "lastPR": {
-    "createdAt": "2018-09-05T17:25:19Z",
-    "username": "edethoor"
+    "createdAt": "2018-09-06T09:45:24Z",
+    "username": "mp911de"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "mp911de": {
+      "total": 15,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/1035015?v=4"
+    },
     "edethoor": {
       "total": 1,
       "merged": 0,
@@ -937,11 +942,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/974833?v=4"
-    },
-    "mp911de": {
-      "total": 14,
-      "merged": 0,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/1035015?v=4"
     },
     "panchenko": {
       "total": 2,
@@ -4256,7 +4256,7 @@
   },
   "datePRInfos": {
     "Septembre-2018": {
-      "total": 10,
+      "total": 11,
       "merged": 0
     },
     "Août-2018": {
