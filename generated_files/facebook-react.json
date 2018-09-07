@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-09-07T22:47:32.976Z",
+  "lastUpdate": "2018-09-07T23:46:11.609Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 7173,
+  "totalPR": 7174,
   "lastPR": {
-    "createdAt": "2018-09-07T21:30:52Z",
-    "username": "Simek"
+    "createdAt": "2018-09-07T23:30:49Z",
+    "username": "acdlite"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars2.githubusercontent.com/u/553376?v=4"
   },
   "userPRInfos": {
+    "acdlite": {
+      "total": 229,
+      "merged": 182,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/3624098?v=4"
+    },
     "Simek": {
       "total": 23,
       "merged": 15,
@@ -47,11 +52,6 @@
       "total": 1,
       "merged": 1,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/9049092?v=4"
-    },
-    "acdlite": {
-      "total": 228,
-      "merged": 182,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/3624098?v=4"
     },
     "web2033": {
       "total": 2,
@@ -10336,7 +10336,7 @@
   },
   "datePRInfos": {
     "Septembre-2018": {
-      "total": 43,
+      "total": 44,
       "merged": 32
     },
     "Août-2018": {
