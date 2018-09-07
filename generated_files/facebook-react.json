@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "2018-09-07T20:47:06.855Z",
+  "lastUpdate": "2018-09-07T21:46:23.923Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 7171,
+  "totalPR": 7173,
   "lastPR": {
-    "createdAt": "2018-09-07T18:46:46Z",
+    "createdAt": "2018-09-07T21:30:52Z",
     "username": "Simek"
   },
   "bestPR": {
@@ -24,9 +24,14 @@
   },
   "userPRInfos": {
     "Simek": {
-      "total": 22,
+      "total": 23,
       "merged": 15,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/719641?v=4"
+    },
+    "hramos": {
+      "total": 20,
+      "merged": 16,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/165856?v=4"
     },
     "bvaughn": {
       "total": 267,
@@ -517,11 +522,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/6145910?v=4"
-    },
-    "hramos": {
-      "total": 19,
-      "merged": 16,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/165856?v=4"
     },
     "whs-dot-hk": {
       "total": 1,
@@ -10336,7 +10336,7 @@
   },
   "datePRInfos": {
     "Septembre-2018": {
-      "total": 41,
+      "total": 43,
       "merged": 31
     },
     "Août-2018": {
