@@ -1,8 +1,8 @@
 {
-  "lastUpdate": "2018-09-07T17:47:08.463Z",
+  "lastUpdate": "2018-09-07T18:47:36.507Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 7170,
+  "totalPR": 7171,
   "lastPR": {
     "createdAt": "2018-09-07T17:12:38Z",
     "username": "bvaughn"
@@ -35,7 +35,7 @@
     },
     "ali-master": {
       "total": 1,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/9049092?v=4"
     },
     "acdlite": {
@@ -8424,7 +8424,7 @@
       "avatarUrl": "https://avatars3.githubusercontent.com/u/740268?v=4"
     },
     "streeter": {
-      "total": 1,
+      "total": 2,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/164168?v=4"
     },
@@ -10337,7 +10337,7 @@
   "datePRInfos": {
     "Septembre-2018": {
       "total": 40,
-      "merged": 30
+      "merged": 31
     },
     "Août-2018": {
       "total": 122,
@@ -10508,7 +10508,7 @@
       "merged": 108
     },
     "Février-2015": {
-      "total": 145,
+      "total": 146,
       "merged": 98
     },
     "Janvier-2015": {
