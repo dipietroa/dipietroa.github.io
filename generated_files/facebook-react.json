@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-09-07T18:47:36.507Z",
+  "lastUpdate": "2018-09-07T19:46:57.539Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 7171,
   "lastPR": {
-    "createdAt": "2018-09-07T17:12:38Z",
-    "username": "bvaughn"
+    "createdAt": "2018-09-07T18:46:46Z",
+    "username": "Simek"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars2.githubusercontent.com/u/553376?v=4"
   },
   "userPRInfos": {
+    "Simek": {
+      "total": 22,
+      "merged": 15,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/719641?v=4"
+    },
     "bvaughn": {
       "total": 267,
       "merged": 248,
@@ -252,11 +257,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/5440537?v=4"
-    },
-    "Simek": {
-      "total": 21,
-      "merged": 15,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/719641?v=4"
     },
     "nicosommi": {
       "total": 1,
@@ -8424,7 +8424,7 @@
       "avatarUrl": "https://avatars3.githubusercontent.com/u/740268?v=4"
     },
     "streeter": {
-      "total": 2,
+      "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/164168?v=4"
     },
@@ -10336,7 +10336,7 @@
   },
   "datePRInfos": {
     "Septembre-2018": {
-      "total": 40,
+      "total": 41,
       "merged": 31
     },
     "Août-2018": {
@@ -10508,7 +10508,7 @@
       "merged": 108
     },
     "Février-2015": {
-      "total": 146,
+      "total": 145,
       "merged": 98
     },
     "Janvier-2015": {
