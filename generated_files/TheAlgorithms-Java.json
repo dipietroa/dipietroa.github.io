@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-09-07T20:42:17.680Z",
+  "lastUpdate": "2018-09-07T21:42:05.222Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
   "totalPR": 445,
@@ -18,14 +18,14 @@
     "image": "https://avatars1.githubusercontent.com/u/16108563?v=4"
   },
   "bestRatio": {
-    "user": "DDullahan",
+    "user": "lakshay17244",
     "ratio": 1,
-    "image": "https://avatars0.githubusercontent.com/u/29816320?v=4"
+    "image": "https://avatars1.githubusercontent.com/u/31572434?v=4"
   },
   "userPRInfos": {
     "lakshay17244": {
       "total": 1,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/31572434?v=4"
     },
     "RalleYTN": {
@@ -1192,7 +1192,7 @@
   "datePRInfos": {
     "Septembre-2018": {
       "total": 8,
-      "merged": 0
+      "merged": 1
     },
     "Août-2018": {
       "total": 21,
