@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-09-07T15:47:08.567Z",
+  "lastUpdate": "2018-09-07T16:47:26.724Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 7169,
@@ -18,14 +18,14 @@
     "image": "https://avatars2.githubusercontent.com/u/6820?v=4"
   },
   "bestRatio": {
-    "user": "alexmckenley",
+    "user": "nishp1",
     "ratio": 1,
-    "image": "https://avatars1.githubusercontent.com/u/3639670?v=4"
+    "image": "https://avatars2.githubusercontent.com/u/553376?v=4"
   },
   "userPRInfos": {
     "nishp1": {
       "total": 1,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/553376?v=4"
     },
     "ali-master": {
@@ -10337,7 +10337,7 @@
   "datePRInfos": {
     "Septembre-2018": {
       "total": 39,
-      "merged": 29
+      "merged": 30
     },
     "Août-2018": {
       "total": 122,
