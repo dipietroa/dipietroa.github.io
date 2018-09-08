@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "2018-09-08T08:41:46.984Z",
+  "lastUpdate": "2018-09-08T09:42:43.595Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
-  "totalPR": 445,
+  "totalPR": 446,
   "lastPR": {
-    "createdAt": "2018-09-07T20:27:51Z",
+    "createdAt": "2018-09-08T08:55:02Z",
     "username": "lakshay17244"
   },
   "bestPR": {
@@ -18,13 +18,13 @@
     "image": "https://avatars1.githubusercontent.com/u/16108563?v=4"
   },
   "bestRatio": {
-    "user": "lakshay17244",
+    "user": "DDullahan",
     "ratio": 1,
-    "image": "https://avatars1.githubusercontent.com/u/31572434?v=4"
+    "image": "https://avatars0.githubusercontent.com/u/29816320?v=4"
   },
   "userPRInfos": {
     "lakshay17244": {
-      "total": 1,
+      "total": 2,
       "merged": 1,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/31572434?v=4"
     },
@@ -1191,7 +1191,7 @@
   },
   "datePRInfos": {
     "Septembre-2018": {
-      "total": 8,
+      "total": 9,
       "merged": 1
     },
     "Août-2018": {
