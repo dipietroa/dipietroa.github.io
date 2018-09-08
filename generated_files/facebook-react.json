@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-09-08T17:46:15.454Z",
+  "lastUpdate": "2018-09-08T18:46:25.867Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 7177,
+  "totalPR": 7178,
   "lastPR": {
-    "createdAt": "2018-09-08T15:42:11Z",
-    "username": "yunchancho"
+    "createdAt": "2018-09-08T17:51:54Z",
+    "username": "nhunzaker"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars2.githubusercontent.com/u/553376?v=4"
   },
   "userPRInfos": {
+    "nhunzaker": {
+      "total": 102,
+      "merged": 58,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/590904?v=4"
+    },
     "yunchancho": {
       "total": 3,
       "merged": 1,
@@ -122,11 +127,6 @@
       "total": 2,
       "merged": 0,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/8468371?v=4"
-    },
-    "nhunzaker": {
-      "total": 101,
-      "merged": 57,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/590904?v=4"
     },
     "janczer": {
       "total": 1,
@@ -10336,8 +10336,8 @@
   },
   "datePRInfos": {
     "Septembre-2018": {
-      "total": 47,
-      "merged": 32
+      "total": 48,
+      "merged": 33
     },
     "Août-2018": {
       "total": 122,
