@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-09-08T14:46:15.793Z",
+  "lastUpdate": "2018-09-08T15:46:48.244Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 7175,
+  "totalPR": 7177,
   "lastPR": {
-    "createdAt": "2018-09-08T03:30:15Z",
-    "username": "NE-SmallTown"
+    "createdAt": "2018-09-08T15:42:11Z",
+    "username": "yunchancho"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,16 @@
     "image": "https://avatars2.githubusercontent.com/u/553376?v=4"
   },
   "userPRInfos": {
+    "yunchancho": {
+      "total": 3,
+      "merged": 1,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/7057512?v=4"
+    },
+    "aweary": {
+      "total": 69,
+      "merged": 57,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/6886061?v=4"
+    },
     "NE-SmallTown": {
       "total": 15,
       "merged": 8,
@@ -188,11 +198,6 @@
       "merged": 1,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/5579638?v=4"
     },
-    "aweary": {
-      "total": 68,
-      "merged": 57,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/6886061?v=4"
-    },
     "elas7": {
       "total": 9,
       "merged": 7,
@@ -327,11 +332,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/8354571?v=4"
-    },
-    "yunchancho": {
-      "total": 2,
-      "merged": 1,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/7057512?v=4"
     },
     "sebmarkbage": {
       "total": 266,
@@ -10336,7 +10336,7 @@
   },
   "datePRInfos": {
     "Septembre-2018": {
-      "total": 45,
+      "total": 47,
       "merged": 32
     },
     "Août-2018": {
