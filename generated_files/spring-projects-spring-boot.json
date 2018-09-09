@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-09-09T05:42:20.620Z",
+  "lastUpdate": "2018-09-09T06:42:04.919Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2855,
+  "totalPR": 2856,
   "lastPR": {
-    "createdAt": "2018-09-08T14:55:46Z",
-    "username": "davidkarlsen"
+    "createdAt": "2018-09-09T06:13:49Z",
+    "username": "lkwg82"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "lkwg82": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/1891171?v=4"
+    },
     "davidkarlsen": {
       "total": 2,
       "merged": 0,
@@ -4256,7 +4261,7 @@
   },
   "datePRInfos": {
     "Septembre-2018": {
-      "total": 13,
+      "total": 14,
       "merged": 0
     },
     "Août-2018": {
