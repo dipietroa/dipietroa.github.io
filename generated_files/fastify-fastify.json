@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-09-09T08:43:16.764Z",
+  "lastUpdate": "2018-09-09T09:42:56.781Z",
   "cowner": "fastify",
   "crepo": "fastify",
-  "totalPR": 697,
+  "totalPR": 698,
   "lastPR": {
-    "createdAt": "2018-09-08T23:05:15Z",
-    "username": "trivikr"
+    "createdAt": "2018-09-09T08:56:32Z",
+    "username": "TheNoim"
   },
   "bestPR": {
     "user": "delvedor",
@@ -23,6 +23,11 @@
     "image": "https://avatars0.githubusercontent.com/u/6388707?v=4"
   },
   "userPRInfos": {
+    "TheNoim": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/5133056?v=4"
+    },
     "trivikr": {
       "total": 20,
       "merged": 12,
@@ -636,7 +641,7 @@
   },
   "datePRInfos": {
     "Septembre-2018": {
-      "total": 16,
+      "total": 17,
       "merged": 6
     },
     "Août-2018": {
