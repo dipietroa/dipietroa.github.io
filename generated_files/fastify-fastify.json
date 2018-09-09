@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-09-09T09:42:56.781Z",
+  "lastUpdate": "2018-09-09T10:43:32.843Z",
   "cowner": "fastify",
   "crepo": "fastify",
-  "totalPR": 698,
+  "totalPR": 699,
   "lastPR": {
-    "createdAt": "2018-09-09T08:56:32Z",
-    "username": "TheNoim"
+    "createdAt": "2018-09-09T10:10:50Z",
+    "username": "lependu"
   },
   "bestPR": {
     "user": "delvedor",
@@ -23,6 +23,11 @@
     "image": "https://avatars0.githubusercontent.com/u/6388707?v=4"
   },
   "userPRInfos": {
+    "lependu": {
+      "total": 8,
+      "merged": 7,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/6317507?v=4"
+    },
     "TheNoim": {
       "total": 1,
       "merged": 0,
@@ -157,11 +162,6 @@
       "total": 1,
       "merged": 1,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/3808838?v=4"
-    },
-    "lependu": {
-      "total": 7,
-      "merged": 7,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/6317507?v=4"
     },
     "vincent178": {
       "total": 9,
@@ -641,7 +641,7 @@
   },
   "datePRInfos": {
     "Septembre-2018": {
-      "total": 17,
+      "total": 18,
       "merged": 6
     },
     "Août-2018": {
