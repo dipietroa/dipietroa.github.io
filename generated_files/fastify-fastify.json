@@ -1,15 +1,15 @@
 {
-  "lastUpdate": "2018-09-09T15:43:39.900Z",
+  "lastUpdate": "2018-09-09T16:43:26.536Z",
   "cowner": "fastify",
   "crepo": "fastify",
-  "totalPR": 699,
+  "totalPR": 701,
   "lastPR": {
-    "createdAt": "2018-09-09T10:10:50Z",
-    "username": "lependu"
+    "createdAt": "2018-09-09T16:12:06Z",
+    "username": "TheNoim"
   },
   "bestPR": {
     "user": "delvedor",
-    "nbPR": 109,
+    "nbPR": 110,
     "image": "https://avatars0.githubusercontent.com/u/4865608?v=4"
   },
   "bestMerged": {
@@ -23,25 +23,25 @@
     "image": "https://avatars0.githubusercontent.com/u/6388707?v=4"
   },
   "userPRInfos": {
+    "TheNoim": {
+      "total": 2,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/5133056?v=4"
+    },
+    "delvedor": {
+      "total": 110,
+      "merged": 105,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/4865608?v=4"
+    },
     "lependu": {
       "total": 8,
       "merged": 7,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/6317507?v=4"
     },
-    "TheNoim": {
-      "total": 1,
-      "merged": 0,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/5133056?v=4"
-    },
     "trivikr": {
       "total": 20,
       "merged": 12,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/16024985?v=4"
-    },
-    "delvedor": {
-      "total": 109,
-      "merged": 105,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/4865608?v=4"
     },
     "cemremengu": {
       "total": 10,
@@ -641,7 +641,7 @@
   },
   "datePRInfos": {
     "Septembre-2018": {
-      "total": 18,
+      "total": 20,
       "merged": 7
     },
     "Août-2018": {
