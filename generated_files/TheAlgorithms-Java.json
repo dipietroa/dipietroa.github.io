@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-09-09T15:42:33.357Z",
+  "lastUpdate": "2018-09-09T16:42:22.552Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
   "totalPR": 447,
@@ -25,7 +25,7 @@
   "userPRInfos": {
     "lq920320": {
       "total": 6,
-      "merged": 3,
+      "merged": 4,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/18696549?v=4"
     },
     "lakshay17244": {
@@ -55,7 +55,7 @@
     },
     "MarisaAfuera": {
       "total": 4,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/19307756?v=4"
     },
     "DDullahan": {
@@ -1192,11 +1192,11 @@
   "datePRInfos": {
     "Septembre-2018": {
       "total": 10,
-      "merged": 1
+      "merged": 2
     },
     "Août-2018": {
       "total": 21,
-      "merged": 7
+      "merged": 8
     },
     "Juillet-2018": {
       "total": 12,
