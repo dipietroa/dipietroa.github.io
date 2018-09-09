@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-09-09T02:46:15.038Z",
+  "lastUpdate": "2018-09-09T03:46:28.266Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 7178,
+  "totalPR": 7179,
   "lastPR": {
-    "createdAt": "2018-09-08T17:51:54Z",
-    "username": "nhunzaker"
+    "createdAt": "2018-09-09T03:13:33Z",
+    "username": "sompylasar"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars2.githubusercontent.com/u/553376?v=4"
   },
   "userPRInfos": {
+    "sompylasar": {
+      "total": 5,
+      "merged": 3,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/498274?v=4"
+    },
     "nhunzaker": {
       "total": 102,
       "merged": 58,
@@ -497,11 +502,6 @@
       "total": 10,
       "merged": 5,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/7736232?v=4"
-    },
-    "sompylasar": {
-      "total": 4,
-      "merged": 3,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/498274?v=4"
     },
     "dexbol": {
       "total": 1,
@@ -10336,7 +10336,7 @@
   },
   "datePRInfos": {
     "Septembre-2018": {
-      "total": 48,
+      "total": 49,
       "merged": 34
     },
     "Août-2018": {
