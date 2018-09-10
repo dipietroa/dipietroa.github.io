@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-09-10T17:41:57.509Z",
+  "lastUpdate": "2018-09-10T18:41:49.524Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2858,
+  "totalPR": 2859,
   "lastPR": {
-    "createdAt": "2018-09-10T15:07:02Z",
-    "username": "sdeleuze"
+    "createdAt": "2018-09-10T18:17:46Z",
+    "username": "levippaul"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "levippaul": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/1095692?v=4"
+    },
     "sdeleuze": {
       "total": 28,
       "merged": 1,
@@ -4266,7 +4271,7 @@
   },
   "datePRInfos": {
     "Septembre-2018": {
-      "total": 16,
+      "total": 17,
       "merged": 0
     },
     "Août-2018": {
