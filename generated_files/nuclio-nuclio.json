@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "2018-09-10T09:43:47.731Z",
+  "lastUpdate": "2018-09-10T10:43:14.269Z",
   "cowner": "nuclio",
   "crepo": "nuclio",
-  "totalPR": 692,
+  "totalPR": 693,
   "lastPR": {
-    "createdAt": "2018-09-06T11:44:34Z",
+    "createdAt": "2018-09-10T10:20:39Z",
     "username": "LevkoKozak"
   },
   "bestPR": {
@@ -24,7 +24,7 @@
   },
   "userPRInfos": {
     "LevkoKozak": {
-      "total": 5,
+      "total": 6,
       "merged": 3,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/25303836?v=4"
     },
@@ -181,7 +181,7 @@
   },
   "datePRInfos": {
     "Septembre-2018": {
-      "total": 5,
+      "total": 6,
       "merged": 3
     },
     "Août-2018": {
