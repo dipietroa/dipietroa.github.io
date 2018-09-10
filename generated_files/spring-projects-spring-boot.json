@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-09-10T14:43:04.554Z",
+  "lastUpdate": "2018-09-10T15:42:41.340Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2857,
+  "totalPR": 2858,
   "lastPR": {
-    "createdAt": "2018-09-10T13:45:50Z",
-    "username": "tornaia"
+    "createdAt": "2018-09-10T15:07:02Z",
+    "username": "sdeleuze"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "sdeleuze": {
+      "total": 28,
+      "merged": 1,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/141109?v=4"
+    },
     "tornaia": {
       "total": 1,
       "merged": 0,
@@ -222,11 +227,6 @@
       "total": 10,
       "merged": 0,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/1683936?v=4"
-    },
-    "sdeleuze": {
-      "total": 27,
-      "merged": 1,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/141109?v=4"
     },
     "fprochazka": {
       "total": 1,
@@ -4266,7 +4266,7 @@
   },
   "datePRInfos": {
     "Septembre-2018": {
-      "total": 15,
+      "total": 16,
       "merged": 0
     },
     "Août-2018": {
