@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-09-10T17:47:18.255Z",
+  "lastUpdate": "2018-09-10T18:47:04.619Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 7185,
@@ -25,12 +25,12 @@
   "userPRInfos": {
     "gaearon": {
       "total": 654,
-      "merged": 563,
+      "merged": 564,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/810438?v=4"
     },
     "bvaughn": {
       "total": 269,
-      "merged": 249,
+      "merged": 250,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/29597?v=4"
     },
     "brandonvilla21": {
@@ -10342,7 +10342,7 @@
   "datePRInfos": {
     "Septembre-2018": {
       "total": 55,
-      "merged": 37
+      "merged": 39
     },
     "Août-2018": {
       "total": 122,
