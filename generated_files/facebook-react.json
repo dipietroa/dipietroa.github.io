@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-09-10T02:45:59.607Z",
+  "lastUpdate": "2018-09-10T03:46:21.665Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 7181,
+  "totalPR": 7182,
   "lastPR": {
-    "createdAt": "2018-09-09T18:06:22Z",
-    "username": "gaearon"
+    "createdAt": "2018-09-10T03:07:49Z",
+    "username": "brandonvilla21"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars2.githubusercontent.com/u/553376?v=4"
   },
   "userPRInfos": {
+    "brandonvilla21": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/20288447?v=4"
+    },
     "gaearon": {
       "total": 652,
       "merged": 561,
@@ -10336,7 +10341,7 @@
   },
   "datePRInfos": {
     "Septembre-2018": {
-      "total": 51,
+      "total": 52,
       "merged": 34
     },
     "Août-2018": {
