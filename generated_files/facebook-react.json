@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "2018-09-10T16:47:02.691Z",
+  "lastUpdate": "2018-09-10T17:47:18.255Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 7183,
+  "totalPR": 7185,
   "lastPR": {
-    "createdAt": "2018-09-10T16:27:09Z",
+    "createdAt": "2018-09-10T17:16:40Z",
     "username": "gaearon"
   },
   "bestPR": {
@@ -24,19 +24,19 @@
   },
   "userPRInfos": {
     "gaearon": {
-      "total": 653,
-      "merged": 562,
+      "total": 654,
+      "merged": 563,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/810438?v=4"
+    },
+    "bvaughn": {
+      "total": 269,
+      "merged": 249,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/29597?v=4"
     },
     "brandonvilla21": {
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/20288447?v=4"
-    },
-    "bvaughn": {
-      "total": 268,
-      "merged": 249,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/29597?v=4"
     },
     "sompylasar": {
       "total": 5,
@@ -10341,8 +10341,8 @@
   },
   "datePRInfos": {
     "Septembre-2018": {
-      "total": 53,
-      "merged": 36
+      "total": 55,
+      "merged": 37
     },
     "Août-2018": {
       "total": 122,
