@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-09-11T04:46:19.256Z",
+  "lastUpdate": "2018-09-11T05:46:40.581Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 7188,
+  "totalPR": 7189,
   "lastPR": {
-    "createdAt": "2018-09-11T02:24:39Z",
-    "username": "brandonvilla21"
+    "createdAt": "2018-09-11T04:54:19Z",
+    "username": "probablyup"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars2.githubusercontent.com/u/553376?v=4"
   },
   "userPRInfos": {
+    "probablyup": {
+      "total": 3,
+      "merged": 2,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/570070?v=4"
+    },
     "brandonvilla21": {
       "total": 2,
       "merged": 0,
@@ -3927,11 +3932,6 @@
       "total": 1,
       "merged": 1,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/23309890?v=4"
-    },
-    "probablyup": {
-      "total": 2,
-      "merged": 2,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/570070?v=4"
     },
     "iroshanAV": {
       "total": 1,
@@ -10346,7 +10346,7 @@
   },
   "datePRInfos": {
     "Septembre-2018": {
-      "total": 58,
+      "total": 59,
       "merged": 40
     },
     "Août-2018": {
