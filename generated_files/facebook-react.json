@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-09-11T14:48:43.166Z",
+  "lastUpdate": "2018-09-11T15:47:26.837Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 7190,
+  "totalPR": 7194,
   "lastPR": {
-    "createdAt": "2018-09-11T12:24:08Z",
-    "username": "lyhper"
+    "createdAt": "2018-09-11T15:27:45Z",
+    "username": "NE-SmallTown"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,21 @@
     "image": "https://avatars2.githubusercontent.com/u/553376?v=4"
   },
   "userPRInfos": {
+    "NE-SmallTown": {
+      "total": 17,
+      "merged": 8,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/18418010?v=4"
+    },
+    "link-alex": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/3674073?v=4"
+    },
+    "nhunzaker": {
+      "total": 103,
+      "merged": 59,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/590904?v=4"
+    },
     "lyhper": {
       "total": 1,
       "merged": 0,
@@ -58,11 +73,6 @@
       "merged": 3,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/498274?v=4"
     },
-    "nhunzaker": {
-      "total": 102,
-      "merged": 59,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/590904?v=4"
-    },
     "yunchancho": {
       "total": 3,
       "merged": 1,
@@ -72,11 +82,6 @@
       "total": 69,
       "merged": 58,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/6886061?v=4"
-    },
-    "NE-SmallTown": {
-      "total": 15,
-      "merged": 8,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/18418010?v=4"
     },
     "acdlite": {
       "total": 229,
@@ -10351,7 +10356,7 @@
   },
   "datePRInfos": {
     "Septembre-2018": {
-      "total": 60,
+      "total": 64,
       "merged": 40
     },
     "Août-2018": {
