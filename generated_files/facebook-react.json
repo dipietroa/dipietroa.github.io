@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-09-11T19:48:02.606Z",
+  "lastUpdate": "2018-09-11T20:47:48.875Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 7194,
+  "totalPR": 7195,
   "lastPR": {
-    "createdAt": "2018-09-11T15:27:45Z",
-    "username": "NE-SmallTown"
+    "createdAt": "2018-09-11T19:48:29Z",
+    "username": "hramos"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars2.githubusercontent.com/u/570070?v=4"
   },
   "userPRInfos": {
+    "hramos": {
+      "total": 21,
+      "merged": 18,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/165856?v=4"
+    },
     "NE-SmallTown": {
       "total": 17,
       "merged": 8,
@@ -92,11 +97,6 @@
       "total": 23,
       "merged": 15,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/719641?v=4"
-    },
-    "hramos": {
-      "total": 20,
-      "merged": 17,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/165856?v=4"
     },
     "nishp1": {
       "total": 1,
@@ -10356,8 +10356,8 @@
   },
   "datePRInfos": {
     "Septembre-2018": {
-      "total": 64,
-      "merged": 41
+      "total": 65,
+      "merged": 42
     },
     "Août-2018": {
       "total": 122,
