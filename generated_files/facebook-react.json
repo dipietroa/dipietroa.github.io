@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-09-11T11:46:50.220Z",
+  "lastUpdate": "2018-09-11T12:47:20.281Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 7189,
+  "totalPR": 7190,
   "lastPR": {
-    "createdAt": "2018-09-11T04:54:19Z",
-    "username": "probablyup"
+    "createdAt": "2018-09-11T12:24:08Z",
+    "username": "lyhper"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars2.githubusercontent.com/u/553376?v=4"
   },
   "userPRInfos": {
+    "lyhper": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/13343726?v=4"
+    },
     "probablyup": {
       "total": 3,
       "merged": 2,
@@ -10346,7 +10351,7 @@
   },
   "datePRInfos": {
     "Septembre-2018": {
-      "total": 59,
+      "total": 60,
       "merged": 40
     },
     "Août-2018": {
