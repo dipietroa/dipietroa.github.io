@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-09-11T01:46:43.959Z",
+  "lastUpdate": "2018-09-11T02:46:54.950Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 7186,
+  "totalPR": 7188,
   "lastPR": {
-    "createdAt": "2018-09-10T19:34:00Z",
-    "username": "bvaughn"
+    "createdAt": "2018-09-11T02:24:39Z",
+    "username": "brandonvilla21"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,16 @@
     "image": "https://avatars2.githubusercontent.com/u/553376?v=4"
   },
   "userPRInfos": {
+    "brandonvilla21": {
+      "total": 2,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/20288447?v=4"
+    },
+    "poeschko": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/586916?v=4"
+    },
     "bvaughn": {
       "total": 270,
       "merged": 251,
@@ -32,11 +42,6 @@
       "total": 654,
       "merged": 564,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/810438?v=4"
-    },
-    "brandonvilla21": {
-      "total": 1,
-      "merged": 0,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/20288447?v=4"
     },
     "sompylasar": {
       "total": 5,
@@ -10341,7 +10346,7 @@
   },
   "datePRInfos": {
     "Septembre-2018": {
-      "total": 56,
+      "total": 58,
       "merged": 40
     },
     "Août-2018": {
