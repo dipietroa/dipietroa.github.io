@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-09-11T18:42:43.531Z",
+  "lastUpdate": "2018-09-11T19:42:41.135Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2859,
+  "totalPR": 2860,
   "lastPR": {
-    "createdAt": "2018-09-10T18:17:46Z",
-    "username": "levippaul"
+    "createdAt": "2018-09-11T19:30:25Z",
+    "username": "jimlgx"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "jimlgx": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/1543562?v=4"
+    },
     "levippaul": {
       "total": 1,
       "merged": 0,
@@ -4271,7 +4276,7 @@
   },
   "datePRInfos": {
     "Septembre-2018": {
-      "total": 17,
+      "total": 18,
       "merged": 0
     },
     "Août-2018": {
