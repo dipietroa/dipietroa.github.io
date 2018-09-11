@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-09-11T16:44:30.257Z",
+  "lastUpdate": "2018-09-11T17:44:14.521Z",
   "cowner": "fastify",
   "crepo": "fastify",
-  "totalPR": 702,
+  "totalPR": 703,
   "lastPR": {
-    "createdAt": "2018-09-11T08:47:15Z",
-    "username": "SimenB"
+    "createdAt": "2018-09-11T16:46:39Z",
+    "username": "cemremengu"
   },
   "bestPR": {
     "user": "delvedor",
@@ -23,6 +23,11 @@
     "image": "https://avatars2.githubusercontent.com/u/5133056?v=4"
   },
   "userPRInfos": {
+    "cemremengu": {
+      "total": 11,
+      "merged": 8,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/1297759?v=4"
+    },
     "SimenB": {
       "total": 1,
       "merged": 0,
@@ -47,11 +52,6 @@
       "total": 20,
       "merged": 13,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/16024985?v=4"
-    },
-    "cemremengu": {
-      "total": 10,
-      "merged": 8,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/1297759?v=4"
     },
     "BridgeAR": {
       "total": 1,
@@ -646,7 +646,7 @@
   },
   "datePRInfos": {
     "Septembre-2018": {
-      "total": 21,
+      "total": 22,
       "merged": 11
     },
     "Août-2018": {
