@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-09-11T18:48:10.460Z",
+  "lastUpdate": "2018-09-11T19:48:02.606Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 7194,
@@ -18,9 +18,9 @@
     "image": "https://avatars2.githubusercontent.com/u/6820?v=4"
   },
   "bestRatio": {
-    "user": "nishp1",
+    "user": "probablyup",
     "ratio": 1,
-    "image": "https://avatars2.githubusercontent.com/u/553376?v=4"
+    "image": "https://avatars2.githubusercontent.com/u/570070?v=4"
   },
   "userPRInfos": {
     "NE-SmallTown": {
@@ -45,7 +45,7 @@
     },
     "probablyup": {
       "total": 3,
-      "merged": 2,
+      "merged": 3,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/570070?v=4"
     },
     "brandonvilla21": {
@@ -10357,7 +10357,7 @@
   "datePRInfos": {
     "Septembre-2018": {
       "total": 64,
-      "merged": 40
+      "merged": 41
     },
     "Août-2018": {
       "total": 122,
