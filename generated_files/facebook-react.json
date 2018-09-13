@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-09-13T19:47:20.339Z",
+  "lastUpdate": "2018-09-13T20:47:09.527Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 7202,
+  "totalPR": 7203,
   "lastPR": {
-    "createdAt": "2018-09-13T18:23:58Z",
-    "username": "dutiyesh"
+    "createdAt": "2018-09-13T20:30:09Z",
+    "username": "bvaughn"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,16 @@
     "image": "https://avatars3.githubusercontent.com/u/1273138?v=4"
   },
   "userPRInfos": {
+    "bvaughn": {
+      "total": 271,
+      "merged": 251,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/29597?v=4"
+    },
+    "janczer": {
+      "total": 2,
+      "merged": 1,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/13544213?v=4"
+    },
     "dutiyesh": {
       "total": 1,
       "merged": 0,
@@ -77,11 +87,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/586916?v=4"
-    },
-    "bvaughn": {
-      "total": 270,
-      "merged": 251,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/29597?v=4"
     },
     "sompylasar": {
       "total": 5,
@@ -167,11 +172,6 @@
       "total": 2,
       "merged": 0,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/8468371?v=4"
-    },
-    "janczer": {
-      "total": 1,
-      "merged": 1,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/13544213?v=4"
     },
     "alex-saunders": {
       "total": 1,
@@ -1764,8 +1764,8 @@
       "avatarUrl": "https://avatars3.githubusercontent.com/u/637868?v=4"
     },
     "joecritch": {
-      "total": 30,
-      "merged": 24,
+      "total": 29,
+      "merged": 23,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/24449?v=4"
     },
     "nihgwu": {
@@ -10366,7 +10366,7 @@
   },
   "datePRInfos": {
     "Septembre-2018": {
-      "total": 71,
+      "total": 73,
       "merged": 48
     },
     "Août-2018": {
@@ -10414,8 +10414,8 @@
       "merged": 160
     },
     "Septembre-2017": {
-      "total": 237,
-      "merged": 162
+      "total": 236,
+      "merged": 161
     },
     "Août-2017": {
       "total": 132,
