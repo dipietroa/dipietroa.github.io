@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-09-13T17:47:37.959Z",
+  "lastUpdate": "2018-09-13T18:47:12.610Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 7199,
+  "totalPR": 7201,
   "lastPR": {
-    "createdAt": "2018-09-13T08:54:07Z",
-    "username": "andresroberto"
+    "createdAt": "2018-09-13T18:23:58Z",
+    "username": "dutiyesh"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,15 +23,20 @@
     "image": "https://avatars3.githubusercontent.com/u/1273138?v=4"
   },
   "userPRInfos": {
+    "dutiyesh": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/12200583?v=4"
+    },
+    "gaearon": {
+      "total": 658,
+      "merged": 568,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/810438?v=4"
+    },
     "andresroberto": {
       "total": 1,
       "merged": 1,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/1273138?v=4"
-    },
-    "gaearon": {
-      "total": 657,
-      "merged": 567,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/810438?v=4"
     },
     "hramos": {
       "total": 21,
@@ -10361,8 +10366,8 @@
   },
   "datePRInfos": {
     "Septembre-2018": {
-      "total": 69,
-      "merged": 47
+      "total": 71,
+      "merged": 48
     },
     "Août-2018": {
       "total": 122,
