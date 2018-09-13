@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-09-13T11:41:58.487Z",
+  "lastUpdate": "2018-09-13T12:42:31.059Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2863,
+  "totalPR": 2864,
   "lastPR": {
-    "createdAt": "2018-09-12T17:30:27Z",
-    "username": "izeye"
+    "createdAt": "2018-09-13T12:14:59Z",
+    "username": "ruslanys"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "ruslanys": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/2351429?v=4"
+    },
     "izeye": {
       "total": 452,
       "merged": 2,
@@ -4276,7 +4281,7 @@
   },
   "datePRInfos": {
     "Septembre-2018": {
-      "total": 21,
+      "total": 22,
       "merged": 0
     },
     "Août-2018": {
