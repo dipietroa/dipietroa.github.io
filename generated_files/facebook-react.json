@@ -1,8 +1,8 @@
 {
-  "lastUpdate": "2018-09-13T18:47:12.610Z",
+  "lastUpdate": "2018-09-13T19:47:20.339Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 7201,
+  "totalPR": 7202,
   "lastPR": {
     "createdAt": "2018-09-13T18:23:58Z",
     "username": "dutiyesh"
@@ -1764,8 +1764,8 @@
       "avatarUrl": "https://avatars3.githubusercontent.com/u/637868?v=4"
     },
     "joecritch": {
-      "total": 29,
-      "merged": 23,
+      "total": 30,
+      "merged": 24,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/24449?v=4"
     },
     "nihgwu": {
@@ -10414,8 +10414,8 @@
       "merged": 160
     },
     "Septembre-2017": {
-      "total": 236,
-      "merged": 161
+      "total": 237,
+      "merged": 162
     },
     "Août-2017": {
       "total": 132,
