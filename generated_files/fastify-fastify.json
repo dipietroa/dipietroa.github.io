@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "2018-09-14T22:43:59.328Z",
+  "lastUpdate": "2018-09-14T23:43:45.934Z",
   "cowner": "fastify",
   "crepo": "fastify",
-  "totalPR": 704,
+  "totalPR": 705,
   "lastPR": {
-    "createdAt": "2018-09-14T21:49:31Z",
+    "createdAt": "2018-09-14T23:31:03Z",
     "username": "jineshshah36"
   },
   "bestPR": {
@@ -24,7 +24,7 @@
   },
   "userPRInfos": {
     "jineshshah36": {
-      "total": 1,
+      "total": 2,
       "merged": 0,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/6501089?v=4"
     },
@@ -651,7 +651,7 @@
   },
   "datePRInfos": {
     "Septembre-2018": {
-      "total": 23,
+      "total": 24,
       "merged": 12
     },
     "Août-2018": {
