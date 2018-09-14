@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "2018-09-14T22:47:28.324Z",
+  "lastUpdate": "2018-09-14T23:46:59.911Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 7209,
+  "totalPR": 7210,
   "lastPR": {
-    "createdAt": "2018-09-14T22:31:48Z",
+    "createdAt": "2018-09-14T23:14:53Z",
     "username": "edwinfrc"
   },
   "bestPR": {
@@ -24,7 +24,7 @@
   },
   "userPRInfos": {
     "edwinfrc": {
-      "total": 2,
+      "total": 3,
       "merged": 0,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/10235189?v=4"
     },
@@ -40,7 +40,7 @@
     },
     "nhunzaker": {
       "total": 104,
-      "merged": 60,
+      "merged": 62,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/590904?v=4"
     },
     "bvaughn": {
@@ -10376,8 +10376,8 @@
   },
   "datePRInfos": {
     "Septembre-2018": {
-      "total": 79,
-      "merged": 53
+      "total": 80,
+      "merged": 55
     },
     "Août-2018": {
       "total": 122,
