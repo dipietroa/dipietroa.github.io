@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-09-14T12:47:57.227Z",
+  "lastUpdate": "2018-09-14T13:47:31.322Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 7206,
+  "totalPR": 7207,
   "lastPR": {
-    "createdAt": "2018-09-14T07:53:02Z",
-    "username": "rodrigooler"
+    "createdAt": "2018-09-14T13:26:05Z",
+    "username": "JSteunou"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1273138?v=4"
   },
   "userPRInfos": {
+    "JSteunou": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/2323127?v=4"
+    },
     "rodrigooler": {
       "total": 2,
       "merged": 0,
@@ -10366,7 +10371,7 @@
   },
   "datePRInfos": {
     "Septembre-2018": {
-      "total": 76,
+      "total": 77,
       "merged": 51
     },
     "Août-2018": {
