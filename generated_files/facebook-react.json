@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-09-14T07:48:04.913Z",
+  "lastUpdate": "2018-09-14T08:46:59.959Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 7205,
+  "totalPR": 7206,
   "lastPR": {
-    "createdAt": "2018-09-14T00:50:32Z",
-    "username": "nhunzaker"
+    "createdAt": "2018-09-14T07:53:02Z",
+    "username": "rodrigooler"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1273138?v=4"
   },
   "userPRInfos": {
+    "rodrigooler": {
+      "total": 2,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/5496931?v=4"
+    },
     "nhunzaker": {
       "total": 104,
       "merged": 60,
@@ -2672,11 +2677,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/2420034?v=4"
-    },
-    "rodrigooler": {
-      "total": 1,
-      "merged": 0,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/5496931?v=4"
     },
     "hleumas": {
       "total": 1,
@@ -10366,7 +10366,7 @@
   },
   "datePRInfos": {
     "Septembre-2018": {
-      "total": 75,
+      "total": 76,
       "merged": 51
     },
     "Août-2018": {
