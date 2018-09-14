@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-09-13T23:46:37.569Z",
+  "lastUpdate": "2018-09-14T00:46:28.114Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 7204,
@@ -55,7 +55,7 @@
     },
     "NE-SmallTown": {
       "total": 17,
-      "merged": 8,
+      "merged": 9,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/18418010?v=4"
     },
     "link-alex": {
@@ -9183,7 +9183,7 @@
       "merged": 1,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/27819?v=4"
     },
-    "kureikain": {
+    "v9n": {
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/49754?v=4"
@@ -10367,7 +10367,7 @@
   "datePRInfos": {
     "Septembre-2018": {
       "total": 74,
-      "merged": 49
+      "merged": 50
     },
     "Août-2018": {
       "total": 122,
