@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-09-15T03:42:17.579Z",
+  "lastUpdate": "2018-09-15T04:41:51.471Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
-  "totalPR": 448,
+  "totalPR": 449,
   "lastPR": {
-    "createdAt": "2018-09-11T14:30:05Z",
-    "username": "cchenchunjiang"
+    "createdAt": "2018-09-15T04:00:36Z",
+    "username": "bhanuk97"
   },
   "bestPR": {
     "user": "theycallmemac",
@@ -23,6 +23,11 @@
     "image": "https://avatars0.githubusercontent.com/u/29816320?v=4"
   },
   "userPRInfos": {
+    "bhanuk97": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/43115610?v=4"
+    },
     "cchenchunjiang": {
       "total": 1,
       "merged": 0,
@@ -1196,7 +1201,7 @@
   },
   "datePRInfos": {
     "Septembre-2018": {
-      "total": 11,
+      "total": 12,
       "merged": 2
     },
     "Août-2018": {
