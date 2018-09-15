@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-09-15T14:42:38.472Z",
+  "lastUpdate": "2018-09-15T15:42:35.642Z",
   "cowner": "nuclio",
   "crepo": "nuclio",
   "totalPR": 696,
@@ -18,14 +18,14 @@
     "image": "https://avatars2.githubusercontent.com/u/423987?v=4"
   },
   "bestRatio": {
-    "user": "ScienJus",
+    "user": "phi2039",
     "ratio": 1,
-    "image": "https://avatars3.githubusercontent.com/u/8350653?v=4"
+    "image": "https://avatars2.githubusercontent.com/u/859293?v=4"
   },
   "userPRInfos": {
     "phi2039": {
       "total": 2,
-      "merged": 1,
+      "merged": 2,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/859293?v=4"
     },
     "levrado": {
@@ -187,7 +187,7 @@
   "datePRInfos": {
     "Septembre-2018": {
       "total": 9,
-      "merged": 5
+      "merged": 6
     },
     "Août-2018": {
       "total": 22,
