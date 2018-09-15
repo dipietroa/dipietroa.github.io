@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-09-14T23:46:59.911Z",
+  "lastUpdate": "2018-09-15T00:46:24.194Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 7210,
+  "totalPR": 7207,
   "lastPR": {
-    "createdAt": "2018-09-14T23:14:53Z",
-    "username": "edwinfrc"
+    "createdAt": "2018-09-14T13:26:05Z",
+    "username": "JSteunou"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,11 +23,6 @@
     "image": "https://avatars3.githubusercontent.com/u/2323127?v=4"
   },
   "userPRInfos": {
-    "edwinfrc": {
-      "total": 3,
-      "merged": 0,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/10235189?v=4"
-    },
     "JSteunou": {
       "total": 1,
       "merged": 1,
@@ -10376,7 +10371,7 @@
   },
   "datePRInfos": {
     "Septembre-2018": {
-      "total": 80,
+      "total": 77,
       "merged": 55
     },
     "Août-2018": {
