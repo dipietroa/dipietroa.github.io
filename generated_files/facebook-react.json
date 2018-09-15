@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-09-15T01:46:47.290Z",
+  "lastUpdate": "2018-09-15T02:46:26.774Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 7207,
+  "totalPR": 7208,
   "lastPR": {
-    "createdAt": "2018-09-14T13:26:05Z",
-    "username": "JSteunou"
+    "createdAt": "2018-09-15T02:24:41Z",
+    "username": "alexeyraspopov"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/2323127?v=4"
   },
   "userPRInfos": {
+    "alexeyraspopov": {
+      "total": 6,
+      "merged": 4,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/858295?v=4"
+    },
     "JSteunou": {
       "total": 1,
       "merged": 1,
@@ -327,11 +332,6 @@
       "total": 3,
       "merged": 1,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/5635476?v=4"
-    },
-    "alexeyraspopov": {
-      "total": 5,
-      "merged": 4,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/858295?v=4"
     },
     "clarkdo": {
       "total": 3,
@@ -10371,7 +10371,7 @@
   },
   "datePRInfos": {
     "Septembre-2018": {
-      "total": 77,
+      "total": 78,
       "merged": 55
     },
     "Août-2018": {
