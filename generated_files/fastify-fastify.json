@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-09-15T10:43:06.764Z",
+  "lastUpdate": "2018-09-15T11:42:46.350Z",
   "cowner": "fastify",
   "crepo": "fastify",
-  "totalPR": 705,
+  "totalPR": 706,
   "lastPR": {
-    "createdAt": "2018-09-14T23:31:03Z",
-    "username": "jineshshah36"
+    "createdAt": "2018-09-15T11:30:18Z",
+    "username": "prithvihv"
   },
   "bestPR": {
     "user": "delvedor",
@@ -23,6 +23,11 @@
     "image": "https://avatars2.githubusercontent.com/u/5133056?v=4"
   },
   "userPRInfos": {
+    "prithvihv": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/30316924?v=4"
+    },
     "jineshshah36": {
       "total": 2,
       "merged": 0,
@@ -651,7 +656,7 @@
   },
   "datePRInfos": {
     "Septembre-2018": {
-      "total": 24,
+      "total": 25,
       "merged": 12
     },
     "Août-2018": {
