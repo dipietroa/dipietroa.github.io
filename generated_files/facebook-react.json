@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-09-16T13:46:28.911Z",
+  "lastUpdate": "2018-09-16T14:47:08.012Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 7212,
+  "totalPR": 7213,
   "lastPR": {
-    "createdAt": "2018-09-16T11:11:03Z",
-    "username": "eostb"
+    "createdAt": "2018-09-16T14:25:36Z",
+    "username": "armujahid"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,15 +23,15 @@
     "image": "https://avatars0.githubusercontent.com/u/5314713?v=4"
   },
   "userPRInfos": {
+    "armujahid": {
+      "total": 2,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/3725386?v=4"
+    },
     "eostb": {
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/37868588?v=4"
-    },
-    "armujahid": {
-      "total": 1,
-      "merged": 0,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/3725386?v=4"
     },
     "Zzzen": {
       "total": 1,
@@ -10391,7 +10391,7 @@
   },
   "datePRInfos": {
     "Septembre-2018": {
-      "total": 82,
+      "total": 83,
       "merged": 57
     },
     "Août-2018": {
