@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-09-16T15:41:25.373Z",
+  "lastUpdate": "2018-09-16T16:41:39.678Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2869,
+  "totalPR": 2870,
   "lastPR": {
-    "createdAt": "2018-09-16T03:08:56Z",
-    "username": "durigon"
+    "createdAt": "2018-09-16T16:23:54Z",
+    "username": "michaelmcfadyen"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "michaelmcfadyen": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/2422268?v=4"
+    },
     "durigon": {
       "total": 1,
       "merged": 0,
@@ -4286,7 +4291,7 @@
   },
   "datePRInfos": {
     "Septembre-2018": {
-      "total": 27,
+      "total": 28,
       "merged": 0
     },
     "Août-2018": {
