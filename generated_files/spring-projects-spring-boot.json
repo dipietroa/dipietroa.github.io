@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-09-16T02:41:24.418Z",
+  "lastUpdate": "2018-09-16T03:41:29.879Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2868,
+  "totalPR": 2869,
   "lastPR": {
-    "createdAt": "2018-09-14T20:16:02Z",
-    "username": "ayudovin"
+    "createdAt": "2018-09-16T03:08:56Z",
+    "username": "durigon"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "durigon": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/5009181?v=4"
+    },
     "ayudovin": {
       "total": 23,
       "merged": 0,
@@ -4281,7 +4286,7 @@
   },
   "datePRInfos": {
     "Septembre-2018": {
-      "total": 26,
+      "total": 27,
       "merged": 0
     },
     "Août-2018": {
