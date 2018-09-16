@@ -1,8 +1,8 @@
 {
-  "lastUpdate": "2018-09-16T08:46:13.710Z",
+  "lastUpdate": "2018-09-16T09:46:09.445Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 7210,
+  "totalPR": 7211,
   "lastPR": {
     "createdAt": "2018-09-16T06:03:42Z",
     "username": "Zzzen"
@@ -8989,7 +8989,7 @@
       "avatarUrl": "https://avatars2.githubusercontent.com/u/18042?v=4"
     },
     "n1ghtmare": {
-      "total": 1,
+      "total": 2,
       "merged": 0,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/3255810?v=4"
     },
@@ -10565,7 +10565,7 @@
       "merged": 57
     },
     "Novembre-2014": {
-      "total": 95,
+      "total": 96,
       "merged": 71
     },
     "Octobre-2014": {
