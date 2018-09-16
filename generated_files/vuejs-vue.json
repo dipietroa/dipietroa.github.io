@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-09-16T07:42:31.368Z",
+  "lastUpdate": "2018-09-16T08:42:40.111Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 1267,
+  "totalPR": 1268,
   "lastPR": {
-    "createdAt": "2018-09-13T15:26:30Z",
-    "username": "JJJYY"
+    "createdAt": "2018-09-16T07:59:03Z",
+    "username": "Hoishin"
   },
   "bestPR": {
     "user": "kazupon",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/16292606?v=4"
   },
   "userPRInfos": {
+    "Hoishin": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/28832095?v=4"
+    },
     "JJJYY": {
       "total": 3,
       "merged": 0,
@@ -2856,7 +2861,7 @@
   },
   "datePRInfos": {
     "Septembre-2018": {
-      "total": 4,
+      "total": 5,
       "merged": 0
     },
     "Août-2018": {
