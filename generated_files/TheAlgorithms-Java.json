@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-09-16T16:41:58.983Z",
+  "lastUpdate": "2018-09-16T17:42:29.820Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
   "totalPR": 449,
@@ -328,10 +328,10 @@
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/17304839?v=4"
     },
-    "berixo": {
-      "total": 1,
-      "merged": 0,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/36671264?v=4"
+    "ghost": {
+      "total": 6,
+      "merged": 1,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/10137?v=4"
     },
     "shaqed": {
       "total": 1,
@@ -512,11 +512,6 @@
       "total": 2,
       "merged": 2,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/26190214?v=4"
-    },
-    "ghost": {
-      "total": 5,
-      "merged": 1,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/10137?v=4"
     },
     "honeycoder96": {
       "total": 1,
