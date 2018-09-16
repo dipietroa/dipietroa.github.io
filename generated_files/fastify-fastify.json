@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-09-16T17:43:31.653Z",
+  "lastUpdate": "2018-09-16T18:42:52.113Z",
   "cowner": "fastify",
   "crepo": "fastify",
   "totalPR": 708,
@@ -30,7 +30,7 @@
     },
     "jineshshah36": {
       "total": 3,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/6501089?v=4"
     },
     "prithvihv": {
@@ -662,7 +662,7 @@
   "datePRInfos": {
     "Septembre-2018": {
       "total": 27,
-      "merged": 12
+      "merged": 13
     },
     "Août-2018": {
       "total": 47,
