@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-09-16T04:43:39.891Z",
+  "lastUpdate": "2018-09-16T05:43:06.014Z",
   "cowner": "fastify",
   "crepo": "fastify",
-  "totalPR": 707,
+  "totalPR": 708,
   "lastPR": {
-    "createdAt": "2018-09-15T14:54:52Z",
-    "username": "jineshshah36"
+    "createdAt": "2018-09-16T05:12:08Z",
+    "username": "trxcllnt"
   },
   "bestPR": {
     "user": "delvedor",
@@ -23,6 +23,11 @@
     "image": "https://avatars2.githubusercontent.com/u/5133056?v=4"
   },
   "userPRInfos": {
+    "trxcllnt": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/178183?v=4"
+    },
     "jineshshah36": {
       "total": 3,
       "merged": 0,
@@ -656,7 +661,7 @@
   },
   "datePRInfos": {
     "Septembre-2018": {
-      "total": 26,
+      "total": 27,
       "merged": 12
     },
     "Août-2018": {
