@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-09-16T17:43:15.981Z",
+  "lastUpdate": "2018-09-16T18:42:35.945Z",
   "cowner": "nuclio",
   "crepo": "nuclio",
   "totalPR": 698,
@@ -35,7 +35,7 @@
     },
     "LevkoKozak": {
       "total": 6,
-      "merged": 3,
+      "merged": 4,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/25303836?v=4"
     },
     "mavdryk": {
@@ -187,7 +187,7 @@
   "datePRInfos": {
     "Septembre-2018": {
       "total": 11,
-      "merged": 8
+      "merged": 9
     },
     "Août-2018": {
       "total": 22,
