@@ -1,20 +1,20 @@
 {
-  "lastUpdate": "2018-09-16T18:42:35.945Z",
+  "lastUpdate": "2018-09-16T19:42:49.785Z",
   "cowner": "nuclio",
   "crepo": "nuclio",
-  "totalPR": 698,
+  "totalPR": 700,
   "lastPR": {
-    "createdAt": "2018-09-16T11:41:59Z",
+    "createdAt": "2018-09-16T19:41:23Z",
     "username": "levrado"
   },
   "bestPR": {
     "user": "pavius",
-    "nbPR": 336,
+    "nbPR": 337,
     "image": "https://avatars2.githubusercontent.com/u/423987?v=4"
   },
   "bestMerged": {
     "user": "pavius",
-    "nbPR": 333,
+    "nbPR": 334,
     "image": "https://avatars2.githubusercontent.com/u/423987?v=4"
   },
   "bestRatio": {
@@ -24,9 +24,14 @@
   },
   "userPRInfos": {
     "levrado": {
-      "total": 9,
+      "total": 10,
       "merged": 7,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/4353842?v=4"
+    },
+    "pavius": {
+      "total": 337,
+      "merged": 334,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/423987?v=4"
     },
     "phi2039": {
       "total": 2,
@@ -57,11 +62,6 @@
       "total": 2,
       "merged": 1,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/823054?v=4"
-    },
-    "pavius": {
-      "total": 336,
-      "merged": 333,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/423987?v=4"
     },
     "Sharon-iguazio": {
       "total": 29,
@@ -186,8 +186,8 @@
   },
   "datePRInfos": {
     "Septembre-2018": {
-      "total": 11,
-      "merged": 9
+      "total": 13,
+      "merged": 10
     },
     "Août-2018": {
       "total": 22,
