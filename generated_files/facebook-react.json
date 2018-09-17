@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-09-17T08:46:32.835Z",
+  "lastUpdate": "2018-09-17T09:47:50.599Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 7213,
+  "totalPR": 7214,
   "lastPR": {
-    "createdAt": "2018-09-16T14:25:36Z",
-    "username": "armujahid"
+    "createdAt": "2018-09-17T09:12:43Z",
+    "username": "Kachulio1"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars0.githubusercontent.com/u/5314713?v=4"
   },
   "userPRInfos": {
+    "Kachulio1": {
+      "total": 2,
+      "merged": 1,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/22243090?v=4"
+    },
     "armujahid": {
       "total": 2,
       "merged": 0,
@@ -297,11 +302,6 @@
       "total": 1,
       "merged": 1,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/38136?v=4"
-    },
-    "Kachulio1": {
-      "total": 1,
-      "merged": 1,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/22243090?v=4"
     },
     "aseem191": {
       "total": 1,
@@ -10391,7 +10391,7 @@
   },
   "datePRInfos": {
     "Septembre-2018": {
-      "total": 83,
+      "total": 84,
       "merged": 57
     },
     "Août-2018": {
