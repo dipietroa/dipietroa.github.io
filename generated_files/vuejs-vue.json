@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-09-17T19:43:49.871Z",
+  "lastUpdate": "2018-09-17T20:43:50.931Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 1268,
+  "totalPR": 1269,
   "lastPR": {
-    "createdAt": "2018-09-16T07:59:03Z",
-    "username": "Hoishin"
+    "createdAt": "2018-09-17T20:05:35Z",
+    "username": "rhengles"
   },
   "bestPR": {
     "user": "kazupon",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/16292606?v=4"
   },
   "userPRInfos": {
+    "rhengles": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/8967?v=4"
+    },
     "Hoishin": {
       "total": 1,
       "merged": 0,
@@ -2861,7 +2866,7 @@
   },
   "datePRInfos": {
     "Septembre-2018": {
-      "total": 5,
+      "total": 6,
       "merged": 0
     },
     "Août-2018": {
