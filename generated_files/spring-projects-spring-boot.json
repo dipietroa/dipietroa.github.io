@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-09-17T20:42:39.246Z",
+  "lastUpdate": "2018-09-17T21:42:33.127Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2871,
+  "totalPR": 2872,
   "lastPR": {
-    "createdAt": "2018-09-17T18:34:43Z",
-    "username": "fonimus"
+    "createdAt": "2018-09-17T20:43:04Z",
+    "username": "pulkitmehra"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "pulkitmehra": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/2367991?v=4"
+    },
     "fonimus": {
       "total": 1,
       "merged": 0,
@@ -4296,7 +4301,7 @@
   },
   "datePRInfos": {
     "Septembre-2018": {
-      "total": 29,
+      "total": 30,
       "merged": 0
     },
     "Août-2018": {
