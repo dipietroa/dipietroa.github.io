@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-09-18T06:43:26.060Z",
+  "lastUpdate": "2018-09-18T07:43:16.281Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 1269,
+  "totalPR": 1270,
   "lastPR": {
-    "createdAt": "2018-09-17T20:05:35Z",
-    "username": "rhengles"
+    "createdAt": "2018-09-18T07:07:44Z",
+    "username": "kaorun343"
   },
   "bestPR": {
     "user": "kazupon",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/16292606?v=4"
   },
   "userPRInfos": {
+    "kaorun343": {
+      "total": 12,
+      "merged": 8,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/5625395?v=4"
+    },
     "rhengles": {
       "total": 1,
       "merged": 0,
@@ -1748,11 +1753,6 @@
       "merged": 1,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/13304454?v=4"
     },
-    "kaorun343": {
-      "total": 11,
-      "merged": 8,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/5625395?v=4"
-    },
     "FezVrasta": {
       "total": 1,
       "merged": 0,
@@ -2866,7 +2866,7 @@
   },
   "datePRInfos": {
     "Septembre-2018": {
-      "total": 6,
+      "total": 7,
       "merged": 0
     },
     "Août-2018": {
