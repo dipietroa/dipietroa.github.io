@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-09-18T18:43:41.883Z",
+  "lastUpdate": "2018-09-18T19:43:21.988Z",
   "cowner": "fastify",
   "crepo": "fastify",
-  "totalPR": 709,
+  "totalPR": 710,
   "lastPR": {
-    "createdAt": "2018-09-18T16:38:26Z",
-    "username": "cemremengu"
+    "createdAt": "2018-09-18T19:34:48Z",
+    "username": "greenkeeper[bot]"
   },
   "bestPR": {
     "user": "delvedor",
@@ -23,6 +23,11 @@
     "image": "https://avatars2.githubusercontent.com/u/5133056?v=4"
   },
   "userPRInfos": {
+    "greenkeeper[bot]": {
+      "total": 63,
+      "merged": 32,
+      "avatarUrl": "https://avatars3.githubusercontent.com/in/505?v=4"
+    },
     "cemremengu": {
       "total": 12,
       "merged": 10,
@@ -107,11 +112,6 @@
       "total": 39,
       "merged": 39,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/321201?v=4"
-    },
-    "greenkeeper[bot]": {
-      "total": 62,
-      "merged": 32,
-      "avatarUrl": "https://avatars3.githubusercontent.com/in/505?v=4"
     },
     "spcfran": {
       "total": 1,
@@ -661,7 +661,7 @@
   },
   "datePRInfos": {
     "Septembre-2018": {
-      "total": 28,
+      "total": 29,
       "merged": 15
     },
     "Août-2018": {
