@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-09-18T12:47:02.706Z",
+  "lastUpdate": "2018-09-18T13:48:30.334Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 7217,
+  "totalPR": 7218,
   "lastPR": {
-    "createdAt": "2018-09-18T04:00:45Z",
-    "username": "CharlieTruong"
+    "createdAt": "2018-09-18T12:56:54Z",
+    "username": "arty-name"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars0.githubusercontent.com/u/5314713?v=4"
   },
   "userPRInfos": {
+    "arty-name": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/133055?v=4"
+    },
     "CharlieTruong": {
       "total": 1,
       "merged": 0,
@@ -10396,7 +10401,7 @@
   },
   "datePRInfos": {
     "Septembre-2018": {
-      "total": 87,
+      "total": 88,
       "merged": 58
     },
     "Août-2018": {
