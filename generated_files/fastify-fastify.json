@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-09-18T15:44:25.650Z",
+  "lastUpdate": "2018-09-18T16:44:29.339Z",
   "cowner": "fastify",
   "crepo": "fastify",
-  "totalPR": 708,
+  "totalPR": 709,
   "lastPR": {
-    "createdAt": "2018-09-16T05:12:08Z",
-    "username": "trxcllnt"
+    "createdAt": "2018-09-18T16:38:26Z",
+    "username": "cemremengu"
   },
   "bestPR": {
     "user": "delvedor",
@@ -23,6 +23,11 @@
     "image": "https://avatars2.githubusercontent.com/u/5133056?v=4"
   },
   "userPRInfos": {
+    "cemremengu": {
+      "total": 12,
+      "merged": 10,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/1297759?v=4"
+    },
     "trxcllnt": {
       "total": 1,
       "merged": 0,
@@ -37,11 +42,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/30316924?v=4"
-    },
-    "cemremengu": {
-      "total": 11,
-      "merged": 10,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/1297759?v=4"
     },
     "SimenB": {
       "total": 1,
@@ -661,7 +661,7 @@
   },
   "datePRInfos": {
     "Septembre-2018": {
-      "total": 27,
+      "total": 28,
       "merged": 15
     },
     "Août-2018": {
