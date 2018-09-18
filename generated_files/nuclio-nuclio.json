@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-09-18T09:43:16.238Z",
+  "lastUpdate": "2018-09-18T10:43:22.321Z",
   "cowner": "nuclio",
   "crepo": "nuclio",
-  "totalPR": 700,
+  "totalPR": 701,
   "lastPR": {
-    "createdAt": "2018-09-16T19:41:23Z",
-    "username": "levrado"
+    "createdAt": "2018-09-18T10:12:42Z",
+    "username": "gtopper"
   },
   "bestPR": {
     "user": "pavius",
@@ -23,6 +23,11 @@
     "image": "https://avatars2.githubusercontent.com/u/859293?v=4"
   },
   "userPRInfos": {
+    "gtopper": {
+      "total": 2,
+      "merged": 1,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/4675524?v=4"
+    },
     "levrado": {
       "total": 10,
       "merged": 8,
@@ -82,11 +87,6 @@
       "total": 2,
       "merged": 2,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/8350653?v=4"
-    },
-    "gtopper": {
-      "total": 1,
-      "merged": 1,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/4675524?v=4"
     },
     "sony2": {
       "total": 2,
@@ -186,7 +186,7 @@
   },
   "datePRInfos": {
     "Septembre-2018": {
-      "total": 13,
+      "total": 14,
       "merged": 11
     },
     "Août-2018": {
