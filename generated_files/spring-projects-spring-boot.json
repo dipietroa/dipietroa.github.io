@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-09-18T06:42:27.046Z",
+  "lastUpdate": "2018-09-18T07:42:17.766Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2873,
+  "totalPR": 2874,
   "lastPR": {
-    "createdAt": "2018-09-18T03:37:35Z",
-    "username": "origoni"
+    "createdAt": "2018-09-18T07:30:20Z",
+    "username": "yongsungjeon"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "yongsungjeon": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/10806241?v=4"
+    },
     "origoni": {
       "total": 2,
       "merged": 0,
@@ -4301,7 +4306,7 @@
   },
   "datePRInfos": {
     "Septembre-2018": {
-      "total": 31,
+      "total": 32,
       "merged": 0
     },
     "Août-2018": {
