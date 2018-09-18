@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-09-18T20:43:38.683Z",
+  "lastUpdate": "2018-09-18T21:43:53.066Z",
   "cowner": "fastify",
   "crepo": "fastify",
-  "totalPR": 711,
+  "totalPR": 713,
   "lastPR": {
-    "createdAt": "2018-09-18T20:33:37Z",
-    "username": "cemremengu"
+    "createdAt": "2018-09-18T21:26:48Z",
+    "username": "StarpTech"
   },
   "bestPR": {
     "user": "delvedor",
@@ -23,14 +23,19 @@
     "image": "https://avatars2.githubusercontent.com/u/5133056?v=4"
   },
   "userPRInfos": {
+    "StarpTech": {
+      "total": 37,
+      "merged": 27,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/1764424?v=4"
+    },
     "cemremengu": {
-      "total": 13,
-      "merged": 11,
+      "total": 14,
+      "merged": 12,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/1297759?v=4"
     },
     "greenkeeper[bot]": {
       "total": 63,
-      "merged": 32,
+      "merged": 33,
       "avatarUrl": "https://avatars3.githubusercontent.com/in/505?v=4"
     },
     "trxcllnt": {
@@ -212,11 +217,6 @@
       "total": 1,
       "merged": 1,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/5403397?v=4"
-    },
-    "StarpTech": {
-      "total": 36,
-      "merged": 27,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/1764424?v=4"
     },
     "rjoydip": {
       "total": 2,
@@ -661,8 +661,8 @@
   },
   "datePRInfos": {
     "Septembre-2018": {
-      "total": 30,
-      "merged": 16
+      "total": 32,
+      "merged": 18
     },
     "Août-2018": {
       "total": 47,
