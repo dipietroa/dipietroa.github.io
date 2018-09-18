@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-09-18T01:42:35.103Z",
+  "lastUpdate": "2018-09-18T02:42:39.743Z",
   "cowner": "vuejs",
   "crepo": "vue",
   "totalPR": 1269,
@@ -195,7 +195,7 @@
     },
     "ktsn": {
       "total": 24,
-      "merged": 20,
+      "merged": 21,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/2194624?v=4"
     },
     "xyzingh": {
@@ -2875,7 +2875,7 @@
     },
     "Juillet-2018": {
       "total": 25,
-      "merged": 0
+      "merged": 1
     },
     "Juin-2018": {
       "total": 26,
