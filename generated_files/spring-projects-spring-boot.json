@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-09-18T02:41:40.836Z",
+  "lastUpdate": "2018-09-18T03:42:37.141Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2872,
+  "totalPR": 2873,
   "lastPR": {
-    "createdAt": "2018-09-17T20:43:04Z",
-    "username": "pulkitmehra"
+    "createdAt": "2018-09-18T03:37:35Z",
+    "username": "origoni"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "origoni": {
+      "total": 2,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/5846518?v=4"
+    },
     "pulkitmehra": {
       "total": 1,
       "merged": 0,
@@ -672,11 +677,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/32992247?v=4"
-    },
-    "origoni": {
-      "total": 1,
-      "merged": 0,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/5846518?v=4"
     },
     "JagmohanSharma": {
       "total": 1,
@@ -4301,7 +4301,7 @@
   },
   "datePRInfos": {
     "Septembre-2018": {
-      "total": 30,
+      "total": 31,
       "merged": 0
     },
     "Août-2018": {
