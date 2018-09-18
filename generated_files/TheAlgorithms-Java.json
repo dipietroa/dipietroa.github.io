@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-09-18T03:42:58.238Z",
+  "lastUpdate": "2018-09-18T04:42:07.983Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
-  "totalPR": 450,
+  "totalPR": 451,
   "lastPR": {
-    "createdAt": "2018-09-16T20:14:08Z",
-    "username": "Harinvpatel"
+    "createdAt": "2018-09-18T03:53:11Z",
+    "username": "tristangreeno"
   },
   "bestPR": {
     "user": "theycallmemac",
@@ -23,6 +23,11 @@
     "image": "https://avatars0.githubusercontent.com/u/29816320?v=4"
   },
   "userPRInfos": {
+    "tristangreeno": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/13792183?v=4"
+    },
     "Harinvpatel": {
       "total": 1,
       "merged": 0,
@@ -1201,7 +1206,7 @@
   },
   "datePRInfos": {
     "Septembre-2018": {
-      "total": 13,
+      "total": 14,
       "merged": 2
     },
     "Août-2018": {
