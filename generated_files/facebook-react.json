@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-09-19T17:47:22.829Z",
+  "lastUpdate": "2018-09-19T18:49:22.139Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 7223,
+  "totalPR": 7224,
   "lastPR": {
-    "createdAt": "2018-09-19T15:00:14Z",
-    "username": "mmarkelov"
+    "createdAt": "2018-09-19T18:08:55Z",
+    "username": "Simek"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -18,14 +18,19 @@
     "image": "https://avatars2.githubusercontent.com/u/6820?v=4"
   },
   "bestRatio": {
-    "user": "skvale",
+    "user": "mmarkelov",
     "ratio": 1,
-    "image": "https://avatars0.githubusercontent.com/u/5314713?v=4"
+    "image": "https://avatars1.githubusercontent.com/u/22371328?v=4"
   },
   "userPRInfos": {
+    "Simek": {
+      "total": 24,
+      "merged": 15,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/719641?v=4"
+    },
     "mmarkelov": {
       "total": 1,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/22371328?v=4"
     },
     "plievone": {
@@ -167,11 +172,6 @@
       "total": 229,
       "merged": 183,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/3624098?v=4"
-    },
-    "Simek": {
-      "total": 23,
-      "merged": 15,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/719641?v=4"
     },
     "nishp1": {
       "total": 1,
@@ -10406,8 +10406,8 @@
   },
   "datePRInfos": {
     "Septembre-2018": {
-      "total": 93,
-      "merged": 61
+      "total": 94,
+      "merged": 62
     },
     "Août-2018": {
       "total": 122,
