@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-09-19T14:48:45.954Z",
+  "lastUpdate": "2018-09-19T15:47:59.296Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 7222,
+  "totalPR": 7223,
   "lastPR": {
-    "createdAt": "2018-09-19T12:49:09Z",
-    "username": "plievone"
+    "createdAt": "2018-09-19T15:00:14Z",
+    "username": "mmarkelov"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars0.githubusercontent.com/u/5314713?v=4"
   },
   "userPRInfos": {
+    "mmarkelov": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/22371328?v=4"
+    },
     "plievone": {
       "total": 6,
       "merged": 3,
@@ -10401,7 +10406,7 @@
   },
   "datePRInfos": {
     "Septembre-2018": {
-      "total": 92,
+      "total": 93,
       "merged": 61
     },
     "Août-2018": {
