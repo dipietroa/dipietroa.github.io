@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-09-19T19:47:38.431Z",
+  "lastUpdate": "2018-09-19T20:48:23.305Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 7225,
   "lastPR": {
-    "createdAt": "2018-09-19T18:08:55Z",
-    "username": "Simek"
+    "createdAt": "2018-09-19T19:46:30Z",
+    "username": "ps0305"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/22371328?v=4"
   },
   "userPRInfos": {
+    "ps0305": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/34129569?v=4"
+    },
     "Simek": {
       "total": 24,
       "merged": 15,
@@ -7659,7 +7664,7 @@
       "avatarUrl": "https://avatars3.githubusercontent.com/u/2202751?v=4"
     },
     "jscheel": {
-      "total": 2,
+      "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/211478?v=4"
     },
@@ -10406,7 +10411,7 @@
   },
   "datePRInfos": {
     "Septembre-2018": {
-      "total": 94,
+      "total": 95,
       "merged": 62
     },
     "Août-2018": {
@@ -10562,7 +10567,7 @@
       "merged": 109
     },
     "Juin-2015": {
-      "total": 147,
+      "total": 146,
       "merged": 109
     },
     "Mai-2015": {
