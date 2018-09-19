@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-09-19T11:44:03.142Z",
+  "lastUpdate": "2018-09-19T12:44:31.051Z",
   "cowner": "fastify",
   "crepo": "fastify",
-  "totalPR": 716,
+  "totalPR": 717,
   "lastPR": {
-    "createdAt": "2018-09-19T09:01:10Z",
-    "username": "delvedor"
+    "createdAt": "2018-09-19T12:22:14Z",
+    "username": "Yuyz0112"
   },
   "bestPR": {
     "user": "delvedor",
@@ -23,6 +23,11 @@
     "image": "https://avatars2.githubusercontent.com/u/5133056?v=4"
   },
   "userPRInfos": {
+    "Yuyz0112": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/13651389?v=4"
+    },
     "delvedor": {
       "total": 111,
       "merged": 106,
@@ -661,7 +666,7 @@
   },
   "datePRInfos": {
     "Septembre-2018": {
-      "total": 35,
+      "total": 36,
       "merged": 20
     },
     "Août-2018": {
