@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-09-19T12:48:28.768Z",
+  "lastUpdate": "2018-09-19T13:48:33.141Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 7221,
+  "totalPR": 7222,
   "lastPR": {
-    "createdAt": "2018-09-19T02:15:30Z",
-    "username": "NE-SmallTown"
+    "createdAt": "2018-09-19T12:49:09Z",
+    "username": "plievone"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars0.githubusercontent.com/u/5314713?v=4"
   },
   "userPRInfos": {
+    "plievone": {
+      "total": 6,
+      "merged": 3,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/134936?v=4"
+    },
     "NE-SmallTown": {
       "total": 19,
       "merged": 11,
@@ -9918,11 +9923,6 @@
       "merged": 1,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/240284?v=4"
     },
-    "plievone": {
-      "total": 5,
-      "merged": 3,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/134936?v=4"
-    },
     "ugin": {
       "total": 1,
       "merged": 0,
@@ -10401,7 +10401,7 @@
   },
   "datePRInfos": {
     "Septembre-2018": {
-      "total": 91,
+      "total": 92,
       "merged": 61
     },
     "Août-2018": {
