@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-09-19T13:44:39.341Z",
+  "lastUpdate": "2018-09-19T14:44:41.301Z",
   "cowner": "fastify",
   "crepo": "fastify",
-  "totalPR": 717,
+  "totalPR": 718,
   "lastPR": {
-    "createdAt": "2018-09-19T12:22:14Z",
-    "username": "Yuyz0112"
+    "createdAt": "2018-09-19T13:49:45Z",
+    "username": "lependu"
   },
   "bestPR": {
     "user": "delvedor",
@@ -18,11 +18,16 @@
     "image": "https://avatars0.githubusercontent.com/u/4865608?v=4"
   },
   "bestRatio": {
-    "user": "TheNoim",
+    "user": "lependu",
     "ratio": 1,
-    "image": "https://avatars2.githubusercontent.com/u/5133056?v=4"
+    "image": "https://avatars2.githubusercontent.com/u/6317507?v=4"
   },
   "userPRInfos": {
+    "lependu": {
+      "total": 9,
+      "merged": 9,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/6317507?v=4"
+    },
     "Yuyz0112": {
       "total": 1,
       "merged": 0,
@@ -72,11 +77,6 @@
       "total": 2,
       "merged": 2,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/5133056?v=4"
-    },
-    "lependu": {
-      "total": 8,
-      "merged": 8,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/6317507?v=4"
     },
     "trivikr": {
       "total": 20,
@@ -666,8 +666,8 @@
   },
   "datePRInfos": {
     "Septembre-2018": {
-      "total": 36,
-      "merged": 20
+      "total": 37,
+      "merged": 21
     },
     "Août-2018": {
       "total": 47,
