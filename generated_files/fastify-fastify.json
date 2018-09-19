@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-09-19T18:44:59.517Z",
+  "lastUpdate": "2018-09-19T19:43:45.352Z",
   "cowner": "fastify",
   "crepo": "fastify",
   "totalPR": 718,
@@ -30,7 +30,7 @@
     },
     "Yuyz0112": {
       "total": 1,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/13651389?v=4"
     },
     "delvedor": {
@@ -667,7 +667,7 @@
   "datePRInfos": {
     "Septembre-2018": {
       "total": 37,
-      "merged": 21
+      "merged": 22
     },
     "Août-2018": {
       "total": 47,
