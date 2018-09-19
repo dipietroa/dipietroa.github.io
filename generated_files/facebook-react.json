@@ -1,8 +1,8 @@
 {
-  "lastUpdate": "2018-09-19T18:49:22.139Z",
+  "lastUpdate": "2018-09-19T19:47:38.431Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 7224,
+  "totalPR": 7225,
   "lastPR": {
     "createdAt": "2018-09-19T18:08:55Z",
     "username": "Simek"
@@ -7659,7 +7659,7 @@
       "avatarUrl": "https://avatars3.githubusercontent.com/u/2202751?v=4"
     },
     "jscheel": {
-      "total": 1,
+      "total": 2,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/211478?v=4"
     },
@@ -10562,7 +10562,7 @@
       "merged": 109
     },
     "Juin-2015": {
-      "total": 146,
+      "total": 147,
       "merged": 109
     },
     "Mai-2015": {
