@@ -1,15 +1,15 @@
 {
-  "lastUpdate": "2018-09-19T17:41:49.956Z",
+  "lastUpdate": "2018-09-19T18:42:54.831Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2879,
+  "totalPR": 2882,
   "lastPR": {
-    "createdAt": "2018-09-19T14:24:46Z",
-    "username": "michael-simons"
+    "createdAt": "2018-09-19T18:08:39Z",
+    "username": "agebhar1"
   },
   "bestPR": {
     "user": "izeye",
-    "nbPR": 453,
+    "nbPR": 454,
     "image": "https://avatars3.githubusercontent.com/u/1059363?v=4"
   },
   "bestMerged": {
@@ -23,6 +23,21 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "agebhar1": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/2443866?v=4"
+    },
+    "handcraftedbits": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/8005751?v=4"
+    },
+    "izeye": {
+      "total": 454,
+      "merged": 2,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/1059363?v=4"
+    },
     "michael-simons": {
       "total": 18,
       "merged": 0,
@@ -37,11 +52,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/448282?v=4"
-    },
-    "izeye": {
-      "total": 453,
-      "merged": 2,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/1059363?v=4"
     },
     "marceloverdijk": {
       "total": 14,
@@ -4316,7 +4326,7 @@
   },
   "datePRInfos": {
     "Septembre-2018": {
-      "total": 37,
+      "total": 40,
       "merged": 0
     },
     "Août-2018": {
