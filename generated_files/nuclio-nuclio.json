@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-09-20T19:43:45.290Z",
+  "lastUpdate": "2018-09-20T20:43:39.986Z",
   "cowner": "nuclio",
   "crepo": "nuclio",
   "totalPR": 706,
@@ -14,7 +14,7 @@
   },
   "bestMerged": {
     "user": "pavius",
-    "nbPR": 336,
+    "nbPR": 337,
     "image": "https://avatars2.githubusercontent.com/u/423987?v=4"
   },
   "bestRatio": {
@@ -25,7 +25,7 @@
   "userPRInfos": {
     "pavius": {
       "total": 340,
-      "merged": 336,
+      "merged": 337,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/423987?v=4"
     },
     "YarovoiVadym": {
@@ -187,7 +187,7 @@
   "datePRInfos": {
     "Septembre-2018": {
       "total": 19,
-      "merged": 15
+      "merged": 16
     },
     "Août-2018": {
       "total": 22,
