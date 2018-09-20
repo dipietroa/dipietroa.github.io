@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-09-20T17:43:47.213Z",
+  "lastUpdate": "2018-09-20T18:43:38.540Z",
   "cowner": "fastify",
   "crepo": "fastify",
-  "totalPR": 718,
+  "totalPR": 719,
   "lastPR": {
-    "createdAt": "2018-09-19T13:49:45Z",
-    "username": "lependu"
+    "createdAt": "2018-09-20T18:34:41Z",
+    "username": "cemremengu"
   },
   "bestPR": {
     "user": "delvedor",
@@ -23,6 +23,11 @@
     "image": "https://avatars2.githubusercontent.com/u/6317507?v=4"
   },
   "userPRInfos": {
+    "cemremengu": {
+      "total": 17,
+      "merged": 13,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/1297759?v=4"
+    },
     "lependu": {
       "total": 9,
       "merged": 9,
@@ -37,11 +42,6 @@
       "total": 111,
       "merged": 106,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/4865608?v=4"
-    },
-    "cemremengu": {
-      "total": 16,
-      "merged": 13,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/1297759?v=4"
     },
     "StarpTech": {
       "total": 37,
@@ -666,7 +666,7 @@
   },
   "datePRInfos": {
     "Septembre-2018": {
-      "total": 37,
+      "total": 38,
       "merged": 22
     },
     "Août-2018": {
