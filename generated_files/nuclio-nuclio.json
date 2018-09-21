@@ -1,20 +1,20 @@
 {
-  "lastUpdate": "2018-09-21T18:43:34.672Z",
+  "lastUpdate": "2018-09-21T19:43:45.014Z",
   "cowner": "nuclio",
   "crepo": "nuclio",
-  "totalPR": 708,
+  "totalPR": 709,
   "lastPR": {
-    "createdAt": "2018-09-21T13:18:42Z",
-    "username": "LevkoKozak"
+    "createdAt": "2018-09-21T18:46:41Z",
+    "username": "pavius"
   },
   "bestPR": {
     "user": "pavius",
-    "nbPR": 340,
+    "nbPR": 341,
     "image": "https://avatars2.githubusercontent.com/u/423987?v=4"
   },
   "bestMerged": {
     "user": "pavius",
-    "nbPR": 337,
+    "nbPR": 338,
     "image": "https://avatars2.githubusercontent.com/u/423987?v=4"
   },
   "bestRatio": {
@@ -23,6 +23,11 @@
     "image": "https://avatars2.githubusercontent.com/u/859293?v=4"
   },
   "userPRInfos": {
+    "pavius": {
+      "total": 341,
+      "merged": 338,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/423987?v=4"
+    },
     "LevkoKozak": {
       "total": 7,
       "merged": 5,
@@ -32,11 +37,6 @@
       "total": 16,
       "merged": 14,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/25031243?v=4"
-    },
-    "pavius": {
-      "total": 340,
-      "merged": 337,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/423987?v=4"
     },
     "YarovoiVadym": {
       "total": 10,
@@ -186,8 +186,8 @@
   },
   "datePRInfos": {
     "Septembre-2018": {
-      "total": 21,
-      "merged": 17
+      "total": 22,
+      "merged": 18
     },
     "Août-2018": {
       "total": 22,
