@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-09-21T20:46:49.187Z",
+  "lastUpdate": "2018-09-21T22:46:53.328Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 7228,
+  "totalPR": 7229,
   "lastPR": {
-    "createdAt": "2018-09-21T08:51:37Z",
-    "username": "rainbowcatcher"
+    "createdAt": "2018-09-21T22:10:11Z",
+    "username": "TigerPaw122"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/22371328?v=4"
   },
   "userPRInfos": {
+    "TigerPaw122": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/29075412?v=4"
+    },
     "rainbowcatcher": {
       "total": 1,
       "merged": 0,
@@ -10426,7 +10431,7 @@
   },
   "datePRInfos": {
     "Septembre-2018": {
-      "total": 98,
+      "total": 99,
       "merged": 62
     },
     "Août-2018": {
