@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-09-21T13:42:39.984Z",
+  "lastUpdate": "2018-09-21T14:42:37.766Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2888,
+  "totalPR": 2891,
   "lastPR": {
-    "createdAt": "2018-09-21T08:20:59Z",
-    "username": "izeye"
+    "createdAt": "2018-09-21T14:35:26Z",
+    "username": "marceloverdijk"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,21 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "marceloverdijk": {
+      "total": 15,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/197004?v=4"
+    },
+    "garyrussell": {
+      "total": 53,
+      "merged": 1,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/483832?v=4"
+    },
+    "michael-simons": {
+      "total": 21,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/526383?v=4"
+    },
     "izeye": {
       "total": 455,
       "merged": 2,
@@ -32,11 +47,6 @@
       "total": 3,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/19226330?v=4"
-    },
-    "michael-simons": {
-      "total": 20,
-      "merged": 0,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/526383?v=4"
     },
     "qct": {
       "total": 4,
@@ -67,11 +77,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/448282?v=4"
-    },
-    "marceloverdijk": {
-      "total": 14,
-      "merged": 0,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/197004?v=4"
     },
     "yongsungjeon": {
       "total": 1,
@@ -117,11 +122,6 @@
       "total": 2,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/2351429?v=4"
-    },
-    "garyrussell": {
-      "total": 52,
-      "merged": 1,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/483832?v=4"
     },
     "jimlgx": {
       "total": 1,
@@ -4331,7 +4331,7 @@
   },
   "datePRInfos": {
     "Septembre-2018": {
-      "total": 46,
+      "total": 49,
       "merged": 0
     },
     "Août-2018": {
