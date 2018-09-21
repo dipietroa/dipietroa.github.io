@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-09-21T08:46:57.978Z",
+  "lastUpdate": "2018-09-21T09:47:51.271Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 7227,
+  "totalPR": 7228,
   "lastPR": {
-    "createdAt": "2018-09-20T10:36:19Z",
-    "username": "Topthinking"
+    "createdAt": "2018-09-21T08:51:37Z",
+    "username": "rainbowcatcher"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/22371328?v=4"
   },
   "userPRInfos": {
+    "rainbowcatcher": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/9025276?v=4"
+    },
     "Topthinking": {
       "total": 1,
       "merged": 0,
@@ -10421,7 +10426,7 @@
   },
   "datePRInfos": {
     "Septembre-2018": {
-      "total": 97,
+      "total": 98,
       "merged": 62
     },
     "Août-2018": {
