@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "2018-09-21T12:43:56.022Z",
+  "lastUpdate": "2018-09-21T13:44:31.025Z",
   "cowner": "fastify",
   "crepo": "fastify",
-  "totalPR": 720,
+  "totalPR": 721,
   "lastPR": {
-    "createdAt": "2018-09-21T11:09:02Z",
+    "createdAt": "2018-09-21T13:06:19Z",
     "username": "mcollina"
   },
   "bestPR": {
@@ -24,8 +24,8 @@
   },
   "userPRInfos": {
     "mcollina": {
-      "total": 86,
-      "merged": 81,
+      "total": 87,
+      "merged": 82,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/52195?v=4"
     },
     "cemremengu": {
@@ -666,8 +666,8 @@
   },
   "datePRInfos": {
     "Septembre-2018": {
-      "total": 39,
-      "merged": 24
+      "total": 40,
+      "merged": 25
     },
     "Août-2018": {
       "total": 47,
