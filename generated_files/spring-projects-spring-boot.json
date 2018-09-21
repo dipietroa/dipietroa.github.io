@@ -1,15 +1,15 @@
 {
-  "lastUpdate": "2018-09-21T07:41:58.471Z",
+  "lastUpdate": "2018-09-21T08:41:47.718Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2887,
+  "totalPR": 2888,
   "lastPR": {
-    "createdAt": "2018-09-21T05:32:40Z",
-    "username": "Hanope"
+    "createdAt": "2018-09-21T08:20:59Z",
+    "username": "izeye"
   },
   "bestPR": {
     "user": "izeye",
-    "nbPR": 454,
+    "nbPR": 455,
     "image": "https://avatars3.githubusercontent.com/u/1059363?v=4"
   },
   "bestMerged": {
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "izeye": {
+      "total": 455,
+      "merged": 2,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/1059363?v=4"
+    },
     "Hanope": {
       "total": 3,
       "merged": 0,
@@ -52,11 +57,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/8005751?v=4"
-    },
-    "izeye": {
-      "total": 454,
-      "merged": 2,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/1059363?v=4"
     },
     "rodolphocouto": {
       "total": 1,
@@ -4331,7 +4331,7 @@
   },
   "datePRInfos": {
     "Septembre-2018": {
-      "total": 45,
+      "total": 46,
       "merged": 0
     },
     "Août-2018": {
