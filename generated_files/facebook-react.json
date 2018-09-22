@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "2018-09-22T14:47:25.924Z",
+  "lastUpdate": "2018-09-22T15:45:48.062Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 7230,
+  "totalPR": 7231,
   "lastPR": {
-    "createdAt": "2018-09-22T13:18:31Z",
+    "createdAt": "2018-09-22T15:11:17Z",
     "username": "mmarkelov"
   },
   "bestPR": {
@@ -24,7 +24,7 @@
   },
   "userPRInfos": {
     "mmarkelov": {
-      "total": 2,
+      "total": 3,
       "merged": 1,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/22371328?v=4"
     },
@@ -10431,7 +10431,7 @@
   },
   "datePRInfos": {
     "Septembre-2018": {
-      "total": 100,
+      "total": 101,
       "merged": 62
     },
     "Août-2018": {
