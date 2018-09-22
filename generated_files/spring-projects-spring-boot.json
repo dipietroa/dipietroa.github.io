@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "2018-09-22T16:42:16.688Z",
+  "lastUpdate": "2018-09-22T17:42:19.314Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2895,
+  "totalPR": 2896,
   "lastPR": {
-    "createdAt": "2018-09-22T16:29:27Z",
+    "createdAt": "2018-09-22T16:49:59Z",
     "username": "ayudovin"
   },
   "bestPR": {
@@ -24,7 +24,7 @@
   },
   "userPRInfos": {
     "ayudovin": {
-      "total": 26,
+      "total": 27,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/34862741?v=4"
     },
@@ -4331,7 +4331,7 @@
   },
   "datePRInfos": {
     "Septembre-2018": {
-      "total": 53,
+      "total": 54,
       "merged": 0
     },
     "Août-2018": {
