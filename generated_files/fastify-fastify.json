@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-09-22T06:43:48.320Z",
+  "lastUpdate": "2018-09-22T07:43:36.303Z",
   "cowner": "fastify",
   "crepo": "fastify",
   "totalPR": 723,
@@ -18,19 +18,19 @@
     "image": "https://avatars0.githubusercontent.com/u/4865608?v=4"
   },
   "bestRatio": {
-    "user": "lependu",
+    "user": "amilajack",
     "ratio": 1,
-    "image": "https://avatars2.githubusercontent.com/u/6317507?v=4"
+    "image": "https://avatars1.githubusercontent.com/u/6374832?v=4"
   },
   "userPRInfos": {
     "amilajack": {
       "total": 1,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/6374832?v=4"
     },
     "ofavre": {
       "total": 1,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/95129?v=4"
     },
     "mcollina": {
@@ -677,7 +677,7 @@
   "datePRInfos": {
     "Septembre-2018": {
       "total": 42,
-      "merged": 27
+      "merged": 29
     },
     "Août-2018": {
       "total": 47,
