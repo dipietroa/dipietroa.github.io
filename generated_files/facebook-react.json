@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-09-23T09:46:24.882Z",
+  "lastUpdate": "2018-09-23T10:46:12.107Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 7231,
+  "totalPR": 7232,
   "lastPR": {
-    "createdAt": "2018-09-22T15:11:17Z",
-    "username": "mmarkelov"
+    "createdAt": "2018-09-23T10:25:12Z",
+    "username": "philipp-spiess"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars0.githubusercontent.com/u/5314713?v=4"
   },
   "userPRInfos": {
+    "philipp-spiess": {
+      "total": 15,
+      "merged": 14,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/458591?v=4"
+    },
     "mmarkelov": {
       "total": 3,
       "merged": 1,
@@ -232,11 +237,6 @@
       "total": 2,
       "merged": 2,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/1758366?v=4"
-    },
-    "philipp-spiess": {
-      "total": 14,
-      "merged": 13,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/458591?v=4"
     },
     "Ephem": {
       "total": 1,
@@ -10431,8 +10431,8 @@
   },
   "datePRInfos": {
     "Septembre-2018": {
-      "total": 101,
-      "merged": 62
+      "total": 102,
+      "merged": 63
     },
     "Août-2018": {
       "total": 122,
