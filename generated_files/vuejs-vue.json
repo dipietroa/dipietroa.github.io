@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-09-23T19:43:20.625Z",
+  "lastUpdate": "2018-09-23T20:42:44.573Z",
   "cowner": "vuejs",
   "crepo": "vue",
   "totalPR": 1271,
   "lastPR": {
-    "createdAt": "2018-09-18T07:07:44Z",
-    "username": "kaorun343"
+    "createdAt": "2018-09-23T19:43:14Z",
+    "username": "nbaulesglobalsolutions"
   },
   "bestPR": {
     "user": "kazupon",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/16292606?v=4"
   },
   "userPRInfos": {
+    "nbaulesglobalsolutions": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/17095798?v=4"
+    },
     "kaorun343": {
       "total": 12,
       "merged": 8,
@@ -1789,8 +1794,8 @@
       "avatarUrl": "https://avatars1.githubusercontent.com/u/14853553?v=4"
     },
     "Jinjiang": {
-      "total": 21,
-      "merged": 15,
+      "total": 20,
+      "merged": 14,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/206848?v=4"
     },
     "miherlosev": {
@@ -2866,7 +2871,7 @@
   },
   "datePRInfos": {
     "Septembre-2018": {
-      "total": 7,
+      "total": 8,
       "merged": 0
     },
     "Août-2018": {
@@ -2982,8 +2987,8 @@
       "merged": 36
     },
     "Avril-2016": {
-      "total": 41,
-      "merged": 33
+      "total": 40,
+      "merged": 32
     },
     "Mars-2016": {
       "total": 21,
