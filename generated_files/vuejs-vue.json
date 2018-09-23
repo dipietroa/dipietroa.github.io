@@ -1,8 +1,8 @@
 {
-  "lastUpdate": "2018-09-23T18:42:36.814Z",
+  "lastUpdate": "2018-09-23T19:43:20.625Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 1270,
+  "totalPR": 1271,
   "lastPR": {
     "createdAt": "2018-09-18T07:07:44Z",
     "username": "kaorun343"
@@ -1789,8 +1789,8 @@
       "avatarUrl": "https://avatars1.githubusercontent.com/u/14853553?v=4"
     },
     "Jinjiang": {
-      "total": 20,
-      "merged": 14,
+      "total": 21,
+      "merged": 15,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/206848?v=4"
     },
     "miherlosev": {
@@ -2982,8 +2982,8 @@
       "merged": 36
     },
     "Avril-2016": {
-      "total": 40,
-      "merged": 32
+      "total": 41,
+      "merged": 33
     },
     "Mars-2016": {
       "total": 21,
