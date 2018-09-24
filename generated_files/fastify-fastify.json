@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-09-24T17:44:17.258Z",
+  "lastUpdate": "2018-09-24T18:44:13.506Z",
   "cowner": "fastify",
   "crepo": "fastify",
-  "totalPR": 724,
+  "totalPR": 725,
   "lastPR": {
-    "createdAt": "2018-09-22T08:42:13Z",
-    "username": "cemremengu"
+    "createdAt": "2018-09-24T18:31:56Z",
+    "username": "clarkorz"
   },
   "bestPR": {
     "user": "delvedor",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/6374832?v=4"
   },
   "userPRInfos": {
+    "clarkorz": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/3261477?v=4"
+    },
     "cemremengu": {
       "total": 18,
       "merged": 15,
@@ -676,7 +681,7 @@
   },
   "datePRInfos": {
     "Septembre-2018": {
-      "total": 43,
+      "total": 44,
       "merged": 29
     },
     "Août-2018": {
