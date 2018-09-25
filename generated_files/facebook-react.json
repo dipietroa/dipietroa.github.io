@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-09-25T16:47:34.762Z",
+  "lastUpdate": "2018-09-25T17:47:27.615Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 7236,
+  "totalPR": 7237,
   "lastPR": {
-    "createdAt": "2018-09-25T14:48:37Z",
-    "username": "NE-SmallTown"
+    "createdAt": "2018-09-25T17:33:35Z",
+    "username": "yongningfu"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,15 +23,15 @@
     "image": "https://avatars3.githubusercontent.com/u/748074?v=4"
   },
   "userPRInfos": {
+    "yongningfu": {
+      "total": 2,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/9846613?v=4"
+    },
     "NE-SmallTown": {
       "total": 20,
       "merged": 12,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/18418010?v=4"
-    },
-    "yongningfu": {
-      "total": 1,
-      "merged": 0,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/9846613?v=4"
     },
     "acdlite": {
       "total": 230,
@@ -10436,7 +10436,7 @@
   },
   "datePRInfos": {
     "Septembre-2018": {
-      "total": 106,
+      "total": 107,
       "merged": 65
     },
     "Août-2018": {
