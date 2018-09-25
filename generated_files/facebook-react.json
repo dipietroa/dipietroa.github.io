@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-09-25T14:48:12.526Z",
+  "lastUpdate": "2018-09-25T15:47:30.969Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 7235,
+  "totalPR": 7236,
   "lastPR": {
-    "createdAt": "2018-09-25T04:45:23Z",
-    "username": "yongningfu"
+    "createdAt": "2018-09-25T14:48:37Z",
+    "username": "NE-SmallTown"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -18,11 +18,16 @@
     "image": "https://avatars2.githubusercontent.com/u/6820?v=4"
   },
   "bestRatio": {
-    "user": "skvale",
+    "user": "sergei-startsev",
     "ratio": 1,
-    "image": "https://avatars0.githubusercontent.com/u/5314713?v=4"
+    "image": "https://avatars3.githubusercontent.com/u/748074?v=4"
   },
   "userPRInfos": {
+    "NE-SmallTown": {
+      "total": 20,
+      "merged": 12,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/18418010?v=4"
+    },
     "yongningfu": {
       "total": 1,
       "merged": 0,
@@ -60,7 +65,7 @@
     },
     "sergei-startsev": {
       "total": 1,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/748074?v=4"
     },
     "ps0305": {
@@ -77,11 +82,6 @@
       "total": 6,
       "merged": 3,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/134936?v=4"
-    },
-    "NE-SmallTown": {
-      "total": 19,
-      "merged": 12,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/18418010?v=4"
     },
     "gaearon": {
       "total": 660,
@@ -10436,8 +10436,8 @@
   },
   "datePRInfos": {
     "Septembre-2018": {
-      "total": 105,
-      "merged": 63
+      "total": 106,
+      "merged": 64
     },
     "Août-2018": {
       "total": 122,
