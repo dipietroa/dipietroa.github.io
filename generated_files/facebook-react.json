@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-09-25T00:47:35.656Z",
+  "lastUpdate": "2018-09-25T01:47:10.505Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 7234,
@@ -75,7 +75,7 @@
     },
     "NE-SmallTown": {
       "total": 19,
-      "merged": 11,
+      "merged": 12,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/18418010?v=4"
     },
     "gaearon": {
@@ -10436,7 +10436,7 @@
     },
     "Août-2018": {
       "total": 122,
-      "merged": 84
+      "merged": 85
     },
     "Juillet-2018": {
       "total": 86,
