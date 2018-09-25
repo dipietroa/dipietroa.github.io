@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-09-25T19:47:26.714Z",
+  "lastUpdate": "2018-09-25T20:47:33.097Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 7237,
+  "totalPR": 7238,
   "lastPR": {
-    "createdAt": "2018-09-25T17:33:35Z",
-    "username": "yongningfu"
+    "createdAt": "2018-09-25T20:07:02Z",
+    "username": "existentialism"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/748074?v=4"
   },
   "userPRInfos": {
+    "existentialism": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/56288?v=4"
+    },
     "yongningfu": {
       "total": 2,
       "merged": 0,
@@ -10436,7 +10441,7 @@
   },
   "datePRInfos": {
     "Septembre-2018": {
-      "total": 107,
+      "total": 108,
       "merged": 65
     },
     "Août-2018": {
