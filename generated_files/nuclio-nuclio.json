@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-09-25T11:43:14.621Z",
+  "lastUpdate": "2018-09-25T12:43:32.127Z",
   "cowner": "nuclio",
   "crepo": "nuclio",
-  "totalPR": 712,
+  "totalPR": 713,
   "lastPR": {
-    "createdAt": "2018-09-24T14:19:26Z",
-    "username": "maksym-kyselytsia"
+    "createdAt": "2018-09-25T11:43:47Z",
+    "username": "gtopper"
   },
   "bestPR": {
     "user": "pavius",
@@ -23,6 +23,11 @@
     "image": "https://avatars2.githubusercontent.com/u/859293?v=4"
   },
   "userPRInfos": {
+    "gtopper": {
+      "total": 3,
+      "merged": 1,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/4675524?v=4"
+    },
     "maksym-kyselytsia": {
       "total": 18,
       "merged": 14,
@@ -42,11 +47,6 @@
       "total": 10,
       "merged": 9,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/37179001?v=4"
-    },
-    "gtopper": {
-      "total": 2,
-      "merged": 1,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/4675524?v=4"
     },
     "levrado": {
       "total": 10,
@@ -186,7 +186,7 @@
   },
   "datePRInfos": {
     "Septembre-2018": {
-      "total": 25,
+      "total": 26,
       "merged": 19
     },
     "Août-2018": {
