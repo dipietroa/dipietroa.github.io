@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-09-25T04:47:01.243Z",
+  "lastUpdate": "2018-09-25T05:46:50.854Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 7235,
   "lastPR": {
-    "createdAt": "2018-09-25T00:21:44Z",
-    "username": "acdlite"
+    "createdAt": "2018-09-25T04:45:23Z",
+    "username": "yongningfu"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars0.githubusercontent.com/u/5314713?v=4"
   },
   "userPRInfos": {
+    "yongningfu": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/9846613?v=4"
+    },
     "acdlite": {
       "total": 230,
       "merged": 183,
@@ -924,7 +929,7 @@
       "avatarUrl": "https://avatars0.githubusercontent.com/u/943606?v=4"
     },
     "alexzherdev": {
-      "total": 14,
+      "total": 13,
       "merged": 4,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/93752?v=4"
     },
@@ -10431,7 +10436,7 @@
   },
   "datePRInfos": {
     "Septembre-2018": {
-      "total": 104,
+      "total": 105,
       "merged": 63
     },
     "Août-2018": {
@@ -10535,7 +10540,7 @@
       "merged": 101
     },
     "Juillet-2016": {
-      "total": 113,
+      "total": 112,
       "merged": 71
     },
     "Juin-2016": {
