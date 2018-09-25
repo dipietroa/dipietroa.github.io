@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "2018-09-25T22:47:14.541Z",
+  "lastUpdate": "2018-09-25T23:46:40.784Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 7239,
+  "totalPR": 7240,
   "lastPR": {
-    "createdAt": "2018-09-25T22:01:40Z",
+    "createdAt": "2018-09-25T22:57:34Z",
     "username": "bvaughn"
   },
   "bestPR": {
@@ -24,8 +24,8 @@
   },
   "userPRInfos": {
     "bvaughn": {
-      "total": 274,
-      "merged": 254,
+      "total": 275,
+      "merged": 255,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/29597?v=4"
     },
     "existentialism": {
@@ -10441,8 +10441,8 @@
   },
   "datePRInfos": {
     "Septembre-2018": {
-      "total": 109,
-      "merged": 67
+      "total": 110,
+      "merged": 68
     },
     "Août-2018": {
       "total": 122,
