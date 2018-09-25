@@ -1,15 +1,15 @@
 {
-  "lastUpdate": "2018-09-25T06:42:28.870Z",
+  "lastUpdate": "2018-09-25T07:42:47.595Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2899,
+  "totalPR": 2900,
   "lastPR": {
-    "createdAt": "2018-09-24T20:03:01Z",
-    "username": "jnizet"
+    "createdAt": "2018-09-25T06:58:41Z",
+    "username": "izeye"
   },
   "bestPR": {
     "user": "izeye",
-    "nbPR": 456,
+    "nbPR": 457,
     "image": "https://avatars3.githubusercontent.com/u/1059363?v=4"
   },
   "bestMerged": {
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "izeye": {
+      "total": 457,
+      "merged": 2,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/1059363?v=4"
+    },
     "jnizet": {
       "total": 3,
       "merged": 1,
@@ -37,11 +42,6 @@
       "total": 27,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/34862741?v=4"
-    },
-    "izeye": {
-      "total": 456,
-      "merged": 2,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/1059363?v=4"
     },
     "marceloverdijk": {
       "total": 15,
@@ -4331,7 +4331,7 @@
   },
   "datePRInfos": {
     "Septembre-2018": {
-      "total": 57,
+      "total": 58,
       "merged": 0
     },
     "Août-2018": {
