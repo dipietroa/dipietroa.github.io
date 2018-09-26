@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "2018-09-26T09:43:11.808Z",
+  "lastUpdate": "2018-09-26T10:43:32.186Z",
   "cowner": "nuclio",
   "crepo": "nuclio",
-  "totalPR": 713,
+  "totalPR": 714,
   "lastPR": {
-    "createdAt": "2018-09-25T11:43:47Z",
+    "createdAt": "2018-09-26T10:28:28Z",
     "username": "gtopper"
   },
   "bestPR": {
@@ -18,13 +18,13 @@
     "image": "https://avatars2.githubusercontent.com/u/423987?v=4"
   },
   "bestRatio": {
-    "user": "gtopper",
+    "user": "phi2039",
     "ratio": 1,
-    "image": "https://avatars3.githubusercontent.com/u/4675524?v=4"
+    "image": "https://avatars2.githubusercontent.com/u/859293?v=4"
   },
   "userPRInfos": {
     "gtopper": {
-      "total": 3,
+      "total": 4,
       "merged": 3,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/4675524?v=4"
     },
@@ -186,7 +186,7 @@
   },
   "datePRInfos": {
     "Septembre-2018": {
-      "total": 26,
+      "total": 27,
       "merged": 21
     },
     "Août-2018": {
