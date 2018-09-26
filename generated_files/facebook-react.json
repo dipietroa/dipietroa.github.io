@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "2018-09-26T11:47:37.861Z",
+  "lastUpdate": "2018-09-26T12:47:52.830Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 7241,
+  "totalPR": 7242,
   "lastPR": {
-    "createdAt": "2018-09-26T11:06:15Z",
+    "createdAt": "2018-09-26T12:20:11Z",
     "username": "trueadm"
   },
   "bestPR": {
@@ -24,8 +24,8 @@
   },
   "userPRInfos": {
     "trueadm": {
-      "total": 39,
-      "merged": 31,
+      "total": 40,
+      "merged": 32,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/1519870?v=4"
     },
     "bvaughn": {
@@ -10441,8 +10441,8 @@
   },
   "datePRInfos": {
     "Septembre-2018": {
-      "total": 111,
-      "merged": 69
+      "total": 112,
+      "merged": 70
     },
     "Août-2018": {
       "total": 122,
