@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-09-26T16:47:51.406Z",
+  "lastUpdate": "2018-09-26T17:47:31.424Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 7244,
+  "totalPR": 7245,
   "lastPR": {
-    "createdAt": "2018-09-26T13:07:46Z",
-    "username": "mmarkelov"
+    "createdAt": "2018-09-26T17:08:47Z",
+    "username": "bvaughn"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/56288?v=4"
   },
   "userPRInfos": {
+    "bvaughn": {
+      "total": 276,
+      "merged": 256,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/29597?v=4"
+    },
     "mmarkelov": {
       "total": 5,
       "merged": 1,
@@ -37,11 +42,6 @@
       "total": 40,
       "merged": 33,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/1519870?v=4"
-    },
-    "bvaughn": {
-      "total": 275,
-      "merged": 256,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/29597?v=4"
     },
     "existentialism": {
       "total": 1,
@@ -10446,7 +10446,7 @@
   },
   "datePRInfos": {
     "Septembre-2018": {
-      "total": 114,
+      "total": 115,
       "merged": 71
     },
     "Août-2018": {
