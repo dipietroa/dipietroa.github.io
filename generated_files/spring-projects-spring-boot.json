@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-09-26T18:43:11.599Z",
+  "lastUpdate": "2018-09-26T19:42:34.035Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2904,
+  "totalPR": 2905,
   "lastPR": {
-    "createdAt": "2018-09-26T14:09:00Z",
-    "username": "marceloverdijk"
+    "createdAt": "2018-09-26T19:15:26Z",
+    "username": "gandrade"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "gandrade": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/2265523?v=4"
+    },
     "marceloverdijk": {
       "total": 16,
       "merged": 0,
@@ -4336,7 +4341,7 @@
   },
   "datePRInfos": {
     "Septembre-2018": {
-      "total": 62,
+      "total": 63,
       "merged": 0
     },
     "Août-2018": {
