@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-09-26T21:46:38.381Z",
+  "lastUpdate": "2018-09-26T22:46:17.353Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 7246,
+  "totalPR": 7247,
   "lastPR": {
-    "createdAt": "2018-09-26T21:38:20Z",
-    "username": "yungsters"
+    "createdAt": "2018-09-26T22:35:31Z",
+    "username": "eajimenez670"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/56288?v=4"
   },
   "userPRInfos": {
+    "eajimenez670": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/40968839?v=4"
+    },
     "yungsters": {
       "total": 32,
       "merged": 27,
@@ -10446,7 +10451,7 @@
   },
   "datePRInfos": {
     "Septembre-2018": {
-      "total": 116,
+      "total": 117,
       "merged": 72
     },
     "Août-2018": {
