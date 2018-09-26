@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-09-26T11:44:08.427Z",
+  "lastUpdate": "2018-09-26T12:44:13.474Z",
   "cowner": "fastify",
   "crepo": "fastify",
   "totalPR": 727,
@@ -25,7 +25,7 @@
   "userPRInfos": {
     "greenkeeper[bot]": {
       "total": 64,
-      "merged": 33,
+      "merged": 34,
       "avatarUrl": "https://avatars3.githubusercontent.com/in/505?v=4"
     },
     "allevo": {
@@ -682,7 +682,7 @@
   "datePRInfos": {
     "Septembre-2018": {
       "total": 46,
-      "merged": 30
+      "merged": 31
     },
     "Août-2018": {
       "total": 47,
