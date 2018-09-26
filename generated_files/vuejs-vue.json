@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-09-26T13:43:27.032Z",
+  "lastUpdate": "2018-09-26T14:43:09.383Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 1272,
+  "totalPR": 1273,
   "lastPR": {
-    "createdAt": "2018-09-26T07:21:34Z",
-    "username": "Justineo"
+    "createdAt": "2018-09-26T14:18:07Z",
+    "username": "imanhodjaev"
   },
   "bestPR": {
     "user": "kazupon",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/16292606?v=4"
   },
   "userPRInfos": {
+    "imanhodjaev": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/354868?v=4"
+    },
     "Justineo": {
       "total": 6,
       "merged": 3,
@@ -2871,7 +2876,7 @@
   },
   "datePRInfos": {
     "Septembre-2018": {
-      "total": 9,
+      "total": 10,
       "merged": 0
     },
     "Août-2018": {
