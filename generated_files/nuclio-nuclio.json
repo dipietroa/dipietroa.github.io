@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-09-26T05:43:03.500Z",
+  "lastUpdate": "2018-09-26T06:44:05.108Z",
   "cowner": "nuclio",
   "crepo": "nuclio",
   "totalPR": 713,
@@ -18,14 +18,14 @@
     "image": "https://avatars2.githubusercontent.com/u/423987?v=4"
   },
   "bestRatio": {
-    "user": "phi2039",
+    "user": "gtopper",
     "ratio": 1,
-    "image": "https://avatars2.githubusercontent.com/u/859293?v=4"
+    "image": "https://avatars3.githubusercontent.com/u/4675524?v=4"
   },
   "userPRInfos": {
     "gtopper": {
       "total": 3,
-      "merged": 1,
+      "merged": 3,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/4675524?v=4"
     },
     "maksym-kyselytsia": {
@@ -187,7 +187,7 @@
   "datePRInfos": {
     "Septembre-2018": {
       "total": 26,
-      "merged": 19
+      "merged": 21
     },
     "Août-2018": {
       "total": 22,
