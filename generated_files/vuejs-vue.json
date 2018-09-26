@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-09-26T06:43:44.914Z",
+  "lastUpdate": "2018-09-26T07:42:48.449Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 1271,
+  "totalPR": 1272,
   "lastPR": {
-    "createdAt": "2018-09-23T19:43:14Z",
-    "username": "nbaulesglobalsolutions"
+    "createdAt": "2018-09-26T07:21:34Z",
+    "username": "Justineo"
   },
   "bestPR": {
     "user": "kazupon",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/16292606?v=4"
   },
   "userPRInfos": {
+    "Justineo": {
+      "total": 6,
+      "merged": 3,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/1726061?v=4"
+    },
     "nbaulesglobalsolutions": {
       "total": 1,
       "merged": 0,
@@ -67,11 +72,6 @@
       "total": 2,
       "merged": 0,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/16515026?v=4"
-    },
-    "Justineo": {
-      "total": 5,
-      "merged": 3,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/1726061?v=4"
     },
     "Shyam-Chen": {
       "total": 2,
@@ -2871,7 +2871,7 @@
   },
   "datePRInfos": {
     "Septembre-2018": {
-      "total": 8,
+      "total": 9,
       "merged": 0
     },
     "Août-2018": {
