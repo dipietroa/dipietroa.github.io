@@ -1,15 +1,15 @@
 {
-  "lastUpdate": "2018-09-27T06:41:42.331Z",
+  "lastUpdate": "2018-09-27T07:42:09.127Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2906,
+  "totalPR": 2907,
   "lastPR": {
-    "createdAt": "2018-09-27T04:03:09Z",
-    "username": "Hanope"
+    "createdAt": "2018-09-27T06:48:07Z",
+    "username": "izeye"
   },
   "bestPR": {
     "user": "izeye",
-    "nbPR": 457,
+    "nbPR": 458,
     "image": "https://avatars3.githubusercontent.com/u/1059363?v=4"
   },
   "bestMerged": {
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "izeye": {
+      "total": 458,
+      "merged": 2,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/1059363?v=4"
+    },
     "Hanope": {
       "total": 5,
       "merged": 0,
@@ -47,11 +52,6 @@
       "total": 28,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/34862741?v=4"
-    },
-    "izeye": {
-      "total": 457,
-      "merged": 2,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/1059363?v=4"
     },
     "jnizet": {
       "total": 3,
@@ -4341,7 +4341,7 @@
   },
   "datePRInfos": {
     "Septembre-2018": {
-      "total": 64,
+      "total": 65,
       "merged": 0
     },
     "Août-2018": {
