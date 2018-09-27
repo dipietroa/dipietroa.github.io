@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-09-27T15:47:58.542Z",
+  "lastUpdate": "2018-09-27T16:47:21.318Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 7249,
+  "totalPR": 7251,
   "lastPR": {
-    "createdAt": "2018-09-27T15:06:23Z",
-    "username": "AyWa"
+    "createdAt": "2018-09-27T16:17:00Z",
+    "username": "bvaughn"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,16 @@
     "image": "https://avatars3.githubusercontent.com/u/56288?v=4"
   },
   "userPRInfos": {
+    "bvaughn": {
+      "total": 277,
+      "merged": 256,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/29597?v=4"
+    },
+    "NE-SmallTown": {
+      "total": 21,
+      "merged": 12,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/18418010?v=4"
+    },
     "AyWa": {
       "total": 1,
       "merged": 0,
@@ -42,11 +52,6 @@
       "total": 32,
       "merged": 27,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/55161?v=4"
-    },
-    "bvaughn": {
-      "total": 276,
-      "merged": 256,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/29597?v=4"
     },
     "mmarkelov": {
       "total": 5,
@@ -72,11 +77,6 @@
       "total": 2,
       "merged": 0,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/9846613?v=4"
-    },
-    "NE-SmallTown": {
-      "total": 20,
-      "merged": 12,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/18418010?v=4"
     },
     "philipp-spiess": {
       "total": 15,
@@ -10456,7 +10456,7 @@
   },
   "datePRInfos": {
     "Septembre-2018": {
-      "total": 119,
+      "total": 121,
       "merged": 72
     },
     "Août-2018": {
