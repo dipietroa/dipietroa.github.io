@@ -1,15 +1,15 @@
 {
-  "lastUpdate": "2018-09-27T14:41:57.934Z",
+  "lastUpdate": "2018-09-27T15:42:02.815Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
   "totalPR": 2908,
   "lastPR": {
-    "createdAt": "2018-09-27T06:48:07Z",
-    "username": "izeye"
+    "createdAt": "2018-09-27T14:41:44Z",
+    "username": "ayudovin"
   },
   "bestPR": {
     "user": "izeye",
-    "nbPR": 459,
+    "nbPR": 458,
     "image": "https://avatars3.githubusercontent.com/u/1059363?v=4"
   },
   "bestMerged": {
@@ -23,8 +23,13 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "ayudovin": {
+      "total": 29,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/34862741?v=4"
+    },
     "izeye": {
-      "total": 459,
+      "total": 458,
       "merged": 2,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/1059363?v=4"
     },
@@ -47,11 +52,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/111432?v=4"
-    },
-    "ayudovin": {
-      "total": 28,
-      "merged": 0,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/34862741?v=4"
     },
     "jnizet": {
       "total": 3,
@@ -4341,7 +4341,7 @@
   },
   "datePRInfos": {
     "Septembre-2018": {
-      "total": 65,
+      "total": 66,
       "merged": 0
     },
     "Août-2018": {
@@ -4521,7 +4521,7 @@
       "merged": 0
     },
     "Décembre-2014": {
-      "total": 43,
+      "total": 42,
       "merged": 1
     },
     "Novembre-2014": {
