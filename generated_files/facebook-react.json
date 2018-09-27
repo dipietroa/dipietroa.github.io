@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-09-27T18:47:09.771Z",
+  "lastUpdate": "2018-09-27T19:47:20.981Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 7251,
+  "totalPR": 7252,
   "lastPR": {
-    "createdAt": "2018-09-27T16:17:00Z",
-    "username": "bvaughn"
+    "createdAt": "2018-09-27T19:23:53Z",
+    "username": "alexnoz"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/56288?v=4"
   },
   "userPRInfos": {
+    "alexnoz": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/22446806?v=4"
+    },
     "bvaughn": {
       "total": 277,
       "merged": 256,
@@ -10456,7 +10461,7 @@
   },
   "datePRInfos": {
     "Septembre-2018": {
-      "total": 121,
+      "total": 122,
       "merged": 73
     },
     "Août-2018": {
