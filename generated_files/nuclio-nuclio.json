@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-09-27T07:43:24.939Z",
+  "lastUpdate": "2018-09-27T08:43:17.545Z",
   "cowner": "nuclio",
   "crepo": "nuclio",
-  "totalPR": 714,
+  "totalPR": 715,
   "lastPR": {
-    "createdAt": "2018-09-26T10:28:28Z",
-    "username": "gtopper"
+    "createdAt": "2018-09-27T08:19:18Z",
+    "username": "levrado"
   },
   "bestPR": {
     "user": "pavius",
@@ -18,14 +18,19 @@
     "image": "https://avatars2.githubusercontent.com/u/423987?v=4"
   },
   "bestRatio": {
-    "user": "phi2039",
+    "user": "gtopper",
     "ratio": 1,
-    "image": "https://avatars2.githubusercontent.com/u/859293?v=4"
+    "image": "https://avatars3.githubusercontent.com/u/4675524?v=4"
   },
   "userPRInfos": {
+    "levrado": {
+      "total": 11,
+      "merged": 9,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/4353842?v=4"
+    },
     "gtopper": {
       "total": 4,
-      "merged": 3,
+      "merged": 4,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/4675524?v=4"
     },
     "maksym-kyselytsia": {
@@ -47,11 +52,6 @@
       "total": 10,
       "merged": 9,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/37179001?v=4"
-    },
-    "levrado": {
-      "total": 10,
-      "merged": 8,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/4353842?v=4"
     },
     "phi2039": {
       "total": 2,
@@ -186,8 +186,8 @@
   },
   "datePRInfos": {
     "Septembre-2018": {
-      "total": 27,
-      "merged": 22
+      "total": 28,
+      "merged": 24
     },
     "Août-2018": {
       "total": 22,
