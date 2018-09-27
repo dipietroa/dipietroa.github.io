@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-09-27T21:46:35.281Z",
+  "lastUpdate": "2018-09-27T22:46:56.134Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 7253,
@@ -25,7 +25,7 @@
   "userPRInfos": {
     "acdlite": {
       "total": 232,
-      "merged": 185,
+      "merged": 186,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/3624098?v=4"
     },
     "alexnoz": {
@@ -10462,7 +10462,7 @@
   "datePRInfos": {
     "Septembre-2018": {
       "total": 123,
-      "merged": 73
+      "merged": 74
     },
     "Août-2018": {
       "total": 122,
