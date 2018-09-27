@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-09-27T14:47:58.647Z",
+  "lastUpdate": "2018-09-27T15:47:58.542Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 7248,
+  "totalPR": 7249,
   "lastPR": {
-    "createdAt": "2018-09-27T03:27:35Z",
-    "username": "acdlite"
+    "createdAt": "2018-09-27T15:06:23Z",
+    "username": "AyWa"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/56288?v=4"
   },
   "userPRInfos": {
+    "AyWa": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/13608477?v=4"
+    },
     "acdlite": {
       "total": 231,
       "merged": 184,
@@ -10451,7 +10456,7 @@
   },
   "datePRInfos": {
     "Septembre-2018": {
-      "total": 118,
+      "total": 119,
       "merged": 72
     },
     "Août-2018": {
