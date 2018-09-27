@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-09-27T10:43:27.543Z",
+  "lastUpdate": "2018-09-27T11:44:09.653Z",
   "cowner": "fastify",
   "crepo": "fastify",
-  "totalPR": 729,
+  "totalPR": 730,
   "lastPR": {
-    "createdAt": "2018-09-26T19:32:37Z",
-    "username": "watson"
+    "createdAt": "2018-09-27T10:49:56Z",
+    "username": "SkeLLLa"
   },
   "bestPR": {
     "user": "delvedor",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/6374832?v=4"
   },
   "userPRInfos": {
+    "SkeLLLa": {
+      "total": 3,
+      "merged": 1,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/2273103?v=4"
+    },
     "watson": {
       "total": 1,
       "merged": 0,
@@ -167,11 +172,6 @@
       "total": 7,
       "merged": 6,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/20400873?v=4"
-    },
-    "SkeLLLa": {
-      "total": 2,
-      "merged": 1,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/2273103?v=4"
     },
     "patrickpissurno": {
       "total": 1,
@@ -686,7 +686,7 @@
   },
   "datePRInfos": {
     "Septembre-2018": {
-      "total": 48,
+      "total": 49,
       "merged": 32
     },
     "Août-2018": {
