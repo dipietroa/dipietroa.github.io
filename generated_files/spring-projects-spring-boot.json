@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-09-27T03:41:39.249Z",
+  "lastUpdate": "2018-09-27T04:41:30.879Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2905,
+  "totalPR": 2906,
   "lastPR": {
-    "createdAt": "2018-09-26T19:15:26Z",
-    "username": "gandrade"
+    "createdAt": "2018-09-27T04:03:09Z",
+    "username": "Hanope"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "Hanope": {
+      "total": 5,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/19226330?v=4"
+    },
     "gandrade": {
       "total": 1,
       "merged": 0,
@@ -42,11 +47,6 @@
       "total": 28,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/34862741?v=4"
-    },
-    "Hanope": {
-      "total": 4,
-      "merged": 0,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/19226330?v=4"
     },
     "izeye": {
       "total": 457,
@@ -4341,7 +4341,7 @@
   },
   "datePRInfos": {
     "Septembre-2018": {
-      "total": 63,
+      "total": 64,
       "merged": 0
     },
     "Août-2018": {
