@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-09-28T19:46:41.118Z",
+  "lastUpdate": "2018-09-28T20:47:18.479Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 7254,
@@ -40,7 +40,7 @@
     },
     "bvaughn": {
       "total": 277,
-      "merged": 256,
+      "merged": 258,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/29597?v=4"
     },
     "NE-SmallTown": {
@@ -10467,7 +10467,7 @@
   "datePRInfos": {
     "Septembre-2018": {
       "total": 124,
-      "merged": 74
+      "merged": 76
     },
     "Août-2018": {
       "total": 122,
