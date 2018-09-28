@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-09-28T16:47:38.310Z",
+  "lastUpdate": "2018-09-28T17:47:27.718Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 7253,
+  "totalPR": 7254,
   "lastPR": {
-    "createdAt": "2018-09-27T20:50:41Z",
-    "username": "acdlite"
+    "createdAt": "2018-09-28T17:33:33Z",
+    "username": "bbhandari822"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/56288?v=4"
   },
   "userPRInfos": {
+    "bbhandari822": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/30813244?v=4"
+    },
     "acdlite": {
       "total": 232,
       "merged": 186,
@@ -10461,7 +10466,7 @@
   },
   "datePRInfos": {
     "Septembre-2018": {
-      "total": 123,
+      "total": 124,
       "merged": 74
     },
     "Août-2018": {
