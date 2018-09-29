@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-09-29T09:43:57.914Z",
+  "lastUpdate": "2018-09-29T10:43:09.969Z",
   "cowner": "fastify",
   "crepo": "fastify",
   "totalPR": 731,
@@ -30,7 +30,7 @@
     },
     "SkeLLLa": {
       "total": 3,
-      "merged": 1,
+      "merged": 2,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/2273103?v=4"
     },
     "watson": {
@@ -687,7 +687,7 @@
   "datePRInfos": {
     "Septembre-2018": {
       "total": 50,
-      "merged": 34
+      "merged": 35
     },
     "Août-2018": {
       "total": 47,
