@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-09-30T17:41:46.880Z",
+  "lastUpdate": "2018-09-30T18:41:58.121Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
-  "totalPR": 451,
+  "totalPR": 452,
   "lastPR": {
-    "createdAt": "2018-09-18T03:53:11Z",
-    "username": "tristangreeno"
+    "createdAt": "2018-09-30T17:49:57Z",
+    "username": "CraxyTM"
   },
   "bestPR": {
     "user": "theycallmemac",
@@ -23,6 +23,11 @@
     "image": "https://avatars0.githubusercontent.com/u/29816320?v=4"
   },
   "userPRInfos": {
+    "CraxyTM": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/16610792?v=4"
+    },
     "tristangreeno": {
       "total": 1,
       "merged": 0,
@@ -1206,7 +1211,7 @@
   },
   "datePRInfos": {
     "Septembre-2018": {
-      "total": 14,
+      "total": 15,
       "merged": 2
     },
     "Août-2018": {
