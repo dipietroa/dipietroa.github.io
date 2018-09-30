@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-09-30T07:41:29.644Z",
+  "lastUpdate": "2018-09-30T08:42:08.239Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2911,
+  "totalPR": 2912,
   "lastPR": {
-    "createdAt": "2018-09-29T16:21:08Z",
-    "username": "izeye"
+    "createdAt": "2018-09-30T08:07:07Z",
+    "username": "MahmoudAGawad"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "MahmoudAGawad": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/6995139?v=4"
+    },
     "izeye": {
       "total": 459,
       "merged": 2,
@@ -4341,7 +4346,7 @@
   },
   "datePRInfos": {
     "Septembre-2018": {
-      "total": 69,
+      "total": 70,
       "merged": 0
     },
     "Août-2018": {
