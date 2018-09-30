@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-09-30T11:42:42.980Z",
+  "lastUpdate": "2018-09-30T12:43:02.670Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 1274,
+  "totalPR": 1275,
   "lastPR": {
-    "createdAt": "2018-09-26T17:19:10Z",
-    "username": "Justineo"
+    "createdAt": "2018-09-30T12:28:32Z",
+    "username": "KaelWD"
   },
   "bestPR": {
     "user": "kazupon",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/16292606?v=4"
   },
   "userPRInfos": {
+    "KaelWD": {
+      "total": 4,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/16421948?v=4"
+    },
     "Justineo": {
       "total": 7,
       "merged": 3,
@@ -132,11 +137,6 @@
       "total": 1,
       "merged": 1,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/16292606?v=4"
-    },
-    "KaelWD": {
-      "total": 3,
-      "merged": 0,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/16421948?v=4"
     },
     "posva": {
       "total": 40,
@@ -2876,7 +2876,7 @@
   },
   "datePRInfos": {
     "Septembre-2018": {
-      "total": 11,
+      "total": 12,
       "merged": 0
     },
     "Août-2018": {
