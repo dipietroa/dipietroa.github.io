@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-10-01T17:41:40.769Z",
+  "lastUpdate": "2018-10-01T18:42:32.658Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2913,
+  "totalPR": 2915,
   "lastPR": {
-    "createdAt": "2018-10-01T13:02:46Z",
-    "username": "eiselems"
+    "createdAt": "2018-10-01T18:19:04Z",
+    "username": "BrianDeacon"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "BrianDeacon": {
+      "total": 2,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/1284129?v=4"
+    },
     "eiselems": {
       "total": 3,
       "merged": 0,
@@ -4346,7 +4351,7 @@
   },
   "datePRInfos": {
     "Octobre-2018": {
-      "total": 1,
+      "total": 3,
       "merged": 0
     },
     "Septembre-2018": {
