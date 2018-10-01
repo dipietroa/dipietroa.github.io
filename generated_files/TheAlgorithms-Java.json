@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-10-01T18:42:57.663Z",
+  "lastUpdate": "2018-10-01T19:42:56.577Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
-  "totalPR": 457,
+  "totalPR": 458,
   "lastPR": {
-    "createdAt": "2018-10-01T18:40:30Z",
-    "username": "SUSHANT12PRABHU"
+    "createdAt": "2018-10-01T18:45:21Z",
+    "username": "enigma0503"
   },
   "bestPR": {
     "user": "theycallmemac",
@@ -23,6 +23,11 @@
     "image": "https://avatars0.githubusercontent.com/u/29816320?v=4"
   },
   "userPRInfos": {
+    "enigma0503": {
+      "total": 2,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/22156404?v=4"
+    },
     "SUSHANT12PRABHU": {
       "total": 1,
       "merged": 0,
@@ -1018,11 +1023,6 @@
       "merged": 1,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/25135844?v=4"
     },
-    "enigma0503": {
-      "total": 1,
-      "merged": 0,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/22156404?v=4"
-    },
     "MichGedd": {
       "total": 1,
       "merged": 0,
@@ -1231,7 +1231,7 @@
   },
   "datePRInfos": {
     "Octobre-2018": {
-      "total": 5,
+      "total": 6,
       "merged": 0
     },
     "Septembre-2018": {
