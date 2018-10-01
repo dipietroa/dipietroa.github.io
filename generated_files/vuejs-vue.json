@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-10-01T13:43:47.520Z",
+  "lastUpdate": "2018-10-01T14:43:33.060Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 1275,
+  "totalPR": 1276,
   "lastPR": {
-    "createdAt": "2018-09-30T12:28:32Z",
-    "username": "KaelWD"
+    "createdAt": "2018-10-01T14:16:26Z",
+    "username": "DanielSanRocha"
   },
   "bestPR": {
     "user": "kazupon",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/16292606?v=4"
   },
   "userPRInfos": {
+    "DanielSanRocha": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/11764388?v=4"
+    },
     "KaelWD": {
       "total": 4,
       "merged": 0,
@@ -2875,6 +2880,10 @@
     }
   },
   "datePRInfos": {
+    "Octobre-2018": {
+      "total": 1,
+      "merged": 0
+    },
     "Septembre-2018": {
       "total": 12,
       "merged": 0
