@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-10-01T19:42:56.577Z",
+  "lastUpdate": "2018-10-01T20:43:00.608Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
-  "totalPR": 458,
+  "totalPR": 459,
   "lastPR": {
-    "createdAt": "2018-10-01T18:45:21Z",
-    "username": "enigma0503"
+    "createdAt": "2018-10-01T20:10:57Z",
+    "username": "NikhilKrDwivedi"
   },
   "bestPR": {
     "user": "theycallmemac",
@@ -23,6 +23,11 @@
     "image": "https://avatars0.githubusercontent.com/u/29816320?v=4"
   },
   "userPRInfos": {
+    "NikhilKrDwivedi": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/30932185?v=4"
+    },
     "enigma0503": {
       "total": 2,
       "merged": 0,
@@ -1231,7 +1236,7 @@
   },
   "datePRInfos": {
     "Octobre-2018": {
-      "total": 6,
+      "total": 7,
       "merged": 0
     },
     "Septembre-2018": {
