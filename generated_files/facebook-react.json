@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "2018-10-01T14:48:37.052Z",
+  "lastUpdate": "2018-10-01T15:50:23.137Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 7255,
+  "totalPR": 7256,
   "lastPR": {
-    "createdAt": "2018-09-29T02:02:00Z",
+    "createdAt": "2018-10-01T14:53:14Z",
     "username": "acdlite"
   },
   "bestPR": {
@@ -24,8 +24,8 @@
   },
   "userPRInfos": {
     "acdlite": {
-      "total": 233,
-      "merged": 186,
+      "total": 234,
+      "merged": 187,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/3624098?v=4"
     },
     "bbhandari822": {
@@ -10465,6 +10465,10 @@
     }
   },
   "datePRInfos": {
+    "Octobre-2018": {
+      "total": 1,
+      "merged": 1
+    },
     "Septembre-2018": {
       "total": 125,
       "merged": 76
