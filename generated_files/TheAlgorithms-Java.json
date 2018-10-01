@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-10-01T13:43:08.918Z",
+  "lastUpdate": "2018-10-01T14:42:50.711Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
-  "totalPR": 453,
+  "totalPR": 455,
   "lastPR": {
-    "createdAt": "2018-10-01T08:58:31Z",
-    "username": "itsmesarthak"
+    "createdAt": "2018-10-01T14:40:12Z",
+    "username": "vipul-08"
   },
   "bestPR": {
     "user": "theycallmemac",
@@ -23,15 +23,20 @@
     "image": "https://avatars0.githubusercontent.com/u/29816320?v=4"
   },
   "userPRInfos": {
+    "vipul-08": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/25116323?v=4"
+    },
+    "CraxyTM": {
+      "total": 2,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/16610792?v=4"
+    },
     "itsmesarthak": {
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/41490073?v=4"
-    },
-    "CraxyTM": {
-      "total": 1,
-      "merged": 0,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/16610792?v=4"
     },
     "tristangreeno": {
       "total": 1,
@@ -1216,7 +1221,7 @@
   },
   "datePRInfos": {
     "Octobre-2018": {
-      "total": 1,
+      "total": 3,
       "merged": 0
     },
     "Septembre-2018": {
