@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-10-02T03:42:25.111Z",
+  "lastUpdate": "2018-10-02T04:42:50.873Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
-  "totalPR": 461,
+  "totalPR": 462,
   "lastPR": {
-    "createdAt": "2018-10-02T01:06:28Z",
-    "username": "sumeetk321"
+    "createdAt": "2018-10-02T04:37:51Z",
+    "username": "Aruj-Sharma"
   },
   "bestPR": {
     "user": "theycallmemac",
@@ -23,6 +23,11 @@
     "image": "https://avatars0.githubusercontent.com/u/29816320?v=4"
   },
   "userPRInfos": {
+    "Aruj-Sharma": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/25313420?v=4"
+    },
     "sumeetk321": {
       "total": 1,
       "merged": 0,
@@ -1246,7 +1251,7 @@
   },
   "datePRInfos": {
     "Octobre-2018": {
-      "total": 9,
+      "total": 10,
       "merged": 0
     },
     "Septembre-2018": {
