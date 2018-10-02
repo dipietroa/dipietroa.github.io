@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-10-02T16:47:51.689Z",
+  "lastUpdate": "2018-10-02T17:48:11.041Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 7257,
+  "totalPR": 7258,
   "lastPR": {
-    "createdAt": "2018-10-01T18:01:53Z",
-    "username": "JoeCortopassi"
+    "createdAt": "2018-10-02T17:32:03Z",
+    "username": "mmarkelov"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/56288?v=4"
   },
   "userPRInfos": {
+    "mmarkelov": {
+      "total": 6,
+      "merged": 1,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/22371328?v=4"
+    },
     "JoeCortopassi": {
       "total": 2,
       "merged": 1,
@@ -67,11 +72,6 @@
       "total": 32,
       "merged": 27,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/55161?v=4"
-    },
-    "mmarkelov": {
-      "total": 5,
-      "merged": 1,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/22371328?v=4"
     },
     "austinyu": {
       "total": 1,
@@ -10466,7 +10466,7 @@
   },
   "datePRInfos": {
     "Octobre-2018": {
-      "total": 2,
+      "total": 3,
       "merged": 2
     },
     "Septembre-2018": {
