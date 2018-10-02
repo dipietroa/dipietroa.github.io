@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-10-02T14:42:40.415Z",
+  "lastUpdate": "2018-10-02T15:42:18.361Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
-  "totalPR": 469,
+  "totalPR": 470,
   "lastPR": {
-    "createdAt": "2018-10-02T13:39:49Z",
-    "username": "sateslayer"
+    "createdAt": "2018-10-02T15:36:47Z",
+    "username": "abhishekjpr"
   },
   "bestPR": {
     "user": "theycallmemac",
@@ -23,6 +23,11 @@
     "image": "https://avatars0.githubusercontent.com/u/29816320?v=4"
   },
   "userPRInfos": {
+    "abhishekjpr": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/16340529?v=4"
+    },
     "sateslayer": {
       "total": 1,
       "merged": 0,
@@ -1281,7 +1286,7 @@
   },
   "datePRInfos": {
     "Octobre-2018": {
-      "total": 17,
+      "total": 18,
       "merged": 0
     },
     "Septembre-2018": {
