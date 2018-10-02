@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-10-02T04:42:50.873Z",
+  "lastUpdate": "2018-10-02T05:42:13.801Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
-  "totalPR": 462,
+  "totalPR": 464,
   "lastPR": {
-    "createdAt": "2018-10-02T04:37:51Z",
-    "username": "Aruj-Sharma"
+    "createdAt": "2018-10-02T05:36:58Z",
+    "username": "SUSHANT12PRABHU"
   },
   "bestPR": {
     "user": "theycallmemac",
@@ -23,6 +23,16 @@
     "image": "https://avatars0.githubusercontent.com/u/29816320?v=4"
   },
   "userPRInfos": {
+    "SUSHANT12PRABHU": {
+      "total": 2,
+      "merged": 0,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/23032355?v=4"
+    },
+    "vaibhav111tandon": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/32813114?v=4"
+    },
     "Aruj-Sharma": {
       "total": 1,
       "merged": 0,
@@ -47,11 +57,6 @@
       "total": 2,
       "merged": 0,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/22156404?v=4"
-    },
-    "SUSHANT12PRABHU": {
-      "total": 1,
-      "merged": 0,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/23032355?v=4"
     },
     "RohitPatilRRP": {
       "total": 1,
@@ -1251,7 +1256,7 @@
   },
   "datePRInfos": {
     "Octobre-2018": {
-      "total": 10,
+      "total": 12,
       "merged": 0
     },
     "Septembre-2018": {
