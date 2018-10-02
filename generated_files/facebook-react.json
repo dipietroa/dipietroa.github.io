@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-10-02T19:48:48.605Z",
+  "lastUpdate": "2018-10-02T20:47:38.489Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 7259,
+  "totalPR": 7260,
   "lastPR": {
-    "createdAt": "2018-10-02T17:32:03Z",
-    "username": "mmarkelov"
+    "createdAt": "2018-10-02T20:19:43Z",
+    "username": "bvaughn"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/56288?v=4"
   },
   "userPRInfos": {
+    "bvaughn": {
+      "total": 279,
+      "merged": 258,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/29597?v=4"
+    },
     "mmarkelov": {
       "total": 6,
       "merged": 1,
@@ -47,11 +52,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/22446806?v=4"
-    },
-    "bvaughn": {
-      "total": 277,
-      "merged": 258,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/29597?v=4"
     },
     "NE-SmallTown": {
       "total": 21,
@@ -9719,8 +9719,8 @@
       "avatarUrl": "https://avatars2.githubusercontent.com/u/1624812?v=4"
     },
     "benjamn": {
-      "total": 51,
-      "merged": 43,
+      "total": 50,
+      "merged": 42,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/5750?v=4"
     },
     "jmcriffey": {
@@ -10466,7 +10466,7 @@
   },
   "datePRInfos": {
     "Octobre-2018": {
-      "total": 3,
+      "total": 5,
       "merged": 2
     },
     "Septembre-2018": {
@@ -10718,8 +10718,8 @@
       "merged": 21
     },
     "Juillet-2013": {
-      "total": 58,
-      "merged": 38
+      "total": 57,
+      "merged": 37
     },
     "Juin-2013": {
       "total": 67,
