@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-10-02T12:43:05.022Z",
+  "lastUpdate": "2018-10-02T13:42:14.674Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
-  "totalPR": 467,
+  "totalPR": 469,
   "lastPR": {
-    "createdAt": "2018-10-02T12:37:00Z",
-    "username": "agampreetsingh"
+    "createdAt": "2018-10-02T13:39:49Z",
+    "username": "sateslayer"
   },
   "bestPR": {
     "user": "theycallmemac",
@@ -23,6 +23,16 @@
     "image": "https://avatars0.githubusercontent.com/u/29816320?v=4"
   },
   "userPRInfos": {
+    "sateslayer": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/43082352?v=4"
+    },
+    "NeverMendel": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/28535750?v=4"
+    },
     "agampreetsingh": {
       "total": 1,
       "merged": 0,
@@ -1271,7 +1281,7 @@
   },
   "datePRInfos": {
     "Octobre-2018": {
-      "total": 15,
+      "total": 17,
       "merged": 0
     },
     "Septembre-2018": {
