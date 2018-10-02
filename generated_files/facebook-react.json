@@ -1,8 +1,8 @@
 {
-  "lastUpdate": "2018-10-02T18:48:19.375Z",
+  "lastUpdate": "2018-10-02T19:48:48.605Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 7258,
+  "totalPR": 7259,
   "lastPR": {
     "createdAt": "2018-10-02T17:32:03Z",
     "username": "mmarkelov"
@@ -9719,8 +9719,8 @@
       "avatarUrl": "https://avatars2.githubusercontent.com/u/1624812?v=4"
     },
     "benjamn": {
-      "total": 50,
-      "merged": 42,
+      "total": 51,
+      "merged": 43,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/5750?v=4"
     },
     "jmcriffey": {
@@ -10718,8 +10718,8 @@
       "merged": 21
     },
     "Juillet-2013": {
-      "total": 57,
-      "merged": 37
+      "total": 58,
+      "merged": 38
     },
     "Juin-2013": {
       "total": 67,
