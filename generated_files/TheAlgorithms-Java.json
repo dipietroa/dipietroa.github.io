@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-10-01T23:41:50.327Z",
+  "lastUpdate": "2018-10-02T00:42:00.675Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
-  "totalPR": 459,
+  "totalPR": 460,
   "lastPR": {
-    "createdAt": "2018-10-01T20:10:57Z",
-    "username": "NikhilKrDwivedi"
+    "createdAt": "2018-10-02T00:39:45Z",
+    "username": "camilne"
   },
   "bestPR": {
     "user": "theycallmemac",
@@ -23,6 +23,11 @@
     "image": "https://avatars0.githubusercontent.com/u/29816320?v=4"
   },
   "userPRInfos": {
+    "camilne": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/3836741?v=4"
+    },
     "NikhilKrDwivedi": {
       "total": 1,
       "merged": 0,
@@ -1236,7 +1241,7 @@
   },
   "datePRInfos": {
     "Octobre-2018": {
-      "total": 7,
+      "total": 8,
       "merged": 0
     },
     "Septembre-2018": {
