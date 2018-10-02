@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-10-02T09:42:04.075Z",
+  "lastUpdate": "2018-10-02T10:42:54.845Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
-  "totalPR": 465,
+  "totalPR": 466,
   "lastPR": {
-    "createdAt": "2018-10-02T06:16:41Z",
-    "username": "aksharanigam1112"
+    "createdAt": "2018-10-02T09:51:37Z",
+    "username": "s-sanyal"
   },
   "bestPR": {
     "user": "theycallmemac",
@@ -23,6 +23,11 @@
     "image": "https://avatars0.githubusercontent.com/u/29816320?v=4"
   },
   "userPRInfos": {
+    "s-sanyal": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/37104041?v=4"
+    },
     "aksharanigam1112": {
       "total": 1,
       "merged": 0,
@@ -1261,7 +1266,7 @@
   },
   "datePRInfos": {
     "Octobre-2018": {
-      "total": 13,
+      "total": 14,
       "merged": 0
     },
     "Septembre-2018": {
