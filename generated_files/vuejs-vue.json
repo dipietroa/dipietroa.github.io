@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-10-02T04:43:25.103Z",
+  "lastUpdate": "2018-10-02T05:42:48.836Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 1276,
+  "totalPR": 1277,
   "lastPR": {
-    "createdAt": "2018-10-01T14:16:26Z",
-    "username": "DanielSanRocha"
+    "createdAt": "2018-10-02T05:04:13Z",
+    "username": "spencer1573"
   },
   "bestPR": {
     "user": "kazupon",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/16292606?v=4"
   },
   "userPRInfos": {
+    "spencer1573": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/4762850?v=4"
+    },
     "DanielSanRocha": {
       "total": 1,
       "merged": 0,
@@ -2881,7 +2886,7 @@
   },
   "datePRInfos": {
     "Octobre-2018": {
-      "total": 1,
+      "total": 2,
       "merged": 0
     },
     "Septembre-2018": {
