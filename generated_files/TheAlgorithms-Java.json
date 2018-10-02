@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-10-02T00:42:00.675Z",
+  "lastUpdate": "2018-10-02T01:42:48.290Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
-  "totalPR": 460,
+  "totalPR": 461,
   "lastPR": {
-    "createdAt": "2018-10-02T00:39:45Z",
-    "username": "camilne"
+    "createdAt": "2018-10-02T01:06:28Z",
+    "username": "sumeetk321"
   },
   "bestPR": {
     "user": "theycallmemac",
@@ -23,6 +23,11 @@
     "image": "https://avatars0.githubusercontent.com/u/29816320?v=4"
   },
   "userPRInfos": {
+    "sumeetk321": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/18608410?v=4"
+    },
     "camilne": {
       "total": 1,
       "merged": 0,
@@ -1241,7 +1246,7 @@
   },
   "datePRInfos": {
     "Octobre-2018": {
-      "total": 8,
+      "total": 9,
       "merged": 0
     },
     "Septembre-2018": {
