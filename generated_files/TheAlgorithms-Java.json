@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-10-02T11:42:03.247Z",
+  "lastUpdate": "2018-10-02T12:43:05.022Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
-  "totalPR": 466,
+  "totalPR": 467,
   "lastPR": {
-    "createdAt": "2018-10-02T09:51:37Z",
-    "username": "s-sanyal"
+    "createdAt": "2018-10-02T12:37:00Z",
+    "username": "agampreetsingh"
   },
   "bestPR": {
     "user": "theycallmemac",
@@ -23,6 +23,11 @@
     "image": "https://avatars0.githubusercontent.com/u/29816320?v=4"
   },
   "userPRInfos": {
+    "agampreetsingh": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/25278610?v=4"
+    },
     "s-sanyal": {
       "total": 1,
       "merged": 0,
@@ -1266,7 +1271,7 @@
   },
   "datePRInfos": {
     "Octobre-2018": {
-      "total": 14,
+      "total": 15,
       "merged": 0
     },
     "Septembre-2018": {
