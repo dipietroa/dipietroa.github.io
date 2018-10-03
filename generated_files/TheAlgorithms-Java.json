@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-10-03T12:43:11.182Z",
+  "lastUpdate": "2018-10-03T13:43:08.384Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
-  "totalPR": 472,
+  "totalPR": 473,
   "lastPR": {
-    "createdAt": "2018-10-03T10:21:21Z",
-    "username": "sahinyanlik"
+    "createdAt": "2018-10-03T13:00:41Z",
+    "username": "knightcube"
   },
   "bestPR": {
     "user": "theycallmemac",
@@ -23,6 +23,11 @@
     "image": "https://avatars0.githubusercontent.com/u/29816320?v=4"
   },
   "userPRInfos": {
+    "knightcube": {
+      "total": 2,
+      "merged": 1,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/22871961?v=4"
+    },
     "sahinyanlik": {
       "total": 1,
       "merged": 0,
@@ -442,11 +447,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/10148624?v=4"
-    },
-    "knightcube": {
-      "total": 1,
-      "merged": 1,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/22871961?v=4"
     },
     "Shyam2609": {
       "total": 1,
@@ -1296,7 +1296,7 @@
   },
   "datePRInfos": {
     "Octobre-2018": {
-      "total": 20,
+      "total": 21,
       "merged": 0
     },
     "Septembre-2018": {
