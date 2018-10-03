@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-10-03T13:48:59.214Z",
+  "lastUpdate": "2018-10-03T14:49:11.546Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 7262,
@@ -30,7 +30,7 @@
     },
     "mmarkelov": {
       "total": 7,
-      "merged": 1,
+      "merged": 2,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/22371328?v=4"
     },
     "bvaughn": {
@@ -10467,7 +10467,7 @@
   "datePRInfos": {
     "Octobre-2018": {
       "total": 7,
-      "merged": 2
+      "merged": 3
     },
     "Septembre-2018": {
       "total": 125,
