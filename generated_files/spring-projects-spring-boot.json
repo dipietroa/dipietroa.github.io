@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-10-03T09:42:26.124Z",
+  "lastUpdate": "2018-10-03T10:42:10.768Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2918,
+  "totalPR": 2919,
   "lastPR": {
-    "createdAt": "2018-10-03T01:03:48Z",
-    "username": "izeye"
+    "createdAt": "2018-10-03T10:00:47Z",
+    "username": "jvalkeal"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "jvalkeal": {
+      "total": 7,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/50398?v=4"
+    },
     "izeye": {
       "total": 460,
       "merged": 2,
@@ -1357,11 +1362,6 @@
       "total": 6,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/7386945?v=4"
-    },
-    "jvalkeal": {
-      "total": 6,
-      "merged": 0,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/50398?v=4"
     },
     "zdesk": {
       "total": 1,
@@ -4351,7 +4351,7 @@
   },
   "datePRInfos": {
     "Octobre-2018": {
-      "total": 6,
+      "total": 7,
       "merged": 0
     },
     "Septembre-2018": {
