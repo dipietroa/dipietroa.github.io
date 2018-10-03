@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-10-03T18:42:06.529Z",
+  "lastUpdate": "2018-10-03T19:42:14.177Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2922,
+  "totalPR": 2923,
   "lastPR": {
-    "createdAt": "2018-10-03T17:18:08Z",
-    "username": "jnizet"
+    "createdAt": "2018-10-03T19:34:16Z",
+    "username": "rweisleder"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "rweisleder": {
+      "total": 3,
+      "merged": 0,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/1654369?v=4"
+    },
     "jnizet": {
       "total": 4,
       "merged": 1,
@@ -1297,11 +1302,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/26524220?v=4"
-    },
-    "rweisleder": {
-      "total": 2,
-      "merged": 0,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/1654369?v=4"
     },
     "anchal0997": {
       "total": 1,
@@ -4356,7 +4356,7 @@
   },
   "datePRInfos": {
     "Octobre-2018": {
-      "total": 10,
+      "total": 11,
       "merged": 0
     },
     "Septembre-2018": {
