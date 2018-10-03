@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-10-03T07:47:25.162Z",
+  "lastUpdate": "2018-10-03T08:47:39.810Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 7260,
+  "totalPR": 7262,
   "lastPR": {
-    "createdAt": "2018-10-02T20:19:43Z",
-    "username": "bvaughn"
+    "createdAt": "2018-10-03T08:34:42Z",
+    "username": "NE-SmallTown"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,15 +23,20 @@
     "image": "https://avatars3.githubusercontent.com/u/56288?v=4"
   },
   "userPRInfos": {
+    "NE-SmallTown": {
+      "total": 22,
+      "merged": 12,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/18418010?v=4"
+    },
+    "mmarkelov": {
+      "total": 7,
+      "merged": 1,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/22371328?v=4"
+    },
     "bvaughn": {
       "total": 279,
       "merged": 258,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/29597?v=4"
-    },
-    "mmarkelov": {
-      "total": 6,
-      "merged": 1,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/22371328?v=4"
     },
     "JoeCortopassi": {
       "total": 2,
@@ -52,11 +57,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/22446806?v=4"
-    },
-    "NE-SmallTown": {
-      "total": 21,
-      "merged": 12,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/18418010?v=4"
     },
     "AyWa": {
       "total": 1,
@@ -10466,7 +10466,7 @@
   },
   "datePRInfos": {
     "Octobre-2018": {
-      "total": 5,
+      "total": 7,
       "merged": 2
     },
     "Septembre-2018": {
