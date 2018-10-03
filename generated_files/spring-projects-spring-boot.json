@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-10-03T13:42:40.084Z",
+  "lastUpdate": "2018-10-03T14:42:51.147Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2920,
+  "totalPR": 2921,
   "lastPR": {
-    "createdAt": "2018-10-03T12:49:50Z",
-    "username": "mdeinum"
+    "createdAt": "2018-10-03T14:27:33Z",
+    "username": "mmanciop"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "mmanciop": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/14020598?v=4"
+    },
     "mdeinum": {
       "total": 15,
       "merged": 0,
@@ -4351,7 +4356,7 @@
   },
   "datePRInfos": {
     "Octobre-2018": {
-      "total": 8,
+      "total": 9,
       "merged": 0
     },
     "Septembre-2018": {
