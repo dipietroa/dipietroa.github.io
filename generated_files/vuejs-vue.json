@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-10-03T16:43:49.238Z",
+  "lastUpdate": "2018-10-03T17:42:59.284Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 1277,
+  "totalPR": 1278,
   "lastPR": {
-    "createdAt": "2018-10-02T05:04:13Z",
-    "username": "spencer1573"
+    "createdAt": "2018-10-03T16:51:56Z",
+    "username": "philson-philip"
   },
   "bestPR": {
     "user": "kazupon",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/4762850?v=4"
   },
   "userPRInfos": {
+    "philson-philip": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/22117214?v=4"
+    },
     "spencer1573": {
       "total": 1,
       "merged": 1,
@@ -2886,7 +2891,7 @@
   },
   "datePRInfos": {
     "Octobre-2018": {
-      "total": 2,
+      "total": 3,
       "merged": 1
     },
     "Septembre-2018": {
