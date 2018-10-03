@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-10-03T06:41:59.237Z",
+  "lastUpdate": "2018-10-03T07:42:26.390Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
-  "totalPR": 470,
+  "totalPR": 471,
   "lastPR": {
-    "createdAt": "2018-10-02T15:36:47Z",
-    "username": "abhishekjpr"
+    "createdAt": "2018-10-03T07:08:59Z",
+    "username": "pankajc007"
   },
   "bestPR": {
     "user": "theycallmemac",
@@ -23,6 +23,11 @@
     "image": "https://avatars0.githubusercontent.com/u/29816320?v=4"
   },
   "userPRInfos": {
+    "pankajc007": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/22257856?v=4"
+    },
     "abhishekjpr": {
       "total": 1,
       "merged": 0,
@@ -1286,7 +1291,7 @@
   },
   "datePRInfos": {
     "Octobre-2018": {
-      "total": 18,
+      "total": 19,
       "merged": 0
     },
     "Septembre-2018": {
