@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-10-03T19:42:40.854Z",
+  "lastUpdate": "2018-10-03T20:42:41.232Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
-  "totalPR": 474,
+  "totalPR": 475,
   "lastPR": {
-    "createdAt": "2018-10-03T18:54:18Z",
-    "username": "guneetsk99"
+    "createdAt": "2018-10-03T20:06:21Z",
+    "username": "swapnilmca17"
   },
   "bestPR": {
     "user": "theycallmemac",
@@ -23,6 +23,11 @@
     "image": "https://avatars0.githubusercontent.com/u/29816320?v=4"
   },
   "userPRInfos": {
+    "swapnilmca17": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/31646351?v=4"
+    },
     "guneetsk99": {
       "total": 1,
       "merged": 0,
@@ -1301,7 +1306,7 @@
   },
   "datePRInfos": {
     "Octobre-2018": {
-      "total": 22,
+      "total": 23,
       "merged": 0
     },
     "Septembre-2018": {
