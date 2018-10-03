@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-10-03T09:42:48.604Z",
+  "lastUpdate": "2018-10-03T10:42:35.964Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
-  "totalPR": 471,
+  "totalPR": 472,
   "lastPR": {
-    "createdAt": "2018-10-03T07:08:59Z",
-    "username": "pankajc007"
+    "createdAt": "2018-10-03T10:21:21Z",
+    "username": "sahinyanlik"
   },
   "bestPR": {
     "user": "theycallmemac",
@@ -23,6 +23,11 @@
     "image": "https://avatars0.githubusercontent.com/u/29816320?v=4"
   },
   "userPRInfos": {
+    "sahinyanlik": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/975479?v=4"
+    },
     "pankajc007": {
       "total": 1,
       "merged": 0,
@@ -1291,7 +1296,7 @@
   },
   "datePRInfos": {
     "Octobre-2018": {
-      "total": 19,
+      "total": 20,
       "merged": 0
     },
     "Septembre-2018": {
