@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-10-03T23:47:26.752Z",
+  "lastUpdate": "2018-10-04T00:46:59.171Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 7262,
+  "totalPR": 7263,
   "lastPR": {
-    "createdAt": "2018-10-03T08:34:42Z",
-    "username": "NE-SmallTown"
+    "createdAt": "2018-10-03T23:58:18Z",
+    "username": "PeterBell"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,9 +23,14 @@
     "image": "https://avatars3.githubusercontent.com/u/56288?v=4"
   },
   "userPRInfos": {
+    "PeterBell": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/4843?v=4"
+    },
     "NE-SmallTown": {
       "total": 22,
-      "merged": 12,
+      "merged": 13,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/18418010?v=4"
     },
     "mmarkelov": {
@@ -45,7 +50,7 @@
     },
     "acdlite": {
       "total": 234,
-      "merged": 187,
+      "merged": 188,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/3624098?v=4"
     },
     "bbhandari822": {
@@ -10466,12 +10471,12 @@
   },
   "datePRInfos": {
     "Octobre-2018": {
-      "total": 7,
-      "merged": 4
+      "total": 8,
+      "merged": 5
     },
     "Septembre-2018": {
       "total": 125,
-      "merged": 76
+      "merged": 77
     },
     "Août-2018": {
       "total": 122,
