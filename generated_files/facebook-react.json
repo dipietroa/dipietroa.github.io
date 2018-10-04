@@ -1,15 +1,15 @@
 {
-  "lastUpdate": "2018-10-04T20:47:57.775Z",
+  "lastUpdate": "2018-10-04T21:48:19.104Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 7267,
+  "totalPR": 7269,
   "lastPR": {
-    "createdAt": "2018-10-04T18:11:43Z",
-    "username": "acdlite"
+    "createdAt": "2018-10-04T21:34:56Z",
+    "username": "sophiebits"
   },
   "bestPR": {
     "user": "sophiebits",
-    "nbPR": 668,
+    "nbPR": 669,
     "image": "https://avatars2.githubusercontent.com/u/6820?v=4"
   },
   "bestMerged": {
@@ -23,6 +23,16 @@
     "image": "https://avatars3.githubusercontent.com/u/4762850?v=4"
   },
   "userPRInfos": {
+    "sophiebits": {
+      "total": 669,
+      "merged": 591,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/6820?v=4"
+    },
+    "gaearon": {
+      "total": 661,
+      "merged": 570,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/810438?v=4"
+    },
     "acdlite": {
       "total": 235,
       "merged": 189,
@@ -33,14 +43,9 @@
       "merged": 1,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/4762850?v=4"
     },
-    "sophiebits": {
-      "total": 668,
-      "merged": 591,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/6820?v=4"
-    },
     "mridgway": {
       "total": 11,
-      "merged": 6,
+      "merged": 7,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/191142?v=4"
     },
     "PeterBell": {
@@ -152,11 +157,6 @@
       "total": 6,
       "merged": 3,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/134936?v=4"
-    },
-    "gaearon": {
-      "total": 660,
-      "merged": 570,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/810438?v=4"
     },
     "arty-name": {
       "total": 1,
@@ -10476,8 +10476,8 @@
   },
   "datePRInfos": {
     "Octobre-2018": {
-      "total": 12,
-      "merged": 7
+      "total": 14,
+      "merged": 8
     },
     "Septembre-2018": {
       "total": 125,
