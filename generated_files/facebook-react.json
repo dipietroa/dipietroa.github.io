@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-10-04T07:47:13.122Z",
+  "lastUpdate": "2018-10-04T08:47:50.487Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 7266,
@@ -18,14 +18,14 @@
     "image": "https://avatars2.githubusercontent.com/u/6820?v=4"
   },
   "bestRatio": {
-    "user": "existentialism",
+    "user": "spencer1573",
     "ratio": 1,
-    "image": "https://avatars3.githubusercontent.com/u/56288?v=4"
+    "image": "https://avatars3.githubusercontent.com/u/4762850?v=4"
   },
   "userPRInfos": {
     "spencer1573": {
       "total": 1,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/4762850?v=4"
     },
     "sophiebits": {
@@ -10477,7 +10477,7 @@
   "datePRInfos": {
     "Octobre-2018": {
       "total": 11,
-      "merged": 5
+      "merged": 6
     },
     "Septembre-2018": {
       "total": 125,
