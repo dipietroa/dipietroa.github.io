@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-10-04T19:42:57.113Z",
+  "lastUpdate": "2018-10-04T20:43:04.663Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
-  "totalPR": 477,
+  "totalPR": 478,
   "lastPR": {
-    "createdAt": "2018-10-04T18:55:23Z",
-    "username": "thakursaurabh1998"
+    "createdAt": "2018-10-04T20:22:15Z",
+    "username": "pablohildo"
   },
   "bestPR": {
     "user": "theycallmemac",
@@ -23,6 +23,11 @@
     "image": "https://avatars0.githubusercontent.com/u/29816320?v=4"
   },
   "userPRInfos": {
+    "pablohildo": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/2402483?v=4"
+    },
     "thakursaurabh1998": {
       "total": 1,
       "merged": 0,
@@ -1316,7 +1321,7 @@
   },
   "datePRInfos": {
     "Octobre-2018": {
-      "total": 25,
+      "total": 26,
       "merged": 0
     },
     "Septembre-2018": {
