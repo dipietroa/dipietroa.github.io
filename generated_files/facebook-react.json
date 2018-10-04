@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-10-04T21:48:19.104Z",
+  "lastUpdate": "2018-10-04T22:47:44.549Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 7269,
@@ -14,7 +14,7 @@
   },
   "bestMerged": {
     "user": "sophiebits",
-    "nbPR": 591,
+    "nbPR": 592,
     "image": "https://avatars2.githubusercontent.com/u/6820?v=4"
   },
   "bestRatio": {
@@ -25,12 +25,12 @@
   "userPRInfos": {
     "sophiebits": {
       "total": 669,
-      "merged": 591,
+      "merged": 592,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/6820?v=4"
     },
     "gaearon": {
       "total": 661,
-      "merged": 570,
+      "merged": 571,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/810438?v=4"
     },
     "acdlite": {
@@ -10477,7 +10477,7 @@
   "datePRInfos": {
     "Octobre-2018": {
       "total": 14,
-      "merged": 8
+      "merged": 10
     },
     "Septembre-2018": {
       "total": 125,
