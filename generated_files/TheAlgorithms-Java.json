@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-10-04T17:42:36.229Z",
+  "lastUpdate": "2018-10-04T18:42:58.059Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
-  "totalPR": 475,
+  "totalPR": 476,
   "lastPR": {
-    "createdAt": "2018-10-03T20:06:21Z",
-    "username": "swapnilmca17"
+    "createdAt": "2018-10-04T18:11:38Z",
+    "username": "5ur3"
   },
   "bestPR": {
     "user": "theycallmemac",
@@ -23,6 +23,11 @@
     "image": "https://avatars0.githubusercontent.com/u/29816320?v=4"
   },
   "userPRInfos": {
+    "5ur3": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/43802815?v=4"
+    },
     "swapnilmca17": {
       "total": 1,
       "merged": 0,
@@ -1306,7 +1311,7 @@
   },
   "datePRInfos": {
     "Octobre-2018": {
-      "total": 23,
+      "total": 24,
       "merged": 0
     },
     "Septembre-2018": {
