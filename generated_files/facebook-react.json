@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-10-04T00:46:59.171Z",
+  "lastUpdate": "2018-10-04T01:46:32.528Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 7263,
+  "totalPR": 7264,
   "lastPR": {
-    "createdAt": "2018-10-03T23:58:18Z",
-    "username": "PeterBell"
+    "createdAt": "2018-10-04T01:11:06Z",
+    "username": "mridgway"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/56288?v=4"
   },
   "userPRInfos": {
+    "mridgway": {
+      "total": 11,
+      "merged": 6,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/191142?v=4"
+    },
     "PeterBell": {
       "total": 1,
       "merged": 0,
@@ -632,11 +637,6 @@
       "total": 1,
       "merged": 1,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/9668104?v=4"
-    },
-    "mridgway": {
-      "total": 10,
-      "merged": 6,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/191142?v=4"
     },
     "jasonslyvia": {
       "total": 1,
@@ -10471,7 +10471,7 @@
   },
   "datePRInfos": {
     "Octobre-2018": {
-      "total": 8,
+      "total": 9,
       "merged": 5
     },
     "Septembre-2018": {
