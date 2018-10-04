@@ -1,15 +1,15 @@
 {
-  "lastUpdate": "2018-10-04T02:47:03.392Z",
+  "lastUpdate": "2018-10-04T03:46:19.230Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 7264,
+  "totalPR": 7265,
   "lastPR": {
-    "createdAt": "2018-10-04T01:11:06Z",
-    "username": "mridgway"
+    "createdAt": "2018-10-04T02:51:38Z",
+    "username": "sophiebits"
   },
   "bestPR": {
     "user": "sophiebits",
-    "nbPR": 667,
+    "nbPR": 668,
     "image": "https://avatars2.githubusercontent.com/u/6820?v=4"
   },
   "bestMerged": {
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/56288?v=4"
   },
   "userPRInfos": {
+    "sophiebits": {
+      "total": 668,
+      "merged": 591,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/6820?v=4"
+    },
     "mridgway": {
       "total": 11,
       "merged": 6,
@@ -347,11 +352,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/16024985?v=4"
-    },
-    "sophiebits": {
-      "total": 667,
-      "merged": 591,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/6820?v=4"
     },
     "warteruzannan": {
       "total": 1,
@@ -10471,7 +10471,7 @@
   },
   "datePRInfos": {
     "Octobre-2018": {
-      "total": 9,
+      "total": 10,
       "merged": 5
     },
     "Septembre-2018": {
