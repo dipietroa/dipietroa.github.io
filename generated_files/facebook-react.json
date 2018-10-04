@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-10-04T05:46:46.468Z",
+  "lastUpdate": "2018-10-04T06:46:19.093Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 7265,
+  "totalPR": 7266,
   "lastPR": {
-    "createdAt": "2018-10-04T02:51:38Z",
-    "username": "sophiebits"
+    "createdAt": "2018-10-04T06:03:31Z",
+    "username": "spencer1573"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/56288?v=4"
   },
   "userPRInfos": {
+    "spencer1573": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/4762850?v=4"
+    },
     "sophiebits": {
       "total": 668,
       "merged": 591,
@@ -10471,7 +10476,7 @@
   },
   "datePRInfos": {
     "Octobre-2018": {
-      "total": 10,
+      "total": 11,
       "merged": 5
     },
     "Septembre-2018": {
