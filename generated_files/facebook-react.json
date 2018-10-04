@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-10-04T22:47:44.549Z",
+  "lastUpdate": "2018-10-04T23:46:47.055Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 7269,
+  "totalPR": 7270,
   "lastPR": {
-    "createdAt": "2018-10-04T21:34:56Z",
-    "username": "sophiebits"
+    "createdAt": "2018-10-04T23:38:03Z",
+    "username": "philipp-spiess"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/4762850?v=4"
   },
   "userPRInfos": {
+    "philipp-spiess": {
+      "total": 16,
+      "merged": 14,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/458591?v=4"
+    },
     "sophiebits": {
       "total": 669,
       "merged": 592,
@@ -117,11 +122,6 @@
       "total": 2,
       "merged": 0,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/9846613?v=4"
-    },
-    "philipp-spiess": {
-      "total": 15,
-      "merged": 14,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/458591?v=4"
     },
     "TigerPaw122": {
       "total": 1,
@@ -10476,7 +10476,7 @@
   },
   "datePRInfos": {
     "Octobre-2018": {
-      "total": 14,
+      "total": 15,
       "merged": 10
     },
     "Septembre-2018": {
