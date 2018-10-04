@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-10-04T19:47:48.142Z",
+  "lastUpdate": "2018-10-04T20:47:57.775Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 7267,
@@ -25,7 +25,7 @@
   "userPRInfos": {
     "acdlite": {
       "total": 235,
-      "merged": 188,
+      "merged": 189,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/3624098?v=4"
     },
     "spencer1573": {
@@ -10477,7 +10477,7 @@
   "datePRInfos": {
     "Octobre-2018": {
       "total": 12,
-      "merged": 6
+      "merged": 7
     },
     "Septembre-2018": {
       "total": 125,
