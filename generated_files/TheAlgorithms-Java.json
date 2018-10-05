@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "2018-10-05T00:42:12.736Z",
+  "lastUpdate": "2018-10-05T01:42:18.277Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
-  "totalPR": 478,
+  "totalPR": 479,
   "lastPR": {
-    "createdAt": "2018-10-04T20:22:15Z",
+    "createdAt": "2018-10-05T01:36:31Z",
     "username": "pablohildo"
   },
   "bestPR": {
@@ -24,7 +24,7 @@
   },
   "userPRInfos": {
     "pablohildo": {
-      "total": 1,
+      "total": 2,
       "merged": 0,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/2402483?v=4"
     },
@@ -1321,7 +1321,7 @@
   },
   "datePRInfos": {
     "Octobre-2018": {
-      "total": 26,
+      "total": 27,
       "merged": 0
     },
     "Septembre-2018": {
