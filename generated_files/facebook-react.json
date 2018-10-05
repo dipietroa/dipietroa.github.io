@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-10-05T17:47:33.488Z",
+  "lastUpdate": "2018-10-05T18:47:17.140Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 7271,
+  "totalPR": 7272,
   "lastPR": {
-    "createdAt": "2018-10-05T07:50:24Z",
-    "username": "sanggggg"
+    "createdAt": "2018-10-05T18:05:48Z",
+    "username": "tvler"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/4762850?v=4"
   },
   "userPRInfos": {
+    "tvler": {
+      "total": 2,
+      "merged": 1,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/4934193?v=4"
+    },
     "sanggggg": {
       "total": 1,
       "merged": 0,
@@ -160,7 +165,7 @@
     },
     "plievone": {
       "total": 6,
-      "merged": 3,
+      "merged": 4,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/134936?v=4"
     },
     "arty-name": {
@@ -2262,11 +2267,6 @@
       "total": 7,
       "merged": 5,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/23874?v=4"
-    },
-    "tvler": {
-      "total": 1,
-      "merged": 1,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/4934193?v=4"
     },
     "Hillsie": {
       "total": 1,
@@ -10481,12 +10481,12 @@
   },
   "datePRInfos": {
     "Octobre-2018": {
-      "total": 16,
+      "total": 17,
       "merged": 10
     },
     "Septembre-2018": {
       "total": 125,
-      "merged": 77
+      "merged": 78
     },
     "Août-2018": {
       "total": 122,
