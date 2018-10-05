@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-10-05T07:47:14.513Z",
+  "lastUpdate": "2018-10-05T08:46:56.727Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 7270,
+  "totalPR": 7271,
   "lastPR": {
-    "createdAt": "2018-10-04T23:38:03Z",
-    "username": "philipp-spiess"
+    "createdAt": "2018-10-05T07:50:24Z",
+    "username": "sanggggg"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/4762850?v=4"
   },
   "userPRInfos": {
+    "sanggggg": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/37951125?v=4"
+    },
     "philipp-spiess": {
       "total": 16,
       "merged": 14,
@@ -10476,7 +10481,7 @@
   },
   "datePRInfos": {
     "Octobre-2018": {
-      "total": 15,
+      "total": 16,
       "merged": 10
     },
     "Septembre-2018": {
