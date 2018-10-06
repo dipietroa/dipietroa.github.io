@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-10-06T15:46:56.464Z",
+  "lastUpdate": "2018-10-06T16:46:05.955Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 7274,
+  "totalPR": 7275,
   "lastPR": {
-    "createdAt": "2018-10-06T14:08:38Z",
-    "username": "poeschko"
+    "createdAt": "2018-10-06T16:14:48Z",
+    "username": "ZYSzys"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/4762850?v=4"
   },
   "userPRInfos": {
+    "ZYSzys": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/23313266?v=4"
+    },
     "poeschko": {
       "total": 2,
       "merged": 0,
@@ -10481,7 +10486,7 @@
   },
   "datePRInfos": {
     "Octobre-2018": {
-      "total": 19,
+      "total": 20,
       "merged": 10
     },
     "Septembre-2018": {
