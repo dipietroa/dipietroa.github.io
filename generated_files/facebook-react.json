@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-10-06T19:47:01.768Z",
+  "lastUpdate": "2018-10-06T20:46:42.349Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 7275,
+  "totalPR": 7276,
   "lastPR": {
-    "createdAt": "2018-10-06T16:14:48Z",
-    "username": "ZYSzys"
+    "createdAt": "2018-10-06T20:13:59Z",
+    "username": "Connormiha"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/4762850?v=4"
   },
   "userPRInfos": {
+    "Connormiha": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/4091305?v=4"
+    },
     "ZYSzys": {
       "total": 1,
       "merged": 0,
@@ -10486,7 +10491,7 @@
   },
   "datePRInfos": {
     "Octobre-2018": {
-      "total": 20,
+      "total": 21,
       "merged": 10
     },
     "Septembre-2018": {
