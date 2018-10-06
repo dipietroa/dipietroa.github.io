@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-10-06T13:46:34.727Z",
+  "lastUpdate": "2018-10-06T14:46:03.968Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 7273,
+  "totalPR": 7274,
   "lastPR": {
-    "createdAt": "2018-10-05T23:57:46Z",
-    "username": "acdlite"
+    "createdAt": "2018-10-06T14:08:38Z",
+    "username": "poeschko"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/4762850?v=4"
   },
   "userPRInfos": {
+    "poeschko": {
+      "total": 2,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/586916?v=4"
+    },
     "acdlite": {
       "total": 236,
       "merged": 189,
@@ -262,11 +267,6 @@
       "total": 2,
       "merged": 0,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/20288447?v=4"
-    },
-    "poeschko": {
-      "total": 1,
-      "merged": 0,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/586916?v=4"
     },
     "sompylasar": {
       "total": 5,
@@ -10481,7 +10481,7 @@
   },
   "datePRInfos": {
     "Octobre-2018": {
-      "total": 18,
+      "total": 19,
       "merged": 10
     },
     "Septembre-2018": {
