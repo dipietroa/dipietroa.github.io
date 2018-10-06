@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "2018-10-06T08:41:43.039Z",
+  "lastUpdate": "2018-10-06T09:42:23.239Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2925,
+  "totalPR": 2926,
   "lastPR": {
-    "createdAt": "2018-10-05T05:34:09Z",
+    "createdAt": "2018-10-06T09:02:57Z",
     "username": "dreis2211"
   },
   "bestPR": {
@@ -24,7 +24,7 @@
   },
   "userPRInfos": {
     "dreis2211": {
-      "total": 103,
+      "total": 104,
       "merged": 0,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/6304496?v=4"
     },
@@ -4356,7 +4356,7 @@
   },
   "datePRInfos": {
     "Octobre-2018": {
-      "total": 13,
+      "total": 14,
       "merged": 0
     },
     "Septembre-2018": {
