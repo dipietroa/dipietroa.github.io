@@ -1,15 +1,15 @@
 {
-  "lastUpdate": "2018-10-06T07:43:17.649Z",
+  "lastUpdate": "2018-10-06T08:42:57.081Z",
   "cowner": "nuclio",
   "crepo": "nuclio",
-  "totalPR": 718,
+  "totalPR": 719,
   "lastPR": {
-    "createdAt": "2018-10-04T13:59:25Z",
-    "username": "eran-nussbaum"
+    "createdAt": "2018-10-06T08:33:25Z",
+    "username": "pavius"
   },
   "bestPR": {
     "user": "pavius",
-    "nbPR": 342,
+    "nbPR": 343,
     "image": "https://avatars2.githubusercontent.com/u/423987?v=4"
   },
   "bestMerged": {
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/4675524?v=4"
   },
   "userPRInfos": {
+    "pavius": {
+      "total": 343,
+      "merged": 339,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/423987?v=4"
+    },
     "eran-nussbaum": {
       "total": 71,
       "merged": 70,
@@ -42,11 +47,6 @@
       "total": 18,
       "merged": 17,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/25031243?v=4"
-    },
-    "pavius": {
-      "total": 342,
-      "merged": 339,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/423987?v=4"
     },
     "LevkoKozak": {
       "total": 7,
@@ -186,7 +186,7 @@
   },
   "datePRInfos": {
     "Octobre-2018": {
-      "total": 3,
+      "total": 4,
       "merged": 3
     },
     "Septembre-2018": {
