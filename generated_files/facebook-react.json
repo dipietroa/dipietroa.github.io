@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-10-07T09:46:31.432Z",
+  "lastUpdate": "2018-10-07T10:45:57.192Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 7276,
+  "totalPR": 7277,
   "lastPR": {
-    "createdAt": "2018-10-06T20:13:59Z",
-    "username": "Connormiha"
+    "createdAt": "2018-10-07T10:30:47Z",
+    "username": "FermiDirak"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/4762850?v=4"
   },
   "userPRInfos": {
+    "FermiDirak": {
+      "total": 4,
+      "merged": 1,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/5897853?v=4"
+    },
     "Connormiha": {
       "total": 1,
       "merged": 0,
@@ -352,11 +357,6 @@
       "total": 3,
       "merged": 0,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/12179856?v=4"
-    },
-    "FermiDirak": {
-      "total": 3,
-      "merged": 1,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/5897853?v=4"
     },
     "jfo84": {
       "total": 10,
@@ -10491,7 +10491,7 @@
   },
   "datePRInfos": {
     "Octobre-2018": {
-      "total": 21,
+      "total": 22,
       "merged": 10
     },
     "Septembre-2018": {
