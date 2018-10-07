@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-10-07T03:42:24.101Z",
+  "lastUpdate": "2018-10-07T04:42:43.960Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 1278,
+  "totalPR": 1279,
   "lastPR": {
-    "createdAt": "2018-10-03T16:51:56Z",
-    "username": "philson-philip"
+    "createdAt": "2018-10-07T04:20:27Z",
+    "username": "omarkdev"
   },
   "bestPR": {
     "user": "kazupon",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/4762850?v=4"
   },
   "userPRInfos": {
+    "omarkdev": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/14936241?v=4"
+    },
     "philson-philip": {
       "total": 1,
       "merged": 0,
@@ -2891,7 +2896,7 @@
   },
   "datePRInfos": {
     "Octobre-2018": {
-      "total": 3,
+      "total": 4,
       "merged": 1
     },
     "Septembre-2018": {
