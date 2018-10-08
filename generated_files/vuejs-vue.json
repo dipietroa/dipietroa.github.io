@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-10-08T11:42:39.317Z",
+  "lastUpdate": "2018-10-08T12:43:32.946Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 1279,
+  "totalPR": 1280,
   "lastPR": {
-    "createdAt": "2018-10-07T04:20:27Z",
-    "username": "omarkdev"
+    "createdAt": "2018-10-08T12:18:46Z",
+    "username": "caozhong1996"
   },
   "bestPR": {
     "user": "kazupon",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/4762850?v=4"
   },
   "userPRInfos": {
+    "caozhong1996": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/26522151?v=4"
+    },
     "omarkdev": {
       "total": 1,
       "merged": 0,
@@ -2896,7 +2901,7 @@
   },
   "datePRInfos": {
     "Octobre-2018": {
-      "total": 4,
+      "total": 5,
       "merged": 1
     },
     "Septembre-2018": {
