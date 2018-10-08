@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-10-07T23:42:13.308Z",
+  "lastUpdate": "2018-10-08T00:42:15.432Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
-  "totalPR": 484,
+  "totalPR": 485,
   "lastPR": {
-    "createdAt": "2018-10-07T14:57:52Z",
-    "username": "bhavyashah98"
+    "createdAt": "2018-10-07T23:57:24Z",
+    "username": "dkesriyeli"
   },
   "bestPR": {
     "user": "theycallmemac",
@@ -23,6 +23,11 @@
     "image": "https://avatars0.githubusercontent.com/u/29816320?v=4"
   },
   "userPRInfos": {
+    "dkesriyeli": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/8526977?v=4"
+    },
     "bhavyashah98": {
       "total": 1,
       "merged": 0,
@@ -1341,7 +1346,7 @@
   },
   "datePRInfos": {
     "Octobre-2018": {
-      "total": 32,
+      "total": 33,
       "merged": 0
     },
     "Septembre-2018": {
