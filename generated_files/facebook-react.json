@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-10-08T17:49:42.729Z",
+  "lastUpdate": "2018-10-08T19:49:42.510Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 7278,
   "lastPR": {
-    "createdAt": "2018-10-07T10:30:47Z",
-    "username": "FermiDirak"
+    "createdAt": "2018-10-08T17:46:21Z",
+    "username": "mmarkelov"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/4762850?v=4"
   },
   "userPRInfos": {
+    "mmarkelov": {
+      "total": 8,
+      "merged": 2,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/22371328?v=4"
+    },
     "FermiDirak": {
       "total": 4,
       "merged": 1,
@@ -59,8 +64,8 @@
       "avatarUrl": "https://avatars3.githubusercontent.com/u/37951125?v=4"
     },
     "philipp-spiess": {
-      "total": 17,
-      "merged": 15,
+      "total": 16,
+      "merged": 14,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/458591?v=4"
     },
     "sophiebits": {
@@ -92,11 +97,6 @@
       "total": 22,
       "merged": 13,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/18418010?v=4"
-    },
-    "mmarkelov": {
-      "total": 7,
-      "merged": 2,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/22371328?v=4"
     },
     "bvaughn": {
       "total": 279,
@@ -10491,7 +10491,7 @@
   },
   "datePRInfos": {
     "Octobre-2018": {
-      "total": 22,
+      "total": 23,
       "merged": 10
     },
     "Septembre-2018": {
@@ -10559,8 +10559,8 @@
       "merged": 110
     },
     "Mai-2017": {
-      "total": 137,
-      "merged": 95
+      "total": 136,
+      "merged": 94
     },
     "Avril-2017": {
       "total": 153,
