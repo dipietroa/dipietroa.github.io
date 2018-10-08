@@ -1,8 +1,8 @@
 {
-  "lastUpdate": "2018-10-08T16:48:36.188Z",
+  "lastUpdate": "2018-10-08T17:49:42.729Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 7277,
+  "totalPR": 7278,
   "lastPR": {
     "createdAt": "2018-10-07T10:30:47Z",
     "username": "FermiDirak"
@@ -59,8 +59,8 @@
       "avatarUrl": "https://avatars3.githubusercontent.com/u/37951125?v=4"
     },
     "philipp-spiess": {
-      "total": 16,
-      "merged": 14,
+      "total": 17,
+      "merged": 15,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/458591?v=4"
     },
     "sophiebits": {
@@ -10559,8 +10559,8 @@
       "merged": 110
     },
     "Mai-2017": {
-      "total": 136,
-      "merged": 94
+      "total": 137,
+      "merged": 95
     },
     "Avril-2017": {
       "total": 153,
