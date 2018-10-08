@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-10-08T04:42:35.651Z",
+  "lastUpdate": "2018-10-08T05:42:52.800Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
   "totalPR": 485,
@@ -18,14 +18,14 @@
     "image": "https://avatars1.githubusercontent.com/u/16108563?v=4"
   },
   "bestRatio": {
-    "user": "DDullahan",
+    "user": "dkesriyeli",
     "ratio": 1,
-    "image": "https://avatars0.githubusercontent.com/u/29816320?v=4"
+    "image": "https://avatars0.githubusercontent.com/u/8526977?v=4"
   },
   "userPRInfos": {
     "dkesriyeli": {
       "total": 1,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/8526977?v=4"
     },
     "bhavyashah98": {
@@ -1347,7 +1347,7 @@
   "datePRInfos": {
     "Octobre-2018": {
       "total": 33,
-      "merged": 0
+      "merged": 1
     },
     "Septembre-2018": {
       "total": 15,
