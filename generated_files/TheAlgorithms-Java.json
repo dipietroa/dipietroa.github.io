@@ -1,8 +1,8 @@
 {
-  "lastUpdate": "2018-10-08T16:43:26.331Z",
+  "lastUpdate": "2018-10-08T17:43:16.895Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
-  "totalPR": 488,
+  "totalPR": 489,
   "lastPR": {
     "createdAt": "2018-10-08T16:25:42Z",
     "username": "rmakynen"
@@ -82,6 +82,11 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/43180442?v=4"
+    },
+    "deepakchandh": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/23726912?v=4"
     },
     "knightcube": {
       "total": 2,
@@ -1356,7 +1361,7 @@
   },
   "datePRInfos": {
     "Octobre-2018": {
-      "total": 36,
+      "total": 37,
       "merged": 1
     },
     "Septembre-2018": {
