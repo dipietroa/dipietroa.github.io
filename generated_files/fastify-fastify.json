@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "2018-10-09T19:43:37.441Z",
+  "lastUpdate": "2018-10-09T20:43:45.196Z",
   "cowner": "fastify",
   "crepo": "fastify",
-  "totalPR": 739,
+  "totalPR": 740,
   "lastPR": {
-    "createdAt": "2018-10-08T21:19:53Z",
+    "createdAt": "2018-10-09T19:54:53Z",
     "username": "cemremengu"
   },
   "bestPR": {
@@ -24,7 +24,7 @@
   },
   "userPRInfos": {
     "cemremengu": {
-      "total": 21,
+      "total": 22,
       "merged": 17,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/1297759?v=4"
     },
@@ -696,7 +696,7 @@
   },
   "datePRInfos": {
     "Octobre-2018": {
-      "total": 8,
+      "total": 9,
       "merged": 4
     },
     "Septembre-2018": {
