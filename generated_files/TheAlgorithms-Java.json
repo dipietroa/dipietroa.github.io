@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-10-09T03:42:30.637Z",
+  "lastUpdate": "2018-10-09T04:42:22.081Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
   "totalPR": 489,
@@ -18,9 +18,9 @@
     "image": "https://avatars1.githubusercontent.com/u/16108563?v=4"
   },
   "bestRatio": {
-    "user": "dkesriyeli",
+    "user": "Chezin",
     "ratio": 1,
-    "image": "https://avatars0.githubusercontent.com/u/8526977?v=4"
+    "image": "https://avatars1.githubusercontent.com/u/19272578?v=4"
   },
   "userPRInfos": {
     "rmakynen": {
@@ -30,7 +30,7 @@
     },
     "Chezin": {
       "total": 1,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/19272578?v=4"
     },
     "dkesriyeli": {
@@ -1362,7 +1362,7 @@
   "datePRInfos": {
     "Octobre-2018": {
       "total": 37,
-      "merged": 1
+      "merged": 2
     },
     "Septembre-2018": {
       "total": 15,
