@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-10-09T19:41:57.960Z",
+  "lastUpdate": "2018-10-09T20:42:04.847Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
   "totalPR": 2934,
   "lastPR": {
-    "createdAt": "2018-10-09T15:51:47Z",
-    "username": "ayudovin"
+    "createdAt": "2018-10-09T19:41:46Z",
+    "username": "mmanciop"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "mmanciop": {
+      "total": 2,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/14020598?v=4"
+    },
     "ayudovin": {
       "total": 31,
       "merged": 0,
@@ -62,11 +67,6 @@
       "total": 4,
       "merged": 1,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/1608223?v=4"
-    },
-    "mmanciop": {
-      "total": 1,
-      "merged": 0,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/14020598?v=4"
     },
     "mdeinum": {
       "total": 15,
@@ -689,7 +689,7 @@
       "avatarUrl": "https://avatars3.githubusercontent.com/u/37663159?v=4"
     },
     "making": {
-      "total": 11,
+      "total": 10,
       "merged": 0,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/106908?v=4"
     },
@@ -4361,7 +4361,7 @@
   },
   "datePRInfos": {
     "Octobre-2018": {
-      "total": 21,
+      "total": 22,
       "merged": 0
     },
     "Septembre-2018": {
@@ -4549,7 +4549,7 @@
       "merged": 1
     },
     "Novembre-2014": {
-      "total": 25,
+      "total": 24,
       "merged": 2
     },
     "Octobre-2014": {
