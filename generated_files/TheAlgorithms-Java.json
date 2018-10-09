@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-10-09T05:42:42.085Z",
+  "lastUpdate": "2018-10-09T06:42:16.851Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
-  "totalPR": 489,
+  "totalPR": 490,
   "lastPR": {
-    "createdAt": "2018-10-08T16:25:42Z",
-    "username": "rmakynen"
+    "createdAt": "2018-10-09T05:54:23Z",
+    "username": "vasutomar"
   },
   "bestPR": {
     "user": "theycallmemac",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/19272578?v=4"
   },
   "userPRInfos": {
+    "vasutomar": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/30066101?v=4"
+    },
     "rmakynen": {
       "total": 2,
       "merged": 0,
@@ -1361,7 +1366,7 @@
   },
   "datePRInfos": {
     "Octobre-2018": {
-      "total": 37,
+      "total": 38,
       "merged": 2
     },
     "Septembre-2018": {
