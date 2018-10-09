@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-10-09T11:42:23.882Z",
+  "lastUpdate": "2018-10-09T12:43:12.856Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
-  "totalPR": 491,
+  "totalPR": 492,
   "lastPR": {
-    "createdAt": "2018-10-09T07:09:37Z",
-    "username": "KashyapNasit"
+    "createdAt": "2018-10-09T12:31:46Z",
+    "username": "rmakynen"
   },
   "bestPR": {
     "user": "theycallmemac",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/19272578?v=4"
   },
   "userPRInfos": {
+    "rmakynen": {
+      "total": 3,
+      "merged": 1,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/43169683?v=4"
+    },
     "KashyapNasit": {
       "total": 1,
       "merged": 0,
@@ -32,11 +37,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/30066101?v=4"
-    },
-    "rmakynen": {
-      "total": 2,
-      "merged": 1,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/43169683?v=4"
     },
     "Chezin": {
       "total": 1,
@@ -1371,7 +1371,7 @@
   },
   "datePRInfos": {
     "Octobre-2018": {
-      "total": 39,
+      "total": 40,
       "merged": 3
     },
     "Septembre-2018": {
