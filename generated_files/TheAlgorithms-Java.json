@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-10-10T16:43:06.245Z",
+  "lastUpdate": "2018-10-10T17:43:09.611Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
-  "totalPR": 499,
+  "totalPR": 500,
   "lastPR": {
-    "createdAt": "2018-10-10T13:38:54Z",
-    "username": "logan0007"
+    "createdAt": "2018-10-10T16:51:24Z",
+    "username": "rpotter12"
   },
   "bestPR": {
     "user": "theycallmemac",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/19272578?v=4"
   },
   "userPRInfos": {
+    "rpotter12": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/34352567?v=4"
+    },
     "logan0007": {
       "total": 1,
       "merged": 0,
@@ -1391,7 +1396,7 @@
   },
   "datePRInfos": {
     "Octobre-2018": {
-      "total": 47,
+      "total": 48,
       "merged": 5
     },
     "Septembre-2018": {
