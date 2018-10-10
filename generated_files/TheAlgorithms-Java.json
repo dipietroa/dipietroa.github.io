@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-10-10T08:42:39.528Z",
+  "lastUpdate": "2018-10-10T09:42:56.502Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
-  "totalPR": 494,
+  "totalPR": 495,
   "lastPR": {
-    "createdAt": "2018-10-10T02:05:34Z",
-    "username": "Dill800"
+    "createdAt": "2018-10-10T09:39:24Z",
+    "username": "Jodha-ji"
   },
   "bestPR": {
     "user": "theycallmemac",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/19272578?v=4"
   },
   "userPRInfos": {
+    "Jodha-ji": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/30717415?v=4"
+    },
     "Dill800": {
       "total": 1,
       "merged": 0,
@@ -1381,7 +1386,7 @@
   },
   "datePRInfos": {
     "Octobre-2018": {
-      "total": 42,
+      "total": 43,
       "merged": 4
     },
     "Septembre-2018": {
