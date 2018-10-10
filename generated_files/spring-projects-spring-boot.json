@@ -1,8 +1,8 @@
 {
-  "lastUpdate": "2018-10-10T13:42:02.888Z",
+  "lastUpdate": "2018-10-10T14:42:22.003Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2936,
+  "totalPR": 2935,
   "lastPR": {
     "createdAt": "2018-10-10T12:46:41Z",
     "username": "Hanope"
@@ -27,11 +27,6 @@
       "total": 7,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/19226330?v=4"
-    },
-    "IamPeterPan": {
-      "total": 1,
-      "merged": 0,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/31070398?v=4"
     },
     "mmanciop": {
       "total": 2,
@@ -4366,7 +4361,7 @@
   },
   "datePRInfos": {
     "Octobre-2018": {
-      "total": 24,
+      "total": 23,
       "merged": 0
     },
     "Septembre-2018": {
