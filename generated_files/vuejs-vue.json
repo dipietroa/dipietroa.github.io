@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-10-10T07:42:56.754Z",
+  "lastUpdate": "2018-10-10T08:43:18.909Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 1281,
+  "totalPR": 1282,
   "lastPR": {
-    "createdAt": "2018-10-08T17:11:27Z",
-    "username": "ManoelLobo"
+    "createdAt": "2018-10-10T08:22:40Z",
+    "username": "laden666666"
   },
   "bestPR": {
     "user": "kazupon",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/4762850?v=4"
   },
   "userPRInfos": {
+    "laden666666": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/5233914?v=4"
+    },
     "ManoelLobo": {
       "total": 1,
       "merged": 0,
@@ -2906,7 +2911,7 @@
   },
   "datePRInfos": {
     "Octobre-2018": {
-      "total": 6,
+      "total": 7,
       "merged": 1
     },
     "Septembre-2018": {
