@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-10-10T18:43:01.070Z",
+  "lastUpdate": "2018-10-10T19:42:23.297Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
-  "totalPR": 502,
+  "totalPR": 506,
   "lastPR": {
-    "createdAt": "2018-10-10T18:13:34Z",
-    "username": "sunilnitdgp"
+    "createdAt": "2018-10-10T19:28:36Z",
+    "username": "AtoMc"
   },
   "bestPR": {
     "user": "theycallmemac",
@@ -23,8 +23,18 @@
     "image": "https://avatars1.githubusercontent.com/u/19272578?v=4"
   },
   "userPRInfos": {
+    "AtoMc": {
+      "total": 3,
+      "merged": 0,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/4951460?v=4"
+    },
+    "TusharSharma23": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/28841323?v=4"
+    },
     "sunilnitdgp": {
-      "total": 2,
+      "total": 4,
       "merged": 0,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/28349093?v=4"
     },
@@ -843,11 +853,6 @@
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/17319982?v=4"
     },
-    "AtoMc": {
-      "total": 2,
-      "merged": 0,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/4951460?v=4"
-    },
     "6Pi6": {
       "total": 1,
       "merged": 0,
@@ -1401,7 +1406,7 @@
   },
   "datePRInfos": {
     "Octobre-2018": {
-      "total": 50,
+      "total": 54,
       "merged": 5
     },
     "Septembre-2018": {
