@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-10-10T12:42:28.281Z",
+  "lastUpdate": "2018-10-10T13:42:28.751Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
-  "totalPR": 498,
+  "totalPR": 499,
   "lastPR": {
-    "createdAt": "2018-10-10T10:13:11Z",
-    "username": "Jodha-ji"
+    "createdAt": "2018-10-10T13:38:54Z",
+    "username": "logan0007"
   },
   "bestPR": {
     "user": "theycallmemac",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/19272578?v=4"
   },
   "userPRInfos": {
+    "logan0007": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/43823983?v=4"
+    },
     "Jodha-ji": {
       "total": 4,
       "merged": 0,
@@ -1386,7 +1391,7 @@
   },
   "datePRInfos": {
     "Octobre-2018": {
-      "total": 46,
+      "total": 47,
       "merged": 5
     },
     "Septembre-2018": {
