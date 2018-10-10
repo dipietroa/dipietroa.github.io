@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-10-10T01:42:27.550Z",
+  "lastUpdate": "2018-10-10T02:42:12.646Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
-  "totalPR": 493,
+  "totalPR": 494,
   "lastPR": {
-    "createdAt": "2018-10-09T13:07:06Z",
-    "username": "rajput2107"
+    "createdAt": "2018-10-10T02:05:34Z",
+    "username": "Dill800"
   },
   "bestPR": {
     "user": "theycallmemac",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/19272578?v=4"
   },
   "userPRInfos": {
+    "Dill800": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/40064666?v=4"
+    },
     "rajput2107": {
       "total": 1,
       "merged": 0,
@@ -1376,7 +1381,7 @@
   },
   "datePRInfos": {
     "Octobre-2018": {
-      "total": 41,
+      "total": 42,
       "merged": 4
     },
     "Septembre-2018": {
