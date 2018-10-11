@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-10-11T06:42:40.408Z",
+  "lastUpdate": "2018-10-11T07:42:30.889Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
-  "totalPR": 510,
+  "totalPR": 511,
   "lastPR": {
-    "createdAt": "2018-10-11T05:56:27Z",
-    "username": "shrutisheoran"
+    "createdAt": "2018-10-11T07:07:08Z",
+    "username": "debisamal"
   },
   "bestPR": {
     "user": "theycallmemac",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/19272578?v=4"
   },
   "userPRInfos": {
+    "debisamal": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/42857452?v=4"
+    },
     "shrutisheoran": {
       "total": 1,
       "merged": 0,
@@ -1421,7 +1426,7 @@
   },
   "datePRInfos": {
     "Octobre-2018": {
-      "total": 58,
+      "total": 59,
       "merged": 5
     },
     "Septembre-2018": {
