@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-10-11T13:48:09.110Z",
+  "lastUpdate": "2018-10-11T15:48:45.488Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 7283,
+  "totalPR": 7284,
   "lastPR": {
-    "createdAt": "2018-10-11T10:05:44Z",
-    "username": "SaeedMalikx"
+    "createdAt": "2018-10-11T14:47:59Z",
+    "username": "trueadm"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/4762850?v=4"
   },
   "userPRInfos": {
+    "trueadm": {
+      "total": 41,
+      "merged": 33,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/1519870?v=4"
+    },
     "SaeedMalikx": {
       "total": 1,
       "merged": 0,
@@ -147,11 +152,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/42458827?v=4"
-    },
-    "trueadm": {
-      "total": 40,
-      "merged": 33,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/1519870?v=4"
     },
     "existentialism": {
       "total": 1,
@@ -10501,7 +10501,7 @@
   },
   "datePRInfos": {
     "Octobre-2018": {
-      "total": 28,
+      "total": 29,
       "merged": 13
     },
     "Septembre-2018": {
