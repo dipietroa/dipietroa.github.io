@@ -1,15 +1,15 @@
 {
-  "lastUpdate": "2018-10-10T23:47:36.930Z",
+  "lastUpdate": "2018-10-11T00:47:14.532Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 7280,
+  "totalPR": 7281,
   "lastPR": {
-    "createdAt": "2018-10-10T15:54:51Z",
-    "username": "gaearon"
+    "createdAt": "2018-10-11T00:38:05Z",
+    "username": "sophiebits"
   },
   "bestPR": {
     "user": "sophiebits",
-    "nbPR": 669,
+    "nbPR": 670,
     "image": "https://avatars2.githubusercontent.com/u/6820?v=4"
   },
   "bestMerged": {
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/4762850?v=4"
   },
   "userPRInfos": {
+    "sophiebits": {
+      "total": 670,
+      "merged": 592,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/6820?v=4"
+    },
     "gaearon": {
       "total": 662,
       "merged": 572,
@@ -77,11 +82,6 @@
       "total": 16,
       "merged": 15,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/458591?v=4"
-    },
-    "sophiebits": {
-      "total": 669,
-      "merged": 592,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/6820?v=4"
     },
     "spencer1573": {
       "total": 1,
@@ -10496,7 +10496,7 @@
   },
   "datePRInfos": {
     "Octobre-2018": {
-      "total": 25,
+      "total": 26,
       "merged": 13
     },
     "Septembre-2018": {
