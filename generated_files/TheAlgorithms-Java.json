@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-10-11T00:42:26.413Z",
+  "lastUpdate": "2018-10-11T01:42:16.256Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
-  "totalPR": 506,
+  "totalPR": 508,
   "lastPR": {
-    "createdAt": "2018-10-10T19:28:36Z",
-    "username": "AtoMc"
+    "createdAt": "2018-10-11T01:11:30Z",
+    "username": "azim22"
   },
   "bestPR": {
     "user": "theycallmemac",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/19272578?v=4"
   },
   "userPRInfos": {
+    "azim22": {
+      "total": 2,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/44043491?v=4"
+    },
     "AtoMc": {
       "total": 3,
       "merged": 0,
@@ -1406,7 +1411,7 @@
   },
   "datePRInfos": {
     "Octobre-2018": {
-      "total": 54,
+      "total": 56,
       "merged": 5
     },
     "Septembre-2018": {
