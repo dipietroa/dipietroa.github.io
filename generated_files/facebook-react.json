@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-10-11T09:47:46.014Z",
+  "lastUpdate": "2018-10-11T10:47:34.669Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 7282,
+  "totalPR": 7283,
   "lastPR": {
-    "createdAt": "2018-10-11T01:37:09Z",
-    "username": "acdlite"
+    "createdAt": "2018-10-11T10:05:44Z",
+    "username": "SaeedMalikx"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/4762850?v=4"
   },
   "userPRInfos": {
+    "SaeedMalikx": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/25725772?v=4"
+    },
     "acdlite": {
       "total": 237,
       "merged": 190,
@@ -10496,7 +10501,7 @@
   },
   "datePRInfos": {
     "Octobre-2018": {
-      "total": 27,
+      "total": 28,
       "merged": 13
     },
     "Septembre-2018": {
