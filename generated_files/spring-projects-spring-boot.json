@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-10-11T10:41:54.202Z",
+  "lastUpdate": "2018-10-11T11:41:45.671Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2936,
+  "totalPR": 2938,
   "lastPR": {
-    "createdAt": "2018-10-10T14:47:55Z",
-    "username": "RoyJacobs"
+    "createdAt": "2018-10-11T11:13:04Z",
+    "username": "ayudovin"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "ayudovin": {
+      "total": 32,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/34862741?v=4"
+    },
     "RoyJacobs": {
       "total": 1,
       "merged": 0,
@@ -33,15 +38,15 @@
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/19226330?v=4"
     },
+    "IamPeterPan": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/31070398?v=4"
+    },
     "mmanciop": {
       "total": 2,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/14020598?v=4"
-    },
-    "ayudovin": {
-      "total": 31,
-      "merged": 0,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/34862741?v=4"
     },
     "ferstl": {
       "total": 1,
@@ -4366,7 +4371,7 @@
   },
   "datePRInfos": {
     "Octobre-2018": {
-      "total": 24,
+      "total": 26,
       "merged": 0
     },
     "Septembre-2018": {
