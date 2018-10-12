@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-10-12T14:44:40.553Z",
+  "lastUpdate": "2018-10-12T15:44:15.713Z",
   "cowner": "fastify",
   "crepo": "fastify",
-  "totalPR": 741,
+  "totalPR": 742,
   "lastPR": {
-    "createdAt": "2018-10-11T00:47:54Z",
-    "username": "cemremengu"
+    "createdAt": "2018-10-12T15:14:05Z",
+    "username": "fralonra"
   },
   "bestPR": {
     "user": "delvedor",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/4048656?v=4"
   },
   "userPRInfos": {
+    "fralonra": {
+      "total": 9,
+      "merged": 7,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/20400873?v=4"
+    },
     "cemremengu": {
       "total": 23,
       "merged": 18,
@@ -37,11 +42,6 @@
       "total": 89,
       "merged": 85,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/52195?v=4"
-    },
-    "fralonra": {
-      "total": 8,
-      "merged": 7,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/20400873?v=4"
     },
     "mmarchini": {
       "total": 1,
@@ -696,7 +696,7 @@
   },
   "datePRInfos": {
     "Octobre-2018": {
-      "total": 10,
+      "total": 11,
       "merged": 5
     },
     "Septembre-2018": {
