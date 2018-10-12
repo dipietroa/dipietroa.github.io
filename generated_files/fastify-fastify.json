@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-10-12T20:43:53.424Z",
+  "lastUpdate": "2018-10-12T21:43:38.361Z",
   "cowner": "fastify",
   "crepo": "fastify",
   "totalPR": 742,
@@ -100,7 +100,7 @@
     },
     "StarpTech": {
       "total": 37,
-      "merged": 27,
+      "merged": 28,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/1764424?v=4"
     },
     "trxcllnt": {
@@ -701,7 +701,7 @@
     },
     "Septembre-2018": {
       "total": 50,
-      "merged": 36
+      "merged": 37
     },
     "Août-2018": {
       "total": 47,
