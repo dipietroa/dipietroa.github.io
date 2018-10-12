@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-10-12T17:42:27.686Z",
+  "lastUpdate": "2018-10-12T18:42:02.295Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2938,
+  "totalPR": 2939,
   "lastPR": {
-    "createdAt": "2018-10-11T11:13:04Z",
-    "username": "ayudovin"
+    "createdAt": "2018-10-12T17:54:41Z",
+    "username": "wenjiezhang2013"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "wenjiezhang2013": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/4951160?v=4"
+    },
     "ayudovin": {
       "total": 32,
       "merged": 0,
@@ -4371,7 +4376,7 @@
   },
   "datePRInfos": {
     "Octobre-2018": {
-      "total": 26,
+      "total": 27,
       "merged": 0
     },
     "Septembre-2018": {
