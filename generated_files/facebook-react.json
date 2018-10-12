@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-10-12T21:46:56.401Z",
+  "lastUpdate": "2018-10-12T22:47:28.280Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 7290,
+  "totalPR": 7291,
   "lastPR": {
-    "createdAt": "2018-10-12T21:29:02Z",
-    "username": "acdlite"
+    "createdAt": "2018-10-12T22:37:23Z",
+    "username": "sw-yx"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/4762850?v=4"
   },
   "userPRInfos": {
+    "sw-yx": {
+      "total": 6,
+      "merged": 1,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/6764957?v=4"
+    },
     "acdlite": {
       "total": 238,
       "merged": 191,
@@ -30,7 +35,7 @@
     },
     "sebmarkbage": {
       "total": 267,
-      "merged": 249,
+      "merged": 250,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/63648?v=4"
     },
     "gaearon": {
@@ -542,11 +547,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/8354571?v=4"
-    },
-    "sw-yx": {
-      "total": 5,
-      "merged": 1,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/6764957?v=4"
     },
     "gengjiawen": {
       "total": 1,
@@ -10501,8 +10501,8 @@
   },
   "datePRInfos": {
     "Octobre-2018": {
-      "total": 35,
-      "merged": 19
+      "total": 36,
+      "merged": 20
     },
     "Septembre-2018": {
       "total": 125,
