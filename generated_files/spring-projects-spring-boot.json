@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-10-13T06:41:54.226Z",
+  "lastUpdate": "2018-10-13T07:42:20.776Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2939,
+  "totalPR": 2940,
   "lastPR": {
-    "createdAt": "2018-10-12T17:54:41Z",
-    "username": "wenjiezhang2013"
+    "createdAt": "2018-10-13T07:17:26Z",
+    "username": "eiselems"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "eiselems": {
+      "total": 4,
+      "merged": 0,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/5188694?v=4"
+    },
     "wenjiezhang2013": {
       "total": 1,
       "merged": 0,
@@ -102,11 +107,6 @@
       "total": 2,
       "merged": 0,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/1284129?v=4"
-    },
-    "eiselems": {
-      "total": 3,
-      "merged": 0,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/5188694?v=4"
     },
     "MahmoudAGawad": {
       "total": 1,
@@ -4376,7 +4376,7 @@
   },
   "datePRInfos": {
     "Octobre-2018": {
-      "total": 27,
+      "total": 28,
       "merged": 0
     },
     "Septembre-2018": {
