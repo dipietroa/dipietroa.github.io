@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-10-13T16:42:51.321Z",
+  "lastUpdate": "2018-10-13T17:43:09.559Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 1283,
+  "totalPR": 1284,
   "lastPR": {
-    "createdAt": "2018-10-10T20:30:15Z",
-    "username": "derek-li"
+    "createdAt": "2018-10-13T17:18:46Z",
+    "username": "ktsn"
   },
   "bestPR": {
     "user": "kazupon",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/4762850?v=4"
   },
   "userPRInfos": {
+    "ktsn": {
+      "total": 25,
+      "merged": 21,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/2194624?v=4"
+    },
     "derek-li": {
       "total": 1,
       "merged": 0,
@@ -247,11 +252,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/35618196?v=4"
-    },
-    "ktsn": {
-      "total": 24,
-      "merged": 21,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/2194624?v=4"
     },
     "xyzingh": {
       "total": 1,
@@ -2916,7 +2916,7 @@
   },
   "datePRInfos": {
     "Octobre-2018": {
-      "total": 8,
+      "total": 9,
       "merged": 1
     },
     "Septembre-2018": {
