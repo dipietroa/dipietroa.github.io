@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-10-14T09:41:50.147Z",
+  "lastUpdate": "2018-10-14T10:42:25.230Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2940,
+  "totalPR": 2941,
   "lastPR": {
-    "createdAt": "2018-10-13T07:17:26Z",
-    "username": "eiselems"
+    "createdAt": "2018-10-14T10:16:00Z",
+    "username": "tblsoft"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "tblsoft": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/1835500?v=4"
+    },
     "eiselems": {
       "total": 4,
       "merged": 0,
@@ -4376,7 +4381,7 @@
   },
   "datePRInfos": {
     "Octobre-2018": {
-      "total": 28,
+      "total": 29,
       "merged": 0
     },
     "Septembre-2018": {
