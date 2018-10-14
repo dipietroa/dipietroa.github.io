@@ -1,15 +1,15 @@
 {
-  "lastUpdate": "2018-10-14T16:43:17.354Z",
+  "lastUpdate": "2018-10-14T17:43:11.521Z",
   "cowner": "nuclio",
   "crepo": "nuclio",
-  "totalPR": 725,
+  "totalPR": 726,
   "lastPR": {
-    "createdAt": "2018-10-14T11:37:58Z",
-    "username": "gtopper"
+    "createdAt": "2018-10-14T17:00:17Z",
+    "username": "pavius"
   },
   "bestPR": {
     "user": "pavius",
-    "nbPR": 347,
+    "nbPR": 348,
     "image": "https://avatars2.githubusercontent.com/u/423987?v=4"
   },
   "bestMerged": {
@@ -23,15 +23,15 @@
     "image": "https://avatars2.githubusercontent.com/u/859293?v=4"
   },
   "userPRInfos": {
+    "pavius": {
+      "total": 348,
+      "merged": 344,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/423987?v=4"
+    },
     "gtopper": {
       "total": 5,
       "merged": 4,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/4675524?v=4"
-    },
-    "pavius": {
-      "total": 347,
-      "merged": 344,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/423987?v=4"
     },
     "emirb": {
       "total": 1,
@@ -191,7 +191,7 @@
   },
   "datePRInfos": {
     "Octobre-2018": {
-      "total": 10,
+      "total": 11,
       "merged": 8
     },
     "Septembre-2018": {
