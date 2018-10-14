@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-10-14T18:43:10.529Z",
+  "lastUpdate": "2018-10-14T19:42:56.051Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 1284,
+  "totalPR": 1285,
   "lastPR": {
-    "createdAt": "2018-10-13T17:18:46Z",
-    "username": "ktsn"
+    "createdAt": "2018-10-14T18:56:23Z",
+    "username": "thenickname"
   },
   "bestPR": {
     "user": "kazupon",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/4762850?v=4"
   },
   "userPRInfos": {
+    "thenickname": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/1009726?v=4"
+    },
     "ktsn": {
       "total": 25,
       "merged": 21,
@@ -2916,7 +2921,7 @@
   },
   "datePRInfos": {
     "Octobre-2018": {
-      "total": 9,
+      "total": 10,
       "merged": 1
     },
     "Septembre-2018": {
