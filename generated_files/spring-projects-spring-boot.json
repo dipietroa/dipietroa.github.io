@@ -1,15 +1,15 @@
 {
-  "lastUpdate": "2018-10-15T21:41:49.691Z",
+  "lastUpdate": "2018-10-15T22:42:17.204Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2948,
+  "totalPR": 2949,
   "lastPR": {
-    "createdAt": "2018-10-15T19:35:46Z",
-    "username": "goughy000"
+    "createdAt": "2018-10-15T22:17:47Z",
+    "username": "izeye"
   },
   "bestPR": {
     "user": "izeye",
-    "nbPR": 463,
+    "nbPR": 464,
     "image": "https://avatars3.githubusercontent.com/u/1059363?v=4"
   },
   "bestMerged": {
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "izeye": {
+      "total": 464,
+      "merged": 2,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/1059363?v=4"
+    },
     "goughy000": {
       "total": 1,
       "merged": 0,
@@ -32,11 +37,6 @@
       "total": 107,
       "merged": 0,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/6304496?v=4"
-    },
-    "izeye": {
-      "total": 463,
-      "merged": 2,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/1059363?v=4"
     },
     "jgriff": {
       "total": 1,
@@ -4391,7 +4391,7 @@
   },
   "datePRInfos": {
     "Octobre-2018": {
-      "total": 36,
+      "total": 37,
       "merged": 0
     },
     "Septembre-2018": {
