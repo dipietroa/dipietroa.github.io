@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-10-15T05:43:12.868Z",
+  "lastUpdate": "2018-10-15T06:44:01.925Z",
   "cowner": "fastify",
   "crepo": "fastify",
-  "totalPR": 742,
+  "totalPR": 743,
   "lastPR": {
-    "createdAt": "2018-10-12T15:14:05Z",
-    "username": "fralonra"
+    "createdAt": "2018-10-15T05:52:41Z",
+    "username": "trivikr"
   },
   "bestPR": {
     "user": "delvedor",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/4048656?v=4"
   },
   "userPRInfos": {
+    "trivikr": {
+      "total": 21,
+      "merged": 13,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/16024985?v=4"
+    },
     "fralonra": {
       "total": 9,
       "merged": 7,
@@ -127,11 +132,6 @@
       "total": 2,
       "merged": 2,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/5133056?v=4"
-    },
-    "trivikr": {
-      "total": 20,
-      "merged": 13,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/16024985?v=4"
     },
     "BridgeAR": {
       "total": 1,
@@ -696,7 +696,7 @@
   },
   "datePRInfos": {
     "Octobre-2018": {
-      "total": 11,
+      "total": 12,
       "merged": 7
     },
     "Septembre-2018": {
