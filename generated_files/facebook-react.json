@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-10-15T04:46:41.979Z",
+  "lastUpdate": "2018-10-15T05:46:24.160Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 7294,
+  "totalPR": 7295,
   "lastPR": {
-    "createdAt": "2018-10-14T14:21:18Z",
-    "username": "gaearon"
+    "createdAt": "2018-10-15T05:32:58Z",
+    "username": "trivikr"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/4762850?v=4"
   },
   "userPRInfos": {
+    "trivikr": {
+      "total": 2,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/16024985?v=4"
+    },
     "gaearon": {
       "total": 668,
       "merged": 576,
@@ -397,11 +402,6 @@
       "total": 3,
       "merged": 2,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/5501268?v=4"
-    },
-    "trivikr": {
-      "total": 1,
-      "merged": 0,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/16024985?v=4"
     },
     "warteruzannan": {
       "total": 1,
@@ -10506,7 +10506,7 @@
   },
   "datePRInfos": {
     "Octobre-2018": {
-      "total": 39,
+      "total": 40,
       "merged": 21
     },
     "Septembre-2018": {
