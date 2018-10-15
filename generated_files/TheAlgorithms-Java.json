@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "2018-10-15T11:42:43.215Z",
+  "lastUpdate": "2018-10-15T12:42:35.255Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
-  "totalPR": 515,
+  "totalPR": 516,
   "lastPR": {
-    "createdAt": "2018-10-15T06:23:17Z",
+    "createdAt": "2018-10-15T12:41:03Z",
     "username": "rmakynen"
   },
   "bestPR": {
@@ -24,8 +24,8 @@
   },
   "userPRInfos": {
     "rmakynen": {
-      "total": 4,
-      "merged": 2,
+      "total": 5,
+      "merged": 3,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/43169683?v=4"
     },
     "tarunbhatia35": {
@@ -1441,8 +1441,8 @@
   },
   "datePRInfos": {
     "Octobre-2018": {
-      "total": 63,
-      "merged": 6
+      "total": 64,
+      "merged": 7
     },
     "Septembre-2018": {
       "total": 15,
