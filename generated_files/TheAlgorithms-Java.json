@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-10-15T05:42:06.354Z",
+  "lastUpdate": "2018-10-15T06:42:49.945Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
-  "totalPR": 514,
+  "totalPR": 515,
   "lastPR": {
-    "createdAt": "2018-10-13T04:28:10Z",
-    "username": "tarunbhatia35"
+    "createdAt": "2018-10-15T06:23:17Z",
+    "username": "rmakynen"
   },
   "bestPR": {
     "user": "theycallmemac",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/32287917?v=4"
   },
   "userPRInfos": {
+    "rmakynen": {
+      "total": 4,
+      "merged": 2,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/43169683?v=4"
+    },
     "tarunbhatia35": {
       "total": 1,
       "merged": 0,
@@ -97,11 +102,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/43978986?v=4"
-    },
-    "rmakynen": {
-      "total": 3,
-      "merged": 2,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/43169683?v=4"
     },
     "KashyapNasit": {
       "total": 1,
@@ -1441,7 +1441,7 @@
   },
   "datePRInfos": {
     "Octobre-2018": {
-      "total": 62,
+      "total": 63,
       "merged": 6
     },
     "Septembre-2018": {
