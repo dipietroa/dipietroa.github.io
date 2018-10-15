@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-10-15T16:47:38.730Z",
+  "lastUpdate": "2018-10-15T17:48:16.679Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 7295,
@@ -25,7 +25,7 @@
   "userPRInfos": {
     "trivikr": {
       "total": 2,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/16024985?v=4"
     },
     "gaearon": {
@@ -10507,7 +10507,7 @@
   "datePRInfos": {
     "Octobre-2018": {
       "total": 40,
-      "merged": 21
+      "merged": 22
     },
     "Septembre-2018": {
       "total": 125,
