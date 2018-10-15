@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-10-15T21:47:16.177Z",
+  "lastUpdate": "2018-10-15T22:47:14.217Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 7295,
+  "totalPR": 7296,
   "lastPR": {
-    "createdAt": "2018-10-15T05:32:58Z",
-    "username": "trivikr"
+    "createdAt": "2018-10-15T22:27:39Z",
+    "username": "alexmckenley"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/4762850?v=4"
   },
   "userPRInfos": {
+    "alexmckenley": {
+      "total": 2,
+      "merged": 1,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/3639670?v=4"
+    },
     "trivikr": {
       "total": 2,
       "merged": 1,
@@ -342,11 +347,6 @@
       "total": 2,
       "merged": 0,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/11320080?v=4"
-    },
-    "alexmckenley": {
-      "total": 1,
-      "merged": 1,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/3639670?v=4"
     },
     "gebilaoxiong": {
       "total": 5,
@@ -10506,7 +10506,7 @@
   },
   "datePRInfos": {
     "Octobre-2018": {
-      "total": 40,
+      "total": 41,
       "merged": 22
     },
     "Septembre-2018": {
