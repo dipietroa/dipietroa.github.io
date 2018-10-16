@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-10-16T05:41:53.044Z",
+  "lastUpdate": "2018-10-16T06:42:03.591Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2951,
+  "totalPR": 2952,
   "lastPR": {
-    "createdAt": "2018-10-16T03:12:03Z",
-    "username": "ranarula"
+    "createdAt": "2018-10-16T05:42:04Z",
+    "username": "lihua20103181"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "lihua20103181": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/25274336?v=4"
+    },
     "ranarula": {
       "total": 1,
       "merged": 0,
@@ -4396,7 +4401,7 @@
   },
   "datePRInfos": {
     "Octobre-2018": {
-      "total": 39,
+      "total": 40,
       "merged": 0
     },
     "Septembre-2018": {
