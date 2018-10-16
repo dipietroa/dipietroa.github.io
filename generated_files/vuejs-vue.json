@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-10-16T20:43:31.778Z",
+  "lastUpdate": "2018-10-16T21:43:09.381Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 1287,
+  "totalPR": 1288,
   "lastPR": {
-    "createdAt": "2018-10-15T07:11:06Z",
-    "username": "chiaweilee"
+    "createdAt": "2018-10-16T21:17:22Z",
+    "username": "denisx"
   },
   "bestPR": {
     "user": "kazupon",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/4762850?v=4"
   },
   "userPRInfos": {
+    "denisx": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/427776?v=4"
+    },
     "chiaweilee": {
       "total": 2,
       "merged": 0,
@@ -2926,7 +2931,7 @@
   },
   "datePRInfos": {
     "Octobre-2018": {
-      "total": 12,
+      "total": 13,
       "merged": 1
     },
     "Septembre-2018": {
