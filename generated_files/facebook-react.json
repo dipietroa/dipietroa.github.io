@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-10-16T17:47:46.448Z",
+  "lastUpdate": "2018-10-16T18:47:51.301Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 7298,
+  "totalPR": 7300,
   "lastPR": {
-    "createdAt": "2018-10-16T16:23:04Z",
-    "username": "YongPilMoon"
+    "createdAt": "2018-10-16T18:32:13Z",
+    "username": "sebmarkbage"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,16 @@
     "image": "https://avatars3.githubusercontent.com/u/4762850?v=4"
   },
   "userPRInfos": {
+    "sebmarkbage": {
+      "total": 268,
+      "merged": 250,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/63648?v=4"
+    },
+    "gaearon": {
+      "total": 669,
+      "merged": 576,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/810438?v=4"
+    },
     "YongPilMoon": {
       "total": 1,
       "merged": 0,
@@ -43,11 +53,6 @@
       "merged": 1,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/16024985?v=4"
     },
-    "gaearon": {
-      "total": 668,
-      "merged": 576,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/810438?v=4"
-    },
     "lustoykov": {
       "total": 1,
       "merged": 0,
@@ -62,11 +67,6 @@
       "total": 238,
       "merged": 191,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/3624098?v=4"
-    },
-    "sebmarkbage": {
-      "total": 267,
-      "merged": 250,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/63648?v=4"
     },
     "trueadm": {
       "total": 41,
@@ -10511,7 +10511,7 @@
   },
   "datePRInfos": {
     "Octobre-2018": {
-      "total": 43,
+      "total": 45,
       "merged": 22
     },
     "Septembre-2018": {
