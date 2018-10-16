@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-10-16T02:42:30.544Z",
+  "lastUpdate": "2018-10-16T03:41:35.205Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2950,
+  "totalPR": 2951,
   "lastPR": {
-    "createdAt": "2018-10-16T00:29:02Z",
-    "username": "Hanope"
+    "createdAt": "2018-10-16T03:12:03Z",
+    "username": "ranarula"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "ranarula": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/3505615?v=4"
+    },
     "Hanope": {
       "total": 9,
       "merged": 0,
@@ -4391,7 +4396,7 @@
   },
   "datePRInfos": {
     "Octobre-2018": {
-      "total": 38,
+      "total": 39,
       "merged": 0
     },
     "Septembre-2018": {
