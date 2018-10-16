@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-10-16T15:44:26.397Z",
+  "lastUpdate": "2018-10-16T16:43:49.941Z",
   "cowner": "nuclio",
   "crepo": "nuclio",
-  "totalPR": 729,
+  "totalPR": 730,
   "lastPR": {
-    "createdAt": "2018-10-15T10:01:10Z",
-    "username": "ilaykav"
+    "createdAt": "2018-10-16T16:09:22Z",
+    "username": "levrado"
   },
   "bestPR": {
     "user": "pavius",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/4675524?v=4"
   },
   "userPRInfos": {
+    "levrado": {
+      "total": 12,
+      "merged": 9,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/4353842?v=4"
+    },
     "ilaykav": {
       "total": 11,
       "merged": 7,
@@ -47,11 +52,6 @@
       "total": 71,
       "merged": 70,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/13918850?v=4"
-    },
-    "levrado": {
-      "total": 11,
-      "merged": 9,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/4353842?v=4"
     },
     "maksym-kyselytsia": {
       "total": 18,
@@ -191,7 +191,7 @@
   },
   "datePRInfos": {
     "Octobre-2018": {
-      "total": 14,
+      "total": 15,
       "merged": 12
     },
     "Septembre-2018": {
