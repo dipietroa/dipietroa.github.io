@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-10-16T02:47:23.746Z",
+  "lastUpdate": "2018-10-16T03:46:24.126Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 7296,
+  "totalPR": 7297,
   "lastPR": {
-    "createdAt": "2018-10-15T22:27:39Z",
-    "username": "alexmckenley"
+    "createdAt": "2018-10-16T03:33:34Z",
+    "username": "yongningfu"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/4762850?v=4"
   },
   "userPRInfos": {
+    "yongningfu": {
+      "total": 3,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/9846613?v=4"
+    },
     "alexmckenley": {
       "total": 2,
       "merged": 1,
@@ -182,11 +187,6 @@
       "total": 1,
       "merged": 1,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/56288?v=4"
-    },
-    "yongningfu": {
-      "total": 2,
-      "merged": 0,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/9846613?v=4"
     },
     "TigerPaw122": {
       "total": 1,
@@ -10506,7 +10506,7 @@
   },
   "datePRInfos": {
     "Octobre-2018": {
-      "total": 41,
+      "total": 42,
       "merged": 22
     },
     "Septembre-2018": {
