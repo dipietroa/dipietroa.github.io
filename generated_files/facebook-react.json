@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-10-16T15:49:03.425Z",
+  "lastUpdate": "2018-10-16T16:48:15.092Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 7297,
+  "totalPR": 7298,
   "lastPR": {
-    "createdAt": "2018-10-16T03:33:34Z",
-    "username": "yongningfu"
+    "createdAt": "2018-10-16T16:23:04Z",
+    "username": "YongPilMoon"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/4762850?v=4"
   },
   "userPRInfos": {
+    "YongPilMoon": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/22088158?v=4"
+    },
     "yongningfu": {
       "total": 3,
       "merged": 0,
@@ -10506,7 +10511,7 @@
   },
   "datePRInfos": {
     "Octobre-2018": {
-      "total": 42,
+      "total": 43,
       "merged": 22
     },
     "Septembre-2018": {
