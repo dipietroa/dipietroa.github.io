@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-10-16T18:47:51.301Z",
+  "lastUpdate": "2018-10-16T19:48:23.367Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 7300,
@@ -30,7 +30,7 @@
     },
     "gaearon": {
       "total": 669,
-      "merged": 576,
+      "merged": 577,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/810438?v=4"
     },
     "YongPilMoon": {
@@ -10512,7 +10512,7 @@
   "datePRInfos": {
     "Octobre-2018": {
       "total": 45,
-      "merged": 22
+      "merged": 23
     },
     "Septembre-2018": {
       "total": 125,
