@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-10-17T00:47:18.744Z",
+  "lastUpdate": "2018-10-17T01:47:55.291Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 7301,
+  "totalPR": 7302,
   "lastPR": {
-    "createdAt": "2018-10-17T00:42:57Z",
-    "username": "acdlite"
+    "createdAt": "2018-10-17T01:31:42Z",
+    "username": "imbhargav5"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/4762850?v=4"
   },
   "userPRInfos": {
+    "imbhargav5": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/2936644?v=4"
+    },
     "acdlite": {
       "total": 239,
       "merged": 191,
@@ -10511,7 +10516,7 @@
   },
   "datePRInfos": {
     "Octobre-2018": {
-      "total": 46,
+      "total": 47,
       "merged": 23
     },
     "Septembre-2018": {
