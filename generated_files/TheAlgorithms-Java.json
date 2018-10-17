@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-10-17T19:43:07.871Z",
+  "lastUpdate": "2018-10-17T20:43:01.985Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
-  "totalPR": 516,
+  "totalPR": 517,
   "lastPR": {
-    "createdAt": "2018-10-15T12:41:03Z",
-    "username": "rmakynen"
+    "createdAt": "2018-10-17T20:11:13Z",
+    "username": "MatheusMuriel"
   },
   "bestPR": {
     "user": "theycallmemac",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/32287917?v=4"
   },
   "userPRInfos": {
+    "MatheusMuriel": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/19895466?v=4"
+    },
     "rmakynen": {
       "total": 5,
       "merged": 3,
@@ -1441,7 +1446,7 @@
   },
   "datePRInfos": {
     "Octobre-2018": {
-      "total": 64,
+      "total": 65,
       "merged": 7
     },
     "Septembre-2018": {
