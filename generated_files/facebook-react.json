@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-10-17T15:48:34.833Z",
+  "lastUpdate": "2018-10-17T16:47:50.796Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 7303,
+  "totalPR": 7304,
   "lastPR": {
-    "createdAt": "2018-10-17T12:46:20Z",
-    "username": "devpda"
+    "createdAt": "2018-10-17T16:28:30Z",
+    "username": "supergoat"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/25152524?v=4"
   },
   "userPRInfos": {
+    "supergoat": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/16918667?v=4"
+    },
     "devpda": {
       "total": 1,
       "merged": 1,
@@ -10521,7 +10526,7 @@
   },
   "datePRInfos": {
     "Octobre-2018": {
-      "total": 48,
+      "total": 49,
       "merged": 24
     },
     "Septembre-2018": {
