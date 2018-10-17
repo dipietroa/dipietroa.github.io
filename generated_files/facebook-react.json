@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "2018-10-17T19:48:08.200Z",
+  "lastUpdate": "2018-10-17T20:48:17.978Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 7306,
+  "totalPR": 7307,
   "lastPR": {
-    "createdAt": "2018-10-17T19:39:31Z",
+    "createdAt": "2018-10-17T20:16:49Z",
     "username": "leebyron"
   },
   "bestPR": {
@@ -24,7 +24,7 @@
   },
   "userPRInfos": {
     "leebyron": {
-      "total": 9,
+      "total": 10,
       "merged": 4,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/50130?v=4"
     },
@@ -10526,7 +10526,7 @@
   },
   "datePRInfos": {
     "Octobre-2018": {
-      "total": 51,
+      "total": 52,
       "merged": 24
     },
     "Septembre-2018": {
