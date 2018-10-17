@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-10-17T10:43:54.859Z",
+  "lastUpdate": "2018-10-17T11:43:32.472Z",
   "cowner": "nuclio",
   "crepo": "nuclio",
   "totalPR": 730,
@@ -25,7 +25,7 @@
   "userPRInfos": {
     "levrado": {
       "total": 12,
-      "merged": 9,
+      "merged": 10,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/4353842?v=4"
     },
     "ilaykav": {
@@ -192,7 +192,7 @@
   "datePRInfos": {
     "Octobre-2018": {
       "total": 15,
-      "merged": 12
+      "merged": 13
     },
     "Septembre-2018": {
       "total": 28,
