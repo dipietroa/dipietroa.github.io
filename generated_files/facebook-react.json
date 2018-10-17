@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-10-17T17:47:43.160Z",
+  "lastUpdate": "2018-10-17T18:48:27.619Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 7304,
+  "totalPR": 7305,
   "lastPR": {
-    "createdAt": "2018-10-17T16:28:30Z",
-    "username": "supergoat"
+    "createdAt": "2018-10-17T18:33:02Z",
+    "username": "leebyron"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/25152524?v=4"
   },
   "userPRInfos": {
+    "leebyron": {
+      "total": 8,
+      "merged": 4,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/50130?v=4"
+    },
     "supergoat": {
       "total": 1,
       "merged": 0,
@@ -8258,11 +8263,6 @@
       "merged": 1,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/2390194?v=4"
     },
-    "leebyron": {
-      "total": 7,
-      "merged": 4,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/50130?v=4"
-    },
     "robertknight": {
       "total": 3,
       "merged": 2,
@@ -10526,7 +10526,7 @@
   },
   "datePRInfos": {
     "Octobre-2018": {
-      "total": 49,
+      "total": 50,
       "merged": 24
     },
     "Septembre-2018": {
