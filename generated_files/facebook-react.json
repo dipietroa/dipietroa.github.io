@@ -1,8 +1,8 @@
 {
-  "lastUpdate": "2018-10-17T11:47:33.232Z",
+  "lastUpdate": "2018-10-17T12:48:42.687Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 7302,
+  "totalPR": 7303,
   "lastPR": {
     "createdAt": "2018-10-17T01:31:42Z",
     "username": "imbhargav5"
@@ -4284,7 +4284,7 @@
       "avatarUrl": "https://avatars3.githubusercontent.com/u/409114?v=4"
     },
     "mrscobbler": {
-      "total": 2,
+      "total": 3,
       "merged": 1,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/1317004?v=4"
     },
@@ -10608,7 +10608,7 @@
       "merged": 87
     },
     "Novembre-2016": {
-      "total": 197,
+      "total": 198,
       "merged": 142
     },
     "Octobre-2016": {
