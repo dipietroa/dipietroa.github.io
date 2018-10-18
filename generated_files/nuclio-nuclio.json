@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "2018-10-18T15:44:12.552Z",
+  "lastUpdate": "2018-10-18T16:43:40.842Z",
   "cowner": "nuclio",
   "crepo": "nuclio",
-  "totalPR": 734,
+  "totalPR": 736,
   "lastPR": {
-    "createdAt": "2018-10-18T13:28:55Z",
+    "createdAt": "2018-10-18T16:17:34Z",
     "username": "levrado"
   },
   "bestPR": {
@@ -24,7 +24,7 @@
   },
   "userPRInfos": {
     "levrado": {
-      "total": 14,
+      "total": 16,
       "merged": 11,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/4353842?v=4"
     },
@@ -191,7 +191,7 @@
   },
   "datePRInfos": {
     "Octobre-2018": {
-      "total": 19,
+      "total": 21,
       "merged": 16
     },
     "Septembre-2018": {
