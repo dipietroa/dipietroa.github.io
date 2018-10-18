@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-10-18T22:43:19.011Z",
+  "lastUpdate": "2018-10-18T23:42:47.694Z",
   "cowner": "nuclio",
   "crepo": "nuclio",
-  "totalPR": 736,
+  "totalPR": 737,
   "lastPR": {
-    "createdAt": "2018-10-18T16:17:34Z",
-    "username": "levrado"
+    "createdAt": "2018-10-18T23:08:04Z",
+    "username": "boydjeff"
   },
   "bestPR": {
     "user": "pavius",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/4675524?v=4"
   },
   "userPRInfos": {
+    "boydjeff": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/13628939?v=4"
+    },
     "levrado": {
       "total": 16,
       "merged": 13,
@@ -191,7 +196,7 @@
   },
   "datePRInfos": {
     "Octobre-2018": {
-      "total": 21,
+      "total": 22,
       "merged": 18
     },
     "Septembre-2018": {
