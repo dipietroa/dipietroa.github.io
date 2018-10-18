@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-10-18T14:42:21.052Z",
+  "lastUpdate": "2018-10-18T15:42:43.042Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2956,
+  "totalPR": 2957,
   "lastPR": {
-    "createdAt": "2018-10-18T10:45:01Z",
-    "username": "ayudovin"
+    "createdAt": "2018-10-18T15:28:18Z",
+    "username": "Ivan97"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "Ivan97": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/10104255?v=4"
+    },
     "ayudovin": {
       "total": 34,
       "merged": 0,
@@ -4401,7 +4406,7 @@
   },
   "datePRInfos": {
     "Octobre-2018": {
-      "total": 44,
+      "total": 45,
       "merged": 0
     },
     "Septembre-2018": {
