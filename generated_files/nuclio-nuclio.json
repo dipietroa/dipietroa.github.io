@@ -1,20 +1,20 @@
 {
-  "lastUpdate": "2018-10-18T09:44:05.239Z",
+  "lastUpdate": "2018-10-18T10:44:15.160Z",
   "cowner": "nuclio",
   "crepo": "nuclio",
-  "totalPR": 731,
+  "totalPR": 733,
   "lastPR": {
-    "createdAt": "2018-10-18T08:37:00Z",
-    "username": "levrado"
+    "createdAt": "2018-10-18T10:37:27Z",
+    "username": "pavius"
   },
   "bestPR": {
     "user": "pavius",
-    "nbPR": 350,
+    "nbPR": 352,
     "image": "https://avatars2.githubusercontent.com/u/423987?v=4"
   },
   "bestMerged": {
     "user": "pavius",
-    "nbPR": 347,
+    "nbPR": 348,
     "image": "https://avatars2.githubusercontent.com/u/423987?v=4"
   },
   "bestRatio": {
@@ -23,20 +23,20 @@
     "image": "https://avatars3.githubusercontent.com/u/4675524?v=4"
   },
   "userPRInfos": {
+    "pavius": {
+      "total": 352,
+      "merged": 348,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/423987?v=4"
+    },
     "levrado": {
       "total": 13,
-      "merged": 10,
+      "merged": 11,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/4353842?v=4"
     },
     "ilaykav": {
       "total": 11,
       "merged": 7,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/16291067?v=4"
-    },
-    "pavius": {
-      "total": 350,
-      "merged": 347,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/423987?v=4"
     },
     "gtopper": {
       "total": 5,
@@ -191,8 +191,8 @@
   },
   "datePRInfos": {
     "Octobre-2018": {
-      "total": 16,
-      "merged": 13
+      "total": 18,
+      "merged": 15
     },
     "Septembre-2018": {
       "total": 28,
