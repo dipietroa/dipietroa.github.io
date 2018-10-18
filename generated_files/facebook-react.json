@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-10-18T21:46:54.143Z",
+  "lastUpdate": "2018-10-18T22:46:58.257Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 7310,
@@ -25,7 +25,7 @@
   "userPRInfos": {
     "acdlite": {
       "total": 242,
-      "merged": 191,
+      "merged": 193,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/3624098?v=4"
     },
     "leebyron": {
@@ -10527,7 +10527,7 @@
   "datePRInfos": {
     "Octobre-2018": {
       "total": 55,
-      "merged": 24
+      "merged": 26
     },
     "Septembre-2018": {
       "total": 125,
