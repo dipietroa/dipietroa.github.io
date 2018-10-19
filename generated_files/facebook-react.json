@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-10-19T20:47:35.166Z",
+  "lastUpdate": "2018-10-19T21:47:56.992Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 7318,
+  "totalPR": 7319,
   "lastPR": {
-    "createdAt": "2018-10-19T20:40:49Z",
-    "username": "acdlite"
+    "createdAt": "2018-10-19T21:30:21Z",
+    "username": "sebmarkbage"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,9 +23,14 @@
     "image": "https://avatars1.githubusercontent.com/u/25152524?v=4"
   },
   "userPRInfos": {
+    "sebmarkbage": {
+      "total": 271,
+      "merged": 252,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/63648?v=4"
+    },
     "acdlite": {
       "total": 245,
-      "merged": 197,
+      "merged": 198,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/3624098?v=4"
     },
     "rickyp-uber": {
@@ -37,11 +42,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/13201442?v=4"
-    },
-    "sebmarkbage": {
-      "total": 270,
-      "merged": 252,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/63648?v=4"
     },
     "sophiebits": {
       "total": 671,
@@ -10536,8 +10536,8 @@
   },
   "datePRInfos": {
     "Octobre-2018": {
-      "total": 63,
-      "merged": 33
+      "total": 64,
+      "merged": 34
     },
     "Septembre-2018": {
       "total": 125,
