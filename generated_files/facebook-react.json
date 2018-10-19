@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-10-19T17:47:53.489Z",
+  "lastUpdate": "2018-10-19T18:47:09.554Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 7316,
@@ -30,7 +30,7 @@
     },
     "sebmarkbage": {
       "total": 270,
-      "merged": 251,
+      "merged": 252,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/63648?v=4"
     },
     "sophiebits": {
@@ -10532,7 +10532,7 @@
   "datePRInfos": {
     "Octobre-2018": {
       "total": 61,
-      "merged": 32
+      "merged": 33
     },
     "Septembre-2018": {
       "total": 125,
