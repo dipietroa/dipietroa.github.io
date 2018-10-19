@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-10-19T09:47:57.211Z",
+  "lastUpdate": "2018-10-19T10:47:30.855Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 7315,
+  "totalPR": 7316,
   "lastPR": {
-    "createdAt": "2018-10-19T03:21:57Z",
-    "username": "sebmarkbage"
+    "createdAt": "2018-10-19T10:30:14Z",
+    "username": "ashishpatelcs"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/25152524?v=4"
   },
   "userPRInfos": {
+    "ashishpatelcs": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/13201442?v=4"
+    },
     "sebmarkbage": {
       "total": 270,
       "merged": 251,
@@ -10526,7 +10531,7 @@
   },
   "datePRInfos": {
     "Octobre-2018": {
-      "total": 60,
+      "total": 61,
       "merged": 32
     },
     "Septembre-2018": {
