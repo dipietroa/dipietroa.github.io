@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-10-19T19:47:03.738Z",
+  "lastUpdate": "2018-10-19T20:47:35.166Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 7316,
+  "totalPR": 7318,
   "lastPR": {
-    "createdAt": "2018-10-19T10:30:14Z",
-    "username": "ashishpatelcs"
+    "createdAt": "2018-10-19T20:40:49Z",
+    "username": "acdlite"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,16 @@
     "image": "https://avatars1.githubusercontent.com/u/25152524?v=4"
   },
   "userPRInfos": {
+    "acdlite": {
+      "total": 245,
+      "merged": 197,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/3624098?v=4"
+    },
+    "rickyp-uber": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/32653716?v=4"
+    },
     "ashishpatelcs": {
       "total": 1,
       "merged": 0,
@@ -37,11 +47,6 @@
       "total": 671,
       "merged": 594,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/6820?v=4"
-    },
-    "acdlite": {
-      "total": 244,
-      "merged": 197,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/3624098?v=4"
     },
     "leebyron": {
       "total": 10,
@@ -10531,7 +10536,7 @@
   },
   "datePRInfos": {
     "Octobre-2018": {
-      "total": 61,
+      "total": 63,
       "merged": 33
     },
     "Septembre-2018": {
