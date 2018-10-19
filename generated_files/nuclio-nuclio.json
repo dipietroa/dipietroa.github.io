@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-10-19T10:43:34.964Z",
+  "lastUpdate": "2018-10-19T11:43:15.003Z",
   "cowner": "nuclio",
   "crepo": "nuclio",
   "totalPR": 737,
@@ -18,14 +18,14 @@
     "image": "https://avatars2.githubusercontent.com/u/423987?v=4"
   },
   "bestRatio": {
-    "user": "gtopper",
+    "user": "boydjeff",
     "ratio": 1,
-    "image": "https://avatars3.githubusercontent.com/u/4675524?v=4"
+    "image": "https://avatars2.githubusercontent.com/u/13628939?v=4"
   },
   "userPRInfos": {
     "boydjeff": {
       "total": 1,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/13628939?v=4"
     },
     "levrado": {
@@ -197,7 +197,7 @@
   "datePRInfos": {
     "Octobre-2018": {
       "total": 22,
-      "merged": 18
+      "merged": 19
     },
     "Septembre-2018": {
       "total": 28,
