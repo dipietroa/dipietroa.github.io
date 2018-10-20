@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "2018-10-20T17:47:02.877Z",
+  "lastUpdate": "2018-10-20T18:47:17.099Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 7330,
   "lastPR": {
-    "createdAt": "2018-10-20T17:27:48Z",
+    "createdAt": "2018-10-20T17:46:44Z",
     "username": "armujahid"
   },
   "bestPR": {
@@ -24,7 +24,7 @@
   },
   "userPRInfos": {
     "armujahid": {
-      "total": 3,
+      "total": 4,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/3725386?v=4"
     },
@@ -10029,8 +10029,8 @@
       "avatarUrl": "https://avatars0.githubusercontent.com/u/13516?v=4"
     },
     "matthewwithanm": {
-      "total": 3,
-      "merged": 2,
+      "total": 2,
+      "merged": 1,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/126263?v=4"
     },
     "irae": {
@@ -10536,7 +10536,7 @@
   },
   "datePRInfos": {
     "Octobre-2018": {
-      "total": 74,
+      "total": 75,
       "merged": 42
     },
     "Septembre-2018": {
@@ -10752,8 +10752,8 @@
       "merged": 56
     },
     "Avril-2014": {
-      "total": 60,
-      "merged": 35
+      "total": 59,
+      "merged": 34
     },
     "Mars-2014": {
       "total": 86,
