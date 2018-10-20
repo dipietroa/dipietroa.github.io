@@ -1,15 +1,15 @@
 {
-  "lastUpdate": "2018-10-20T06:46:31.515Z",
+  "lastUpdate": "2018-10-20T07:46:45.555Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 7324,
+  "totalPR": 7326,
   "lastPR": {
-    "createdAt": "2018-10-20T03:07:17Z",
-    "username": "sebmarkbage"
+    "createdAt": "2018-10-20T07:32:48Z",
+    "username": "sophiebits"
   },
   "bestPR": {
     "user": "sophiebits",
-    "nbPR": 671,
+    "nbPR": 672,
     "image": "https://avatars2.githubusercontent.com/u/6820?v=4"
   },
   "bestMerged": {
@@ -23,9 +23,14 @@
     "image": "https://avatars1.githubusercontent.com/u/25152524?v=4"
   },
   "userPRInfos": {
+    "sophiebits": {
+      "total": 672,
+      "merged": 594,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/6820?v=4"
+    },
     "sebmarkbage": {
-      "total": 273,
-      "merged": 254,
+      "total": 274,
+      "merged": 255,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/63648?v=4"
     },
     "acdlite": {
@@ -42,11 +47,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/13201442?v=4"
-    },
-    "sophiebits": {
-      "total": 671,
-      "merged": 594,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/6820?v=4"
     },
     "leebyron": {
       "total": 10,
@@ -85,7 +85,7 @@
     },
     "alexmckenley": {
       "total": 2,
-      "merged": 1,
+      "merged": 2,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/3639670?v=4"
     },
     "trivikr": {
@@ -10536,8 +10536,8 @@
   },
   "datePRInfos": {
     "Octobre-2018": {
-      "total": 69,
-      "merged": 38
+      "total": 71,
+      "merged": 40
     },
     "Septembre-2018": {
       "total": 125,
