@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-10-20T15:46:27.098Z",
+  "lastUpdate": "2018-10-20T16:46:53.270Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 7326,
+  "totalPR": 7328,
   "lastPR": {
-    "createdAt": "2018-10-20T07:32:48Z",
-    "username": "sophiebits"
+    "createdAt": "2018-10-20T16:39:21Z",
+    "username": "gaearon"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/25152524?v=4"
   },
   "userPRInfos": {
+    "gaearon": {
+      "total": 670,
+      "merged": 577,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/810438?v=4"
+    },
     "sophiebits": {
       "total": 672,
       "merged": 594,
@@ -67,11 +72,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/2936644?v=4"
-    },
-    "gaearon": {
-      "total": 669,
-      "merged": 577,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/810438?v=4"
     },
     "YongPilMoon": {
       "total": 1,
@@ -5739,8 +5739,8 @@
       "avatarUrl": "https://avatars0.githubusercontent.com/u/292365?v=4"
     },
     "yanandcoffee": {
-      "total": 1,
-      "merged": 1,
+      "total": 2,
+      "merged": 2,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/1462115?v=4"
     },
     "zky829": {
@@ -10536,7 +10536,7 @@
   },
   "datePRInfos": {
     "Octobre-2018": {
-      "total": 71,
+      "total": 72,
       "merged": 40
     },
     "Septembre-2018": {
@@ -10656,8 +10656,8 @@
       "merged": 99
     },
     "Avril-2016": {
-      "total": 131,
-      "merged": 83
+      "total": 132,
+      "merged": 84
     },
     "Mars-2016": {
       "total": 117,
