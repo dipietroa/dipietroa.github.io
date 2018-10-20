@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-10-20T17:43:56.580Z",
+  "lastUpdate": "2018-10-20T18:43:54.273Z",
   "cowner": "fastify",
   "crepo": "fastify",
   "totalPR": 745,
@@ -30,7 +30,7 @@
     },
     "patoi": {
       "total": 1,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/1846548?v=4"
     },
     "trivikr": {
@@ -707,7 +707,7 @@
   "datePRInfos": {
     "Octobre-2018": {
       "total": 14,
-      "merged": 9
+      "merged": 10
     },
     "Septembre-2018": {
       "total": 50,
