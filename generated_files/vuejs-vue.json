@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-10-20T21:42:33.152Z",
+  "lastUpdate": "2018-10-20T22:43:28.751Z",
   "cowner": "vuejs",
   "crepo": "vue",
-  "totalPR": 1290,
+  "totalPR": 1291,
   "lastPR": {
-    "createdAt": "2018-10-18T13:14:44Z",
-    "username": "KaelWD"
+    "createdAt": "2018-10-20T21:55:24Z",
+    "username": "Stexxe"
   },
   "bestPR": {
     "user": "kazupon",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/4762850?v=4"
   },
   "userPRInfos": {
+    "Stexxe": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/7986337?v=4"
+    },
     "KaelWD": {
       "total": 5,
       "merged": 0,
@@ -2931,7 +2936,7 @@
   },
   "datePRInfos": {
     "Octobre-2018": {
-      "total": 15,
+      "total": 16,
       "merged": 1
     },
     "Septembre-2018": {
