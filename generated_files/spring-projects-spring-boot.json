@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-10-20T12:41:46.385Z",
+  "lastUpdate": "2018-10-20T13:41:47.279Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2959,
+  "totalPR": 2961,
   "lastPR": {
-    "createdAt": "2018-10-20T01:16:53Z",
-    "username": "izeye"
+    "createdAt": "2018-10-20T13:09:27Z",
+    "username": "ayudovin"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,16 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "ayudovin": {
+      "total": 35,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/34862741?v=4"
+    },
+    "dreis2211": {
+      "total": 108,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/6304496?v=4"
+    },
     "izeye": {
       "total": 467,
       "merged": 2,
@@ -37,11 +47,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/10104255?v=4"
-    },
-    "ayudovin": {
-      "total": 34,
-      "merged": 0,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/34862741?v=4"
     },
     "danielfernandez": {
       "total": 2,
@@ -67,11 +72,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/3418267?v=4"
-    },
-    "dreis2211": {
-      "total": 107,
-      "merged": 0,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/6304496?v=4"
     },
     "jgriff": {
       "total": 1,
@@ -4406,7 +4406,7 @@
   },
   "datePRInfos": {
     "Octobre-2018": {
-      "total": 47,
+      "total": 49,
       "merged": 0
     },
     "Septembre-2018": {
