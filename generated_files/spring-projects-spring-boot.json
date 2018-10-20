@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-10-20T22:42:31.635Z",
+  "lastUpdate": "2018-10-20T23:41:49.352Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2962,
+  "totalPR": 2963,
   "lastPR": {
-    "createdAt": "2018-10-20T17:46:47Z",
-    "username": "amoto"
+    "createdAt": "2018-10-20T23:16:52Z",
+    "username": "michaldo"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "michaldo": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/4304236?v=4"
+    },
     "amoto": {
       "total": 1,
       "merged": 0,
@@ -4411,7 +4416,7 @@
   },
   "datePRInfos": {
     "Octobre-2018": {
-      "total": 50,
+      "total": 51,
       "merged": 0
     },
     "Septembre-2018": {
