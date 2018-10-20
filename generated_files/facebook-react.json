@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-10-20T18:47:17.099Z",
+  "lastUpdate": "2018-10-20T19:46:40.942Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 7330,
+  "totalPR": 7331,
   "lastPR": {
-    "createdAt": "2018-10-20T17:46:44Z",
-    "username": "armujahid"
+    "createdAt": "2018-10-20T19:16:38Z",
+    "username": "evmiguel"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/25152524?v=4"
   },
   "userPRInfos": {
+    "evmiguel": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/2789098?v=4"
+    },
     "armujahid": {
       "total": 4,
       "merged": 0,
@@ -10536,7 +10541,7 @@
   },
   "datePRInfos": {
     "Octobre-2018": {
-      "total": 75,
+      "total": 76,
       "merged": 42
     },
     "Septembre-2018": {
