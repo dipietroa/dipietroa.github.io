@@ -1,15 +1,15 @@
 {
-  "lastUpdate": "2018-10-20T00:42:38.921Z",
+  "lastUpdate": "2018-10-20T01:41:47.381Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2958,
+  "totalPR": 2959,
   "lastPR": {
-    "createdAt": "2018-10-19T11:21:40Z",
-    "username": "dsyer"
+    "createdAt": "2018-10-20T01:16:53Z",
+    "username": "izeye"
   },
   "bestPR": {
     "user": "izeye",
-    "nbPR": 466,
+    "nbPR": 467,
     "image": "https://avatars3.githubusercontent.com/u/1059363?v=4"
   },
   "bestMerged": {
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "izeye": {
+      "total": 467,
+      "merged": 2,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/1059363?v=4"
+    },
     "dsyer": {
       "total": 27,
       "merged": 0,
@@ -37,11 +42,6 @@
       "total": 34,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/34862741?v=4"
-    },
-    "izeye": {
-      "total": 466,
-      "merged": 2,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/1059363?v=4"
     },
     "danielfernandez": {
       "total": 2,
@@ -4406,7 +4406,7 @@
   },
   "datePRInfos": {
     "Octobre-2018": {
-      "total": 46,
+      "total": 47,
       "merged": 0
     },
     "Septembre-2018": {
