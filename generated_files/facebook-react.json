@@ -1,15 +1,15 @@
 {
-  "lastUpdate": "2018-10-21T05:46:41.626Z",
+  "lastUpdate": "2018-10-21T06:46:06.537Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 7331,
+  "totalPR": 7332,
   "lastPR": {
-    "createdAt": "2018-10-20T19:16:38Z",
-    "username": "evmiguel"
+    "createdAt": "2018-10-21T06:20:27Z",
+    "username": "sophiebits"
   },
   "bestPR": {
     "user": "sophiebits",
-    "nbPR": 672,
+    "nbPR": 673,
     "image": "https://avatars2.githubusercontent.com/u/6820?v=4"
   },
   "bestMerged": {
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/25152524?v=4"
   },
   "userPRInfos": {
+    "sophiebits": {
+      "total": 673,
+      "merged": 594,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/6820?v=4"
+    },
     "evmiguel": {
       "total": 1,
       "merged": 0,
@@ -37,11 +42,6 @@
       "total": 671,
       "merged": 579,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/810438?v=4"
-    },
-    "sophiebits": {
-      "total": 672,
-      "merged": 594,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/6820?v=4"
     },
     "sebmarkbage": {
       "total": 274,
@@ -10541,7 +10541,7 @@
   },
   "datePRInfos": {
     "Octobre-2018": {
-      "total": 76,
+      "total": 77,
       "merged": 43
     },
     "Septembre-2018": {
