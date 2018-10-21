@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-10-21T18:47:35.424Z",
+  "lastUpdate": "2018-10-21T19:46:35.067Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 7333,
@@ -18,9 +18,9 @@
     "image": "https://avatars2.githubusercontent.com/u/6820?v=4"
   },
   "bestRatio": {
-    "user": "devpda",
+    "user": "armujahid",
     "ratio": 1,
-    "image": "https://avatars1.githubusercontent.com/u/25152524?v=4"
+    "image": "https://avatars1.githubusercontent.com/u/3725386?v=4"
   },
   "userPRInfos": {
     "NMinhNguyen": {
@@ -40,7 +40,7 @@
     },
     "armujahid": {
       "total": 4,
-      "merged": 3,
+      "merged": 4,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/3725386?v=4"
     },
     "gaearon": {
@@ -10546,7 +10546,7 @@
     },
     "Septembre-2018": {
       "total": 125,
-      "merged": 79
+      "merged": 80
     },
     "Août-2018": {
       "total": 122,
