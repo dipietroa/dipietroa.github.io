@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-10-21T17:47:20.001Z",
+  "lastUpdate": "2018-10-21T18:47:35.424Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 7333,
@@ -40,7 +40,7 @@
     },
     "armujahid": {
       "total": 4,
-      "merged": 1,
+      "merged": 3,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/3725386?v=4"
     },
     "gaearon": {
@@ -115,7 +115,7 @@
     },
     "sw-yx": {
       "total": 6,
-      "merged": 1,
+      "merged": 2,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/6764957?v=4"
     },
     "trueadm": {
@@ -10542,7 +10542,7 @@
   "datePRInfos": {
     "Octobre-2018": {
       "total": 78,
-      "merged": 43
+      "merged": 46
     },
     "Septembre-2018": {
       "total": 125,
