@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-10-21T16:44:06.108Z",
+  "lastUpdate": "2018-10-21T17:43:59.571Z",
   "cowner": "fastify",
   "crepo": "fastify",
   "totalPR": 747,
@@ -18,9 +18,9 @@
     "image": "https://avatars0.githubusercontent.com/u/4865608?v=4"
   },
   "bestRatio": {
-    "user": "thomasyuan",
+    "user": "coreyfarrell",
     "ratio": 1,
-    "image": "https://avatars2.githubusercontent.com/u/11566317?v=4"
+    "image": "https://avatars1.githubusercontent.com/u/903597?v=4"
   },
   "userPRInfos": {
     "cemremengu": {
@@ -30,7 +30,7 @@
     },
     "coreyfarrell": {
       "total": 5,
-      "merged": 4,
+      "merged": 5,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/903597?v=4"
     },
     "thomasyuan": {
@@ -707,7 +707,7 @@
   "datePRInfos": {
     "Octobre-2018": {
       "total": 16,
-      "merged": 10
+      "merged": 11
     },
     "Septembre-2018": {
       "total": 50,
