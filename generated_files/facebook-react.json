@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-10-21T13:46:42.750Z",
+  "lastUpdate": "2018-10-21T14:47:33.806Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 7332,
+  "totalPR": 7333,
   "lastPR": {
-    "createdAt": "2018-10-21T06:20:27Z",
-    "username": "sophiebits"
+    "createdAt": "2018-10-21T14:15:13Z",
+    "username": "NMinhNguyen"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/25152524?v=4"
   },
   "userPRInfos": {
+    "NMinhNguyen": {
+      "total": 2,
+      "merged": 1,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/2852660?v=4"
+    },
     "sophiebits": {
       "total": 673,
       "merged": 594,
@@ -972,11 +977,6 @@
       "total": 2,
       "merged": 0,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/6545467?v=4"
-    },
-    "NMinhNguyen": {
-      "total": 1,
-      "merged": 1,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/2852660?v=4"
     },
     "jamesreggio": {
       "total": 1,
@@ -10541,7 +10541,7 @@
   },
   "datePRInfos": {
     "Octobre-2018": {
-      "total": 77,
+      "total": 78,
       "merged": 43
     },
     "Septembre-2018": {
