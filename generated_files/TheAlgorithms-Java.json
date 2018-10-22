@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-10-21T22:42:56.706Z",
+  "lastUpdate": "2018-10-22T11:43:27.734Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
   "totalPR": 519,
   "lastPR": {
-    "createdAt": "2018-10-20T09:56:57Z",
-    "username": "kshtijsingh"
+    "createdAt": "2018-10-21T23:51:53Z",
+    "username": "emily-gong"
   },
   "bestPR": {
     "user": "theycallmemac",
@@ -23,6 +23,11 @@
     "image": "https://avatars2.githubusercontent.com/u/21190262?v=4"
   },
   "userPRInfos": {
+    "emily-gong": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/34262961?v=4"
+    },
     "kshtijsingh": {
       "total": 1,
       "merged": 0,
@@ -823,11 +828,6 @@
       "merged": 0,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/33101392?v=4"
     },
-    "YJDave": {
-      "total": 1,
-      "merged": 0,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/25907420?v=4"
-    },
     "PAPERPANKS": {
       "total": 2,
       "merged": 1,
@@ -889,7 +889,7 @@
       "avatarUrl": "https://avatars2.githubusercontent.com/u/5913204?v=4"
     },
     "sanghaisubham": {
-      "total": 6,
+      "total": 7,
       "merged": 1,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/16879090?v=4"
     },
@@ -1424,8 +1424,8 @@
       "avatarUrl": "https://avatars1.githubusercontent.com/u/22603971?v=4"
     },
     "anthonyc1": {
-      "total": 2,
-      "merged": 2,
+      "total": 1,
+      "merged": 1,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/22784914?v=4"
     },
     "yash-b98": {
@@ -1451,7 +1451,7 @@
   },
   "datePRInfos": {
     "Octobre-2018": {
-      "total": 67,
+      "total": 68,
       "merged": 8
     },
     "Septembre-2018": {
@@ -1527,8 +1527,8 @@
       "merged": 27
     },
     "Mars-2017": {
-      "total": 9,
-      "merged": 7
+      "total": 8,
+      "merged": 6
     },
     "Décembre-2016": {
       "total": 2,
