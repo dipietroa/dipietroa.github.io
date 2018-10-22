@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-10-22T15:49:54.534Z",
+  "lastUpdate": "2018-10-22T16:49:04.051Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 7334,
@@ -9,12 +9,12 @@
   },
   "bestPR": {
     "user": "sophiebits",
-    "nbPR": 672,
+    "nbPR": 673,
     "image": "https://avatars2.githubusercontent.com/u/6820?v=4"
   },
   "bestMerged": {
     "user": "sophiebits",
-    "nbPR": 593,
+    "nbPR": 594,
     "image": "https://avatars2.githubusercontent.com/u/6820?v=4"
   },
   "bestRatio": {
@@ -34,8 +34,8 @@
       "avatarUrl": "https://avatars3.githubusercontent.com/u/2852660?v=4"
     },
     "sophiebits": {
-      "total": 672,
-      "merged": 593,
+      "total": 673,
+      "merged": 594,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/6820?v=4"
     },
     "evmiguel": {
@@ -49,18 +49,18 @@
       "avatarUrl": "https://avatars1.githubusercontent.com/u/3725386?v=4"
     },
     "gaearon": {
-      "total": 668,
-      "merged": 576,
+      "total": 671,
+      "merged": 579,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/810438?v=4"
     },
     "sebmarkbage": {
-      "total": 273,
-      "merged": 254,
+      "total": 274,
+      "merged": 255,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/63648?v=4"
     },
     "acdlite": {
-      "total": 250,
-      "merged": 202,
+      "total": 248,
+      "merged": 200,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/3624098?v=4"
     },
     "rickyp-uber": {
@@ -199,8 +199,8 @@
       "avatarUrl": "https://avatars3.githubusercontent.com/u/18418010?v=4"
     },
     "bvaughn": {
-      "total": 278,
-      "merged": 258,
+      "total": 279,
+      "merged": 259,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/29597?v=4"
     },
     "JoeCortopassi": {
@@ -479,8 +479,8 @@
       "avatarUrl": "https://avatars2.githubusercontent.com/u/5579638?v=4"
     },
     "elas7": {
-      "total": 8,
-      "merged": 6,
+      "total": 9,
+      "merged": 7,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/7537033?v=4"
     },
     "raunofreiberg": {
@@ -579,8 +579,8 @@
       "avatarUrl": "https://avatars2.githubusercontent.com/u/39694444?v=4"
     },
     "flarnie": {
-      "total": 118,
-      "merged": 90,
+      "total": 121,
+      "merged": 93,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/1114467?v=4"
     },
     "segoddnja": {
@@ -639,7 +639,7 @@
       "avatarUrl": "https://avatars1.githubusercontent.com/u/368886?v=4"
     },
     "jddxf": {
-      "total": 8,
+      "total": 9,
       "merged": 6,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/11155177?v=4"
     },
@@ -979,7 +979,7 @@
       "avatarUrl": "https://avatars1.githubusercontent.com/u/3757314?v=4"
     },
     "kaushik94": {
-      "total": 3,
+      "total": 2,
       "merged": 0,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/6545467?v=4"
     },
@@ -1228,6 +1228,11 @@
       "merged": 0,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/13380370?v=4"
     },
+    "zeigo": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/33696101?v=4"
+    },
     "HuangHongRui": {
       "total": 1,
       "merged": 0,
@@ -1294,7 +1299,7 @@
       "avatarUrl": "https://avatars1.githubusercontent.com/u/186971?v=4"
     },
     "banga": {
-      "total": 3,
+      "total": 2,
       "merged": 0,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/541603?v=4"
     },
@@ -1489,8 +1494,8 @@
       "avatarUrl": "https://avatars3.githubusercontent.com/u/3088823?v=4"
     },
     "madeinfree": {
-      "total": 3,
-      "merged": 2,
+      "total": 4,
+      "merged": 3,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/4027049?v=4"
     },
     "abiduzz420": {
@@ -1504,8 +1509,8 @@
       "avatarUrl": "https://avatars2.githubusercontent.com/u/11067705?v=4"
     },
     "ConradIrwin": {
-      "total": 2,
-      "merged": 2,
+      "total": 1,
+      "merged": 1,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/94272?v=4"
     },
     "thymikee": {
@@ -1594,8 +1599,8 @@
       "avatarUrl": "https://avatars3.githubusercontent.com/u/13036803?v=4"
     },
     "misoguy": {
-      "total": 5,
-      "merged": 5,
+      "total": 4,
+      "merged": 4,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/12230408?v=4"
     },
     "nehasinghritu8": {
@@ -1779,8 +1784,8 @@
       "avatarUrl": "https://avatars2.githubusercontent.com/u/28014739?v=4"
     },
     "davidgilbertson": {
-      "total": 2,
-      "merged": 2,
+      "total": 1,
+      "merged": 1,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/4443482?v=4"
     },
     "mori-dev": {
@@ -2199,8 +2204,8 @@
       "avatarUrl": "https://avatars1.githubusercontent.com/u/16987322?v=4"
     },
     "kenotron": {
-      "total": 3,
-      "merged": 2,
+      "total": 2,
+      "merged": 1,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/34725?v=4"
     },
     "cjongseok": {
@@ -2764,7 +2769,7 @@
       "avatarUrl": "https://avatars2.githubusercontent.com/u/793851?v=4"
     },
     "Aprillion": {
-      "total": 2,
+      "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/1087670?v=4"
     },
@@ -3559,8 +3564,8 @@
       "avatarUrl": "https://avatars3.githubusercontent.com/u/25506297?v=4"
     },
     "pontusab": {
-      "total": 2,
-      "merged": 2,
+      "total": 1,
+      "merged": 1,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/655158?v=4"
     },
     "albacoretuna": {
@@ -4389,7 +4394,7 @@
       "avatarUrl": "https://avatars0.githubusercontent.com/u/1591702?v=4"
     },
     "rickbeerendonk": {
-      "total": 13,
+      "total": 12,
       "merged": 8,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/479223?v=4"
     },
@@ -4404,8 +4409,8 @@
       "avatarUrl": "https://avatars1.githubusercontent.com/u/5102818?v=4"
     },
     "lewisblackwood": {
-      "total": 2,
-      "merged": 2,
+      "total": 1,
+      "merged": 1,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/10392867?v=4"
     },
     "Plortinus": {
@@ -4419,8 +4424,8 @@
       "avatarUrl": "https://avatars2.githubusercontent.com/u/5652886?v=4"
     },
     "vjeux": {
-      "total": 116,
-      "merged": 89,
+      "total": 115,
+      "merged": 88,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/197597?v=4"
     },
     "akatopo": {
@@ -4754,8 +4759,8 @@
       "avatarUrl": "https://avatars3.githubusercontent.com/u/71047?v=4"
     },
     "cpojer": {
-      "total": 34,
-      "merged": 20,
+      "total": 35,
+      "merged": 21,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/13352?v=4"
     },
     "mixed": {
@@ -5099,8 +5104,8 @@
       "avatarUrl": "https://avatars2.githubusercontent.com/u/15162965?v=4"
     },
     "syranide": {
-      "total": 132,
-      "merged": 65,
+      "total": 131,
+      "merged": 64,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/1714255?v=4"
     },
     "battaile": {
@@ -5319,7 +5324,7 @@
       "avatarUrl": "https://avatars3.githubusercontent.com/u/20097966?v=4"
     },
     "jimfb": {
-      "total": 157,
+      "total": 156,
       "merged": 125,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/9595985?v=4"
     },
@@ -5794,7 +5799,7 @@
       "avatarUrl": "https://avatars3.githubusercontent.com/u/4520820?v=4"
     },
     "miaozhirui": {
-      "total": 2,
+      "total": 3,
       "merged": 0,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/10221373?v=4"
     },
@@ -6169,7 +6174,7 @@
       "avatarUrl": "https://avatars3.githubusercontent.com/u/761444?v=4"
     },
     "vslinko": {
-      "total": 3,
+      "total": 4,
       "merged": 0,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/205823?v=4"
     },
@@ -6299,7 +6304,7 @@
       "avatarUrl": "https://avatars1.githubusercontent.com/u/1186240?v=4"
     },
     "shinnn": {
-      "total": 2,
+      "total": 3,
       "merged": 2,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/1131567?v=4"
     },
@@ -6379,8 +6384,8 @@
       "avatarUrl": "https://avatars0.githubusercontent.com/u/1329167?v=4"
     },
     "graue": {
-      "total": 9,
-      "merged": 7,
+      "total": 8,
+      "merged": 6,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/1730853?v=4"
     },
     "scjody": {
@@ -6724,8 +6729,8 @@
       "avatarUrl": "https://avatars3.githubusercontent.com/u/880921?v=4"
     },
     "freddyrangel": {
-      "total": 2,
-      "merged": 2,
+      "total": 1,
+      "merged": 1,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/4118813?v=4"
     },
     "dompuiu": {
@@ -7984,7 +7989,7 @@
       "avatarUrl": "https://avatars2.githubusercontent.com/u/606014?v=4"
     },
     "arasmussen": {
-      "total": 2,
+      "total": 3,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/969540?v=4"
     },
@@ -8409,8 +8414,8 @@
       "avatarUrl": "https://avatars1.githubusercontent.com/u/1313013?v=4"
     },
     "Pouja": {
-      "total": 8,
-      "merged": 4,
+      "total": 7,
+      "merged": 3,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/2385144?v=4"
     },
     "jnu": {
@@ -8504,7 +8509,7 @@
       "avatarUrl": "https://avatars3.githubusercontent.com/u/1487889?v=4"
     },
     "bunnyc1986": {
-      "total": 2,
+      "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/1644274?v=4"
     },
@@ -8624,8 +8629,8 @@
       "avatarUrl": "https://avatars3.githubusercontent.com/u/1132354?v=4"
     },
     "fisherwebdev": {
-      "total": 7,
-      "merged": 7,
+      "total": 8,
+      "merged": 8,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/169760?v=4"
     },
     "benekastah": {
@@ -9188,6 +9193,11 @@
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/921101?v=4"
     },
+    "Shraymonks": {
+      "total": 1,
+      "merged": 1,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/371507?v=4"
+    },
     "wassil": {
       "total": 1,
       "merged": 1,
@@ -9244,8 +9254,8 @@
       "avatarUrl": "https://avatars2.githubusercontent.com/u/4603973?v=4"
     },
     "genbit": {
-      "total": 2,
-      "merged": 2,
+      "total": 1,
+      "merged": 1,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/72428?v=4"
     },
     "Robdel12": {
@@ -9334,8 +9344,8 @@
       "avatarUrl": "https://avatars2.githubusercontent.com/u/2745959?v=4"
     },
     "petehunt": {
-      "total": 56,
-      "merged": 27,
+      "total": 57,
+      "merged": 28,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/239742?v=4"
     },
     "XuefengWu": {
@@ -9487,6 +9497,11 @@
       "total": 5,
       "merged": 3,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/1309177?v=4"
+    },
+    "rexxars": {
+      "total": 1,
+      "merged": 1,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/48200?v=4"
     },
     "michaelrp": {
       "total": 1,
@@ -9768,6 +9783,11 @@
       "merged": 1,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/306525?v=4"
     },
+    "somethingkindawierd": {
+      "total": 2,
+      "merged": 2,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/107694?v=4"
+    },
     "bmihelac": {
       "total": 1,
       "merged": 1,
@@ -9899,8 +9919,8 @@
       "avatarUrl": "https://avatars3.githubusercontent.com/u/154763?v=4"
     },
     "remixz": {
-      "total": 3,
-      "merged": 3,
+      "total": 2,
+      "merged": 2,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/1459603?v=4"
     },
     "danielschonfeld": {
@@ -9927,11 +9947,6 @@
       "total": 2,
       "merged": 1,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/759766?v=4"
-    },
-    "somethingkindawierd": {
-      "total": 1,
-      "merged": 1,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/107694?v=4"
     },
     "nbostrom": {
       "total": 1,
@@ -9979,7 +9994,7 @@
       "avatarUrl": "https://avatars3.githubusercontent.com/u/479538?v=4"
     },
     "jkimbo": {
-      "total": 2,
+      "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/691952?v=4"
     },
@@ -10399,7 +10414,7 @@
       "avatarUrl": "https://avatars2.githubusercontent.com/u/147413?v=4"
     },
     "ide": {
-      "total": 2,
+      "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/379606?v=4"
     },
@@ -10539,27 +10554,27 @@
       "merged": 80
     },
     "Août-2018": {
-      "total": 121,
-      "merged": 84
+      "total": 122,
+      "merged": 85
     },
     "Juillet-2018": {
-      "total": 87,
-      "merged": 60
+      "total": 86,
+      "merged": 59
     },
     "Juin-2018": {
-      "total": 67,
-      "merged": 48
+      "total": 68,
+      "merged": 49
     },
     "Mai-2018": {
-      "total": 126,
-      "merged": 93
+      "total": 125,
+      "merged": 92
     },
     "Avril-2018": {
-      "total": 81,
-      "merged": 61
+      "total": 82,
+      "merged": 62
     },
     "Mars-2018": {
-      "total": 89,
+      "total": 88,
       "merged": 64
     },
     "Février-2018": {
@@ -10571,12 +10586,12 @@
       "merged": 57
     },
     "Décembre-2017": {
-      "total": 99,
-      "merged": 65
+      "total": 100,
+      "merged": 66
     },
     "Novembre-2017": {
-      "total": 169,
-      "merged": 130
+      "total": 168,
+      "merged": 129
     },
     "Octobre-2017": {
       "total": 212,
@@ -10596,7 +10611,7 @@
     },
     "Juin-2017": {
       "total": 151,
-      "merged": 109
+      "merged": 110
     },
     "Mai-2017": {
       "total": 136,
@@ -10612,14 +10627,14 @@
     },
     "Février-2017": {
       "total": 115,
-      "merged": 85
+      "merged": 84
     },
     "Janvier-2017": {
-      "total": 148,
-      "merged": 108
+      "total": 149,
+      "merged": 109
     },
     "Décembre-2016": {
-      "total": 124,
+      "total": 123,
       "merged": 87
     },
     "Novembre-2016": {
@@ -10659,12 +10674,12 @@
       "merged": 82
     },
     "Février-2016": {
-      "total": 91,
-      "merged": 58
+      "total": 92,
+      "merged": 57
     },
     "Janvier-2016": {
-      "total": 87,
-      "merged": 50
+      "total": 86,
+      "merged": 49
     },
     "Décembre-2015": {
       "total": 97,
@@ -10672,7 +10687,7 @@
     },
     "Novembre-2015": {
       "total": 104,
-      "merged": 67
+      "merged": 66
     },
     "Octobre-2015": {
       "total": 162,
@@ -10696,18 +10711,18 @@
     },
     "Mai-2015": {
       "total": 100,
-      "merged": 69
+      "merged": 68
     },
     "Avril-2015": {
       "total": 122,
       "merged": 83
     },
     "Mars-2015": {
-      "total": 143,
-      "merged": 106
+      "total": 144,
+      "merged": 108
     },
     "Février-2015": {
-      "total": 146,
+      "total": 145,
       "merged": 98
     },
     "Janvier-2015": {
@@ -10739,15 +10754,15 @@
       "merged": 59
     },
     "Juin-2014": {
-      "total": 51,
-      "merged": 32
+      "total": 52,
+      "merged": 33
     },
     "Mai-2014": {
       "total": 96,
-      "merged": 57
+      "merged": 56
     },
     "Avril-2014": {
-      "total": 60,
+      "total": 59,
       "merged": 34
     },
     "Mars-2014": {
@@ -10760,7 +10775,7 @@
     },
     "Janvier-2014": {
       "total": 136,
-      "merged": 86
+      "merged": 87
     },
     "Décembre-2013": {
       "total": 98,
@@ -10768,7 +10783,7 @@
     },
     "Novembre-2013": {
       "total": 89,
-      "merged": 60
+      "merged": 61
     },
     "Octobre-2013": {
       "total": 38,
