@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-10-22T18:43:50.206Z",
+  "lastUpdate": "2018-10-22T19:42:52.955Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
-  "totalPR": 521,
+  "totalPR": 522,
   "lastPR": {
-    "createdAt": "2018-10-22T12:05:25Z",
-    "username": "m-rahimy"
+    "createdAt": "2018-10-22T19:35:33Z",
+    "username": "Mas281"
   },
   "bestPR": {
     "user": "theycallmemac",
@@ -23,6 +23,11 @@
     "image": "https://avatars2.githubusercontent.com/u/21190262?v=4"
   },
   "userPRInfos": {
+    "Mas281": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/17529141?v=4"
+    },
     "m-rahimy": {
       "total": 1,
       "merged": 0,
@@ -1461,7 +1466,7 @@
   },
   "datePRInfos": {
     "Octobre-2018": {
-      "total": 69,
+      "total": 70,
       "merged": 8
     },
     "Septembre-2018": {
