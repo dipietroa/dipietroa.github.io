@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-10-22T09:43:20.856Z",
+  "lastUpdate": "2018-10-22T10:44:41.940Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
   "totalPR": 2964,
@@ -13,7 +13,7 @@
     "image": "https://avatars3.githubusercontent.com/u/1059363?v=4"
   },
   "bestMerged": {
-    "user": "olivergierke",
+    "user": "odrotbohm",
     "nbPR": 3,
     "image": "https://avatars1.githubusercontent.com/u/128577?v=4"
   },
@@ -2544,8 +2544,8 @@
       "avatarUrl": "https://avatars2.githubusercontent.com/u/128210?v=4"
     },
     "olivergierke": {
-      "total": 21,
-      "merged": 3,
+      "total": 10,
+      "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/128577?v=4"
     },
     "altfatterz": {
@@ -3137,6 +3137,11 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/1206459?v=4"
+    },
+    "odrotbohm": {
+      "total": 11,
+      "merged": 3,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/128577?v=4"
     },
     "lpandzic": {
       "total": 1,
