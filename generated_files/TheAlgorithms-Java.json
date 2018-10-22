@@ -1,20 +1,20 @@
 {
-  "lastUpdate": "2018-10-22T13:52:04.799Z",
+  "lastUpdate": "2018-10-22T14:43:38.871Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
-  "totalPR": 520,
+  "totalPR": 521,
   "lastPR": {
-    "createdAt": "2018-10-21T23:51:53Z",
-    "username": "emily-gong"
+    "createdAt": "2018-10-22T12:05:25Z",
+    "username": "m-rahimy"
   },
   "bestPR": {
     "user": "theycallmemac",
-    "nbPR": 20,
+    "nbPR": 22,
     "image": "https://avatars1.githubusercontent.com/u/16108563?v=4"
   },
   "bestMerged": {
     "user": "theycallmemac",
-    "nbPR": 18,
+    "nbPR": 20,
     "image": "https://avatars1.githubusercontent.com/u/16108563?v=4"
   },
   "bestRatio": {
@@ -23,6 +23,11 @@
     "image": "https://avatars2.githubusercontent.com/u/21190262?v=4"
   },
   "userPRInfos": {
+    "m-rahimy": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/12912495?v=4"
+    },
     "emily-gong": {
       "total": 1,
       "merged": 0,
@@ -124,7 +129,7 @@
       "avatarUrl": "https://avatars2.githubusercontent.com/u/43978986?v=4"
     },
     "KashyapNasit": {
-      "total": 2,
+      "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/33874273?v=4"
     },
@@ -252,6 +257,11 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/25313420?v=4"
+    },
+    "sumeetk321": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/18608410?v=4"
     },
     "camilne": {
       "total": 1,
@@ -553,11 +563,6 @@
       "merged": 1,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/24612656?v=4"
     },
-    "Mani9723": {
-      "total": 1,
-      "merged": 0,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/38226555?v=4"
-    },
     "thegabriele97": {
       "total": 1,
       "merged": 1,
@@ -659,7 +664,7 @@
       "avatarUrl": "https://avatars2.githubusercontent.com/u/19682981?v=4"
     },
     "LeeChungWan": {
-      "total": 12,
+      "total": 13,
       "merged": 8,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/26535056?v=4"
     },
@@ -817,11 +822,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/30868400?v=4"
-    },
-    "jaindharmesh52": {
-      "total": 1,
-      "merged": 0,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/33101392?v=4"
     },
     "YJDave": {
       "total": 1,
@@ -1023,6 +1023,11 @@
       "merged": 0,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/23057357?v=4"
     },
+    "sarvanideekshitula": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/20927062?v=4"
+    },
     "sarbajitsaha": {
       "total": 1,
       "merged": 0,
@@ -1109,8 +1114,8 @@
       "avatarUrl": "https://avatars3.githubusercontent.com/u/6611754?v=4"
     },
     "RollandMichael7": {
-      "total": 4,
-      "merged": 3,
+      "total": 5,
+      "merged": 4,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/14168201?v=4"
     },
     "TobCar": {
@@ -1119,7 +1124,7 @@
       "avatarUrl": "https://avatars1.githubusercontent.com/u/28568438?v=4"
     },
     "Stuk4": {
-      "total": 3,
+      "total": 2,
       "merged": 0,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/7506309?v=4"
     },
@@ -1244,8 +1249,8 @@
       "avatarUrl": "https://avatars2.githubusercontent.com/u/15324210?v=4"
     },
     "theycallmemac": {
-      "total": 20,
-      "merged": 18,
+      "total": 22,
+      "merged": 20,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/16108563?v=4"
     },
     "emergie": {
@@ -1319,8 +1324,8 @@
       "avatarUrl": "https://avatars2.githubusercontent.com/u/30534014?v=4"
     },
     "earngpi": {
-      "total": 6,
-      "merged": 2,
+      "total": 4,
+      "merged": 0,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/29525021?v=4"
     },
     "BluurProgrammer": {
@@ -1446,7 +1451,7 @@
   },
   "datePRInfos": {
     "Octobre-2018": {
-      "total": 68,
+      "total": 69,
       "merged": 8
     },
     "Septembre-2018": {
@@ -1470,7 +1475,7 @@
       "merged": 6
     },
     "Avril-2018": {
-      "total": 28,
+      "total": 27,
       "merged": 19
     },
     "Mars-2018": {
@@ -1490,24 +1495,24 @@
       "merged": 17
     },
     "Novembre-2017": {
-      "total": 29,
+      "total": 30,
       "merged": 13
     },
     "Octobre-2017": {
-      "total": 181,
+      "total": 180,
       "merged": 55
     },
     "Septembre-2017": {
-      "total": 20,
-      "merged": 15
+      "total": 21,
+      "merged": 16
     },
     "Août-2017": {
       "total": 11,
       "merged": 11
     },
     "Juillet-2017": {
-      "total": 14,
-      "merged": 6
+      "total": 12,
+      "merged": 4
     },
     "Juin-2017": {
       "total": 9,
@@ -1518,8 +1523,8 @@
       "merged": 3
     },
     "Avril-2017": {
-      "total": 28,
-      "merged": 26
+      "total": 30,
+      "merged": 28
     },
     "Mars-2017": {
       "total": 9,
