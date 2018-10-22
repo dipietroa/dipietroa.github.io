@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-10-22T17:45:04.802Z",
+  "lastUpdate": "2018-10-22T18:45:45.395Z",
   "cowner": "fastify",
   "crepo": "fastify",
   "totalPR": 748,
@@ -30,7 +30,7 @@
     },
     "cemremengu": {
       "total": 24,
-      "merged": 20,
+      "merged": 21,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/1297759?v=4"
     },
     "coreyfarrell": {
@@ -712,7 +712,7 @@
   "datePRInfos": {
     "Octobre-2018": {
       "total": 17,
-      "merged": 11
+      "merged": 12
     },
     "Septembre-2018": {
       "total": 50,
