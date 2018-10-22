@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-10-22T12:43:19.125Z",
+  "lastUpdate": "2018-10-22T13:52:04.799Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
-  "totalPR": 521,
+  "totalPR": 520,
   "lastPR": {
-    "createdAt": "2018-10-22T12:05:25Z",
-    "username": "m-rahimy"
+    "createdAt": "2018-10-21T23:51:53Z",
+    "username": "emily-gong"
   },
   "bestPR": {
     "user": "theycallmemac",
@@ -23,11 +23,6 @@
     "image": "https://avatars2.githubusercontent.com/u/21190262?v=4"
   },
   "userPRInfos": {
-    "m-rahimy": {
-      "total": 1,
-      "merged": 0,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/12912495?v=4"
-    },
     "emily-gong": {
       "total": 1,
       "merged": 0,
@@ -129,7 +124,7 @@
       "avatarUrl": "https://avatars2.githubusercontent.com/u/43978986?v=4"
     },
     "KashyapNasit": {
-      "total": 1,
+      "total": 2,
       "merged": 0,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/33874273?v=4"
     },
@@ -257,11 +252,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/25313420?v=4"
-    },
-    "sumeetk321": {
-      "total": 1,
-      "merged": 0,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/18608410?v=4"
     },
     "camilne": {
       "total": 1,
@@ -644,7 +634,7 @@
       "avatarUrl": "https://avatars1.githubusercontent.com/u/33368759?v=4"
     },
     "Aftaab99": {
-      "total": 1,
+      "total": 2,
       "merged": 0,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/28824351?v=4"
     },
@@ -669,7 +659,7 @@
       "avatarUrl": "https://avatars2.githubusercontent.com/u/19682981?v=4"
     },
     "LeeChungWan": {
-      "total": 13,
+      "total": 12,
       "merged": 8,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/26535056?v=4"
     },
@@ -899,7 +889,7 @@
       "avatarUrl": "https://avatars2.githubusercontent.com/u/5913204?v=4"
     },
     "sanghaisubham": {
-      "total": 6,
+      "total": 7,
       "merged": 1,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/16879090?v=4"
     },
@@ -1119,8 +1109,8 @@
       "avatarUrl": "https://avatars3.githubusercontent.com/u/6611754?v=4"
     },
     "RollandMichael7": {
-      "total": 5,
-      "merged": 4,
+      "total": 4,
+      "merged": 3,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/14168201?v=4"
     },
     "TobCar": {
@@ -1203,6 +1193,11 @@
       "merged": 1,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/17208184?v=4"
     },
+    "lvncnt": {
+      "total": 2,
+      "merged": 1,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/8718401?v=4"
+    },
     "WilliamTomOBrien": {
       "total": 1,
       "merged": 1,
@@ -1242,11 +1237,6 @@
       "total": 2,
       "merged": 1,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/25135844?v=4"
-    },
-    "lvncnt": {
-      "total": 1,
-      "merged": 1,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/8718401?v=4"
     },
     "MichGedd": {
       "total": 1,
@@ -1429,8 +1419,8 @@
       "avatarUrl": "https://avatars1.githubusercontent.com/u/22603971?v=4"
     },
     "anthonyc1": {
-      "total": 3,
-      "merged": 3,
+      "total": 2,
+      "merged": 2,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/22784914?v=4"
     },
     "yash-b98": {
@@ -1456,7 +1446,7 @@
   },
   "datePRInfos": {
     "Octobre-2018": {
-      "total": 69,
+      "total": 68,
       "merged": 8
     },
     "Septembre-2018": {
@@ -1492,7 +1482,7 @@
       "merged": 4
     },
     "Janvier-2018": {
-      "total": 6,
+      "total": 7,
       "merged": 2
     },
     "Décembre-2017": {
@@ -1500,16 +1490,16 @@
       "merged": 17
     },
     "Novembre-2017": {
-      "total": 30,
+      "total": 29,
       "merged": 13
     },
     "Octobre-2017": {
-      "total": 179,
+      "total": 181,
       "merged": 55
     },
     "Septembre-2017": {
-      "total": 21,
-      "merged": 16
+      "total": 20,
+      "merged": 15
     },
     "Août-2017": {
       "total": 11,
@@ -1532,8 +1522,8 @@
       "merged": 26
     },
     "Mars-2017": {
-      "total": 10,
-      "merged": 8
+      "total": 9,
+      "merged": 7
     },
     "Décembre-2016": {
       "total": 2,
