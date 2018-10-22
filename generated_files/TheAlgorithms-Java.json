@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-10-22T14:43:38.871Z",
+  "lastUpdate": "2018-10-22T15:43:39.915Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
   "totalPR": 521,
@@ -9,12 +9,12 @@
   },
   "bestPR": {
     "user": "theycallmemac",
-    "nbPR": 22,
+    "nbPR": 21,
     "image": "https://avatars1.githubusercontent.com/u/16108563?v=4"
   },
   "bestMerged": {
     "user": "theycallmemac",
-    "nbPR": 20,
+    "nbPR": 19,
     "image": "https://avatars1.githubusercontent.com/u/16108563?v=4"
   },
   "bestRatio": {
@@ -563,6 +563,11 @@
       "merged": 1,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/24612656?v=4"
     },
+    "Mani9723": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/38226555?v=4"
+    },
     "thegabriele97": {
       "total": 1,
       "merged": 1,
@@ -639,7 +644,7 @@
       "avatarUrl": "https://avatars1.githubusercontent.com/u/33368759?v=4"
     },
     "Aftaab99": {
-      "total": 2,
+      "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/28824351?v=4"
     },
@@ -823,6 +828,11 @@
       "merged": 0,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/30868400?v=4"
     },
+    "jaindharmesh52": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/33101392?v=4"
+    },
     "YJDave": {
       "total": 1,
       "merged": 0,
@@ -889,7 +899,7 @@
       "avatarUrl": "https://avatars2.githubusercontent.com/u/5913204?v=4"
     },
     "sanghaisubham": {
-      "total": 7,
+      "total": 6,
       "merged": 1,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/16879090?v=4"
     },
@@ -1249,8 +1259,8 @@
       "avatarUrl": "https://avatars2.githubusercontent.com/u/15324210?v=4"
     },
     "theycallmemac": {
-      "total": 22,
-      "merged": 20,
+      "total": 21,
+      "merged": 19,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/16108563?v=4"
     },
     "emergie": {
@@ -1324,8 +1334,8 @@
       "avatarUrl": "https://avatars2.githubusercontent.com/u/30534014?v=4"
     },
     "earngpi": {
-      "total": 4,
-      "merged": 0,
+      "total": 5,
+      "merged": 1,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/29525021?v=4"
     },
     "BluurProgrammer": {
@@ -1475,7 +1485,7 @@
       "merged": 6
     },
     "Avril-2018": {
-      "total": 27,
+      "total": 28,
       "merged": 19
     },
     "Mars-2018": {
@@ -1487,7 +1497,7 @@
       "merged": 4
     },
     "Janvier-2018": {
-      "total": 7,
+      "total": 6,
       "merged": 2
     },
     "Décembre-2017": {
@@ -1511,8 +1521,8 @@
       "merged": 11
     },
     "Juillet-2017": {
-      "total": 12,
-      "merged": 4
+      "total": 13,
+      "merged": 5
     },
     "Juin-2017": {
       "total": 9,
@@ -1523,8 +1533,8 @@
       "merged": 3
     },
     "Avril-2017": {
-      "total": 30,
-      "merged": 28
+      "total": 29,
+      "merged": 27
     },
     "Mars-2017": {
       "total": 9,
