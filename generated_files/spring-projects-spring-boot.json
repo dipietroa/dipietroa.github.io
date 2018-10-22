@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-10-22T10:44:41.940Z",
+  "lastUpdate": "2018-10-22T11:42:55.632Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
   "totalPR": 2964,
@@ -2543,9 +2543,9 @@
       "merged": 0,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/128210?v=4"
     },
-    "olivergierke": {
-      "total": 10,
-      "merged": 0,
+    "odrotbohm": {
+      "total": 8,
+      "merged": 3,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/128577?v=4"
     },
     "altfatterz": {
@@ -3138,11 +3138,6 @@
       "merged": 0,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/1206459?v=4"
     },
-    "odrotbohm": {
-      "total": 11,
-      "merged": 3,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/128577?v=4"
-    },
     "lpandzic": {
       "total": 1,
       "merged": 0,
@@ -3272,6 +3267,11 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/456182?v=4"
+    },
+    "olivergierke": {
+      "total": 13,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/128577?v=4"
     },
     "NersesAM": {
       "total": 1,
