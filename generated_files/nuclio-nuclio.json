@@ -1,20 +1,20 @@
 {
-  "lastUpdate": "2018-10-21T22:43:47.856Z",
+  "lastUpdate": "2018-10-22T11:44:47.564Z",
   "cowner": "nuclio",
   "crepo": "nuclio",
   "totalPR": 738,
   "lastPR": {
-    "createdAt": "2018-10-21T10:35:49Z",
-    "username": "eran-nussbaum"
+    "createdAt": "2018-10-22T11:10:11Z",
+    "username": "pavius"
   },
   "bestPR": {
     "user": "pavius",
-    "nbPR": 352,
+    "nbPR": 354,
     "image": "https://avatars2.githubusercontent.com/u/423987?v=4"
   },
   "bestMerged": {
     "user": "pavius",
-    "nbPR": 349,
+    "nbPR": 350,
     "image": "https://avatars2.githubusercontent.com/u/423987?v=4"
   },
   "bestRatio": {
@@ -23,6 +23,11 @@
     "image": "https://avatars2.githubusercontent.com/u/13628939?v=4"
   },
   "userPRInfos": {
+    "pavius": {
+      "total": 354,
+      "merged": 350,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/423987?v=4"
+    },
     "eran-nussbaum": {
       "total": 72,
       "merged": 71,
@@ -37,11 +42,6 @@
       "total": 16,
       "merged": 14,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/4353842?v=4"
-    },
-    "pavius": {
-      "total": 352,
-      "merged": 349,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/423987?v=4"
     },
     "ilaykav": {
       "total": 11,
@@ -89,12 +89,12 @@
       "avatarUrl": "https://avatars1.githubusercontent.com/u/823054?v=4"
     },
     "Sharon-iguazio": {
-      "total": 29,
-      "merged": 28,
+      "total": 28,
+      "merged": 27,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/27913885?v=4"
     },
     "tebeka": {
-      "total": 99,
+      "total": 98,
       "merged": 63,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/87697?v=4"
     },
@@ -196,7 +196,7 @@
   },
   "datePRInfos": {
     "Octobre-2018": {
-      "total": 23,
+      "total": 24,
       "merged": 21
     },
     "Septembre-2018": {
@@ -228,20 +228,20 @@
       "merged": 46
     },
     "Février-2018": {
-      "total": 33,
-      "merged": 27
+      "total": 32,
+      "merged": 26
     },
     "Janvier-2018": {
       "total": 70,
       "merged": 66
     },
     "Décembre-2017": {
-      "total": 58,
-      "merged": 51
+      "total": 59,
+      "merged": 52
     },
     "Novembre-2017": {
-      "total": 66,
-      "merged": 59
+      "total": 65,
+      "merged": 58
     },
     "Octobre-2017": {
       "total": 48,
@@ -249,7 +249,7 @@
     },
     "Septembre-2017": {
       "total": 71,
-      "merged": 66
+      "merged": 67
     },
     "Août-2017": {
       "total": 36,
