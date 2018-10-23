@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-10-23T20:49:21.833Z",
+  "lastUpdate": "2018-10-23T21:47:44.491Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 7345,
+  "totalPR": 7346,
   "lastPR": {
-    "createdAt": "2018-10-23T20:28:00Z",
-    "username": "bvaughn"
+    "createdAt": "2018-10-23T21:06:33Z",
+    "username": "acdlite"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,20 +23,20 @@
     "image": "https://avatars0.githubusercontent.com/u/1290376?v=4"
   },
   "userPRInfos": {
+    "acdlite": {
+      "total": 252,
+      "merged": 204,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/3624098?v=4"
+    },
     "bvaughn": {
       "total": 282,
-      "merged": 259,
+      "merged": 261,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/29597?v=4"
     },
     "gaearon": {
       "total": 672,
       "merged": 580,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/810438?v=4"
-    },
-    "acdlite": {
-      "total": 251,
-      "merged": 202,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/3624098?v=4"
     },
     "jonisar": {
       "total": 1,
@@ -10556,8 +10556,8 @@
   },
   "datePRInfos": {
     "Octobre-2018": {
-      "total": 90,
-      "merged": 53
+      "total": 91,
+      "merged": 57
     },
     "Septembre-2018": {
       "total": 125,
