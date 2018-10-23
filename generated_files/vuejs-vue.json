@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-10-23T20:44:14.505Z",
+  "lastUpdate": "2018-10-23T21:43:11.559Z",
   "cowner": "vuejs",
   "crepo": "vue",
   "totalPR": 1291,
@@ -135,7 +135,7 @@
     },
     "JJJYY": {
       "total": 3,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/32628989?v=4"
     },
     "mattlavallee": {
@@ -150,7 +150,7 @@
     },
     "fnlctrl": {
       "total": 5,
-      "merged": 3,
+      "merged": 4,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/5557143?v=4"
     },
     "yangdan8": {
@@ -2941,7 +2941,7 @@
     },
     "Septembre-2018": {
       "total": 12,
-      "merged": 0
+      "merged": 2
     },
     "Août-2018": {
       "total": 31,
