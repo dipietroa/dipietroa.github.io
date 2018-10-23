@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "2018-10-23T05:48:11.376Z",
+  "lastUpdate": "2018-10-23T06:49:04.099Z",
   "cowner": "facebook",
   "crepo": "react",
   "totalPR": 7338,
   "lastPR": {
-    "createdAt": "2018-10-23T05:15:35Z",
+    "createdAt": "2018-10-23T05:47:34Z",
     "username": "sebmarkbage"
   },
   "bestPR": {
@@ -24,8 +24,8 @@
   },
   "userPRInfos": {
     "sebmarkbage": {
-      "total": 275,
-      "merged": 256,
+      "total": 276,
+      "merged": 257,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/63648?v=4"
     },
     "acdlite": {
@@ -9379,7 +9379,7 @@
       "avatarUrl": "https://avatars0.githubusercontent.com/u/49754?v=4"
     },
     "ateich": {
-      "total": 2,
+      "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/4775201?v=4"
     },
@@ -10551,8 +10551,8 @@
   },
   "datePRInfos": {
     "Octobre-2018": {
-      "total": 82,
-      "merged": 50
+      "total": 83,
+      "merged": 51
     },
     "Septembre-2018": {
       "total": 125,
@@ -10747,7 +10747,7 @@
       "merged": 59
     },
     "Septembre-2014": {
-      "total": 81,
+      "total": 80,
       "merged": 42
     },
     "Août-2014": {
