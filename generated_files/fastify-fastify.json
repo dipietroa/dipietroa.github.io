@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-10-23T00:44:05.746Z",
+  "lastUpdate": "2018-10-23T01:44:14.765Z",
   "cowner": "fastify",
   "crepo": "fastify",
   "totalPR": 750,
@@ -30,7 +30,7 @@
     },
     "cemremengu": {
       "total": 25,
-      "merged": 21,
+      "merged": 22,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/1297759?v=4"
     },
     "jannikkeye": {
@@ -712,7 +712,7 @@
   "datePRInfos": {
     "Octobre-2018": {
       "total": 19,
-      "merged": 13
+      "merged": 14
     },
     "Septembre-2018": {
       "total": 50,
