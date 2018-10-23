@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-10-23T16:48:53.486Z",
+  "lastUpdate": "2018-10-23T17:49:24.696Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 7339,
+  "totalPR": 7340,
   "lastPR": {
-    "createdAt": "2018-10-23T13:26:50Z",
-    "username": "jonisar"
+    "createdAt": "2018-10-23T17:23:15Z",
+    "username": "acdlite"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars0.githubusercontent.com/u/1290376?v=4"
   },
   "userPRInfos": {
+    "acdlite": {
+      "total": 250,
+      "merged": 201,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/3624098?v=4"
+    },
     "jonisar": {
       "total": 1,
       "merged": 0,
@@ -32,11 +37,6 @@
       "total": 276,
       "merged": 257,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/63648?v=4"
-    },
-    "acdlite": {
-      "total": 249,
-      "merged": 201,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/3624098?v=4"
     },
     "johnlinp": {
       "total": 1,
@@ -10556,7 +10556,7 @@
   },
   "datePRInfos": {
     "Octobre-2018": {
-      "total": 84,
+      "total": 85,
       "merged": 51
     },
     "Septembre-2018": {
