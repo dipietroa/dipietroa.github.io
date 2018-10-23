@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-10-23T04:48:32.183Z",
+  "lastUpdate": "2018-10-23T05:48:11.376Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 7336,
+  "totalPR": 7338,
   "lastPR": {
-    "createdAt": "2018-10-23T04:40:57Z",
-    "username": "acdlite"
+    "createdAt": "2018-10-23T05:15:35Z",
+    "username": "sebmarkbage"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -18,19 +18,24 @@
     "image": "https://avatars2.githubusercontent.com/u/6820?v=4"
   },
   "bestRatio": {
-    "user": "armujahid",
+    "user": "johnlinp",
     "ratio": 1,
-    "image": "https://avatars1.githubusercontent.com/u/3725386?v=4"
+    "image": "https://avatars0.githubusercontent.com/u/1290376?v=4"
   },
   "userPRInfos": {
+    "sebmarkbage": {
+      "total": 275,
+      "merged": 256,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/63648?v=4"
+    },
     "acdlite": {
       "total": 249,
-      "merged": 200,
+      "merged": 201,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/3624098?v=4"
     },
     "johnlinp": {
       "total": 1,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/1290376?v=4"
     },
     "powens": {
@@ -62,11 +67,6 @@
       "total": 671,
       "merged": 579,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/810438?v=4"
-    },
-    "sebmarkbage": {
-      "total": 274,
-      "merged": 255,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/63648?v=4"
     },
     "rickyp-uber": {
       "total": 1,
@@ -9379,7 +9379,7 @@
       "avatarUrl": "https://avatars0.githubusercontent.com/u/49754?v=4"
     },
     "ateich": {
-      "total": 1,
+      "total": 2,
       "merged": 0,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/4775201?v=4"
     },
@@ -10551,8 +10551,8 @@
   },
   "datePRInfos": {
     "Octobre-2018": {
-      "total": 81,
-      "merged": 47
+      "total": 82,
+      "merged": 50
     },
     "Septembre-2018": {
       "total": 125,
@@ -10747,7 +10747,7 @@
       "merged": 59
     },
     "Septembre-2014": {
-      "total": 80,
+      "total": 81,
       "merged": 42
     },
     "Août-2014": {
