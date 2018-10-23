@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-10-23T10:42:21.462Z",
+  "lastUpdate": "2018-10-23T11:42:46.556Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2967,
+  "totalPR": 2968,
   "lastPR": {
-    "createdAt": "2018-10-23T09:51:01Z",
-    "username": "benas"
+    "createdAt": "2018-10-23T11:33:26Z",
+    "username": "ayudovin"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "ayudovin": {
+      "total": 36,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/34862741?v=4"
+    },
     "benas": {
       "total": 1,
       "merged": 0,
@@ -52,11 +57,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/9877867?v=4"
-    },
-    "ayudovin": {
-      "total": 35,
-      "merged": 0,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/34862741?v=4"
     },
     "izeye": {
       "total": 467,
@@ -4431,7 +4431,7 @@
   },
   "datePRInfos": {
     "Octobre-2018": {
-      "total": 55,
+      "total": 56,
       "merged": 0
     },
     "Septembre-2018": {
