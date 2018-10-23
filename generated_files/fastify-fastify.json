@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-10-22T23:43:48.966Z",
+  "lastUpdate": "2018-10-23T00:44:05.746Z",
   "cowner": "fastify",
   "crepo": "fastify",
   "totalPR": 750,
@@ -18,9 +18,9 @@
     "image": "https://avatars0.githubusercontent.com/u/4865608?v=4"
   },
   "bestRatio": {
-    "user": "coreyfarrell",
+    "user": "jannikkeye",
     "ratio": 1,
-    "image": "https://avatars1.githubusercontent.com/u/903597?v=4"
+    "image": "https://avatars1.githubusercontent.com/u/10485074?v=4"
   },
   "userPRInfos": {
     "mcollina": {
@@ -35,7 +35,7 @@
     },
     "jannikkeye": {
       "total": 1,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/10485074?v=4"
     },
     "coreyfarrell": {
@@ -712,7 +712,7 @@
   "datePRInfos": {
     "Octobre-2018": {
       "total": 19,
-      "merged": 12
+      "merged": 13
     },
     "Septembre-2018": {
       "total": 50,
