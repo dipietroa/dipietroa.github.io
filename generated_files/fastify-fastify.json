@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-10-23T20:45:04.034Z",
+  "lastUpdate": "2018-10-23T21:43:54.143Z",
   "cowner": "fastify",
   "crepo": "fastify",
-  "totalPR": 753,
+  "totalPR": 754,
   "lastPR": {
-    "createdAt": "2018-10-23T20:20:20Z",
-    "username": "mcollina"
+    "createdAt": "2018-10-23T21:18:04Z",
+    "username": "cemremengu"
   },
   "bestPR": {
     "user": "delvedor",
@@ -23,15 +23,15 @@
     "image": "https://avatars1.githubusercontent.com/u/10485074?v=4"
   },
   "userPRInfos": {
+    "cemremengu": {
+      "total": 27,
+      "merged": 23,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/1297759?v=4"
+    },
     "mcollina": {
       "total": 91,
       "merged": 85,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/52195?v=4"
-    },
-    "cemremengu": {
-      "total": 26,
-      "merged": 23,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/1297759?v=4"
     },
     "azure-pipelines[bot]": {
       "total": 1,
@@ -716,7 +716,7 @@
   },
   "datePRInfos": {
     "Octobre-2018": {
-      "total": 22,
+      "total": 23,
       "merged": 15
     },
     "Septembre-2018": {
