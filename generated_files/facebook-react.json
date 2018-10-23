@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-10-23T12:49:57.366Z",
+  "lastUpdate": "2018-10-23T13:50:35.013Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 7338,
+  "totalPR": 7339,
   "lastPR": {
-    "createdAt": "2018-10-23T05:47:34Z",
-    "username": "sebmarkbage"
+    "createdAt": "2018-10-23T13:26:50Z",
+    "username": "jonisar"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars0.githubusercontent.com/u/1290376?v=4"
   },
   "userPRInfos": {
+    "jonisar": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/16134445?v=4"
+    },
     "sebmarkbage": {
       "total": 276,
       "merged": 257,
@@ -10551,7 +10556,7 @@
   },
   "datePRInfos": {
     "Octobre-2018": {
-      "total": 83,
+      "total": 84,
       "merged": 51
     },
     "Septembre-2018": {
