@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "2018-10-23T17:49:24.696Z",
+  "lastUpdate": "2018-10-23T18:48:44.617Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 7340,
+  "totalPR": 7341,
   "lastPR": {
-    "createdAt": "2018-10-23T17:23:15Z",
+    "createdAt": "2018-10-23T18:26:58Z",
     "username": "acdlite"
   },
   "bestPR": {
@@ -24,8 +24,8 @@
   },
   "userPRInfos": {
     "acdlite": {
-      "total": 250,
-      "merged": 201,
+      "total": 251,
+      "merged": 202,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/3624098?v=4"
     },
     "jonisar": {
@@ -10556,8 +10556,8 @@
   },
   "datePRInfos": {
     "Octobre-2018": {
-      "total": 85,
-      "merged": 51
+      "total": 86,
+      "merged": 52
     },
     "Septembre-2018": {
       "total": 125,
