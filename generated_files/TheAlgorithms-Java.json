@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-10-23T21:42:28.157Z",
+  "lastUpdate": "2018-10-23T22:42:25.728Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
-  "totalPR": 524,
+  "totalPR": 525,
   "lastPR": {
-    "createdAt": "2018-10-23T13:58:36Z",
-    "username": "goyaldiksha"
+    "createdAt": "2018-10-23T21:55:14Z",
+    "username": "donron2325"
   },
   "bestPR": {
     "user": "theycallmemac",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/12912495?v=4"
   },
   "userPRInfos": {
+    "donron2325": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/37385235?v=4"
+    },
     "goyaldiksha": {
       "total": 1,
       "merged": 0,
@@ -1476,7 +1481,7 @@
   },
   "datePRInfos": {
     "Octobre-2018": {
-      "total": 72,
+      "total": 73,
       "merged": 9
     },
     "Septembre-2018": {
