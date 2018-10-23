@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-10-23T13:45:32.177Z",
+  "lastUpdate": "2018-10-23T14:45:31.585Z",
   "cowner": "fastify",
   "crepo": "fastify",
-  "totalPR": 750,
+  "totalPR": 751,
   "lastPR": {
-    "createdAt": "2018-10-22T21:04:22Z",
-    "username": "mcollina"
+    "createdAt": "2018-10-23T14:04:39Z",
+    "username": "azure-pipelines[bot]"
   },
   "bestPR": {
     "user": "delvedor",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/10485074?v=4"
   },
   "userPRInfos": {
+    "azure-pipelines[bot]": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/in/9426?v=4"
+    },
     "mcollina": {
       "total": 90,
       "merged": 85,
@@ -711,7 +716,7 @@
   },
   "datePRInfos": {
     "Octobre-2018": {
-      "total": 19,
+      "total": 20,
       "merged": 14
     },
     "Septembre-2018": {
