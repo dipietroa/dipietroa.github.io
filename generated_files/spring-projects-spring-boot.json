@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-10-23T09:42:27.077Z",
+  "lastUpdate": "2018-10-23T10:42:21.462Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2965,
+  "totalPR": 2967,
   "lastPR": {
-    "createdAt": "2018-10-23T04:19:54Z",
-    "username": "nicce"
+    "createdAt": "2018-10-23T09:51:01Z",
+    "username": "benas"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,16 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "benas": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/1210553?v=4"
+    },
+    "Crow-EH": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/3366767?v=4"
+    },
     "nicce": {
       "total": 1,
       "merged": 0,
@@ -4421,7 +4431,7 @@
   },
   "datePRInfos": {
     "Octobre-2018": {
-      "total": 53,
+      "total": 55,
       "merged": 0
     },
     "Septembre-2018": {
