@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-10-23T03:42:46.428Z",
+  "lastUpdate": "2018-10-23T04:42:50.193Z",
   "cowner": "spring-projects",
   "crepo": "spring-boot",
-  "totalPR": 2964,
+  "totalPR": 2965,
   "lastPR": {
-    "createdAt": "2018-10-21T16:20:47Z",
-    "username": "dreis2211"
+    "createdAt": "2018-10-23T04:19:54Z",
+    "username": "nicce"
   },
   "bestPR": {
     "user": "izeye",
@@ -23,6 +23,11 @@
     "image": "https://avatars3.githubusercontent.com/u/1652307?v=4"
   },
   "userPRInfos": {
+    "nicce": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/5287872?v=4"
+    },
     "dreis2211": {
       "total": 109,
       "merged": 0,
@@ -4416,7 +4421,7 @@
   },
   "datePRInfos": {
     "Octobre-2018": {
-      "total": 52,
+      "total": 53,
       "merged": 0
     },
     "Septembre-2018": {
