@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-10-23T00:42:43.111Z",
+  "lastUpdate": "2018-10-23T01:42:55.361Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
   "totalPR": 522,
@@ -18,9 +18,9 @@
     "image": "https://avatars1.githubusercontent.com/u/16108563?v=4"
   },
   "bestRatio": {
-    "user": "shivg7706",
+    "user": "m-rahimy",
     "ratio": 1,
-    "image": "https://avatars2.githubusercontent.com/u/21190262?v=4"
+    "image": "https://avatars1.githubusercontent.com/u/12912495?v=4"
   },
   "userPRInfos": {
     "Mas281": {
@@ -30,7 +30,7 @@
     },
     "m-rahimy": {
       "total": 1,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/12912495?v=4"
     },
     "emily-gong": {
@@ -1467,7 +1467,7 @@
   "datePRInfos": {
     "Octobre-2018": {
       "total": 70,
-      "merged": 8
+      "merged": 9
     },
     "Septembre-2018": {
       "total": 15,
