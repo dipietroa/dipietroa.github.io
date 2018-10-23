@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-10-23T19:43:34.281Z",
+  "lastUpdate": "2018-10-23T20:44:14.505Z",
   "cowner": "vuejs",
   "crepo": "vue",
   "totalPR": 1291,
@@ -150,7 +150,7 @@
     },
     "fnlctrl": {
       "total": 5,
-      "merged": 2,
+      "merged": 3,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/5557143?v=4"
     },
     "yangdan8": {
@@ -225,7 +225,7 @@
     },
     "clarkdo": {
       "total": 11,
-      "merged": 6,
+      "merged": 7,
       "avatarUrl": "https://avatars3.githubusercontent.com/u/4312154?v=4"
     },
     "AlexMaguey": {
@@ -295,17 +295,17 @@
     },
     "sagirk": {
       "total": 1,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/2608321?v=4"
     },
     "sqal": {
       "total": 2,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars2.githubusercontent.com/u/3576913?v=4"
     },
     "msrahman07": {
       "total": 1,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/36062451?v=4"
     },
     "jing-c": {
@@ -2945,11 +2945,11 @@
     },
     "Août-2018": {
       "total": 31,
-      "merged": 4
+      "merged": 5
     },
     "Juillet-2018": {
       "total": 25,
-      "merged": 1
+      "merged": 5
     },
     "Juin-2018": {
       "total": 26,
