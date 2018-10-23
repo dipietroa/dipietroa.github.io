@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2018-10-23T21:43:11.559Z",
+  "lastUpdate": "2018-10-23T22:43:03.448Z",
   "cowner": "vuejs",
   "crepo": "vue",
   "totalPR": 1291,
@@ -18,9 +18,9 @@
     "image": "https://avatars1.githubusercontent.com/u/72989?v=4"
   },
   "bestRatio": {
-    "user": "spencer1573",
+    "user": "vikr01",
     "ratio": 1,
-    "image": "https://avatars3.githubusercontent.com/u/4762850?v=4"
+    "image": "https://avatars0.githubusercontent.com/u/28772991?v=4"
   },
   "userPRInfos": {
     "Stexxe": {
@@ -50,7 +50,7 @@
     },
     "vikr01": {
       "total": 1,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/28772991?v=4"
     },
     "thenickname": {
@@ -75,7 +75,7 @@
     },
     "ManoelLobo": {
       "total": 1,
-      "merged": 0,
+      "merged": 1,
       "avatarUrl": "https://avatars0.githubusercontent.com/u/8916632?v=4"
     },
     "caozhong1996": {
@@ -2937,7 +2937,7 @@
   "datePRInfos": {
     "Octobre-2018": {
       "total": 16,
-      "merged": 1
+      "merged": 3
     },
     "Septembre-2018": {
       "total": 12,
