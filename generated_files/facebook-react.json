@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-10-22T23:47:34.411Z",
+  "lastUpdate": "2018-10-23T00:47:57.651Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 7334,
+  "totalPR": 7335,
   "lastPR": {
-    "createdAt": "2018-10-22T14:58:37Z",
-    "username": "powens"
+    "createdAt": "2018-10-23T00:29:15Z",
+    "username": "johnlinp"
   },
   "bestPR": {
     "user": "sophiebits",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/3725386?v=4"
   },
   "userPRInfos": {
+    "johnlinp": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/1290376?v=4"
+    },
     "powens": {
       "total": 1,
       "merged": 0,
@@ -10546,7 +10551,7 @@
   },
   "datePRInfos": {
     "Octobre-2018": {
-      "total": 79,
+      "total": 80,
       "merged": 47
     },
     "Septembre-2018": {
