@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-10-23T13:43:42.661Z",
+  "lastUpdate": "2018-10-23T14:43:30.214Z",
   "cowner": "TheAlgorithms",
   "crepo": "Java",
-  "totalPR": 523,
+  "totalPR": 524,
   "lastPR": {
-    "createdAt": "2018-10-23T07:34:24Z",
-    "username": "habibfath"
+    "createdAt": "2018-10-23T13:58:36Z",
+    "username": "goyaldiksha"
   },
   "bestPR": {
     "user": "theycallmemac",
@@ -23,6 +23,11 @@
     "image": "https://avatars1.githubusercontent.com/u/12912495?v=4"
   },
   "userPRInfos": {
+    "goyaldiksha": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/37244369?v=4"
+    },
     "habibfath": {
       "total": 1,
       "merged": 0,
@@ -1471,7 +1476,7 @@
   },
   "datePRInfos": {
     "Octobre-2018": {
-      "total": 71,
+      "total": 72,
       "merged": 9
     },
     "Septembre-2018": {
