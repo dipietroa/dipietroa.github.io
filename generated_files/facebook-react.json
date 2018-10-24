@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-10-24T13:48:33.050Z",
+  "lastUpdate": "2018-10-24T14:49:50.051Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 7353,
+  "totalPR": 7354,
   "lastPR": {
-    "createdAt": "2018-10-24T11:51:34Z",
-    "username": "51m0n2063r"
+    "createdAt": "2018-10-24T14:00:13Z",
+    "username": "marcelometal"
   },
   "bestPR": {
     "user": "gaearon",
@@ -23,6 +23,11 @@
     "image": "https://avatars0.githubusercontent.com/u/1290376?v=4"
   },
   "userPRInfos": {
+    "marcelometal": {
+      "total": 3,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/665903?v=4"
+    },
     "51m0n2063r": {
       "total": 1,
       "merged": 0,
@@ -37,11 +42,6 @@
       "total": 1,
       "merged": 0,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/32361992?v=4"
-    },
-    "marcelometal": {
-      "total": 2,
-      "merged": 0,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/665903?v=4"
     },
     "bvaughn": {
       "total": 283,
@@ -10576,7 +10576,7 @@
   },
   "datePRInfos": {
     "Octobre-2018": {
-      "total": 98,
+      "total": 99,
       "merged": 59
     },
     "Septembre-2018": {
