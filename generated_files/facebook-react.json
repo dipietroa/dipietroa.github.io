@@ -1,8 +1,8 @@
 {
-  "lastUpdate": "2018-10-24T10:47:49.364Z",
+  "lastUpdate": "2018-10-24T11:48:11.673Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 7351,
+  "totalPR": 7352,
   "lastPR": {
     "createdAt": "2018-10-24T07:51:55Z",
     "username": "LinGeorge"
@@ -2129,8 +2129,8 @@
       "avatarUrl": "https://avatars1.githubusercontent.com/u/539075?v=4"
     },
     "zpao": {
-      "total": 338,
-      "merged": 288,
+      "total": 339,
+      "merged": 289,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/8445?v=4"
     },
     "danielsbird": {
@@ -10766,8 +10766,8 @@
       "merged": 42
     },
     "Août-2014": {
-      "total": 84,
-      "merged": 48
+      "total": 85,
+      "merged": 49
     },
     "Juillet-2014": {
       "total": 96,
