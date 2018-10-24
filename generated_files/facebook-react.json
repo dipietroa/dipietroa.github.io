@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-10-24T07:48:05.561Z",
+  "lastUpdate": "2018-10-24T08:48:16.843Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 7350,
+  "totalPR": 7351,
   "lastPR": {
-    "createdAt": "2018-10-24T02:43:11Z",
-    "username": "marcelometal"
+    "createdAt": "2018-10-24T07:51:55Z",
+    "username": "LinGeorge"
   },
   "bestPR": {
     "user": "gaearon",
@@ -23,6 +23,11 @@
     "image": "https://avatars0.githubusercontent.com/u/1290376?v=4"
   },
   "userPRInfos": {
+    "LinGeorge": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/32361992?v=4"
+    },
     "marcelometal": {
       "total": 2,
       "merged": 0,
@@ -10561,7 +10566,7 @@
   },
   "datePRInfos": {
     "Octobre-2018": {
-      "total": 95,
+      "total": 96,
       "merged": 59
     },
     "Septembre-2018": {
