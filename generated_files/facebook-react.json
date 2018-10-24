@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2018-10-24T11:48:11.673Z",
+  "lastUpdate": "2018-10-24T12:48:14.031Z",
   "cowner": "facebook",
   "crepo": "react",
-  "totalPR": 7352,
+  "totalPR": 7353,
   "lastPR": {
-    "createdAt": "2018-10-24T07:51:55Z",
-    "username": "LinGeorge"
+    "createdAt": "2018-10-24T11:51:34Z",
+    "username": "51m0n2063r"
   },
   "bestPR": {
     "user": "gaearon",
@@ -23,6 +23,16 @@
     "image": "https://avatars0.githubusercontent.com/u/1290376?v=4"
   },
   "userPRInfos": {
+    "51m0n2063r": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/38432311?v=4"
+    },
+    "Ebucarr": {
+      "total": 1,
+      "merged": 0,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/41260847?v=4"
+    },
     "LinGeorge": {
       "total": 1,
       "merged": 0,
@@ -2129,8 +2139,8 @@
       "avatarUrl": "https://avatars1.githubusercontent.com/u/539075?v=4"
     },
     "zpao": {
-      "total": 339,
-      "merged": 289,
+      "total": 338,
+      "merged": 288,
       "avatarUrl": "https://avatars1.githubusercontent.com/u/8445?v=4"
     },
     "danielsbird": {
@@ -10566,7 +10576,7 @@
   },
   "datePRInfos": {
     "Octobre-2018": {
-      "total": 96,
+      "total": 98,
       "merged": 59
     },
     "Septembre-2018": {
@@ -10766,8 +10776,8 @@
       "merged": 42
     },
     "Août-2014": {
-      "total": 85,
-      "merged": 49
+      "total": 84,
+      "merged": 48
     },
     "Juillet-2014": {
       "total": 96,
